@@ -1,0 +1,59 @@
+{
+    "spec_version": "v1.6",
+    "identifier": "installed-Kerbal-Space-Program--0-",
+    "name": "installed-Kerbal Space Program (0)",
+    "abstract": "A list of modules installed on the Kerbal Space Program (0) KSP instance",
+    "author": "Firda",
+    "version": "2025.11.14.04.23.29",
+    "ksp_version_min": "1.8",
+    "ksp_version_max": "1.12",
+    "license": "unknown",
+    "depends": [
+        {
+            "name": "EnvironmentalVisualEnhancements",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "LunaMultiplayer",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Scatterer-config",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Scatterer-sunflare",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "BDArmoryMultiplayer",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "EnvironmentalVisualEnhancements-HR",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "PhysicsRangeExtender",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "PlanetShine",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Scatterer",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Toolbar",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "TUFX",
+            "suppress_recommendations": true
+        }
+    ],
+    "release_date": "2025-11-14T16:23:29.1499546Z",
+    "kind": "metapackage"
+}
