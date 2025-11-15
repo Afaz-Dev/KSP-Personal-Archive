@@ -2,5 +2,5 @@
 
 This repository contains my personal archives for Kerbal Space Program (KSP).
 
-- **7zip Files:** [KSP 7zip Archive](https://mega.nz/folder/CoxRWKQL#ngYPV7et6C6_IILEdAAueQ)  
+- **KSP 7zip Files:** [KSP 7zip Archive](https://mega.nz/folder/CoxRWKQL#ngYPV7et6C6_IILEdAAueQ)  
 - **CKAN (Like google play but for KSP mods):** [CKAN Releases](https://github.com/KSP-CKAN/CKAN/releases)
