@@ -4,7 +4,7 @@
     "name": "installed-Kerbal Space Program",
     "abstract": "A list of modules installed on the Kerbal Space Program KSP instance",
     "author": "Firda",
-    "version": "2025.11.16.04.18.05",
+    "version": "2025.11.16.06.01.35",
     "ksp_version_min": "1.8",
     "ksp_version_max": "1.12",
     "license": "unknown",
@@ -102,6 +102,10 @@
             "suppress_recommendations": true
         },
         {
+            "name": "TUFX",
+            "suppress_recommendations": true
+        },
+        {
             "name": "TundraSpaceCenter",
             "suppress_recommendations": true
         },
@@ -119,6 +123,10 @@
         },
         {
             "name": "WildBlue-PlayMode-CRP",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "C1ustasTUFXProfiles",
             "suppress_recommendations": true
         },
         {
@@ -590,10 +598,6 @@
             "suppress_recommendations": true
         },
         {
-            "name": "TUFX",
-            "suppress_recommendations": true
-        },
-        {
             "name": "TURD-BDArmory",
             "suppress_recommendations": true
         },
@@ -650,6 +654,6 @@
             "suppress_recommendations": true
         }
     ],
-    "release_date": "2025-11-16T04:18:05.7264819Z",
+    "release_date": "2025-11-16T06:01:35.5999041Z",
     "kind": "metapackage"
 }
