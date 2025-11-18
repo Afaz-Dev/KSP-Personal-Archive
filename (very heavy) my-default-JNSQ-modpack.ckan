@@ -4,7 +4,7 @@
     "name": "installed-Kerbal Space Program",
     "abstract": "A list of modules installed on the Kerbal Space Program KSP instance",
     "author": "Firda",
-    "version": "2025.11.16.06.01.35",
+    "version": "2025.11.16.11.46.44",
     "ksp_version_min": "1.8",
     "ksp_version_max": "1.12",
     "license": "unknown",
@@ -35,6 +35,10 @@
         },
         {
             "name": "KSPBurst",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "TUFX",
             "suppress_recommendations": true
         },
         {
@@ -99,10 +103,6 @@
         },
         {
             "name": "TextureReplacer",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "TUFX",
             "suppress_recommendations": true
         },
         {
@@ -178,6 +178,10 @@
             "suppress_recommendations": true
         },
         {
+            "name": "BallisticFoxsNeutralTUFXProfile",
+            "suppress_recommendations": true
+        },
+        {
             "name": "BDArmoryExtended",
             "suppress_recommendations": true
         },
@@ -231,6 +235,10 @@
         },
         {
             "name": "DockingPortSoundFX",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "EasyISP",
             "suppress_recommendations": true
         },
         {
@@ -598,6 +606,10 @@
             "suppress_recommendations": true
         },
         {
+            "name": "TUFXProfileVision",
+            "suppress_recommendations": true
+        },
+        {
             "name": "TURD-BDArmory",
             "suppress_recommendations": true
         },
@@ -654,6 +666,6 @@
             "suppress_recommendations": true
         }
     ],
-    "release_date": "2025-11-16T06:01:35.5999041Z",
+    "release_date": "2025-11-16T11:46:44.1336056Z",
     "kind": "metapackage"
 }
