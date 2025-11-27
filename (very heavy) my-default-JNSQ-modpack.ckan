@@ -4,7 +4,7 @@
     "name": "installed-Kerbal Space Program",
     "abstract": "A list of modules installed on the Kerbal Space Program KSP instance",
     "author": "Firda",
-    "version": "2025.11.25.04.36.49",
+    "version": "2025.11.27.06.38.35",
     "ksp_version_min": "1.8",
     "ksp_version_max": "1.12",
     "license": "unknown",
@@ -159,6 +159,10 @@
         },
         {
             "name": "AirbusA330neo",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "AirplanePlus",
             "suppress_recommendations": true
         },
         {
@@ -443,6 +447,10 @@
         },
         {
             "name": "kOS-SCANSat",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "kRPC",
             "suppress_recommendations": true
         },
         {
@@ -754,6 +762,6 @@
             "suppress_recommendations": true
         }
     ],
-    "release_date": "2025-11-25T04:36:49.0406629Z",
+    "release_date": "2025-11-27T06:38:35.3056666Z",
     "kind": "metapackage"
 }
