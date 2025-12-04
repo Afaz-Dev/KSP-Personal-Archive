@@ -4,7 +4,7 @@
     "name": "installed-Kerbal Space Program",
     "abstract": "A list of modules installed on the Kerbal Space Program KSP instance",
     "author": "Firda",
-    "version": "2025.11.27.06.38.35",
+    "version": "2025.12.04.08.05.12",
     "ksp_version_min": "1.8",
     "ksp_version_max": "1.12",
     "license": "unknown",
@@ -19,6 +19,10 @@
         },
         {
             "name": "TexturesUnlimited",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "TUFX",
             "suppress_recommendations": true
         },
         {
@@ -43,10 +47,6 @@
         },
         {
             "name": "FerramAerospaceResearchContinued",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "TUFX",
             "suppress_recommendations": true
         },
         {
@@ -83,6 +83,10 @@
         },
         {
             "name": "CryoEngines",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Deferred",
             "suppress_recommendations": true
         },
         {
@@ -123,10 +127,6 @@
         },
         {
             "name": "StationPartsExpansionRedux",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "TextureReplacer",
             "suppress_recommendations": true
         },
         {
@@ -206,6 +206,10 @@
             "suppress_recommendations": true
         },
         {
+            "name": "BakerOperatingSystem",
+            "suppress_recommendations": true
+        },
+        {
             "name": "BallisticFoxsNeutralTUFXProfile",
             "suppress_recommendations": true
         },
@@ -219,6 +223,10 @@
         },
         {
             "name": "BetterKerbol",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "BLEAK",
             "suppress_recommendations": true
         },
         {
@@ -243,6 +251,10 @@
         },
         {
             "name": "CryoEngines-NFAero",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "DansTUFXProfile",
             "suppress_recommendations": true
         },
         {
@@ -299,6 +311,10 @@
         },
         {
             "name": "GroundProximity",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "HealingSentrysTUFXProfile",
             "suppress_recommendations": true
         },
         {
@@ -478,6 +494,10 @@
             "suppress_recommendations": true
         },
         {
+            "name": "MangoTechsTUFX",
+            "suppress_recommendations": true
+        },
+        {
             "name": "MechJeb2",
             "suppress_recommendations": true
         },
@@ -546,6 +566,10 @@
             "suppress_recommendations": true
         },
         {
+            "name": "OkemsTUFXProfiles",
+            "suppress_recommendations": true
+        },
+        {
             "name": "OPTSpacePlaneParts",
             "suppress_recommendations": true
         },
@@ -555,6 +579,10 @@
         },
         {
             "name": "OrbitalTug",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "PALETTE",
             "suppress_recommendations": true
         },
         {
@@ -666,6 +694,14 @@
             "suppress_recommendations": true
         },
         {
+            "name": "ShineFix",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "SnoopysTUFXProfile",
+            "suppress_recommendations": true
+        },
+        {
             "name": "kOS-SpaceCore",
             "suppress_recommendations": true
         },
@@ -679,6 +715,10 @@
         },
         {
             "name": "StationPartsExpansionRedux-IVAs",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "TextureReplacer",
             "suppress_recommendations": true
         },
         {
@@ -750,10 +790,6 @@
             "suppress_recommendations": true
         },
         {
-            "name": "WindowShineTR",
-            "suppress_recommendations": true
-        },
-        {
             "name": "WorkingUnderwaterLite",
             "suppress_recommendations": true
         },
@@ -762,6 +798,6 @@
             "suppress_recommendations": true
         }
     ],
-    "release_date": "2025-11-27T06:38:35.3056666Z",
+    "release_date": "2025-12-04T08:05:12.3266259Z",
     "kind": "metapackage"
 }
