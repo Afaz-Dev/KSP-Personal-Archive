@@ -4,7 +4,7 @@
     "name": "installed-Kerbal Space Program",
     "abstract": "A list of modules installed on the Kerbal Space Program KSP instance",
     "author": "Firda",
-    "version": "2025.12.15.07.06.01",
+    "version": "2025.12.15.09.18.18",
     "ksp_version_min": "1.8",
     "ksp_version_max": "1.12",
     "license": "unknown",
@@ -510,10 +510,6 @@
             "suppress_recommendations": true
         },
         {
-            "name": "KSCSwitcher",
-            "suppress_recommendations": true
-        },
-        {
             "name": "KSPIRC",
             "suppress_recommendations": true
         },
@@ -822,6 +818,10 @@
             "suppress_recommendations": true
         },
         {
+            "name": "VaporCones",
+            "suppress_recommendations": true
+        },
+        {
             "name": "VesselNotes",
             "suppress_recommendations": true
         },
@@ -858,6 +858,6 @@
             "suppress_recommendations": true
         }
     ],
-    "release_date": "2025-12-15T07:06:01.0241198Z",
+    "release_date": "2025-12-15T09:18:18.5167238Z",
     "kind": "metapackage"
 }
