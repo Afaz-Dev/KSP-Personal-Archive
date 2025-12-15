@@ -1,0 +1,6682 @@
+GAME
+{
+	version = 1.11.0
+	Title = Space Shuttle Disaster (MISSION)
+	Description = No description available.
+	linkURL = 
+	linkCaption = 
+	Mode = MISSION
+	Status = 1
+	Seed = 2072117526
+	ROCSeed = 1597252793
+	scene = 7
+	editor = None
+	flag = Squad/FlagsAgency/NASA
+	launchID = 2
+	defaultVABLaunchSite = LaunchPad
+	defaultSPHLaunchSite = Runway
+	modded = True
+	envInfo =  - Environment Info - Win32NT 7FFFFFFFFFFFFFFF  Args: KSP_x64.exe  - 
+	versionFull = 1.11.0.3045 (WindowsPlayer x64)
+	versionCreated = 1.11.0.3045 (WindowsPlayer x64)
+	RemovedROCs
+	{
+	}
+	CometNames
+	{
+	}
+	PARAMETERS
+	{
+		preset = Normal
+		FLIGHT
+		{
+			CanQuickSave = True
+			CanQuickLoad = True
+			CanAutoSave = True
+			CanUseMap = True
+			CanSwitchVesselsNear = True
+			CanSwitchVesselsFar = True
+			CanTimeWarpHigh = True
+			CanTimeWarpLow = True
+			CanEVA = True
+			CanIVA = True
+			CanBoard = True
+			CanRestart = True
+			CanLeaveToEditor = True
+			CanLeaveToTrackingStation = True
+			CanLeaveToSpaceCenter = True
+			CanLeaveToMainMenu = True
+		}
+		EDITOR
+		{
+			CanSave = True
+			CanLoad = True
+			CanStartNew = True
+			CanLaunch = True
+			CanLeaveToSpaceCenter = True
+			CanLeaveToMainMenu = False
+			startUpMode = 0
+			craftFileToLoad = 
+		}
+		TRACKINGSTATION
+		{
+			CanFlyVessel = True
+			CanAbortVessel = True
+			CanLeaveToSpaceCenter = True
+			CanLeaveToMainMenu = False
+		}
+		SPACECENTER
+		{
+			CanGoInVAB = False
+			CanGoInSPH = False
+			CanGoInTrackingStation = True
+			CanLaunchAtPad = True
+			CanLaunchAtRunway = True
+			CanGoToAdmin = False
+			CanGoToAstronautC = False
+			CanGoToMissionControl = False
+			CanGoToRnD = False
+			CanSelectFlag = True
+			CanLeaveToMainMenu = True
+		}
+		DIFFICULTY
+		{
+			AutoHireCrews = False
+			MissingCrewsRespawn = True
+			RespawnTimer = 7200
+			BypassEntryPurchaseAfterResearch = True
+			AllowStockVessels = False
+			IndestructibleFacilities = False
+			ResourceAbundance = 1
+			ReentryHeatScale = 1
+			EnableCommNet = True
+			AllowOtherLaunchSites = False
+			persistKerbalInventories = False
+		}
+		CAREER
+		{
+			TechTreeUrl = GameData/Squad/Resources/TechTree.cfg
+			StartingFunds = 25000
+			StartingScience = 0
+			StartingReputation = 0
+			FundsGainMultiplier = 1
+			RepGainMultiplier = 1
+			ScienceGainMultiplier = 1
+			FundsLossMultiplier = 1
+			RepLossMultiplier = 1
+			RepLossDeclined = 1
+		}
+		CommNetParams
+		{
+			requireSignalForControl = False
+			plasmaBlackout = False
+			rangeModifier = 1
+			DSNModifier = 1
+			occlusionMultiplierVac = 0.9
+			occlusionMultiplierAtm = 0.75
+			enableGroundStations = True
+		}
+		AdvancedParams
+		{
+			EnableKerbalExperience = True
+			ImmediateLevelUp = False
+			AllowNegativeCurrency = False
+			PressurePartLimits = False
+			GPartLimits = False
+			GKerbalLimits = False
+			KerbalGToleranceMult = 1
+			ResourceTransferObeyCrossfeed = False
+			ActionGroupsAlways = False
+			BuildingImpactDamageMult = 0.05
+			PartUpgradesInSandbox = False
+			PartUpgradesInCareer = True
+			PartUpgradesInMission = False
+			EnableFullSASInSandbox = False
+			EnableFullSASInMissions = False
+		}
+		MissionParamsGeneral
+		{
+			enableFunding = False
+			startingFunds = 100000
+			spacer = 
+			enableKerbalLevels = False
+			kerbalLevelPilot = 4
+			kerbalLevelScientist = 4
+			kerbalLevelEngineer = 4
+			spacer2 = 
+			preventVesselRecovery = False
+		}
+		MissionParamsExtras
+		{
+			facilityOpenAC = False
+			astronautHiresAreFree = True
+			spacer = 
+			facilityOpenEditor = False
+			launchSitesOpen = True
+			spacer2 = 
+			cheatsEnabled = False
+		}
+		MissionParamsFacilities
+		{
+			facilityLevelAdmin = 3
+			facilityLevelAC = 3
+			facilityLevelLaunchpad = 3
+			facilityLevelMC = 3
+			facilityLevelRD = 3
+			facilityLevelRunway = 3
+			facilityLevelSPH = 3
+			facilityLevelTS = 3
+			facilityLevelVAB = 3
+		}
+	}
+	SCENARIO
+	{
+		name = ROCScenario
+		scene = 7
+	}
+	SCENARIO
+	{
+		name = ResourceScenario
+		scene = 7, 8, 5, 6, 21
+		RESOURCE_SETTINGS
+		{
+			GameSeed = 1597252793
+			ROCMissionSeed = 1597252793
+			MaxDeltaTime = 21600
+		}
+	}
+	SCENARIO
+	{
+		name = ResearchAndDevelopment
+		scene = 7, 8, 5, 6
+		sci = 0
+		Tech
+		{
+			id = start
+			state = Available
+			cost = 0
+			part = basicFin
+			part = evaJetpack
+			part = evaChute
+			part = mk1pod
+			part = mk1pod.v2
+			part = solidBooster.sm.v2
+			part = solidBooster.sm
+			part = GooExperiment
+			part = trussPiece1x
+			part = parachuteSingle
+			part = kv1Pod
+		}
+	}
+	SCENARIO
+	{
+		name = VesselRecovery
+		scene = 5, 7, 8, 6
+	}
+	SCENARIO
+	{
+		name = KerbalInventoryScenario
+		scene = 7, 8, 5, 21, 6
+	}
+	SCENARIO
+	{
+		name = ScenarioCustomWaypoints
+		scene = 7, 8, 21
+	}
+	SCENARIO
+	{
+		name = ScenarioDestructibles
+		scene = 5, 7, 6, 8
+		SpaceCenter/VehicleAssemblyBuilding/Facility/ksp_pad_cylTank
+		{
+			intact = True
+		}
+		SpaceCenter/VehicleAssemblyBuilding/Facility/Tank
+		{
+			intact = True
+		}
+		SpaceCenter/VehicleAssemblyBuilding/Facility/mainBuilding
+		{
+			intact = True
+		}
+		SpaceCenter/VehicleAssemblyBuilding/Facility/PodMemorial
+		{
+			intact = True
+		}
+		SpaceCenter/TrackingStation/Facility/dish_array/dish_south
+		{
+			intact = True
+		}
+		SpaceCenter/TrackingStation/Facility/dish_array/dish_north
+		{
+			intact = True
+		}
+		SpaceCenter/TrackingStation/Facility/dish_array/dish_east
+		{
+			intact = True
+		}
+		SpaceCenter/TrackingStation/Facility/MainBuilding
+		{
+			intact = True
+		}
+		SpaceCenter/SpaceplaneHangar/Facility/Tank
+		{
+			intact = True
+		}
+		SpaceCenter/SpaceplaneHangar/Facility/ksp_pad_cylTank
+		{
+			intact = True
+		}
+		SpaceCenter/SpaceplaneHangar/Facility/ksp_pad_waterTower
+		{
+			intact = True
+		}
+		SpaceCenter/SpaceplaneHangar/Facility/mainBuilding
+		{
+			intact = True
+		}
+		SpaceCenter/Runway/Facility/model_runway_new_v43/runway_light_SE
+		{
+			intact = True
+		}
+		SpaceCenter/Runway/Facility/model_runway_new_v43/runway_light_NE
+		{
+			intact = True
+		}
+		SpaceCenter/Runway/Facility/model_runway_new_v43/runway_light_NW
+		{
+			intact = True
+		}
+		SpaceCenter/Runway/Facility/model_runway_new_v43/runway_light_SW
+		{
+			intact = True
+		}
+		SpaceCenter/Runway/Facility/End09
+		{
+			intact = True
+		}
+		SpaceCenter/Runway/Facility/End27
+		{
+			intact = True
+		}
+		SpaceCenter/Runway/Facility/Section1
+		{
+			intact = True
+		}
+		SpaceCenter/Runway/Facility/Section2
+		{
+			intact = True
+		}
+		SpaceCenter/Runway/Facility/Section3
+		{
+			intact = True
+		}
+		SpaceCenter/Runway/Facility/Section4
+		{
+			intact = True
+		}
+		SpaceCenter/ResearchAndDevelopment/Facility/ksp_pad_cylTank
+		{
+			intact = True
+		}
+		SpaceCenter/ResearchAndDevelopment/Facility/SmallLab
+		{
+			intact = True
+		}
+		SpaceCenter/ResearchAndDevelopment/Facility/CentralBuilding
+		{
+			intact = True
+		}
+		SpaceCenter/ResearchAndDevelopment/Facility/MainBuilding
+		{
+			intact = True
+		}
+		SpaceCenter/ResearchAndDevelopment/Facility/CornerLab
+		{
+			intact = True
+		}
+		SpaceCenter/ResearchAndDevelopment/Facility/WindTunnel
+		{
+			intact = True
+		}
+		SpaceCenter/ResearchAndDevelopment/Facility/Observatory
+		{
+			intact = True
+		}
+		SpaceCenter/ResearchAndDevelopment/Facility/SideLab
+		{
+			intact = True
+		}
+		SpaceCenter/MissionControl/Facility/building
+		{
+			intact = True
+		}
+		SpaceCenter/LaunchPad/Facility/LaunchPadMedium/ksp_pad_cylTank
+		{
+			intact = True
+		}
+		SpaceCenter/LaunchPad/Facility/LaunchPadMedium/ksp_pad_launchPad
+		{
+			intact = True
+		}
+		SpaceCenter/LaunchPad/Facility/LaunchPadMedium/ksp_pad_sphereTank
+		{
+			intact = True
+		}
+		SpaceCenter/LaunchPad/Facility/LaunchPadMedium/ksp_pad_waterTower
+		{
+			intact = True
+		}
+		SpaceCenter/LaunchPad/Facility/LaunchPadMedium/KSCFlagPoleLaunchPad
+		{
+			intact = True
+		}
+		SpaceCenter/FlagPole/Facility
+		{
+			intact = True
+		}
+		SpaceCenter/AstronautComplex/Facility/building
+		{
+			intact = True
+		}
+		SpaceCenter/Administration/Facility/mainBuilding
+		{
+			intact = True
+		}
+	}
+	SCENARIO
+	{
+		name = ScenarioUpgradeableFacilities
+		scene = 5, 6, 7, 8
+		SpaceCenter/LaunchPad
+		{
+			lvl = 1
+		}
+		SpaceCenter/Runway
+		{
+			lvl = 1
+		}
+		SpaceCenter/VehicleAssemblyBuilding
+		{
+			lvl = 1
+		}
+		SpaceCenter/SpaceplaneHangar
+		{
+			lvl = 1
+		}
+		SpaceCenter/TrackingStation
+		{
+			lvl = 1
+		}
+		SpaceCenter/AstronautComplex
+		{
+			lvl = 1
+		}
+		SpaceCenter/MissionControl
+		{
+			lvl = 1
+		}
+		SpaceCenter/ResearchAndDevelopment
+		{
+			lvl = 1
+		}
+		SpaceCenter/Administration
+		{
+			lvl = 1
+		}
+	}
+	SCENARIO
+	{
+		name = CommNetScenario
+		scene = 7, 8, 5, 6
+	}
+	SCENARIO
+	{
+		name = DeployedScience
+		scene = 7, 8, 5, 6
+		ScienceTimeDelay = 60
+		DataSendFailedTimeDelay = 600
+		SCIENCECLUSTERS
+		{
+		}
+		DIMINISHINGRETURNS
+		{
+			ENTRY
+			{
+				ExpCount = 1
+				Rate = 1
+			}
+			ENTRY
+			{
+				ExpCount = 2
+				Rate = 0.200000003
+			}
+			ENTRY
+			{
+				ExpCount = 3
+				Rate = 0.349999994
+			}
+			ENTRY
+			{
+				ExpCount = 4
+				Rate = 0.449999988
+			}
+			ENTRY
+			{
+				ExpCount = 5
+				Rate = 0.5
+			}
+		}
+		SEISMICENERGY
+		{
+			MinimumEnergyRequired = 3000
+			SeismicScienceProcessingDelay = 3
+			ENTRY
+			{
+				BodyName = Moho
+				Energy = 2.02E+09
+			}
+			ENTRY
+			{
+				BodyName = Eve
+				Energy = 9.78000036E+10
+			}
+			ENTRY
+			{
+				BodyName = Gilly
+				Energy = 1000000
+			}
+			ENTRY
+			{
+				BodyName = Kerbin
+				Energy = 4.1840001E+10
+			}
+			ENTRY
+			{
+				BodyName = Mun
+				Energy = 782000000
+			}
+			ENTRY
+			{
+				BodyName = Minmus
+				Energy = 21200000
+			}
+			ENTRY
+			{
+				BodyName = Duna
+				Energy = 3.62E+09
+			}
+			ENTRY
+			{
+				BodyName = Ike
+				Energy = 223000000
+			}
+			ENTRY
+			{
+				BodyName = Dres
+				Energy = 258000000
+			}
+			ENTRY
+			{
+				BodyName = Laythe
+				Energy = 2.3600001E+10
+			}
+			ENTRY
+			{
+				BodyName = Vall
+				Energy = 2.48999987E+09
+			}
+			ENTRY
+			{
+				BodyName = Tylo
+				Energy = 3.38999992E+10
+			}
+			ENTRY
+			{
+				BodyName = Bop
+				Energy = 29900000
+			}
+			ENTRY
+			{
+				BodyName = Pol
+				Energy = 8660000
+			}
+			ENTRY
+			{
+				BodyName = Eeloo
+				Energy = 894000000
+			}
+		}
+	}
+	SCENARIO
+	{
+		name = MissionSystem
+		scene = 7, 8, 5, 6, 2, 21
+		cameraLockOptions = NoChange
+		cameraLockMode = NoChange
+		MISSIONS
+		{
+			MISSION
+			{
+				id = 75f36ce2-503e-4e59-94b2-f17ef0ebe5fa
+				expansionVersion = 1.11.0
+				title = Space Shuttle Disaster
+				briefing = Space Shuttle Challenger
+				author = Afaz07
+				modsBriefing = None
+				hardIcon = False
+				difficulty = Beginner
+				isBriefingSet = True
+				seed = 2139998876
+				flag = Squad/FlagsAgency/NASA
+				bannerMenu = default.png
+				bannerSuccess = success01.png
+				bannerFail = fail01.png
+				isScoreEnabled = True
+				maxScore = 0
+				steamPublishedFileId = 0
+				historyId = 357fc0e3-4032-4040-8763-d7759635ff14
+				activeNodeID = dcef3dd2-c2e2-4286-bbc8-53ec99f593b1
+				currentScore = 0
+				exportName = 
+				missionNameAtLastExport = 
+				isStarted = True
+				isEnded = True
+				isSuccesful = True
+				briefingNodeActive = False
+				cameraLockMode = Flight
+				cameraLockOptions = Unlock
+				SITUATION
+				{
+					startType = VesselList
+					startVessel = 669778147
+					autoGenerateCrew = False
+					startUT = 0
+					resourceSeed = 1597252793
+					rocMissionSeed = 1597252793
+					showBriefing = False
+					instructorName = Instructor_Gene
+					vintageSuit = False
+					ROSTER
+					{
+						KERBAL
+						{
+							name = Jebediah Kerman
+							gender = Male
+							type = Crew
+							trait = Pilot
+							brave = 0.5
+							dumb = 0.5
+							badS = True
+							veteran = True
+							tour = False
+							state = Missing
+							inactive = False
+							inactiveTimeEnd = 0
+							gExperienced = 0
+							outDueToG = False
+							ToD = 7268.0800000000036
+							idx = 0
+							extraXP = 0
+							hasHelmetOn = False
+							hasNeckRingOn = False
+							hasVisorDown = False
+							lightR = 1
+							lightG = 0.5176
+							lightB = 0
+							completedFirstEVA = False
+							suit = Default
+							hero = True
+							INVENTORY
+							{
+								name = ModuleInventoryPart
+								isEnabled = True
+								stagingEnabled = True
+								inventory = evaChute,evaJetpack
+								EVENTS
+								{
+								}
+								ACTIONS
+								{
+								}
+								STOREDPARTS
+								{
+									STOREDPART
+									{
+										slotIndex = 0
+										partName = evaChute
+										quantity = 1
+										stackCapacity = 1
+										variantName = 
+										PART
+										{
+											name = evaChute
+											cid = 4294818686
+											uid = 0
+											mid = 0
+											persistentId = 383225977
+											launchID = 0
+											parent = 0
+											position = 0,0,0
+											rotation = 0,0,0,0
+											mirror = 1,1,1
+											symMethod = Radial
+											istg = 0
+											resPri = 0
+											dstg = 0
+											sqor = -1
+											sepI = 0
+											sidx = -1
+											attm = 0
+											sameVesselCollision = False
+											srfN = None, -1
+											mass = 0.00400000019
+											shielded = False
+											temp = -1
+											tempExt = 0
+											tempExtUnexp = 0
+											staticPressureAtm = 0
+											expt = 0.5
+											state = 0
+											PreFailState = 0
+											attached = True
+											autostrutMode = Off
+											rigidAttachment = False
+											flag = 
+											rTrf = evaChute
+											modCost = 0
+											modMass = 0
+											moduleVariantName = 
+											moduleCargoStackableQuantity = 1
+											EVENTS
+											{
+											}
+											ACTIONS
+											{
+												ToggleSameVesselInteraction
+												{
+													actionGroup = None
+													wasActiveBeforePartWasAdjusted = False
+												}
+												SetSameVesselInteraction
+												{
+													actionGroup = None
+													wasActiveBeforePartWasAdjusted = False
+												}
+												RemoveSameVesselInteraction
+												{
+													actionGroup = None
+													wasActiveBeforePartWasAdjusted = False
+												}
+											}
+											PARTDATA
+											{
+											}
+											MODULE
+											{
+												name = ModuleCargoPart
+												isEnabled = True
+												beingAttached = False
+												beingSettled = False
+												stagingEnabled = True
+												EVENTS
+												{
+												}
+												ACTIONS
+												{
+												}
+												UPGRADESAPPLIED
+												{
+												}
+											}
+											MODULE
+											{
+												name = HitpointTracker
+												isEnabled = True
+												Armor = 10
+												maxHitPoints = 0
+												ArmorThickness = 0
+												ArmorSet = False
+												ExplodeMode = Never
+												FireFX = True
+												FireFXLifeTimeInSeconds = 5
+												stagingEnabled = True
+												EVENTS
+												{
+												}
+												ACTIONS
+												{
+												}
+												UPGRADESAPPLIED
+												{
+												}
+											}
+										}
+									}
+									STOREDPART
+									{
+										slotIndex = 1
+										partName = evaJetpack
+										quantity = 1
+										stackCapacity = 1
+										variantName = 
+										PART
+										{
+											name = evaJetpack
+											cid = 4294818786
+											uid = 0
+											mid = 0
+											persistentId = 3333776189
+											launchID = 0
+											parent = 0
+											position = 0,0,0
+											rotation = 0,0,0,0
+											mirror = 1,1,1
+											symMethod = Radial
+											istg = 0
+											resPri = 2
+											dstg = 0
+											sqor = -1
+											sepI = 0
+											sidx = -1
+											attm = 0
+											sameVesselCollision = False
+											srfN = None, -1
+											mass = 0.0199999996
+											shielded = False
+											temp = -1
+											tempExt = 0
+											tempExtUnexp = 0
+											staticPressureAtm = 0
+											expt = 0.5
+											state = 0
+											PreFailState = 0
+											attached = True
+											autostrutMode = Off
+											rigidAttachment = False
+											flag = 
+											rTrf = evaJetpack
+											modCost = 0
+											modMass = 0
+											moduleVariantName = 
+											moduleCargoStackableQuantity = 1
+											EVENTS
+											{
+											}
+											ACTIONS
+											{
+												ToggleSameVesselInteraction
+												{
+													actionGroup = None
+													wasActiveBeforePartWasAdjusted = False
+												}
+												SetSameVesselInteraction
+												{
+													actionGroup = None
+													wasActiveBeforePartWasAdjusted = False
+												}
+												RemoveSameVesselInteraction
+												{
+													actionGroup = None
+													wasActiveBeforePartWasAdjusted = False
+												}
+											}
+											PARTDATA
+											{
+											}
+											MODULE
+											{
+												name = ModuleCargoPart
+												isEnabled = True
+												beingAttached = False
+												beingSettled = False
+												stagingEnabled = True
+												EVENTS
+												{
+												}
+												ACTIONS
+												{
+												}
+												UPGRADESAPPLIED
+												{
+												}
+											}
+											MODULE
+											{
+												name = HitpointTracker
+												isEnabled = True
+												Armor = 10
+												maxHitPoints = 0
+												ArmorThickness = 0
+												ArmorSet = False
+												ExplodeMode = Never
+												FireFX = True
+												FireFXLifeTimeInSeconds = 5
+												stagingEnabled = True
+												EVENTS
+												{
+												}
+												ACTIONS
+												{
+												}
+												UPGRADESAPPLIED
+												{
+												}
+											}
+											RESOURCE
+											{
+												name = EVA Propellant
+												amount = 5
+												maxAmount = 5
+												flowState = True
+												isTweakable = False
+												hideFlow = False
+												isVisible = True
+												flowMode = Both
+											}
+										}
+									}
+								}
+								UPGRADESAPPLIED
+								{
+								}
+							}
+							CAREER_LOG
+							{
+								flight = 1
+								0 = Training5,Kerbin
+								0 = Flight,Kerbin
+								0 = Die
+							}
+							FLIGHT_LOG
+							{
+								flight = 1
+							}
+						}
+						KERBAL
+						{
+							name = Bill Kerman
+							gender = Male
+							type = Crew
+							trait = Engineer
+							brave = 0.5
+							dumb = 0.800000012
+							badS = False
+							veteran = True
+							tour = False
+							state = Missing
+							inactive = False
+							inactiveTimeEnd = 0
+							gExperienced = 0
+							outDueToG = False
+							ToD = 7268.0800000000036
+							idx = 1
+							extraXP = 0
+							hasHelmetOn = False
+							hasNeckRingOn = False
+							hasVisorDown = False
+							lightR = 1
+							lightG = 0.5176
+							lightB = 0
+							completedFirstEVA = False
+							suit = Default
+							hero = True
+							INVENTORY
+							{
+								name = ModuleInventoryPart
+								isEnabled = True
+								stagingEnabled = True
+								inventory = evaChute,evaJetpack
+								EVENTS
+								{
+								}
+								ACTIONS
+								{
+								}
+								STOREDPARTS
+								{
+									STOREDPART
+									{
+										slotIndex = 0
+										partName = evaChute
+										quantity = 1
+										stackCapacity = 1
+										variantName = 
+										PART
+										{
+											name = evaChute
+											cid = 4294818686
+											uid = 0
+											mid = 0
+											persistentId = 983514071
+											launchID = 0
+											parent = 0
+											position = 0,0,0
+											rotation = 0,0,0,0
+											mirror = 1,1,1
+											symMethod = Radial
+											istg = 0
+											resPri = 0
+											dstg = 0
+											sqor = -1
+											sepI = 0
+											sidx = -1
+											attm = 0
+											sameVesselCollision = False
+											srfN = None, -1
+											mass = 0.00400000019
+											shielded = False
+											temp = -1
+											tempExt = 0
+											tempExtUnexp = 0
+											staticPressureAtm = 0
+											expt = 0.5
+											state = 0
+											PreFailState = 0
+											attached = True
+											autostrutMode = Off
+											rigidAttachment = False
+											flag = 
+											rTrf = evaChute
+											modCost = 0
+											modMass = 0
+											moduleVariantName = 
+											moduleCargoStackableQuantity = 1
+											EVENTS
+											{
+											}
+											ACTIONS
+											{
+												ToggleSameVesselInteraction
+												{
+													actionGroup = None
+													wasActiveBeforePartWasAdjusted = False
+												}
+												SetSameVesselInteraction
+												{
+													actionGroup = None
+													wasActiveBeforePartWasAdjusted = False
+												}
+												RemoveSameVesselInteraction
+												{
+													actionGroup = None
+													wasActiveBeforePartWasAdjusted = False
+												}
+											}
+											PARTDATA
+											{
+											}
+											MODULE
+											{
+												name = ModuleCargoPart
+												isEnabled = True
+												beingAttached = False
+												beingSettled = False
+												stagingEnabled = True
+												EVENTS
+												{
+												}
+												ACTIONS
+												{
+												}
+												UPGRADESAPPLIED
+												{
+												}
+											}
+											MODULE
+											{
+												name = HitpointTracker
+												isEnabled = True
+												Armor = 10
+												maxHitPoints = 0
+												ArmorThickness = 0
+												ArmorSet = False
+												ExplodeMode = Never
+												FireFX = True
+												FireFXLifeTimeInSeconds = 5
+												stagingEnabled = True
+												EVENTS
+												{
+												}
+												ACTIONS
+												{
+												}
+												UPGRADESAPPLIED
+												{
+												}
+											}
+										}
+									}
+									STOREDPART
+									{
+										slotIndex = 1
+										partName = evaJetpack
+										quantity = 1
+										stackCapacity = 1
+										variantName = 
+										PART
+										{
+											name = evaJetpack
+											cid = 4294818786
+											uid = 0
+											mid = 0
+											persistentId = 1456622936
+											launchID = 0
+											parent = 0
+											position = 0,0,0
+											rotation = 0,0,0,0
+											mirror = 1,1,1
+											symMethod = Radial
+											istg = 0
+											resPri = 2
+											dstg = 0
+											sqor = -1
+											sepI = 0
+											sidx = -1
+											attm = 0
+											sameVesselCollision = False
+											srfN = None, -1
+											mass = 0.0199999996
+											shielded = False
+											temp = -1
+											tempExt = 0
+											tempExtUnexp = 0
+											staticPressureAtm = 0
+											expt = 0.5
+											state = 0
+											PreFailState = 0
+											attached = True
+											autostrutMode = Off
+											rigidAttachment = False
+											flag = 
+											rTrf = evaJetpack
+											modCost = 0
+											modMass = 0
+											moduleVariantName = 
+											moduleCargoStackableQuantity = 1
+											EVENTS
+											{
+											}
+											ACTIONS
+											{
+												ToggleSameVesselInteraction
+												{
+													actionGroup = None
+													wasActiveBeforePartWasAdjusted = False
+												}
+												SetSameVesselInteraction
+												{
+													actionGroup = None
+													wasActiveBeforePartWasAdjusted = False
+												}
+												RemoveSameVesselInteraction
+												{
+													actionGroup = None
+													wasActiveBeforePartWasAdjusted = False
+												}
+											}
+											PARTDATA
+											{
+											}
+											MODULE
+											{
+												name = ModuleCargoPart
+												isEnabled = True
+												beingAttached = False
+												beingSettled = False
+												stagingEnabled = True
+												EVENTS
+												{
+												}
+												ACTIONS
+												{
+												}
+												UPGRADESAPPLIED
+												{
+												}
+											}
+											MODULE
+											{
+												name = HitpointTracker
+												isEnabled = True
+												Armor = 10
+												maxHitPoints = 0
+												ArmorThickness = 0
+												ArmorSet = False
+												ExplodeMode = Never
+												FireFX = True
+												FireFXLifeTimeInSeconds = 5
+												stagingEnabled = True
+												EVENTS
+												{
+												}
+												ACTIONS
+												{
+												}
+												UPGRADESAPPLIED
+												{
+												}
+											}
+											RESOURCE
+											{
+												name = EVA Propellant
+												amount = 5
+												maxAmount = 5
+												flowState = True
+												isTweakable = False
+												hideFlow = False
+												isVisible = True
+												flowMode = Both
+											}
+										}
+									}
+								}
+								UPGRADESAPPLIED
+								{
+								}
+							}
+							CAREER_LOG
+							{
+								flight = 1
+								0 = Training5,Kerbin
+								0 = Flight,Kerbin
+								0 = Die
+							}
+							FLIGHT_LOG
+							{
+								flight = 1
+							}
+						}
+						KERBAL
+						{
+							name = Bob Kerman
+							gender = Male
+							type = Crew
+							trait = Scientist
+							brave = 0.300000012
+							dumb = 0.100000001
+							badS = False
+							veteran = True
+							tour = False
+							state = Missing
+							inactive = False
+							inactiveTimeEnd = 0
+							gExperienced = 0
+							outDueToG = False
+							ToD = 7268.0800000000036
+							idx = 2
+							extraXP = 0
+							hasHelmetOn = False
+							hasNeckRingOn = False
+							hasVisorDown = False
+							lightR = 1
+							lightG = 0.5176
+							lightB = 0
+							completedFirstEVA = False
+							suit = Default
+							hero = True
+							INVENTORY
+							{
+								name = ModuleInventoryPart
+								isEnabled = True
+								stagingEnabled = True
+								inventory = evaChute,evaJetpack
+								EVENTS
+								{
+								}
+								ACTIONS
+								{
+								}
+								STOREDPARTS
+								{
+									STOREDPART
+									{
+										slotIndex = 0
+										partName = evaChute
+										quantity = 1
+										stackCapacity = 1
+										variantName = 
+										PART
+										{
+											name = evaChute
+											cid = 4294818686
+											uid = 0
+											mid = 0
+											persistentId = 3321359357
+											launchID = 0
+											parent = 0
+											position = 0,0,0
+											rotation = 0,0,0,0
+											mirror = 1,1,1
+											symMethod = Radial
+											istg = 0
+											resPri = 0
+											dstg = 0
+											sqor = -1
+											sepI = 0
+											sidx = -1
+											attm = 0
+											sameVesselCollision = False
+											srfN = None, -1
+											mass = 0.00400000019
+											shielded = False
+											temp = -1
+											tempExt = 0
+											tempExtUnexp = 0
+											staticPressureAtm = 0
+											expt = 0.5
+											state = 0
+											PreFailState = 0
+											attached = True
+											autostrutMode = Off
+											rigidAttachment = False
+											flag = 
+											rTrf = evaChute
+											modCost = 0
+											modMass = 0
+											moduleVariantName = 
+											moduleCargoStackableQuantity = 1
+											EVENTS
+											{
+											}
+											ACTIONS
+											{
+												ToggleSameVesselInteraction
+												{
+													actionGroup = None
+													wasActiveBeforePartWasAdjusted = False
+												}
+												SetSameVesselInteraction
+												{
+													actionGroup = None
+													wasActiveBeforePartWasAdjusted = False
+												}
+												RemoveSameVesselInteraction
+												{
+													actionGroup = None
+													wasActiveBeforePartWasAdjusted = False
+												}
+											}
+											PARTDATA
+											{
+											}
+											MODULE
+											{
+												name = ModuleCargoPart
+												isEnabled = True
+												beingAttached = False
+												beingSettled = False
+												stagingEnabled = True
+												EVENTS
+												{
+												}
+												ACTIONS
+												{
+												}
+												UPGRADESAPPLIED
+												{
+												}
+											}
+											MODULE
+											{
+												name = HitpointTracker
+												isEnabled = True
+												Armor = 10
+												maxHitPoints = 0
+												ArmorThickness = 0
+												ArmorSet = False
+												ExplodeMode = Never
+												FireFX = True
+												FireFXLifeTimeInSeconds = 5
+												stagingEnabled = True
+												EVENTS
+												{
+												}
+												ACTIONS
+												{
+												}
+												UPGRADESAPPLIED
+												{
+												}
+											}
+										}
+									}
+									STOREDPART
+									{
+										slotIndex = 1
+										partName = evaJetpack
+										quantity = 1
+										stackCapacity = 1
+										variantName = 
+										PART
+										{
+											name = evaJetpack
+											cid = 4294818786
+											uid = 0
+											mid = 0
+											persistentId = 2426131367
+											launchID = 0
+											parent = 0
+											position = 0,0,0
+											rotation = 0,0,0,0
+											mirror = 1,1,1
+											symMethod = Radial
+											istg = 0
+											resPri = 2
+											dstg = 0
+											sqor = -1
+											sepI = 0
+											sidx = -1
+											attm = 0
+											sameVesselCollision = False
+											srfN = None, -1
+											mass = 0.0199999996
+											shielded = False
+											temp = -1
+											tempExt = 0
+											tempExtUnexp = 0
+											staticPressureAtm = 0
+											expt = 0.5
+											state = 0
+											PreFailState = 0
+											attached = True
+											autostrutMode = Off
+											rigidAttachment = False
+											flag = 
+											rTrf = evaJetpack
+											modCost = 0
+											modMass = 0
+											moduleVariantName = 
+											moduleCargoStackableQuantity = 1
+											EVENTS
+											{
+											}
+											ACTIONS
+											{
+												ToggleSameVesselInteraction
+												{
+													actionGroup = None
+													wasActiveBeforePartWasAdjusted = False
+												}
+												SetSameVesselInteraction
+												{
+													actionGroup = None
+													wasActiveBeforePartWasAdjusted = False
+												}
+												RemoveSameVesselInteraction
+												{
+													actionGroup = None
+													wasActiveBeforePartWasAdjusted = False
+												}
+											}
+											PARTDATA
+											{
+											}
+											MODULE
+											{
+												name = ModuleCargoPart
+												isEnabled = True
+												beingAttached = False
+												beingSettled = False
+												stagingEnabled = True
+												EVENTS
+												{
+												}
+												ACTIONS
+												{
+												}
+												UPGRADESAPPLIED
+												{
+												}
+											}
+											MODULE
+											{
+												name = HitpointTracker
+												isEnabled = True
+												Armor = 10
+												maxHitPoints = 0
+												ArmorThickness = 0
+												ArmorSet = False
+												ExplodeMode = Never
+												FireFX = True
+												FireFXLifeTimeInSeconds = 5
+												stagingEnabled = True
+												EVENTS
+												{
+												}
+												ACTIONS
+												{
+												}
+												UPGRADESAPPLIED
+												{
+												}
+											}
+											RESOURCE
+											{
+												name = EVA Propellant
+												amount = 5
+												maxAmount = 5
+												flowState = True
+												isTweakable = False
+												hideFlow = False
+												isVisible = True
+												flowMode = Both
+											}
+										}
+									}
+								}
+								UPGRADESAPPLIED
+								{
+								}
+							}
+							CAREER_LOG
+							{
+								flight = 1
+								0 = Training5,Kerbin
+								0 = Flight,Kerbin
+								0 = Die
+							}
+							FLIGHT_LOG
+							{
+								flight = 1
+							}
+						}
+						KERBAL
+						{
+							name = Valentina Kerman
+							gender = Female
+							type = Crew
+							trait = Pilot
+							brave = 0.550000012
+							dumb = 0.400000006
+							badS = True
+							veteran = True
+							tour = False
+							state = Missing
+							inactive = False
+							inactiveTimeEnd = 0
+							gExperienced = 0
+							outDueToG = False
+							ToD = 7268.0800000000036
+							idx = 3
+							extraXP = 0
+							hasHelmetOn = False
+							hasNeckRingOn = False
+							hasVisorDown = False
+							lightR = 1
+							lightG = 0.5176
+							lightB = 0
+							completedFirstEVA = False
+							suit = Default
+							hero = True
+							INVENTORY
+							{
+								name = ModuleInventoryPart
+								isEnabled = True
+								stagingEnabled = True
+								inventory = evaChute,evaJetpack
+								EVENTS
+								{
+								}
+								ACTIONS
+								{
+								}
+								STOREDPARTS
+								{
+									STOREDPART
+									{
+										slotIndex = 0
+										partName = evaChute
+										quantity = 1
+										stackCapacity = 1
+										variantName = 
+										PART
+										{
+											name = evaChute
+											cid = 4294818686
+											uid = 0
+											mid = 0
+											persistentId = 3450197031
+											launchID = 0
+											parent = 0
+											position = 0,0,0
+											rotation = 0,0,0,0
+											mirror = 1,1,1
+											symMethod = Radial
+											istg = 0
+											resPri = 0
+											dstg = 0
+											sqor = -1
+											sepI = 0
+											sidx = -1
+											attm = 0
+											sameVesselCollision = False
+											srfN = None, -1
+											mass = 0.00400000019
+											shielded = False
+											temp = -1
+											tempExt = 0
+											tempExtUnexp = 0
+											staticPressureAtm = 0
+											expt = 0.5
+											state = 0
+											PreFailState = 0
+											attached = True
+											autostrutMode = Off
+											rigidAttachment = False
+											flag = 
+											rTrf = evaChute
+											modCost = 0
+											modMass = 0
+											moduleVariantName = 
+											moduleCargoStackableQuantity = 1
+											EVENTS
+											{
+											}
+											ACTIONS
+											{
+												ToggleSameVesselInteraction
+												{
+													actionGroup = None
+													wasActiveBeforePartWasAdjusted = False
+												}
+												SetSameVesselInteraction
+												{
+													actionGroup = None
+													wasActiveBeforePartWasAdjusted = False
+												}
+												RemoveSameVesselInteraction
+												{
+													actionGroup = None
+													wasActiveBeforePartWasAdjusted = False
+												}
+											}
+											PARTDATA
+											{
+											}
+											MODULE
+											{
+												name = ModuleCargoPart
+												isEnabled = True
+												beingAttached = False
+												beingSettled = False
+												stagingEnabled = True
+												EVENTS
+												{
+												}
+												ACTIONS
+												{
+												}
+												UPGRADESAPPLIED
+												{
+												}
+											}
+											MODULE
+											{
+												name = HitpointTracker
+												isEnabled = True
+												Armor = 10
+												maxHitPoints = 0
+												ArmorThickness = 0
+												ArmorSet = False
+												ExplodeMode = Never
+												FireFX = True
+												FireFXLifeTimeInSeconds = 5
+												stagingEnabled = True
+												EVENTS
+												{
+												}
+												ACTIONS
+												{
+												}
+												UPGRADESAPPLIED
+												{
+												}
+											}
+										}
+									}
+									STOREDPART
+									{
+										slotIndex = 1
+										partName = evaJetpack
+										quantity = 1
+										stackCapacity = 1
+										variantName = 
+										PART
+										{
+											name = evaJetpack
+											cid = 4294818786
+											uid = 0
+											mid = 0
+											persistentId = 153744924
+											launchID = 0
+											parent = 0
+											position = 0,0,0
+											rotation = 0,0,0,0
+											mirror = 1,1,1
+											symMethod = Radial
+											istg = 0
+											resPri = 2
+											dstg = 0
+											sqor = -1
+											sepI = 0
+											sidx = -1
+											attm = 0
+											sameVesselCollision = False
+											srfN = None, -1
+											mass = 0.0199999996
+											shielded = False
+											temp = -1
+											tempExt = 0
+											tempExtUnexp = 0
+											staticPressureAtm = 0
+											expt = 0.5
+											state = 0
+											PreFailState = 0
+											attached = True
+											autostrutMode = Off
+											rigidAttachment = False
+											flag = 
+											rTrf = evaJetpack
+											modCost = 0
+											modMass = 0
+											moduleVariantName = 
+											moduleCargoStackableQuantity = 1
+											EVENTS
+											{
+											}
+											ACTIONS
+											{
+												ToggleSameVesselInteraction
+												{
+													actionGroup = None
+													wasActiveBeforePartWasAdjusted = False
+												}
+												SetSameVesselInteraction
+												{
+													actionGroup = None
+													wasActiveBeforePartWasAdjusted = False
+												}
+												RemoveSameVesselInteraction
+												{
+													actionGroup = None
+													wasActiveBeforePartWasAdjusted = False
+												}
+											}
+											PARTDATA
+											{
+											}
+											MODULE
+											{
+												name = ModuleCargoPart
+												isEnabled = True
+												beingAttached = False
+												beingSettled = False
+												stagingEnabled = True
+												EVENTS
+												{
+												}
+												ACTIONS
+												{
+												}
+												UPGRADESAPPLIED
+												{
+												}
+											}
+											MODULE
+											{
+												name = HitpointTracker
+												isEnabled = True
+												Armor = 10
+												maxHitPoints = 0
+												ArmorThickness = 0
+												ArmorSet = False
+												ExplodeMode = Never
+												FireFX = True
+												FireFXLifeTimeInSeconds = 5
+												stagingEnabled = True
+												EVENTS
+												{
+												}
+												ACTIONS
+												{
+												}
+												UPGRADESAPPLIED
+												{
+												}
+											}
+											RESOURCE
+											{
+												name = EVA Propellant
+												amount = 5
+												maxAmount = 5
+												flowState = True
+												isTweakable = False
+												hideFlow = False
+												isVisible = True
+												flowMode = Both
+											}
+										}
+									}
+								}
+								UPGRADESAPPLIED
+								{
+								}
+							}
+							CAREER_LOG
+							{
+								flight = 1
+								0 = Training5,Kerbin
+								0 = Flight,Kerbin
+								0 = Die
+							}
+							FLIGHT_LOG
+							{
+								flight = 1
+							}
+						}
+					}
+					PARAMETERS
+					{
+						preset = Normal
+						FLIGHT
+						{
+							CanQuickSave = True
+							CanQuickLoad = True
+							CanAutoSave = True
+							CanUseMap = True
+							CanSwitchVesselsNear = True
+							CanSwitchVesselsFar = True
+							CanTimeWarpHigh = True
+							CanTimeWarpLow = True
+							CanEVA = True
+							CanIVA = True
+							CanBoard = True
+							CanRestart = True
+							CanLeaveToEditor = True
+							CanLeaveToTrackingStation = True
+							CanLeaveToSpaceCenter = True
+							CanLeaveToMainMenu = True
+						}
+						EDITOR
+						{
+							CanSave = True
+							CanLoad = True
+							CanStartNew = True
+							CanLaunch = True
+							CanLeaveToSpaceCenter = True
+							CanLeaveToMainMenu = False
+							startUpMode = 0
+							craftFileToLoad = 
+						}
+						TRACKINGSTATION
+						{
+							CanFlyVessel = True
+							CanAbortVessel = True
+							CanLeaveToSpaceCenter = True
+							CanLeaveToMainMenu = False
+						}
+						SPACECENTER
+						{
+							CanGoInVAB = False
+							CanGoInSPH = False
+							CanGoInTrackingStation = True
+							CanLaunchAtPad = True
+							CanLaunchAtRunway = True
+							CanGoToAdmin = False
+							CanGoToAstronautC = False
+							CanGoToMissionControl = False
+							CanGoToRnD = False
+							CanSelectFlag = True
+							CanLeaveToMainMenu = True
+						}
+						DIFFICULTY
+						{
+							AutoHireCrews = False
+							MissingCrewsRespawn = True
+							RespawnTimer = 7200
+							BypassEntryPurchaseAfterResearch = True
+							AllowStockVessels = False
+							IndestructibleFacilities = False
+							ResourceAbundance = 1
+							ReentryHeatScale = 1
+							EnableCommNet = True
+							AllowOtherLaunchSites = False
+							persistKerbalInventories = False
+						}
+						CAREER
+						{
+							TechTreeUrl = GameData/Squad/Resources/TechTree.cfg
+							StartingFunds = 25000
+							StartingScience = 0
+							StartingReputation = 0
+							FundsGainMultiplier = 1
+							RepGainMultiplier = 1
+							ScienceGainMultiplier = 1
+							FundsLossMultiplier = 1
+							RepLossMultiplier = 1
+							RepLossDeclined = 1
+						}
+						CommNetParams
+						{
+							requireSignalForControl = False
+							plasmaBlackout = False
+							rangeModifier = 1
+							DSNModifier = 1
+							occlusionMultiplierVac = 0.9
+							occlusionMultiplierAtm = 0.75
+							enableGroundStations = True
+						}
+						AdvancedParams
+						{
+							EnableKerbalExperience = True
+							ImmediateLevelUp = False
+							AllowNegativeCurrency = False
+							PressurePartLimits = False
+							GPartLimits = False
+							GKerbalLimits = False
+							KerbalGToleranceMult = 1
+							ResourceTransferObeyCrossfeed = False
+							ActionGroupsAlways = False
+							BuildingImpactDamageMult = 0.05
+							PartUpgradesInSandbox = False
+							PartUpgradesInCareer = True
+							PartUpgradesInMission = False
+							EnableFullSASInSandbox = False
+							EnableFullSASInMissions = False
+						}
+						MissionParamsGeneral
+						{
+							enableFunding = False
+							startingFunds = 100000
+							spacer = 
+							enableKerbalLevels = False
+							kerbalLevelPilot = 4
+							kerbalLevelScientist = 4
+							kerbalLevelEngineer = 4
+							spacer2 = 
+							preventVesselRecovery = False
+						}
+						MissionParamsExtras
+						{
+							facilityOpenAC = False
+							astronautHiresAreFree = True
+							spacer = 
+							facilityOpenEditor = False
+							launchSitesOpen = True
+							spacer2 = 
+							cheatsEnabled = False
+						}
+						MissionParamsFacilities
+						{
+							facilityLevelAdmin = 3
+							facilityLevelAC = 3
+							facilityLevelLaunchpad = 3
+							facilityLevelMC = 3
+							facilityLevelRD = 3
+							facilityLevelRunway = 3
+							facilityLevelSPH = 3
+							facilityLevelTS = 3
+							facilityLevelVAB = 3
+						}
+					}
+					SAP_PARAMETERS
+					{
+						parametersDisplayedInSAP = startUT
+						parametersDisplayedInSAP = partFilter
+						parametersDisplayedInSAP = autoGenerateCrew
+						parametersDisplayedInSAP = gameParameters
+						parametersDisplayedInSAP = resourceSeed
+					}
+				}
+				SCOREMODULES
+				{
+				}
+				AWARDMODULES
+				{
+					AWARDMODULE
+					{
+						name = AwardModule_MissionTime
+						id = 1918
+						awardID = MissionTime
+						enabled = False
+						score = 0
+						missionTime = 0
+					}
+					AWARDMODULE
+					{
+						name = AwardModule_Fuel
+						id = 1919
+						awardID = Fuel
+						enabled = False
+						score = 0
+						resourceName = LiquidFuel
+						resourceAmount = 0
+						PROGRESS
+						{
+							totalSpentResource = 0
+						}
+					}
+					AWARDMODULE
+					{
+						name = AwardModule_KerbalsSurvived
+						id = 1920
+						awardID = KerbalsSurvived
+						enabled = False
+						score = 0
+						PROGRESS
+						{
+							kerbalsAreAlive = True
+						}
+					}
+					AWARDMODULE
+					{
+						name = AwardModule_KerbalsDied
+						id = 1921
+						awardID = KerbalsDied
+						enabled = True
+						score = 0
+					}
+					AWARDMODULE
+					{
+						name = AwardModule_TraveledLessThan
+						id = 1922
+						awardID = TraveledLessThan
+						enabled = False
+						score = 0
+						distance = 0
+						PROGRESS
+						{
+							distanceTraveled = 0
+						}
+					}
+					AWARDMODULE
+					{
+						name = AwardModule_TraveledMoreThan
+						id = 1923
+						awardID = TraveledMoreThan
+						enabled = False
+						score = 0
+						distance = 0
+						PROGRESS
+						{
+							distanceTraveled = 0
+						}
+					}
+					AWARDMODULE
+					{
+						name = AwardModule_VesselsUsed
+						id = 1924
+						awardID = VesselsUsed
+						enabled = False
+						score = 0
+						vesselsUsed = 0
+						PROGRESS
+						{
+						}
+					}
+					AWARDMODULE
+					{
+						name = AwardModule_LandedOn
+						id = 1925
+						awardID = LandedOn
+						enabled = False
+						score = 0
+						vesselID = 0
+						distance = 0
+					}
+					AWARDMODULE
+					{
+						name = AwardModule_PlanetsLanded
+						id = 1926
+						awardID = PlanetsLanded
+						enabled = False
+						score = 0
+						planetsLanded = 0
+						PROGRESS
+						{
+						}
+					}
+					AWARDMODULE
+					{
+						name = AwardModule_Score
+						id = 1927
+						awardID = BronzeAward
+						enabled = True
+						score = 0
+					}
+					AWARDMODULE
+					{
+						name = AwardModule_Score
+						id = 1928
+						awardID = SilverAward
+						enabled = True
+						score = 0
+					}
+					AWARDMODULE
+					{
+						name = AwardModule_Score
+						id = 1929
+						awardID = GoldAward
+						enabled = True
+						score = 0
+					}
+				}
+				MAPPEDVESSELS
+				{
+					MAPPEDVESSEL
+					{
+						partId = 635930074
+						mappedId = 451990281
+						originalId = 669778147
+						currentId = 669778147
+						partVslName = US Space Shuttle
+						craftFileName = US Space Shuttle.craft
+						situationVslName = Space Shuttle Challenger
+					}
+				}
+				NODES
+				{
+					NODE
+					{
+						title = Start Node
+						id = f2612671-7e50-409f-ae82-5aa4d7196b7e
+						description = 
+						category = Start
+						showScreenMessage = False
+						msgTime = 5
+						editorPosition = 0,0
+						isStartNode = True
+						isEndNode = False
+						message = 
+						dockedIndex = 0
+						isObjective = False
+						isCatchAll = False
+						isEvent = False
+						activateOnceOnly = True
+						activatedUT = 0
+						isLogicNode = False
+						basicNodeSource = 
+						basicNodeIconURL = 
+						nodeColor = #B2BBC5
+						missionEndOptions = Success
+						TONODEIDS
+						{
+							nodeID = 565817b3-b485-4a0c-8898-3af013534fef
+						}
+						NODEBODY_PARAMETERS
+						{
+							MODULE_PARAMETER
+							{
+								module = MissionSituation
+								parameter = startUT
+							}
+						}
+						DOCKEDNODEIDS
+						{
+							nodeID = fca8567a-8eb4-4fe0-9244-b4cf7edecd70
+						}
+					}
+					NODE
+					{
+						title = Spawn Vessel
+						id = fca8567a-8eb4-4fe0-9244-b4cf7edecd70
+						description = Spawn a Vessel somewhere in the universe
+						category = Spawnable
+						showScreenMessage = False
+						msgTime = 5
+						editorPosition = 0,0
+						isStartNode = False
+						isEndNode = False
+						message = 
+						dockedIndex = 0
+						isObjective = False
+						isCatchAll = False
+						isEvent = False
+						activateOnceOnly = True
+						activatedUT = 0
+						isLogicNode = False
+						basicNodeSource = CreateVessel
+						basicNodeIconURL = create-vessel
+						nodeColor = #C3F948
+						dockParentNodeID = f2612671-7e50-409f-ae82-5aa4d7196b7e
+						missionEndOptions = Success
+						TONODEIDS
+						{
+						}
+						TESTGROUPS
+						{
+							TESTGROUP
+							{
+								title = 
+							}
+						}
+						ACTIONS
+						{
+							ACTIONMODULE
+							{
+								name = ActionCreateVessel
+								title = Spawn Vessel
+								parametersDisplayedInSAP = vesselSituation
+								parametersDisplayedInSAP = partFilter
+								restartOnSceneLoad = False
+								isRunning = False
+								VESSELSITUATION
+								{
+									ship = Space Shuttle Challenger
+									vesselDescription = 
+									playerCreated = False
+									persistentId = 669778147
+									craftFile = US Space Shuttle.craft
+									focusonSpawn = False
+									launched = True
+									readyToLaunch = True
+									autoGenerateCrew = False
+									LOCATION
+									{
+										sit = PRELAUNCH
+										launchSite = LaunchPad
+										facility = VAB
+										brakesOn = True
+										GROUNDPOINT
+										{
+											bodyName = Kerbin
+											gizmoIcon = Rocket
+											lat = 0.11320286030355226
+											lon = -74.534333431182944
+											alt = 0
+											rot = 0,0,0
+											splashed = True
+										}
+										ORBIT
+										{
+											SMA = 750000
+											ECC = 0
+											INC = 0.0001
+											LPE = 0
+											LAN = 0
+											MNA = 0
+											EPH = 0
+											REF = 1
+											editorRotation = 258.53560928512991
+										}
+									}
+									PARTCREW
+									{
+										partPersistentId = 4294578998
+										vesselPersistentId = 669778147
+										crew = Jebediah Kerman
+										crew = Bill Kerman
+										crew = Bob Kerman
+										crew = Valentina Kerman
+									}
+								}
+							}
+						}
+						NODEBODY_PARAMETERS
+						{
+							MODULE_PARAMETER
+							{
+								module = ActionCreateVessel
+								parameter = vesselSituation
+							}
+						}
+					}
+					NODE
+					{
+						title = Dialog Message
+						id = 565817b3-b485-4a0c-8898-3af013534fef
+						description = Display a message in a dialog box
+						category = Utility
+						showScreenMessage = False
+						msgTime = 5
+						editorPosition = 324.968597,6.30702972
+						isStartNode = False
+						isEndNode = False
+						message = 
+						dockedIndex = 0
+						isObjective = False
+						isCatchAll = False
+						isEvent = False
+						activateOnceOnly = True
+						activatedUT = 0.10000000000000001
+						isLogicNode = False
+						basicNodeSource = DialogMessage
+						basicNodeIconURL = dialog-message
+						nodeColor = #F68834
+						missionEndOptions = Success
+						FROMNODES
+						{
+							FROMNODE
+							{
+								nodeID = f2612671-7e50-409f-ae82-5aa4d7196b7e
+							}
+						}
+						TONODEIDS
+						{
+							nodeID = 520ea0b5-ac6f-417c-a267-b6518f012644
+						}
+						TESTGROUPS
+						{
+							TESTGROUP
+							{
+								title = 
+							}
+						}
+						ACTIONS
+						{
+							ACTIONMODULE
+							{
+								name = ActionDialogMessage
+								title = Dialog Message
+								parametersDisplayedInSAP = messageHeading
+								parametersDisplayedInSAP = message
+								parametersDisplayedInSAP = missionInstructor
+								restartOnSceneLoad = False
+								isRunning = False
+								message = Lets watch the Fireworks
+								instructorName = Strategy_MechanicGuy
+								vintageSuit = False
+								textAreaSize = 135
+								pauseMission = True
+								screenArea = Center
+								autoClose = False
+								autoCloseTimeOut = 20
+								isBriefingMessage = False
+								autoGrowDialogHeight = False
+							}
+						}
+						NODEBODY_PARAMETERS
+						{
+							MODULE_PARAMETER
+							{
+								module = ActionDialogMessage
+								parameter = missionInstructor
+							}
+						}
+					}
+					NODE
+					{
+						title = Reach Altitude
+						id = 520ea0b5-ac6f-417c-a267-b6518f012644
+						description = Launch
+						category = Location
+						showScreenMessage = True
+						msgTime = 5
+						editorPosition = 678.332214,47.3070755
+						isStartNode = False
+						isEndNode = False
+						message = 
+						dockedIndex = 0
+						isObjective = True
+						isCatchAll = False
+						isEvent = True
+						activateOnceOnly = True
+						activatedUT = 10.359999999999868
+						isLogicNode = True
+						basicNodeSource = VesselAltitudeGoal
+						basicNodeIconURL = test-altitude
+						nodeColor = #73D2D6
+						missionEndOptions = Success
+						FROMNODES
+						{
+							FROMNODE
+							{
+								nodeID = 565817b3-b485-4a0c-8898-3af013534fef
+							}
+						}
+						TONODEIDS
+						{
+							nodeID = 380c0514-0a5b-497e-b87a-e5ba2abd0809
+						}
+						TESTGROUPS
+						{
+							TESTGROUP
+							{
+								title = 
+								TESTMODULE
+								{
+									name = TestVesselAltitude
+									title = Test Altitude
+									parametersDisplayedInSAP = altitude
+									parametersDisplayedInSAP = useRadarAltimiter
+									parametersDisplayedInSAP = vesselID
+									vesselID = 0
+									altitude = 1
+									useRadarAltimiter = True
+									comparisonOperator = GreaterThan
+								}
+							}
+						}
+						NODEBODY_PARAMETERS
+						{
+							MODULE_PARAMETER
+							{
+								module = TestVesselAltitude
+								parameter = altitude
+							}
+							MODULE_PARAMETER
+							{
+								module = TestVesselAltitude
+								parameter = useRadarAltimiter
+							}
+						}
+					}
+					NODE
+					{
+						title = Reach Altitude
+						id = 380c0514-0a5b-497e-b87a-e5ba2abd0809
+						description = Reach altitude 7000
+						category = Location
+						showScreenMessage = True
+						msgTime = 5
+						editorPosition = 1031.6958,54.6706963
+						isStartNode = False
+						isEndNode = False
+						message = 
+						dockedIndex = 0
+						isObjective = True
+						isCatchAll = False
+						isEvent = True
+						activateOnceOnly = True
+						activatedUT = 60.560000000003868
+						isLogicNode = True
+						basicNodeSource = VesselAltitudeGoal
+						basicNodeIconURL = test-altitude
+						nodeColor = #73D2D6
+						missionEndOptions = Success
+						FROMNODES
+						{
+							FROMNODE
+							{
+								nodeID = 520ea0b5-ac6f-417c-a267-b6518f012644
+							}
+						}
+						TONODEIDS
+						{
+							nodeID = 7446b4c3-945f-4f43-b589-a71d7c9356da
+						}
+						TESTGROUPS
+						{
+							TESTGROUP
+							{
+								title = 
+								TESTMODULE
+								{
+									name = TestVesselAltitude
+									title = Test Altitude
+									parametersDisplayedInSAP = altitude
+									parametersDisplayedInSAP = useRadarAltimiter
+									parametersDisplayedInSAP = vesselID
+									vesselID = 0
+									altitude = 7000
+									useRadarAltimiter = False
+									comparisonOperator = GreaterThan
+								}
+							}
+						}
+						NODEBODY_PARAMETERS
+						{
+							MODULE_PARAMETER
+							{
+								module = TestVesselAltitude
+								parameter = altitude
+							}
+							MODULE_PARAMETER
+							{
+								module = TestVesselAltitude
+								parameter = useRadarAltimiter
+							}
+						}
+					}
+					NODE
+					{
+						title = Explode Part
+						id = 7446b4c3-945f-4f43-b589-a71d7c9356da
+						description = Explode a specific part
+						category = Vessel
+						showScreenMessage = False
+						msgTime = 5
+						editorPosition = 1336.99768,44.1252823
+						isStartNode = False
+						isEndNode = False
+						message = 
+						dockedIndex = 0
+						isObjective = False
+						isCatchAll = False
+						isEvent = True
+						activateOnceOnly = True
+						activatedUT = 60.600000000003874
+						isLogicNode = False
+						basicNodeSource = ActionPartExplode
+						basicNodeIconURL = part-explode
+						nodeColor = #3F8CED
+						missionEndOptions = Success
+						FROMNODES
+						{
+							FROMNODE
+							{
+								nodeID = 380c0514-0a5b-497e-b87a-e5ba2abd0809
+							}
+						}
+						TONODEIDS
+						{
+							nodeID = 0aa2ba25-adb2-4c11-838b-f7745c771a82
+						}
+						TESTGROUPS
+						{
+							TESTGROUP
+							{
+								title = 
+							}
+						}
+						ACTIONS
+						{
+							ACTIONMODULE
+							{
+								name = ActionPartExplode
+								title = Explode Part
+								parametersDisplayedInSAP = vesselPartIDs
+								restartOnSceneLoad = False
+								isRunning = False
+								partPersistentId = 4133095419
+								vesselPersistentId = 669778147
+								partName = FTX-2 External Fuel Duct
+							}
+						}
+						NODEBODY_PARAMETERS
+						{
+							MODULE_PARAMETER
+							{
+								module = ActionPartExplode
+								parameter = vesselPartIDs
+							}
+						}
+					}
+					NODE
+					{
+						title = Reach Altitude
+						id = 0aa2ba25-adb2-4c11-838b-f7745c771a82
+						description = Reach Altitude 10000
+						category = Location
+						showScreenMessage = True
+						msgTime = 5
+						editorPosition = 1661.74133,53.8868561
+						isStartNode = False
+						isEndNode = False
+						message = 
+						dockedIndex = 0
+						isObjective = True
+						isCatchAll = False
+						isEvent = True
+						activateOnceOnly = True
+						activatedUT = 68.00000000000361
+						isLogicNode = True
+						basicNodeSource = VesselAltitudeGoal
+						basicNodeIconURL = test-altitude
+						nodeColor = #73D2D6
+						missionEndOptions = Success
+						FROMNODES
+						{
+							FROMNODE
+							{
+								nodeID = 7446b4c3-945f-4f43-b589-a71d7c9356da
+							}
+						}
+						TONODEIDS
+						{
+							nodeID = 760cd030-2188-4345-b33f-fcaa9fec8d01
+						}
+						TESTGROUPS
+						{
+							TESTGROUP
+							{
+								title = 
+								TESTMODULE
+								{
+									name = TestVesselAltitude
+									title = Test Altitude
+									parametersDisplayedInSAP = altitude
+									parametersDisplayedInSAP = useRadarAltimiter
+									parametersDisplayedInSAP = vesselID
+									vesselID = 0
+									altitude = 10000
+									useRadarAltimiter = False
+									comparisonOperator = GreaterThan
+								}
+							}
+						}
+						NODEBODY_PARAMETERS
+						{
+							MODULE_PARAMETER
+							{
+								module = TestVesselAltitude
+								parameter = altitude
+							}
+							MODULE_PARAMETER
+							{
+								module = TestVesselAltitude
+								parameter = useRadarAltimiter
+							}
+						}
+					}
+					NODE
+					{
+						title = Explode Vessel
+						id = 760cd030-2188-4345-b33f-fcaa9fec8d01
+						description = Fun
+						category = Vessel
+						showScreenMessage = True
+						msgTime = 5
+						editorPosition = 1950.33301,55.229248
+						isStartNode = False
+						isEndNode = False
+						message = 
+						dockedIndex = 0
+						isObjective = False
+						isCatchAll = False
+						isEvent = True
+						activateOnceOnly = True
+						activatedUT = 68.080000000003594
+						isLogicNode = False
+						basicNodeSource = ActionVesselExplode
+						basicNodeIconURL = vessel-explode
+						nodeColor = #3F8CED
+						missionEndOptions = Success
+						FROMNODES
+						{
+							FROMNODE
+							{
+								nodeID = 0aa2ba25-adb2-4c11-838b-f7745c771a82
+							}
+						}
+						TONODEIDS
+						{
+						}
+						TESTGROUPS
+						{
+							TESTGROUP
+							{
+								title = 
+							}
+						}
+						ACTIONS
+						{
+							ACTIONMODULE
+							{
+								name = ActionVesselExplode
+								title = Explode Vessel
+								parametersDisplayedInSAP = vesselID
+								parametersDisplayedInSAP = partsExplodeTime
+								restartOnSceneLoad = True
+								isRunning = False
+								vesselID = 0
+								explodeTime = 1
+							}
+						}
+						NODEBODY_PARAMETERS
+						{
+							MODULE_PARAMETER
+							{
+								module = ActionVesselExplode
+								parameter = vesselID
+							}
+							MODULE_PARAMETER
+							{
+								module = ActionVesselExplode
+								parameter = partsExplodeTime
+							}
+						}
+					}
+					NODE
+					{
+						title = Vessel Destroyed
+						id = dcef3dd2-c2e2-4286-bbc8-53ec99f593b1
+						description = Check for a vessel being destroyed
+						category = Vessel
+						showScreenMessage = False
+						msgTime = 5
+						editorPosition = 321.268005,-179.140427
+						isStartNode = False
+						isEndNode = True
+						message = 
+						dockedIndex = 0
+						isObjective = False
+						isCatchAll = True
+						isEvent = True
+						activateOnceOnly = True
+						activatedUT = 68.160000000003578
+						isLogicNode = False
+						basicNodeSource = Crashed
+						basicNodeIconURL = vessel-crashed
+						nodeColor = #3F8CED
+						missionEndOptions = Success
+						TESTGROUPS
+						{
+							TESTGROUP
+							{
+								title = 
+								TESTMODULE
+								{
+									name = TestVesselStateCrashed
+									title = Vessel Destroyed
+									parametersDisplayedInSAP = vesselID
+									vesselID = 0
+									locationChoice = anyData
+									LAUNCHSITEDATA = LaunchPad
+									BODYDATA
+									{
+										bodyName = AnyValid
+									}
+									BIOMEDATA
+									{
+										bodyName = Kerbin
+									}
+									GROUNDAREA
+									{
+										bodyName = Kerbin
+										lat = 0
+										lon = 0
+										alt = 0
+										radius = 150000
+									}
+								}
+							}
+						}
+						NODEBODY_PARAMETERS
+						{
+							MODULE_PARAMETER
+							{
+								module = TestVesselStateCrashed
+								parameter = locationSituation
+							}
+							MODULE_PARAMETER
+							{
+								module = TestVesselStateCrashed
+								parameter = vesselID
+							}
+						}
+					}
+				}
+				TAGS
+				{
+				}
+				FLOW
+				{
+					BLOCKS
+					{
+						NODE
+						{
+							id = 565817b3-b485-4a0c-8898-3af013534fef
+						}
+						NODE
+						{
+							id = 520ea0b5-ac6f-417c-a267-b6518f012644
+						}
+						NODE
+						{
+							id = 380c0514-0a5b-497e-b87a-e5ba2abd0809
+						}
+						NODE
+						{
+							id = 7446b4c3-945f-4f43-b589-a71d7c9356da
+						}
+						NODE
+						{
+							id = 0aa2ba25-adb2-4c11-838b-f7745c771a82
+						}
+						NODE
+						{
+							id = 760cd030-2188-4345-b33f-fcaa9fec8d01
+						}
+					}
+				}
+			}
+		}
+	}
+	FLIGHTSTATE
+	{
+		version = 1.11.0
+		UT = 91.899999999998855
+		activeVessel = -1
+		mapViewFiltering = -1026
+		commNetUIModeTracking = Network
+		commNetUIModeFlight = Path
+		VESSEL
+		{
+			pid = df2a284333f0427f8c2bb8039dadbeeb
+			persistentId = 3988654202
+			name = Space Shuttle Challenger Debris
+			type = Debris
+			sit = LANDED
+			landed = True
+			skipGroundPositioning = False
+			vesselSpawning = True
+			launchedFrom = LaunchPad
+			landedAt = LaunchPad
+			displaylandedAt = 
+			splashed = False
+			met = 26.020000000001513
+			lct = 17.639999999999713
+			lastUT = 43.660000000001226
+			distanceTraveled = 0
+			root = 0
+			lat = -0.096863529677569518
+			lon = -74.557894434386526
+			alt = 75.309325079084374
+			hgt = 2.83711529
+			nrm = 2.33296305E-07,1,-1.28149986E-06
+			rot = -0.564450443,-0.560510874,0.426897556,0.430095136
+			CoM = 0,0,0
+			stg = 4
+			prst = False
+			ref = 0
+			ctrl = False
+			PQSMin = 2
+			PQSMax = 9
+			GroupOverride = 0
+			OverrideDefault = False,False,False,False
+			OverrideActionControl = 0,0,0,0
+			OverrideAxisControl = 0,0,0,0
+			OverrideGroupNames = ,,,
+			altDispState = DEFAULT
+			cPch = 0
+			cHdg = 0
+			cMod = -1
+			ORBIT
+			{
+				SMA = 300820.02003490989
+				ECC = 0.99479844877159718
+				INC = 0.096863529677569518
+				LPE = 90.000000000000014
+				LAN = 106.17148000908276
+				MNA = 3.1415926535897887
+				EPH = 43.660000000001226
+				REF = 1
+			}
+			PART
+			{
+				name = launchClamp1
+				cid = 4291114306
+				uid = 171932344
+				mid = 2409059910
+				persistentId = 2013619333
+				launchID = 1
+				parent = 0
+				position = 0,0,0
+				rotation = 0,0,0,1.00000095
+				mirror = 1,1,1
+				symMethod = Mirror
+				istg = 4
+				resPri = 0
+				dstg = 4
+				sqor = 4
+				sepI = 4
+				sidx = 5
+				attm = 1
+				sameVesselCollision = False
+				srfN = srfAttach, -1,Col
+				mass = 0.100000001
+				shielded = False
+				temp = 308.93572964911249
+				tempExt = 309.29786359787693
+				tempExtUnexp = 309.29765475918333
+				staticPressureAtm = 0.98888962880023279
+				expt = 0.100000001
+				state = 1
+				PreFailState = 0
+				attached = False
+				autostrutMode = Root
+				rigidAttachment = False
+				flag = Squad/FlagsAgency/NASA
+				rTrf = launchClamp1
+				modCost = 0
+				modMass = 0
+				moduleVariantName = 
+				moduleCargoStackableQuantity = 1
+				EVENTS
+				{
+				}
+				ACTIONS
+				{
+					ToggleSameVesselInteraction
+					{
+						actionGroup = None
+						wasActiveBeforePartWasAdjusted = False
+					}
+					SetSameVesselInteraction
+					{
+						actionGroup = None
+						wasActiveBeforePartWasAdjusted = False
+					}
+					RemoveSameVesselInteraction
+					{
+						actionGroup = None
+						wasActiveBeforePartWasAdjusted = False
+					}
+				}
+				PARTDATA
+				{
+				}
+				MODULE
+				{
+					name = LaunchClamp
+					isEnabled = True
+					scaleFactor = 1.3659637
+					height = 3.44659996
+					stagingEnabled = True
+					towerRot = -2.53495017E-07,0.707107127,-3.72704079E-07,0.707106531
+					EVENTS
+					{
+					}
+					ACTIONS
+					{
+						ReleaseClamp
+						{
+							actionGroup = None
+							wasActiveBeforePartWasAdjusted = False
+						}
+					}
+					UPGRADESAPPLIED
+					{
+					}
+				}
+				MODULE
+				{
+					name = ModuleGenerator
+					isEnabled = True
+					generatorIsActive = True
+					throttle = 1
+					stagingEnabled = True
+					EVENTS
+					{
+					}
+					ACTIONS
+					{
+						ToggleAction
+						{
+							actionGroup = None
+							active = False
+							wasActiveBeforePartWasAdjusted = False
+						}
+						ActivateAction
+						{
+							actionGroup = None
+							active = False
+							wasActiveBeforePartWasAdjusted = False
+						}
+						ShutdownAction
+						{
+							actionGroup = None
+							active = False
+							wasActiveBeforePartWasAdjusted = False
+						}
+					}
+					UPGRADESAPPLIED
+					{
+					}
+				}
+				MODULE
+				{
+					name = ModuleTestSubject
+					isEnabled = True
+					stagingEnabled = True
+					EVENTS
+					{
+					}
+					ACTIONS
+					{
+					}
+					UPGRADESAPPLIED
+					{
+					}
+				}
+				MODULE
+				{
+					name = HitpointTracker
+					isEnabled = True
+					Armor = 10
+					maxHitPoints = 0
+					ArmorThickness = 0
+					ArmorSet = True
+					ExplodeMode = Never
+					FireFX = True
+					FireFXLifeTimeInSeconds = 5
+					stagingEnabled = True
+					EVENTS
+					{
+					}
+					ACTIONS
+					{
+					}
+					UPGRADESAPPLIED
+					{
+					}
+				}
+			}
+			ACTIONGROUPS
+			{
+				Stage = True, 14.7599999999998
+				Gear = False, 0
+				Light = False, 0
+				RCS = False, 0
+				SAS = True, 14.0399999999998
+				Brakes = True, 0
+				Abort = False, 0
+				Custom01 = False, 0
+				Custom02 = False, 0
+				Custom03 = False, 0
+				Custom04 = False, 0
+				Custom05 = False, 0
+				Custom06 = False, 0
+				Custom07 = False, 0
+				Custom08 = False, 0
+				Custom09 = False, 0
+				Custom10 = False, 0
+			}
+			DISCOVERY
+			{
+				state = -1
+				lastObservedTime = 0
+				lifetime = Infinity
+				refTime = Infinity
+				size = 2
+			}
+			FLIGHTPLAN
+			{
+			}
+			CTRLSTATE
+			{
+				pitch = 0
+				yaw = 0
+				roll = 0
+				trimPitch = 0
+				trimYaw = 0
+				trimRoll = 0
+				mainThrottle = 0
+			}
+			VESSELMODULES
+			{
+				FlightIntegrator
+				{
+				}
+				AxisGroupsModule
+				{
+				}
+			}
+		}
+		VESSEL
+		{
+			pid = 80b1707be16a432fbf26ddf860ed04cc
+			persistentId = 3037369676
+			name = Space Shuttle Challenger Debris
+			type = Debris
+			sit = LANDED
+			landed = True
+			skipGroundPositioning = False
+			vesselSpawning = True
+			launchedFrom = LaunchPad
+			landedAt = LaunchPad
+			displaylandedAt = 
+			splashed = False
+			met = 26.020000000001513
+			lct = 17.639999999999713
+			lastUT = 43.660000000001226
+			distanceTraveled = 0
+			root = 0
+			lat = -0.096667637551340488
+			lon = -74.558087854899384
+			alt = 75.319462127867155
+			hgt = 2.84874558
+			nrm = -8.07642937E-06,0.99999994,-1.01327896E-06
+			rot = 0.0972626284,0.700464308,-0.700989425,0.092215009
+			CoM = 0,0,0
+			stg = 4
+			prst = False
+			ref = 0
+			ctrl = False
+			PQSMin = 2
+			PQSMax = 9
+			GroupOverride = 0
+			OverrideDefault = False,False,False,False
+			OverrideActionControl = 0,0,0,0
+			OverrideAxisControl = 0,0,0,0
+			OverrideGroupNames = ,,,
+			altDispState = DEFAULT
+			cPch = 0
+			cHdg = 0
+			cMod = -1
+			ORBIT
+			{
+				SMA = 300820.02516546217
+				ECC = 0.99479844844791887
+				INC = 0.096667637551340488
+				LPE = 90
+				LAN = 106.17128658856996
+				MNA = 3.1415926535897887
+				EPH = 43.660000000001226
+				REF = 1
+			}
+			PART
+			{
+				name = launchClamp1
+				cid = 4292640568
+				uid = 1350895791
+				mid = 2409059910
+				persistentId = 792738364
+				launchID = 1
+				parent = 0
+				position = 0,0,0
+				rotation = 0,0,0,1.00000083
+				mirror = 1,1,1
+				symMethod = Mirror
+				istg = 4
+				resPri = 0
+				dstg = 4
+				sqor = 4
+				sepI = 4
+				sidx = 4
+				attm = 1
+				sameVesselCollision = False
+				srfN = srfAttach, -1,Col
+				mass = 0.100000001
+				shielded = False
+				temp = 308.94699418481531
+				tempExt = 309.31217097128962
+				tempExtUnexp = 309.31196556265962
+				staticPressureAtm = 0.98888812287483807
+				expt = 0.100000001
+				state = 1
+				PreFailState = 0
+				attached = False
+				autostrutMode = Root
+				rigidAttachment = False
+				flag = Squad/FlagsAgency/NASA
+				rTrf = launchClamp1
+				modCost = 0
+				modMass = 0
+				moduleVariantName = 
+				moduleCargoStackableQuantity = 1
+				EVENTS
+				{
+				}
+				ACTIONS
+				{
+					ToggleSameVesselInteraction
+					{
+						actionGroup = None
+						wasActiveBeforePartWasAdjusted = False
+					}
+					SetSameVesselInteraction
+					{
+						actionGroup = None
+						wasActiveBeforePartWasAdjusted = False
+					}
+					RemoveSameVesselInteraction
+					{
+						actionGroup = None
+						wasActiveBeforePartWasAdjusted = False
+					}
+				}
+				PARTDATA
+				{
+				}
+				MODULE
+				{
+					name = LaunchClamp
+					isEnabled = True
+					scaleFactor = 1.37057698
+					height = 3.45824051
+					stagingEnabled = True
+					towerRot = 2.95028144E-07,-1,1.92044681E-07,3.57627812E-07
+					EVENTS
+					{
+					}
+					ACTIONS
+					{
+						ReleaseClamp
+						{
+							actionGroup = None
+							wasActiveBeforePartWasAdjusted = False
+						}
+					}
+					UPGRADESAPPLIED
+					{
+					}
+				}
+				MODULE
+				{
+					name = ModuleGenerator
+					isEnabled = True
+					generatorIsActive = True
+					throttle = 1
+					stagingEnabled = True
+					EVENTS
+					{
+					}
+					ACTIONS
+					{
+						ToggleAction
+						{
+							actionGroup = None
+							active = False
+							wasActiveBeforePartWasAdjusted = False
+						}
+						ActivateAction
+						{
+							actionGroup = None
+							active = False
+							wasActiveBeforePartWasAdjusted = False
+						}
+						ShutdownAction
+						{
+							actionGroup = None
+							active = False
+							wasActiveBeforePartWasAdjusted = False
+						}
+					}
+					UPGRADESAPPLIED
+					{
+					}
+				}
+				MODULE
+				{
+					name = ModuleTestSubject
+					isEnabled = True
+					stagingEnabled = True
+					EVENTS
+					{
+					}
+					ACTIONS
+					{
+					}
+					UPGRADESAPPLIED
+					{
+					}
+				}
+				MODULE
+				{
+					name = HitpointTracker
+					isEnabled = True
+					Armor = 10
+					maxHitPoints = 0
+					ArmorThickness = 0
+					ArmorSet = True
+					ExplodeMode = Never
+					FireFX = True
+					FireFXLifeTimeInSeconds = 5
+					stagingEnabled = True
+					EVENTS
+					{
+					}
+					ACTIONS
+					{
+					}
+					UPGRADESAPPLIED
+					{
+					}
+				}
+			}
+			ACTIONGROUPS
+			{
+				Stage = True, 14.7599999999998
+				Gear = False, 0
+				Light = False, 0
+				RCS = False, 0
+				SAS = True, 14.0399999999998
+				Brakes = True, 0
+				Abort = False, 0
+				Custom01 = False, 0
+				Custom02 = False, 0
+				Custom03 = False, 0
+				Custom04 = False, 0
+				Custom05 = False, 0
+				Custom06 = False, 0
+				Custom07 = False, 0
+				Custom08 = False, 0
+				Custom09 = False, 0
+				Custom10 = False, 0
+			}
+			DISCOVERY
+			{
+				state = -1
+				lastObservedTime = 0
+				lifetime = Infinity
+				refTime = Infinity
+				size = 2
+			}
+			FLIGHTPLAN
+			{
+			}
+			CTRLSTATE
+			{
+				pitch = 0
+				yaw = 0
+				roll = 0
+				trimPitch = 0
+				trimYaw = 0
+				trimRoll = 0
+				mainThrottle = 0
+			}
+			VESSELMODULES
+			{
+				FlightIntegrator
+				{
+				}
+				AxisGroupsModule
+				{
+				}
+			}
+		}
+		VESSEL
+		{
+			pid = 69e32f1b00154699b94903d8625564e6
+			persistentId = 1076855917
+			name = Space Shuttle Challenger Debris
+			type = Debris
+			sit = LANDED
+			landed = True
+			skipGroundPositioning = False
+			vesselSpawning = True
+			launchedFrom = LaunchPad
+			landedAt = LaunchPad
+			displaylandedAt = 
+			splashed = False
+			met = 26.020000000001513
+			lct = 17.639999999999713
+			lastUT = 43.660000000001226
+			distanceTraveled = 0
+			root = 0
+			lat = -0.09686080670578058
+			lon = -74.558284938911171
+			alt = 75.257280978257768
+			hgt = 2.7880888
+			nrm = 1.74157321E-07,1,9.29832458E-06
+			rot = -0.426898718,0.430098563,-0.56444943,0.56050843
+			CoM = 0,0,0
+			stg = 4
+			prst = False
+			ref = 0
+			ctrl = False
+			PQSMin = 2
+			PQSMax = 9
+			GroupOverride = 0
+			OverrideDefault = False,False,False,False
+			OverrideActionControl = 0,0,0,0
+			OverrideAxisControl = 0,0,0,0
+			OverrideGroupNames = ,,,
+			altDispState = DEFAULT
+			cPch = 0
+			cHdg = 0
+			cMod = -1
+			ORBIT
+			{
+				SMA = 300819.99374103884
+				ECC = 0.9947984501241417
+				INC = 0.09686080670578058
+				LPE = 90
+				LAN = 106.17108950455815
+				MNA = 3.1415926535897887
+				EPH = 43.660000000001226
+				REF = 1
+			}
+			PART
+			{
+				name = launchClamp1
+				cid = 4292640756
+				uid = 2218125331
+				mid = 2409059910
+				persistentId = 4268532372
+				launchID = 1
+				parent = 0
+				position = 0,0,0
+				rotation = 0,0,0,1.00000095
+				mirror = 1,1,1
+				symMethod = Mirror
+				istg = 4
+				resPri = 0
+				dstg = 4
+				sqor = 4
+				sepI = 4
+				sidx = 3
+				attm = 1
+				sameVesselCollision = False
+				srfN = srfAttach, -1,Col
+				mass = 0.100000001
+				shielded = False
+				temp = 389.108123398423
+				tempExt = 382.72125199771898
+				tempExtUnexp = 382.73175119165967
+				staticPressureAtm = 0.98889723372347638
+				expt = 0.100000001
+				state = 1
+				PreFailState = 0
+				attached = False
+				autostrutMode = Root
+				rigidAttachment = False
+				flag = Squad/FlagsAgency/NASA
+				rTrf = launchClamp1
+				modCost = 0
+				modMass = 0
+				moduleVariantName = 
+				moduleCargoStackableQuantity = 1
+				EVENTS
+				{
+				}
+				ACTIONS
+				{
+					ToggleSameVesselInteraction
+					{
+						actionGroup = None
+						wasActiveBeforePartWasAdjusted = False
+					}
+					SetSameVesselInteraction
+					{
+						actionGroup = None
+						wasActiveBeforePartWasAdjusted = False
+					}
+					RemoveSameVesselInteraction
+					{
+						actionGroup = None
+						wasActiveBeforePartWasAdjusted = False
+					}
+				}
+				PARTDATA
+				{
+				}
+				MODULE
+				{
+					name = LaunchClamp
+					isEnabled = True
+					scaleFactor = 1.34654343
+					height = 3.39760113
+					stagingEnabled = True
+					towerRot = 3.28933737E-07,-0.707106531,-2.09724476E-07,0.707107127
+					EVENTS
+					{
+					}
+					ACTIONS
+					{
+						ReleaseClamp
+						{
+							actionGroup = None
+							wasActiveBeforePartWasAdjusted = False
+						}
+					}
+					UPGRADESAPPLIED
+					{
+					}
+				}
+				MODULE
+				{
+					name = ModuleGenerator
+					isEnabled = True
+					generatorIsActive = True
+					throttle = 1
+					stagingEnabled = True
+					EVENTS
+					{
+					}
+					ACTIONS
+					{
+						ToggleAction
+						{
+							actionGroup = None
+							active = False
+							wasActiveBeforePartWasAdjusted = False
+						}
+						ActivateAction
+						{
+							actionGroup = None
+							active = False
+							wasActiveBeforePartWasAdjusted = False
+						}
+						ShutdownAction
+						{
+							actionGroup = None
+							active = False
+							wasActiveBeforePartWasAdjusted = False
+						}
+					}
+					UPGRADESAPPLIED
+					{
+					}
+				}
+				MODULE
+				{
+					name = ModuleTestSubject
+					isEnabled = True
+					stagingEnabled = True
+					EVENTS
+					{
+					}
+					ACTIONS
+					{
+					}
+					UPGRADESAPPLIED
+					{
+					}
+				}
+				MODULE
+				{
+					name = HitpointTracker
+					isEnabled = True
+					Armor = 10
+					maxHitPoints = 0
+					ArmorThickness = 0
+					ArmorSet = True
+					ExplodeMode = Never
+					FireFX = True
+					FireFXLifeTimeInSeconds = 5
+					stagingEnabled = True
+					EVENTS
+					{
+					}
+					ACTIONS
+					{
+					}
+					UPGRADESAPPLIED
+					{
+					}
+				}
+			}
+			ACTIONGROUPS
+			{
+				Stage = True, 14.7599999999998
+				Gear = False, 0
+				Light = False, 0
+				RCS = False, 0
+				SAS = True, 14.0399999999998
+				Brakes = True, 0
+				Abort = False, 0
+				Custom01 = False, 0
+				Custom02 = False, 0
+				Custom03 = False, 0
+				Custom04 = False, 0
+				Custom05 = False, 0
+				Custom06 = False, 0
+				Custom07 = False, 0
+				Custom08 = False, 0
+				Custom09 = False, 0
+				Custom10 = False, 0
+			}
+			DISCOVERY
+			{
+				state = -1
+				lastObservedTime = 0
+				lifetime = Infinity
+				refTime = Infinity
+				size = 2
+			}
+			FLIGHTPLAN
+			{
+			}
+			CTRLSTATE
+			{
+				pitch = 0
+				yaw = 0
+				roll = 0
+				trimPitch = 0
+				trimYaw = 0
+				trimRoll = 0
+				mainThrottle = 0
+			}
+			VESSELMODULES
+			{
+				FlightIntegrator
+				{
+				}
+				AxisGroupsModule
+				{
+				}
+			}
+		}
+		VESSEL
+		{
+			pid = b8ec2fc7d5e14970ab7bdcb98005b6fb
+			persistentId = 4060553276
+			name = Space Shuttle Challenger Debris
+			type = Debris
+			sit = LANDED
+			landed = True
+			skipGroundPositioning = False
+			vesselSpawning = True
+			launchedFrom = LaunchPad
+			landedAt = LaunchPad
+			displaylandedAt = 
+			splashed = False
+			met = 26.020000000001513
+			lct = 17.639999999999713
+			lastUT = 43.660000000001226
+			distanceTraveled = 0
+			root = 0
+			lat = -0.097058307689200443
+			lon = -74.558090579892848
+			alt = 75.31780505576171
+			hgt = 2.84711289
+			nrm = 8.31484795E-06,1,2.44379044E-06
+			rot = -0.700989842,-0.0922135934,-0.0972639099,0.70046401
+			CoM = 0,0,0
+			stg = 4
+			prst = False
+			ref = 0
+			ctrl = False
+			PQSMin = 2
+			PQSMax = 9
+			GroupOverride = 0
+			OverrideDefault = False,False,False,False
+			OverrideActionControl = 0,0,0,0
+			OverrideAxisControl = 0,0,0,0
+			OverrideGroupNames = ,,,
+			altDispState = DEFAULT
+			cPch = 0
+			cHdg = 0
+			cMod = -1
+			ORBIT
+			{
+				SMA = 300820.02431018342
+				ECC = 0.99479844861092859
+				INC = 0.097058307689200443
+				LPE = 90
+				LAN = 106.17128386357643
+				MNA = -3.1415926535897887
+				EPH = 43.660000000001226
+				REF = 1
+			}
+			PART
+			{
+				name = launchClamp1
+				cid = 4292641480
+				uid = 521632559
+				mid = 2409059910
+				persistentId = 680505922
+				launchID = 1
+				parent = 0
+				position = 0,0,0
+				rotation = 0,0,0,1.00000083
+				mirror = 1,1,1
+				symMethod = Mirror
+				istg = 4
+				resPri = 0
+				dstg = 4
+				sqor = 4
+				sepI = 4
+				sidx = 2
+				attm = 1
+				sameVesselCollision = False
+				srfN = srfAttach, -1,Col
+				mass = 0.100000001
+				shielded = False
+				temp = 308.94082812496646
+				tempExt = 309.3065014131692
+				tempExtUnexp = 309.30629522400403
+				staticPressureAtm = 0.98888834876364728
+				expt = 0.100000001
+				state = 1
+				PreFailState = 0
+				attached = False
+				autostrutMode = Root
+				rigidAttachment = False
+				flag = Squad/FlagsAgency/NASA
+				rTrf = launchClamp1
+				modCost = 0
+				modMass = 0
+				moduleVariantName = 
+				moduleCargoStackableQuantity = 1
+				EVENTS
+				{
+				}
+				ACTIONS
+				{
+					ToggleSameVesselInteraction
+					{
+						actionGroup = None
+						wasActiveBeforePartWasAdjusted = False
+					}
+					SetSameVesselInteraction
+					{
+						actionGroup = None
+						wasActiveBeforePartWasAdjusted = False
+					}
+					RemoveSameVesselInteraction
+					{
+						actionGroup = None
+						wasActiveBeforePartWasAdjusted = False
+					}
+				}
+				PARTDATA
+				{
+				}
+				MODULE
+				{
+					name = LaunchClamp
+					isEnabled = True
+					scaleFactor = 1.36993146
+					height = 3.45660973
+					stagingEnabled = True
+					towerRot = 1.92045562E-07,3.57627812E-07,-2.95029167E-07,1
+					EVENTS
+					{
+					}
+					ACTIONS
+					{
+						ReleaseClamp
+						{
+							actionGroup = None
+							wasActiveBeforePartWasAdjusted = False
+						}
+					}
+					UPGRADESAPPLIED
+					{
+					}
+				}
+				MODULE
+				{
+					name = ModuleGenerator
+					isEnabled = True
+					generatorIsActive = True
+					throttle = 1
+					stagingEnabled = True
+					EVENTS
+					{
+					}
+					ACTIONS
+					{
+						ToggleAction
+						{
+							actionGroup = None
+							active = False
+							wasActiveBeforePartWasAdjusted = False
+						}
+						ActivateAction
+						{
+							actionGroup = None
+							active = False
+							wasActiveBeforePartWasAdjusted = False
+						}
+						ShutdownAction
+						{
+							actionGroup = None
+							active = False
+							wasActiveBeforePartWasAdjusted = False
+						}
+					}
+					UPGRADESAPPLIED
+					{
+					}
+				}
+				MODULE
+				{
+					name = ModuleTestSubject
+					isEnabled = True
+					stagingEnabled = True
+					EVENTS
+					{
+					}
+					ACTIONS
+					{
+					}
+					UPGRADESAPPLIED
+					{
+					}
+				}
+				MODULE
+				{
+					name = HitpointTracker
+					isEnabled = True
+					Armor = 10
+					maxHitPoints = 0
+					ArmorThickness = 0
+					ArmorSet = True
+					ExplodeMode = Never
+					FireFX = True
+					FireFXLifeTimeInSeconds = 5
+					stagingEnabled = True
+					EVENTS
+					{
+					}
+					ACTIONS
+					{
+					}
+					UPGRADESAPPLIED
+					{
+					}
+				}
+			}
+			ACTIONGROUPS
+			{
+				Stage = True, 14.7599999999998
+				Gear = False, 0
+				Light = False, 0
+				RCS = False, 0
+				SAS = True, 14.0399999999998
+				Brakes = True, 0
+				Abort = False, 0
+				Custom01 = False, 0
+				Custom02 = False, 0
+				Custom03 = False, 0
+				Custom04 = False, 0
+				Custom05 = False, 0
+				Custom06 = False, 0
+				Custom07 = False, 0
+				Custom08 = False, 0
+				Custom09 = False, 0
+				Custom10 = False, 0
+			}
+			DISCOVERY
+			{
+				state = -1
+				lastObservedTime = 0
+				lifetime = Infinity
+				refTime = Infinity
+				size = 2
+			}
+			FLIGHTPLAN
+			{
+			}
+			CTRLSTATE
+			{
+				pitch = 0
+				yaw = 0
+				roll = 0
+				trimPitch = 0
+				trimYaw = 0
+				trimRoll = 0
+				mainThrottle = 0
+			}
+			VESSELMODULES
+			{
+				FlightIntegrator
+				{
+				}
+				AxisGroupsModule
+				{
+				}
+			}
+		}
+		VESSEL
+		{
+			pid = 4854384ec0b64169b54d6c78c3deb3fb
+			persistentId = 2859985795
+			name = Space Shuttle Challenger Debris
+			type = Debris
+			sit = LANDED
+			landed = True
+			skipGroundPositioning = False
+			vesselSpawning = True
+			launchedFrom = LaunchPad
+			landedAt = LaunchPad
+			displaylandedAt = 
+			splashed = False
+			met = 26.020000000001513
+			lct = 17.639999999999713
+			lastUT = 43.660000000001226
+			distanceTraveled = 0
+			root = 0
+			lat = -0.097548899634529521
+			lon = -74.557899214166497
+			alt = 75.309325015172362
+			hgt = 2.83711386
+			nrm = -2.45170668E-07,1,-3.27825546E-07
+			rot = 0.564451516,0.560510278,-0.426895916,-0.430096239
+			CoM = 0,0,0
+			stg = 4
+			prst = False
+			ref = 0
+			ctrl = False
+			PQSMin = 2
+			PQSMax = 9
+			GroupOverride = 0
+			OverrideDefault = False,False,False,False
+			OverrideActionControl = 0,0,0,0
+			OverrideAxisControl = 0,0,0,0
+			OverrideGroupNames = ,,,
+			altDispState = DEFAULT
+			cPch = 0
+			cHdg = 0
+			cMod = -1
+			ORBIT
+			{
+				SMA = 300820.02000303962
+				ECC = 0.99479844898272274
+				INC = 0.097548899634529534
+				LPE = 90.000000000000014
+				LAN = 106.17147522930281
+				MNA = 3.1415926535897887
+				EPH = 43.660000000001226
+				REF = 1
+			}
+			PART
+			{
+				name = launchClamp1
+				cid = 4291114734
+				uid = 2033622276
+				mid = 2409059910
+				persistentId = 3886581080
+				launchID = 1
+				parent = 0
+				position = 0,0,0
+				rotation = 0,0,0,1.00000095
+				mirror = 1,1,1
+				symMethod = Mirror
+				istg = 4
+				resPri = 0
+				dstg = 4
+				sqor = 4
+				sepI = 4
+				sidx = 5
+				attm = 1
+				sameVesselCollision = False
+				srfN = srfAttach, -1,Col
+				mass = 0.100000001
+				shielded = False
+				temp = 308.93839912142744
+				tempExt = 309.30030682458698
+				tempExtUnexp = 309.30009834152395
+				staticPressureAtm = 0.98888962880023279
+				expt = 0.100000001
+				state = 1
+				PreFailState = 0
+				attached = False
+				autostrutMode = Root
+				rigidAttachment = False
+				flag = Squad/FlagsAgency/NASA
+				rTrf = launchClamp1
+				modCost = 0
+				modMass = 0
+				moduleVariantName = 
+				moduleCargoStackableQuantity = 1
+				EVENTS
+				{
+				}
+				ACTIONS
+				{
+					ToggleSameVesselInteraction
+					{
+						actionGroup = None
+						wasActiveBeforePartWasAdjusted = False
+					}
+					SetSameVesselInteraction
+					{
+						actionGroup = None
+						wasActiveBeforePartWasAdjusted = False
+					}
+					RemoveSameVesselInteraction
+					{
+						actionGroup = None
+						wasActiveBeforePartWasAdjusted = False
+					}
+				}
+				PARTDATA
+				{
+				}
+				MODULE
+				{
+					name = LaunchClamp
+					isEnabled = True
+					scaleFactor = 1.36596191
+					height = 3.44659996
+					stagingEnabled = True
+					towerRot = 3.72704164E-07,-0.70710665,2.53495074E-07,-0.707106888
+					EVENTS
+					{
+					}
+					ACTIONS
+					{
+						ReleaseClamp
+						{
+							actionGroup = None
+							wasActiveBeforePartWasAdjusted = False
+						}
+					}
+					UPGRADESAPPLIED
+					{
+					}
+				}
+				MODULE
+				{
+					name = ModuleGenerator
+					isEnabled = True
+					generatorIsActive = True
+					throttle = 1
+					stagingEnabled = True
+					EVENTS
+					{
+					}
+					ACTIONS
+					{
+						ToggleAction
+						{
+							actionGroup = None
+							active = False
+							wasActiveBeforePartWasAdjusted = False
+						}
+						ActivateAction
+						{
+							actionGroup = None
+							active = False
+							wasActiveBeforePartWasAdjusted = False
+						}
+						ShutdownAction
+						{
+							actionGroup = None
+							active = False
+							wasActiveBeforePartWasAdjusted = False
+						}
+					}
+					UPGRADESAPPLIED
+					{
+					}
+				}
+				MODULE
+				{
+					name = ModuleTestSubject
+					isEnabled = True
+					stagingEnabled = True
+					EVENTS
+					{
+					}
+					ACTIONS
+					{
+					}
+					UPGRADESAPPLIED
+					{
+					}
+				}
+				MODULE
+				{
+					name = HitpointTracker
+					isEnabled = True
+					Armor = 10
+					maxHitPoints = 0
+					ArmorThickness = 0
+					ArmorSet = True
+					ExplodeMode = Never
+					FireFX = True
+					FireFXLifeTimeInSeconds = 5
+					stagingEnabled = True
+					EVENTS
+					{
+					}
+					ACTIONS
+					{
+					}
+					UPGRADESAPPLIED
+					{
+					}
+				}
+			}
+			ACTIONGROUPS
+			{
+				Stage = True, 14.7599999999998
+				Gear = False, 0
+				Light = False, 0
+				RCS = False, 0
+				SAS = True, 14.0399999999998
+				Brakes = True, 0
+				Abort = False, 0
+				Custom01 = False, 0
+				Custom02 = False, 0
+				Custom03 = False, 0
+				Custom04 = False, 0
+				Custom05 = False, 0
+				Custom06 = False, 0
+				Custom07 = False, 0
+				Custom08 = False, 0
+				Custom09 = False, 0
+				Custom10 = False, 0
+			}
+			DISCOVERY
+			{
+				state = -1
+				lastObservedTime = 0
+				lifetime = Infinity
+				refTime = Infinity
+				size = 2
+			}
+			FLIGHTPLAN
+			{
+			}
+			CTRLSTATE
+			{
+				pitch = 0
+				yaw = 0
+				roll = 0
+				trimPitch = 0
+				trimYaw = 0
+				trimRoll = 0
+				mainThrottle = 0
+			}
+			VESSELMODULES
+			{
+				FlightIntegrator
+				{
+				}
+				AxisGroupsModule
+				{
+				}
+			}
+		}
+		VESSEL
+		{
+			pid = 35ad72391ba049998ef0030dc84a700e
+			persistentId = 3861191017
+			name = Space Shuttle Challenger Debris
+			type = Debris
+			sit = LANDED
+			landed = True
+			skipGroundPositioning = False
+			vesselSpawning = True
+			launchedFrom = LaunchPad
+			landedAt = LaunchPad
+			displaylandedAt = 
+			splashed = False
+			met = 26.020000000001513
+			lct = 17.639999999999713
+			lastUT = 43.660000000001226
+			distanceTraveled = 0
+			root = 0
+			lat = -0.09774207438755983
+			lon = -74.558095348526166
+			alt = 75.31946114404127
+			hgt = 2.84874558
+			nrm = 8.04662704E-06,1,1.01327896E-06
+			rot = 0.700989366,0.0922142491,0.0972633883,-0.700464427
+			CoM = 0,0,0
+			stg = 4
+			prst = False
+			ref = 0
+			ctrl = False
+			PQSMin = 2
+			PQSMax = 9
+			GroupOverride = 0
+			OverrideDefault = False,False,False,False
+			OverrideActionControl = 0,0,0,0
+			OverrideAxisControl = 0,0,0,0
+			OverrideGroupNames = ,,,
+			altDispState = DEFAULT
+			cPch = 0
+			cHdg = 0
+			cMod = -1
+			ORBIT
+			{
+				SMA = 300820.02511505433
+				ECC = 0.99479844877891299
+				INC = 0.097742074387559802
+				LPE = 90.000000000000014
+				LAN = 106.17127909494315
+				MNA = 3.1415926535897887
+				EPH = 43.660000000001226
+				REF = 1
+			}
+			PART
+			{
+				name = launchClamp1
+				cid = 4292992538
+				uid = 335604901
+				mid = 2409059910
+				persistentId = 107908143
+				launchID = 1
+				parent = 0
+				position = 0,0,0
+				rotation = 0,0,0,1.00000083
+				mirror = 1,1,1
+				symMethod = Mirror
+				istg = 4
+				resPri = 0
+				dstg = 4
+				sqor = 4
+				sepI = 4
+				sidx = 4
+				attm = 1
+				sameVesselCollision = False
+				srfN = srfAttach, -1,Col
+				mass = 0.100000001
+				shielded = False
+				temp = 308.96491507209072
+				tempExt = 309.32862293786093
+				tempExtUnexp = 309.32841984074832
+				staticPressureAtm = 0.98888812287483807
+				expt = 0.100000001
+				state = 1
+				PreFailState = 0
+				attached = False
+				autostrutMode = Root
+				rigidAttachment = False
+				flag = Squad/FlagsAgency/NASA
+				rTrf = launchClamp1
+				modCost = 0
+				modMass = 0
+				moduleVariantName = 
+				moduleCargoStackableQuantity = 1
+				EVENTS
+				{
+				}
+				ACTIONS
+				{
+					ToggleSameVesselInteraction
+					{
+						actionGroup = None
+						wasActiveBeforePartWasAdjusted = False
+					}
+					SetSameVesselInteraction
+					{
+						actionGroup = None
+						wasActiveBeforePartWasAdjusted = False
+					}
+					RemoveSameVesselInteraction
+					{
+						actionGroup = None
+						wasActiveBeforePartWasAdjusted = False
+					}
+				}
+				PARTDATA
+				{
+				}
+				MODULE
+				{
+					name = LaunchClamp
+					isEnabled = True
+					scaleFactor = 1.37057447
+					height = 3.45824051
+					stagingEnabled = True
+					towerRot = 1.92044538E-07,1.7881392E-07,2.95028087E-07,-1
+					EVENTS
+					{
+					}
+					ACTIONS
+					{
+						ReleaseClamp
+						{
+							actionGroup = None
+							wasActiveBeforePartWasAdjusted = False
+						}
+					}
+					UPGRADESAPPLIED
+					{
+					}
+				}
+				MODULE
+				{
+					name = ModuleGenerator
+					isEnabled = True
+					generatorIsActive = True
+					throttle = 1
+					stagingEnabled = True
+					EVENTS
+					{
+					}
+					ACTIONS
+					{
+						ToggleAction
+						{
+							actionGroup = None
+							active = False
+							wasActiveBeforePartWasAdjusted = False
+						}
+						ActivateAction
+						{
+							actionGroup = None
+							active = False
+							wasActiveBeforePartWasAdjusted = False
+						}
+						ShutdownAction
+						{
+							actionGroup = None
+							active = False
+							wasActiveBeforePartWasAdjusted = False
+						}
+					}
+					UPGRADESAPPLIED
+					{
+					}
+				}
+				MODULE
+				{
+					name = ModuleTestSubject
+					isEnabled = True
+					stagingEnabled = True
+					EVENTS
+					{
+					}
+					ACTIONS
+					{
+					}
+					UPGRADESAPPLIED
+					{
+					}
+				}
+				MODULE
+				{
+					name = HitpointTracker
+					isEnabled = True
+					Armor = 10
+					maxHitPoints = 0
+					ArmorThickness = 0
+					ArmorSet = True
+					ExplodeMode = Never
+					FireFX = True
+					FireFXLifeTimeInSeconds = 5
+					stagingEnabled = True
+					EVENTS
+					{
+					}
+					ACTIONS
+					{
+					}
+					UPGRADESAPPLIED
+					{
+					}
+				}
+			}
+			ACTIONGROUPS
+			{
+				Stage = True, 14.7599999999998
+				Gear = False, 0
+				Light = False, 0
+				RCS = False, 0
+				SAS = True, 14.0399999999998
+				Brakes = True, 0
+				Abort = False, 0
+				Custom01 = False, 0
+				Custom02 = False, 0
+				Custom03 = False, 0
+				Custom04 = False, 0
+				Custom05 = False, 0
+				Custom06 = False, 0
+				Custom07 = False, 0
+				Custom08 = False, 0
+				Custom09 = False, 0
+				Custom10 = False, 0
+			}
+			DISCOVERY
+			{
+				state = -1
+				lastObservedTime = 0
+				lifetime = Infinity
+				refTime = Infinity
+				size = 2
+			}
+			FLIGHTPLAN
+			{
+			}
+			CTRLSTATE
+			{
+				pitch = 0
+				yaw = 0
+				roll = 0
+				trimPitch = 0
+				trimYaw = 0
+				trimRoll = 0
+				mainThrottle = 0
+			}
+			VESSELMODULES
+			{
+				FlightIntegrator
+				{
+				}
+				AxisGroupsModule
+				{
+				}
+			}
+		}
+		VESSEL
+		{
+			pid = 32942a713b5146cda578d8da1ccf2d8a
+			persistentId = 3161347547
+			name = Space Shuttle Challenger Debris
+			type = Debris
+			sit = LANDED
+			landed = True
+			skipGroundPositioning = False
+			vesselSpawning = True
+			launchedFrom = LaunchPad
+			landedAt = LaunchPad
+			displaylandedAt = 
+			splashed = False
+			met = 26.020000000001513
+			lct = 17.639999999999713
+			lastUT = 43.660000000001226
+			distanceTraveled = 0
+			root = 0
+			lat = -0.097546175651366182
+			lon = -74.558289718539527
+			alt = 75.257286023115739
+			hgt = 2.788095
+			nrm = -2.16066837E-07,1,8.58306885E-06
+			rot = -0.426898926,0.430098057,-0.564449489,0.560508668
+			CoM = 0,0,0
+			stg = 4
+			prst = False
+			ref = 0
+			ctrl = False
+			PQSMin = 2
+			PQSMax = 9
+			GroupOverride = 0
+			OverrideDefault = False,False,False,False
+			OverrideActionControl = 0,0,0,0
+			OverrideAxisControl = 0,0,0,0
+			OverrideGroupNames = ,,,
+			altDispState = DEFAULT
+			cPch = 0
+			cHdg = 0
+			cMod = -1
+			ORBIT
+			{
+				SMA = 300819.99371175072
+				ECC = 0.99479845033512793
+				INC = 0.097546175651366154
+				LPE = 90
+				LAN = 106.17108472492976
+				MNA = 3.1415926535897887
+				EPH = 43.660000000001226
+				REF = 1
+			}
+			PART
+			{
+				name = launchClamp1
+				cid = 4292992318
+				uid = 1961621773
+				mid = 2409059910
+				persistentId = 161512830
+				launchID = 1
+				parent = 0
+				position = 0,0,0
+				rotation = 0,0,0,1.00000095
+				mirror = 1,1,1
+				symMethod = Mirror
+				istg = 4
+				resPri = 0
+				dstg = 4
+				sqor = 4
+				sepI = 4
+				sidx = 3
+				attm = 1
+				sameVesselCollision = False
+				srfN = srfAttach, -1,Col
+				mass = 0.100000001
+				shielded = False
+				temp = 389.00945682114366
+				tempExt = 382.63125813075624
+				tempExtUnexp = 382.64174368038834
+				staticPressureAtm = 0.98889723372347638
+				expt = 0.100000001
+				state = 1
+				PreFailState = 0
+				attached = False
+				autostrutMode = Root
+				rigidAttachment = False
+				flag = Squad/FlagsAgency/NASA
+				rTrf = launchClamp1
+				modCost = 0
+				modMass = 0
+				moduleVariantName = 
+				moduleCargoStackableQuantity = 1
+				EVENTS
+				{
+				}
+				ACTIONS
+				{
+					ToggleSameVesselInteraction
+					{
+						actionGroup = None
+						wasActiveBeforePartWasAdjusted = False
+					}
+					SetSameVesselInteraction
+					{
+						actionGroup = None
+						wasActiveBeforePartWasAdjusted = False
+					}
+					RemoveSameVesselInteraction
+					{
+						actionGroup = None
+						wasActiveBeforePartWasAdjusted = False
+					}
+				}
+				PARTDATA
+				{
+				}
+				MODULE
+				{
+					name = LaunchClamp
+					isEnabled = True
+					scaleFactor = 1.34654284
+					height = 3.39760113
+					stagingEnabled = True
+					towerRot = 2.09724476E-07,-0.707106888,-3.28933368E-07,0.70710665
+					EVENTS
+					{
+					}
+					ACTIONS
+					{
+						ReleaseClamp
+						{
+							actionGroup = None
+							wasActiveBeforePartWasAdjusted = False
+						}
+					}
+					UPGRADESAPPLIED
+					{
+					}
+				}
+				MODULE
+				{
+					name = ModuleGenerator
+					isEnabled = True
+					generatorIsActive = True
+					throttle = 1
+					stagingEnabled = True
+					EVENTS
+					{
+					}
+					ACTIONS
+					{
+						ToggleAction
+						{
+							actionGroup = None
+							active = False
+							wasActiveBeforePartWasAdjusted = False
+						}
+						ActivateAction
+						{
+							actionGroup = None
+							active = False
+							wasActiveBeforePartWasAdjusted = False
+						}
+						ShutdownAction
+						{
+							actionGroup = None
+							active = False
+							wasActiveBeforePartWasAdjusted = False
+						}
+					}
+					UPGRADESAPPLIED
+					{
+					}
+				}
+				MODULE
+				{
+					name = ModuleTestSubject
+					isEnabled = True
+					stagingEnabled = True
+					EVENTS
+					{
+					}
+					ACTIONS
+					{
+					}
+					UPGRADESAPPLIED
+					{
+					}
+				}
+				MODULE
+				{
+					name = HitpointTracker
+					isEnabled = True
+					Armor = 10
+					maxHitPoints = 0
+					ArmorThickness = 0
+					ArmorSet = True
+					ExplodeMode = Never
+					FireFX = True
+					FireFXLifeTimeInSeconds = 5
+					stagingEnabled = True
+					EVENTS
+					{
+					}
+					ACTIONS
+					{
+					}
+					UPGRADESAPPLIED
+					{
+					}
+				}
+			}
+			ACTIONGROUPS
+			{
+				Stage = True, 14.7599999999998
+				Gear = False, 0
+				Light = False, 0
+				RCS = False, 0
+				SAS = True, 14.0399999999998
+				Brakes = True, 0
+				Abort = False, 0
+				Custom01 = False, 0
+				Custom02 = False, 0
+				Custom03 = False, 0
+				Custom04 = False, 0
+				Custom05 = False, 0
+				Custom06 = False, 0
+				Custom07 = False, 0
+				Custom08 = False, 0
+				Custom09 = False, 0
+				Custom10 = False, 0
+			}
+			DISCOVERY
+			{
+				state = -1
+				lastObservedTime = 0
+				lifetime = Infinity
+				refTime = Infinity
+				size = 2
+			}
+			FLIGHTPLAN
+			{
+			}
+			CTRLSTATE
+			{
+				pitch = 0
+				yaw = 0
+				roll = 0
+				trimPitch = 0
+				trimYaw = 0
+				trimRoll = 0
+				mainThrottle = 0
+			}
+			VESSELMODULES
+			{
+				FlightIntegrator
+				{
+				}
+				AxisGroupsModule
+				{
+				}
+			}
+		}
+		VESSEL
+		{
+			pid = 3697d589d0a5406dbad4203dedb4692e
+			persistentId = 1379138668
+			name = Space Shuttle Challenger Debris
+			type = Debris
+			sit = LANDED
+			landed = True
+			skipGroundPositioning = False
+			vesselSpawning = True
+			launchedFrom = LaunchPad
+			landedAt = LaunchPad
+			displaylandedAt = 
+			splashed = False
+			met = 26.020000000001513
+			lct = 17.639999999999713
+			lastUT = 43.660000000001226
+			distanceTraveled = 0
+			root = 0
+			lat = -0.097351405631543916
+			lon = -74.558092623510859
+			alt = 75.317808785126545
+			hgt = 2.84711599
+			nrm = -8.2552433E-06,1,3.93390656E-06
+			rot = 0.0972622037,0.700466096,-0.700987756,0.0922153294
+			CoM = 0,0,0
+			stg = 4
+			prst = False
+			ref = 0
+			ctrl = False
+			PQSMin = 2
+			PQSMax = 9
+			GroupOverride = 0
+			OverrideDefault = False,False,False,False
+			OverrideActionControl = 0,0,0,0
+			OverrideAxisControl = 0,0,0,0
+			OverrideGroupNames = ,,,
+			altDispState = DEFAULT
+			cPch = 0
+			cHdg = 0
+			cMod = -1
+			ORBIT
+			{
+				SMA = 300820.02429845236
+				ECC = 0.99479844870111722
+				INC = 0.097351405631543889
+				LPE = 90
+				LAN = 106.17128181995844
+				MNA = 3.1415926535897887
+				EPH = 43.660000000001226
+				REF = 1
+			}
+			PART
+			{
+				name = launchClamp1
+				cid = 4292992098
+				uid = 616843414
+				mid = 2409059910
+				persistentId = 2041387143
+				launchID = 1
+				parent = 0
+				position = 0,0,0
+				rotation = 0,0,0,1.00000083
+				mirror = 1,1,1
+				symMethod = Mirror
+				istg = 4
+				resPri = 0
+				dstg = 4
+				sqor = 4
+				sepI = 4
+				sidx = 2
+				attm = 1
+				sameVesselCollision = False
+				srfN = srfAttach, -1,Col
+				mass = 0.100000001
+				shielded = False
+				temp = 308.94540396775733
+				tempExt = 309.31070334631727
+				tempExtUnexp = 309.31049774774317
+				staticPressureAtm = 0.98888834876364728
+				expt = 0.100000001
+				state = 1
+				PreFailState = 0
+				attached = False
+				autostrutMode = Root
+				rigidAttachment = False
+				flag = Squad/FlagsAgency/NASA
+				rTrf = launchClamp1
+				modCost = 0
+				modMass = 0
+				moduleVariantName = 
+				moduleCargoStackableQuantity = 1
+				EVENTS
+				{
+				}
+				ACTIONS
+				{
+					ToggleSameVesselInteraction
+					{
+						actionGroup = None
+						wasActiveBeforePartWasAdjusted = False
+					}
+					SetSameVesselInteraction
+					{
+						actionGroup = None
+						wasActiveBeforePartWasAdjusted = False
+					}
+					RemoveSameVesselInteraction
+					{
+						actionGroup = None
+						wasActiveBeforePartWasAdjusted = False
+					}
+				}
+				PARTDATA
+				{
+				}
+				MODULE
+				{
+					name = LaunchClamp
+					isEnabled = True
+					scaleFactor = 1.36992979
+					height = 3.45660973
+					stagingEnabled = True
+					towerRot = 2.9502803E-07,-1,-1.92044624E-07,-2.98023195E-07
+					EVENTS
+					{
+					}
+					ACTIONS
+					{
+						ReleaseClamp
+						{
+							actionGroup = None
+							wasActiveBeforePartWasAdjusted = False
+						}
+					}
+					UPGRADESAPPLIED
+					{
+					}
+				}
+				MODULE
+				{
+					name = ModuleGenerator
+					isEnabled = True
+					generatorIsActive = True
+					throttle = 1
+					stagingEnabled = True
+					EVENTS
+					{
+					}
+					ACTIONS
+					{
+						ToggleAction
+						{
+							actionGroup = None
+							active = False
+							wasActiveBeforePartWasAdjusted = False
+						}
+						ActivateAction
+						{
+							actionGroup = None
+							active = False
+							wasActiveBeforePartWasAdjusted = False
+						}
+						ShutdownAction
+						{
+							actionGroup = None
+							active = False
+							wasActiveBeforePartWasAdjusted = False
+						}
+					}
+					UPGRADESAPPLIED
+					{
+					}
+				}
+				MODULE
+				{
+					name = ModuleTestSubject
+					isEnabled = True
+					stagingEnabled = True
+					EVENTS
+					{
+					}
+					ACTIONS
+					{
+					}
+					UPGRADESAPPLIED
+					{
+					}
+				}
+				MODULE
+				{
+					name = HitpointTracker
+					isEnabled = True
+					Armor = 10
+					maxHitPoints = 0
+					ArmorThickness = 0
+					ArmorSet = True
+					ExplodeMode = Never
+					FireFX = True
+					FireFXLifeTimeInSeconds = 5
+					stagingEnabled = True
+					EVENTS
+					{
+					}
+					ACTIONS
+					{
+					}
+					UPGRADESAPPLIED
+					{
+					}
+				}
+			}
+			ACTIONGROUPS
+			{
+				Stage = True, 14.7599999999998
+				Gear = False, 0
+				Light = False, 0
+				RCS = False, 0
+				SAS = True, 14.0399999999998
+				Brakes = True, 0
+				Abort = False, 0
+				Custom01 = False, 0
+				Custom02 = False, 0
+				Custom03 = False, 0
+				Custom04 = False, 0
+				Custom05 = False, 0
+				Custom06 = False, 0
+				Custom07 = False, 0
+				Custom08 = False, 0
+				Custom09 = False, 0
+				Custom10 = False, 0
+			}
+			DISCOVERY
+			{
+				state = -1
+				lastObservedTime = 0
+				lifetime = Infinity
+				refTime = Infinity
+				size = 2
+			}
+			FLIGHTPLAN
+			{
+			}
+			CTRLSTATE
+			{
+				pitch = 0
+				yaw = 0
+				roll = 0
+				trimPitch = 0
+				trimYaw = 0
+				trimRoll = 0
+				mainThrottle = 0
+			}
+			VESSELMODULES
+			{
+				FlightIntegrator
+				{
+				}
+				AxisGroupsModule
+				{
+				}
+			}
+		}
+		VESSEL
+		{
+			pid = 29c0a5a9251346d697a02760b9f4b095
+			persistentId = 423139233
+			name = Space Shuttle Challenger Debris
+			type = Debris
+			sit = LANDED
+			landed = True
+			skipGroundPositioning = False
+			vesselSpawning = True
+			launchedFrom = LaunchPad
+			landedAt = LaunchPad
+			displaylandedAt = 
+			splashed = False
+			met = 26.020000000001513
+			lct = 17.639999999999713
+			lastUT = 43.660000000001226
+			distanceTraveled = 0
+			root = 0
+			lat = -0.097431482405892542
+			lon = -74.5574489721796
+			alt = 76.715517854667269
+			hgt = 4.23980427
+			nrm = -6.28829002E-06,0.997739136,-0.0672054887
+			rot = -0.663891554,-0.347057223,0.190167531,0.634535849
+			CoM = 0,0,0
+			stg = 4
+			prst = False
+			ref = 0
+			ctrl = False
+			PQSMin = 2
+			PQSMax = 9
+			GroupOverride = 0
+			OverrideDefault = False,False,False,False
+			OverrideActionControl = 0,0,0,0
+			OverrideAxisControl = 0,0,0,0
+			OverrideGroupNames = ,,,
+			altDispState = DEFAULT
+			cPch = 0
+			cHdg = 0
+			cMod = -1
+			ORBIT
+			{
+				SMA = 300820.73045275401
+				ECC = 0.99479841237903244
+				INC = 0.097431482405892542
+				LPE = 90
+				LAN = 106.17192547128968
+				MNA = -3.1415926535897887
+				EPH = 43.660000000001226
+				REF = 1
+			}
+			PART
+			{
+				name = launchClamp1
+				cid = 4294016182
+				uid = 2040393558
+				mid = 2409059910
+				persistentId = 1950713893
+				launchID = 1
+				parent = 0
+				position = 0,0,0
+				rotation = 0,0,0,1.0000006
+				mirror = 1,1,1
+				symMethod = Mirror
+				istg = 4
+				resPri = 0
+				dstg = 0
+				sqor = 4
+				sepI = 4
+				sidx = 1
+				attm = 1
+				sameVesselCollision = False
+				srfN = srfAttach, -1,AdapterShortCOL
+				mass = 0.100000001
+				shielded = False
+				temp = 308.99426727391347
+				tempExt = 309.36934388792082
+				tempExtUnexp = 309.36915137492326
+				staticPressureAtm = 0.98868309113234021
+				expt = 0.100000001
+				state = 1
+				PreFailState = 0
+				attached = False
+				autostrutMode = Root
+				rigidAttachment = False
+				flag = Squad/FlagsAgency/NASA
+				rTrf = launchClamp1
+				modCost = 0
+				modMass = 0
+				moduleVariantName = 
+				moduleCargoStackableQuantity = 1
+				EVENTS
+				{
+				}
+				ACTIONS
+				{
+					ToggleSameVesselInteraction
+					{
+						actionGroup = None
+						wasActiveBeforePartWasAdjusted = False
+					}
+					SetSameVesselInteraction
+					{
+						actionGroup = None
+						wasActiveBeforePartWasAdjusted = False
+					}
+					RemoveSameVesselInteraction
+					{
+						actionGroup = None
+						wasActiveBeforePartWasAdjusted = False
+					}
+				}
+				PARTDATA
+				{
+				}
+				MODULE
+				{
+					name = LaunchClamp
+					isEnabled = True
+					scaleFactor = 1.94599259
+					height = 4.91013145
+					stagingEnabled = True
+					towerRot = -0.0310622752,0.38246718,-0.0128665259,0.923357248
+					EVENTS
+					{
+					}
+					ACTIONS
+					{
+						ReleaseClamp
+						{
+							actionGroup = None
+							wasActiveBeforePartWasAdjusted = False
+						}
+					}
+					UPGRADESAPPLIED
+					{
+					}
+				}
+				MODULE
+				{
+					name = ModuleGenerator
+					isEnabled = True
+					generatorIsActive = True
+					throttle = 1
+					stagingEnabled = True
+					EVENTS
+					{
+					}
+					ACTIONS
+					{
+						ToggleAction
+						{
+							actionGroup = None
+							active = False
+							wasActiveBeforePartWasAdjusted = False
+						}
+						ActivateAction
+						{
+							actionGroup = None
+							active = False
+							wasActiveBeforePartWasAdjusted = False
+						}
+						ShutdownAction
+						{
+							actionGroup = None
+							active = False
+							wasActiveBeforePartWasAdjusted = False
+						}
+					}
+					UPGRADESAPPLIED
+					{
+					}
+				}
+				MODULE
+				{
+					name = ModuleTestSubject
+					isEnabled = True
+					stagingEnabled = True
+					EVENTS
+					{
+					}
+					ACTIONS
+					{
+					}
+					UPGRADESAPPLIED
+					{
+					}
+				}
+				MODULE
+				{
+					name = HitpointTracker
+					isEnabled = True
+					Armor = 10
+					maxHitPoints = 0
+					ArmorThickness = 0
+					ArmorSet = True
+					ExplodeMode = Never
+					FireFX = True
+					FireFXLifeTimeInSeconds = 5
+					stagingEnabled = True
+					EVENTS
+					{
+					}
+					ACTIONS
+					{
+					}
+					UPGRADESAPPLIED
+					{
+					}
+				}
+			}
+			ACTIONGROUPS
+			{
+				Stage = True, 14.7599999999998
+				Gear = False, 0
+				Light = False, 0
+				RCS = False, 0
+				SAS = True, 14.0399999999998
+				Brakes = True, 0
+				Abort = False, 0
+				Custom01 = False, 0
+				Custom02 = False, 0
+				Custom03 = False, 0
+				Custom04 = False, 0
+				Custom05 = False, 0
+				Custom06 = False, 0
+				Custom07 = False, 0
+				Custom08 = False, 0
+				Custom09 = False, 0
+				Custom10 = False, 0
+			}
+			DISCOVERY
+			{
+				state = -1
+				lastObservedTime = 0
+				lifetime = Infinity
+				refTime = Infinity
+				size = 2
+			}
+			FLIGHTPLAN
+			{
+			}
+			CTRLSTATE
+			{
+				pitch = 0
+				yaw = 0
+				roll = 0
+				trimPitch = 0
+				trimYaw = 0
+				trimRoll = 0
+				mainThrottle = 0
+			}
+			VESSELMODULES
+			{
+				FlightIntegrator
+				{
+				}
+				AxisGroupsModule
+				{
+				}
+			}
+		}
+		VESSEL
+		{
+			pid = 35219c291b704cc4bb4b88743aebf2c3
+			persistentId = 1613452710
+			name = Space Shuttle Challenger Debris
+			type = Debris
+			sit = LANDED
+			landed = True
+			skipGroundPositioning = False
+			vesselSpawning = True
+			launchedFrom = LaunchPad
+			landedAt = LaunchPad
+			displaylandedAt = 
+			splashed = False
+			met = 26.020000000001513
+			lct = 17.639999999999713
+			lastUT = 43.660000000001226
+			distanceTraveled = 0
+			root = 0
+			lat = -0.096987217573503745
+			lon = -74.557445871923477
+			alt = 76.715526620158926
+			hgt = 4.2398138
+			nrm = -4.61935997E-06,0.997739315,-0.0672026873
+			rot = 0.351766825,0.661527753,-0.633005261,-0.194796294
+			CoM = 0,0,0
+			stg = 4
+			prst = False
+			ref = 0
+			ctrl = False
+			PQSMin = 2
+			PQSMax = 9
+			GroupOverride = 0
+			OverrideDefault = False,False,False,False
+			OverrideActionControl = 0,0,0,0
+			OverrideAxisControl = 0,0,0,0
+			OverrideGroupNames = ,,,
+			altDispState = DEFAULT
+			cPch = 0
+			cHdg = 0
+			cMod = -1
+			ORBIT
+			{
+				SMA = 300820.7304778212
+				ECC = 0.99479841224194621
+				INC = 0.096987217573503745
+				LPE = 90
+				LAN = 106.17192857154583
+				MNA = 3.1415926535897887
+				EPH = 43.660000000001226
+				REF = 1
+			}
+			PART
+			{
+				name = launchClamp1
+				cid = 4294000778
+				uid = 1303493571
+				mid = 2409059910
+				persistentId = 1591410854
+				launchID = 1
+				parent = 0
+				position = 0,0,0
+				rotation = 0,0,0,1.0000006
+				mirror = 1,1,1
+				symMethod = Mirror
+				istg = 4
+				resPri = 0
+				dstg = 0
+				sqor = 4
+				sepI = 4
+				sidx = 1
+				attm = 1
+				sameVesselCollision = False
+				srfN = srfAttach, -1,AdapterShortCOL
+				mass = 0.100000001
+				shielded = False
+				temp = 308.9943070325632
+				tempExt = 309.36938116682762
+				tempExtUnexp = 309.36918864566798
+				staticPressureAtm = 0.98868309113234021
+				expt = 0.100000001
+				state = 1
+				PreFailState = 0
+				attached = False
+				autostrutMode = Root
+				rigidAttachment = False
+				flag = Squad/FlagsAgency/NASA
+				rTrf = launchClamp1
+				modCost = 0
+				modMass = 0
+				moduleVariantName = 
+				moduleCargoStackableQuantity = 1
+				EVENTS
+				{
+				}
+				ACTIONS
+				{
+					ToggleSameVesselInteraction
+					{
+						actionGroup = None
+						wasActiveBeforePartWasAdjusted = False
+					}
+					SetSameVesselInteraction
+					{
+						actionGroup = None
+						wasActiveBeforePartWasAdjusted = False
+					}
+					RemoveSameVesselInteraction
+					{
+						actionGroup = None
+						wasActiveBeforePartWasAdjusted = False
+					}
+				}
+				PARTDATA
+				{
+				}
+				MODULE
+				{
+					name = LaunchClamp
+					isEnabled = True
+					scaleFactor = 1.94599342
+					height = 4.91013145
+					stagingEnabled = True
+					towerRot = 0.0128665278,-0.923357248,0.0310622714,-0.382467031
+					EVENTS
+					{
+					}
+					ACTIONS
+					{
+						ReleaseClamp
+						{
+							actionGroup = None
+							wasActiveBeforePartWasAdjusted = False
+						}
+					}
+					UPGRADESAPPLIED
+					{
+					}
+				}
+				MODULE
+				{
+					name = ModuleGenerator
+					isEnabled = True
+					generatorIsActive = True
+					throttle = 1
+					stagingEnabled = True
+					EVENTS
+					{
+					}
+					ACTIONS
+					{
+						ToggleAction
+						{
+							actionGroup = None
+							active = False
+							wasActiveBeforePartWasAdjusted = False
+						}
+						ActivateAction
+						{
+							actionGroup = None
+							active = False
+							wasActiveBeforePartWasAdjusted = False
+						}
+						ShutdownAction
+						{
+							actionGroup = None
+							active = False
+							wasActiveBeforePartWasAdjusted = False
+						}
+					}
+					UPGRADESAPPLIED
+					{
+					}
+				}
+				MODULE
+				{
+					name = ModuleTestSubject
+					isEnabled = True
+					stagingEnabled = True
+					EVENTS
+					{
+					}
+					ACTIONS
+					{
+					}
+					UPGRADESAPPLIED
+					{
+					}
+				}
+				MODULE
+				{
+					name = HitpointTracker
+					isEnabled = True
+					Armor = 10
+					maxHitPoints = 0
+					ArmorThickness = 0
+					ArmorSet = True
+					ExplodeMode = Never
+					FireFX = True
+					FireFXLifeTimeInSeconds = 5
+					stagingEnabled = True
+					EVENTS
+					{
+					}
+					ACTIONS
+					{
+					}
+					UPGRADESAPPLIED
+					{
+					}
+				}
+			}
+			ACTIONGROUPS
+			{
+				Stage = True, 14.7599999999998
+				Gear = False, 0
+				Light = False, 0
+				RCS = False, 0
+				SAS = True, 14.0399999999998
+				Brakes = True, 0
+				Abort = False, 0
+				Custom01 = False, 0
+				Custom02 = False, 0
+				Custom03 = False, 0
+				Custom04 = False, 0
+				Custom05 = False, 0
+				Custom06 = False, 0
+				Custom07 = False, 0
+				Custom08 = False, 0
+				Custom09 = False, 0
+				Custom10 = False, 0
+			}
+			DISCOVERY
+			{
+				state = -1
+				lastObservedTime = 0
+				lifetime = Infinity
+				refTime = Infinity
+				size = 2
+			}
+			FLIGHTPLAN
+			{
+			}
+			CTRLSTATE
+			{
+				pitch = 0
+				yaw = 0
+				roll = 0
+				trimPitch = 0
+				trimYaw = 0
+				trimRoll = 0
+				mainThrottle = 0
+			}
+			VESSELMODULES
+			{
+				FlightIntegrator
+				{
+				}
+				AxisGroupsModule
+				{
+				}
+			}
+		}
+	}
+	LoaderInfo
+	{
+		B9PartSwitch v2.17.0.0 / vv2.17.0 = True
+		BDArmory.Core v1.3.4.0 = True
+		BDArmory v1.3.4.0 = True
+		KAS-API-v2 v2.0.7239.35367 / vKAS API v2 = True
+		KAS v1.7.7516.37663 / v1.7 for KSP v1 = True
+		KSPDev_Utils.2.4 v2.4.7504.27510 / v2.4 for KSP v1 = True
+		MiniAVC-V2 v2.0.0.0 = True
+		CCK v5.1.0.0 / v5.1.0.0 for KSP v1 = True
+		KIS v1.27.7662.37622 / v1.27 for KSP v1 = True
+		ModuleManager v4.1.4.0 = True
+		DockingPortAlignmentIndicator v6.9.2.2 = True
+		DPAI_RPM v1.0.0.2 = True
+		ModuleDockingNodeNamed v1.0.0.2 = True
+		NFPropUtils v1.0.0.0 = True
+		PhysicsRangeExtender v1.19.0.0 = True
+		CLSInterfaces v2.0.0.6 = True
+		ShipManifest v6.0.2.0 = True
+		SMInterface v6.0.2.0 = True
+		HabUtils v1.0.0.0 = True
+		ModuleManagerWatchDog v0.0.1.0 = True
+		Scale_Redist v1.0.0.0 / v2.4.4.0 = True
+		KSPe.Light.TweakScale v2.2.2.1 = True
+		Scale v2.4.4.2 = True
+		VesselMover v1.10.0.0 = True
+		B9PartSwitch = True
+		BDArmory = True
+		KAS = True
+		KIS = True
+		ModuleManager-4.1.4 = True
+		NavyFish = True
+		NearFutureProps = True
+		PhysicsRangeExtender = True
+		ShipManifest = True
+		StationPartsExpansionRedux = True
+		TweakScale-2.4.4.2 = True
+		VesselMover = True
+		ModuleManager.ConfigCache = True
+		ModuleManager.ConfigSHA = True
+		ModuleManager.Physics = True
+		ModuleManager.TechTree = True
+	}
+	ROSTER
+	{
+		KERBAL
+		{
+			name = Jebediah Kerman
+			gender = Male
+			type = Crew
+			trait = Pilot
+			brave = 0.5
+			dumb = 0.5
+			badS = True
+			veteran = True
+			tour = False
+			state = Missing
+			inactive = False
+			inactiveTimeEnd = 0
+			gExperienced = 0
+			outDueToG = False
+			ToD = 7268.0800000000036
+			idx = 0
+			extraXP = 0
+			hasHelmetOn = False
+			hasNeckRingOn = False
+			hasVisorDown = False
+			lightR = 1
+			lightG = 0.5176
+			lightB = 0
+			completedFirstEVA = False
+			suit = Default
+			hero = True
+			INVENTORY
+			{
+				name = ModuleInventoryPart
+				isEnabled = True
+				stagingEnabled = True
+				inventory = evaChute,evaJetpack
+				EVENTS
+				{
+				}
+				ACTIONS
+				{
+				}
+				STOREDPARTS
+				{
+					STOREDPART
+					{
+						slotIndex = 0
+						partName = evaChute
+						quantity = 1
+						stackCapacity = 1
+						variantName = 
+						PART
+						{
+							name = evaChute
+							cid = 4294818686
+							uid = 0
+							mid = 0
+							persistentId = 383225977
+							launchID = 0
+							parent = 0
+							position = 0,0,0
+							rotation = 0,0,0,0
+							mirror = 1,1,1
+							symMethod = Radial
+							istg = 0
+							resPri = 0
+							dstg = 0
+							sqor = -1
+							sepI = 0
+							sidx = -1
+							attm = 0
+							sameVesselCollision = False
+							srfN = None, -1
+							mass = 0.00400000019
+							shielded = False
+							temp = -1
+							tempExt = 0
+							tempExtUnexp = 0
+							staticPressureAtm = 0
+							expt = 0.5
+							state = 0
+							PreFailState = 0
+							attached = True
+							autostrutMode = Off
+							rigidAttachment = False
+							flag = 
+							rTrf = evaChute
+							modCost = 0
+							modMass = 0
+							moduleVariantName = 
+							moduleCargoStackableQuantity = 1
+							EVENTS
+							{
+							}
+							ACTIONS
+							{
+								ToggleSameVesselInteraction
+								{
+									actionGroup = None
+									wasActiveBeforePartWasAdjusted = False
+								}
+								SetSameVesselInteraction
+								{
+									actionGroup = None
+									wasActiveBeforePartWasAdjusted = False
+								}
+								RemoveSameVesselInteraction
+								{
+									actionGroup = None
+									wasActiveBeforePartWasAdjusted = False
+								}
+							}
+							PARTDATA
+							{
+							}
+							MODULE
+							{
+								name = ModuleCargoPart
+								isEnabled = True
+								beingAttached = False
+								beingSettled = False
+								stagingEnabled = True
+								EVENTS
+								{
+								}
+								ACTIONS
+								{
+								}
+								UPGRADESAPPLIED
+								{
+								}
+							}
+							MODULE
+							{
+								name = HitpointTracker
+								isEnabled = True
+								Armor = 10
+								maxHitPoints = 0
+								ArmorThickness = 0
+								ArmorSet = False
+								ExplodeMode = Never
+								FireFX = True
+								FireFXLifeTimeInSeconds = 5
+								stagingEnabled = True
+								EVENTS
+								{
+								}
+								ACTIONS
+								{
+								}
+								UPGRADESAPPLIED
+								{
+								}
+							}
+						}
+					}
+					STOREDPART
+					{
+						slotIndex = 1
+						partName = evaJetpack
+						quantity = 1
+						stackCapacity = 1
+						variantName = 
+						PART
+						{
+							name = evaJetpack
+							cid = 4294818786
+							uid = 0
+							mid = 0
+							persistentId = 3333776189
+							launchID = 0
+							parent = 0
+							position = 0,0,0
+							rotation = 0,0,0,0
+							mirror = 1,1,1
+							symMethod = Radial
+							istg = 0
+							resPri = 2
+							dstg = 0
+							sqor = -1
+							sepI = 0
+							sidx = -1
+							attm = 0
+							sameVesselCollision = False
+							srfN = None, -1
+							mass = 0.0199999996
+							shielded = False
+							temp = -1
+							tempExt = 0
+							tempExtUnexp = 0
+							staticPressureAtm = 0
+							expt = 0.5
+							state = 0
+							PreFailState = 0
+							attached = True
+							autostrutMode = Off
+							rigidAttachment = False
+							flag = 
+							rTrf = evaJetpack
+							modCost = 0
+							modMass = 0
+							moduleVariantName = 
+							moduleCargoStackableQuantity = 1
+							EVENTS
+							{
+							}
+							ACTIONS
+							{
+								ToggleSameVesselInteraction
+								{
+									actionGroup = None
+									wasActiveBeforePartWasAdjusted = False
+								}
+								SetSameVesselInteraction
+								{
+									actionGroup = None
+									wasActiveBeforePartWasAdjusted = False
+								}
+								RemoveSameVesselInteraction
+								{
+									actionGroup = None
+									wasActiveBeforePartWasAdjusted = False
+								}
+							}
+							PARTDATA
+							{
+							}
+							MODULE
+							{
+								name = ModuleCargoPart
+								isEnabled = True
+								beingAttached = False
+								beingSettled = False
+								stagingEnabled = True
+								EVENTS
+								{
+								}
+								ACTIONS
+								{
+								}
+								UPGRADESAPPLIED
+								{
+								}
+							}
+							MODULE
+							{
+								name = HitpointTracker
+								isEnabled = True
+								Armor = 10
+								maxHitPoints = 0
+								ArmorThickness = 0
+								ArmorSet = False
+								ExplodeMode = Never
+								FireFX = True
+								FireFXLifeTimeInSeconds = 5
+								stagingEnabled = True
+								EVENTS
+								{
+								}
+								ACTIONS
+								{
+								}
+								UPGRADESAPPLIED
+								{
+								}
+							}
+							RESOURCE
+							{
+								name = EVA Propellant
+								amount = 5
+								maxAmount = 5
+								flowState = True
+								isTweakable = False
+								hideFlow = False
+								isVisible = True
+								flowMode = Both
+							}
+						}
+					}
+				}
+				UPGRADESAPPLIED
+				{
+				}
+			}
+			CAREER_LOG
+			{
+				flight = 1
+				0 = Training5,Kerbin
+				0 = Flight,Kerbin
+				0 = Die
+			}
+			FLIGHT_LOG
+			{
+				flight = 1
+			}
+		}
+		KERBAL
+		{
+			name = Bill Kerman
+			gender = Male
+			type = Crew
+			trait = Engineer
+			brave = 0.5
+			dumb = 0.800000012
+			badS = False
+			veteran = True
+			tour = False
+			state = Missing
+			inactive = False
+			inactiveTimeEnd = 0
+			gExperienced = 0
+			outDueToG = False
+			ToD = 7268.0800000000036
+			idx = 1
+			extraXP = 0
+			hasHelmetOn = False
+			hasNeckRingOn = False
+			hasVisorDown = False
+			lightR = 1
+			lightG = 0.5176
+			lightB = 0
+			completedFirstEVA = False
+			suit = Default
+			hero = True
+			INVENTORY
+			{
+				name = ModuleInventoryPart
+				isEnabled = True
+				stagingEnabled = True
+				inventory = evaChute,evaJetpack
+				EVENTS
+				{
+				}
+				ACTIONS
+				{
+				}
+				STOREDPARTS
+				{
+					STOREDPART
+					{
+						slotIndex = 0
+						partName = evaChute
+						quantity = 1
+						stackCapacity = 1
+						variantName = 
+						PART
+						{
+							name = evaChute
+							cid = 4294818686
+							uid = 0
+							mid = 0
+							persistentId = 983514071
+							launchID = 0
+							parent = 0
+							position = 0,0,0
+							rotation = 0,0,0,0
+							mirror = 1,1,1
+							symMethod = Radial
+							istg = 0
+							resPri = 0
+							dstg = 0
+							sqor = -1
+							sepI = 0
+							sidx = -1
+							attm = 0
+							sameVesselCollision = False
+							srfN = None, -1
+							mass = 0.00400000019
+							shielded = False
+							temp = -1
+							tempExt = 0
+							tempExtUnexp = 0
+							staticPressureAtm = 0
+							expt = 0.5
+							state = 0
+							PreFailState = 0
+							attached = True
+							autostrutMode = Off
+							rigidAttachment = False
+							flag = 
+							rTrf = evaChute
+							modCost = 0
+							modMass = 0
+							moduleVariantName = 
+							moduleCargoStackableQuantity = 1
+							EVENTS
+							{
+							}
+							ACTIONS
+							{
+								ToggleSameVesselInteraction
+								{
+									actionGroup = None
+									wasActiveBeforePartWasAdjusted = False
+								}
+								SetSameVesselInteraction
+								{
+									actionGroup = None
+									wasActiveBeforePartWasAdjusted = False
+								}
+								RemoveSameVesselInteraction
+								{
+									actionGroup = None
+									wasActiveBeforePartWasAdjusted = False
+								}
+							}
+							PARTDATA
+							{
+							}
+							MODULE
+							{
+								name = ModuleCargoPart
+								isEnabled = True
+								beingAttached = False
+								beingSettled = False
+								stagingEnabled = True
+								EVENTS
+								{
+								}
+								ACTIONS
+								{
+								}
+								UPGRADESAPPLIED
+								{
+								}
+							}
+							MODULE
+							{
+								name = HitpointTracker
+								isEnabled = True
+								Armor = 10
+								maxHitPoints = 0
+								ArmorThickness = 0
+								ArmorSet = False
+								ExplodeMode = Never
+								FireFX = True
+								FireFXLifeTimeInSeconds = 5
+								stagingEnabled = True
+								EVENTS
+								{
+								}
+								ACTIONS
+								{
+								}
+								UPGRADESAPPLIED
+								{
+								}
+							}
+						}
+					}
+					STOREDPART
+					{
+						slotIndex = 1
+						partName = evaJetpack
+						quantity = 1
+						stackCapacity = 1
+						variantName = 
+						PART
+						{
+							name = evaJetpack
+							cid = 4294818786
+							uid = 0
+							mid = 0
+							persistentId = 1456622936
+							launchID = 0
+							parent = 0
+							position = 0,0,0
+							rotation = 0,0,0,0
+							mirror = 1,1,1
+							symMethod = Radial
+							istg = 0
+							resPri = 2
+							dstg = 0
+							sqor = -1
+							sepI = 0
+							sidx = -1
+							attm = 0
+							sameVesselCollision = False
+							srfN = None, -1
+							mass = 0.0199999996
+							shielded = False
+							temp = -1
+							tempExt = 0
+							tempExtUnexp = 0
+							staticPressureAtm = 0
+							expt = 0.5
+							state = 0
+							PreFailState = 0
+							attached = True
+							autostrutMode = Off
+							rigidAttachment = False
+							flag = 
+							rTrf = evaJetpack
+							modCost = 0
+							modMass = 0
+							moduleVariantName = 
+							moduleCargoStackableQuantity = 1
+							EVENTS
+							{
+							}
+							ACTIONS
+							{
+								ToggleSameVesselInteraction
+								{
+									actionGroup = None
+									wasActiveBeforePartWasAdjusted = False
+								}
+								SetSameVesselInteraction
+								{
+									actionGroup = None
+									wasActiveBeforePartWasAdjusted = False
+								}
+								RemoveSameVesselInteraction
+								{
+									actionGroup = None
+									wasActiveBeforePartWasAdjusted = False
+								}
+							}
+							PARTDATA
+							{
+							}
+							MODULE
+							{
+								name = ModuleCargoPart
+								isEnabled = True
+								beingAttached = False
+								beingSettled = False
+								stagingEnabled = True
+								EVENTS
+								{
+								}
+								ACTIONS
+								{
+								}
+								UPGRADESAPPLIED
+								{
+								}
+							}
+							MODULE
+							{
+								name = HitpointTracker
+								isEnabled = True
+								Armor = 10
+								maxHitPoints = 0
+								ArmorThickness = 0
+								ArmorSet = False
+								ExplodeMode = Never
+								FireFX = True
+								FireFXLifeTimeInSeconds = 5
+								stagingEnabled = True
+								EVENTS
+								{
+								}
+								ACTIONS
+								{
+								}
+								UPGRADESAPPLIED
+								{
+								}
+							}
+							RESOURCE
+							{
+								name = EVA Propellant
+								amount = 5
+								maxAmount = 5
+								flowState = True
+								isTweakable = False
+								hideFlow = False
+								isVisible = True
+								flowMode = Both
+							}
+						}
+					}
+				}
+				UPGRADESAPPLIED
+				{
+				}
+			}
+			CAREER_LOG
+			{
+				flight = 1
+				0 = Training5,Kerbin
+				0 = Flight,Kerbin
+				0 = Die
+			}
+			FLIGHT_LOG
+			{
+				flight = 1
+			}
+		}
+		KERBAL
+		{
+			name = Bob Kerman
+			gender = Male
+			type = Crew
+			trait = Scientist
+			brave = 0.300000012
+			dumb = 0.100000001
+			badS = False
+			veteran = True
+			tour = False
+			state = Missing
+			inactive = False
+			inactiveTimeEnd = 0
+			gExperienced = 0
+			outDueToG = False
+			ToD = 7268.0800000000036
+			idx = 2
+			extraXP = 0
+			hasHelmetOn = False
+			hasNeckRingOn = False
+			hasVisorDown = False
+			lightR = 1
+			lightG = 0.5176
+			lightB = 0
+			completedFirstEVA = False
+			suit = Default
+			hero = True
+			INVENTORY
+			{
+				name = ModuleInventoryPart
+				isEnabled = True
+				stagingEnabled = True
+				inventory = evaChute,evaJetpack
+				EVENTS
+				{
+				}
+				ACTIONS
+				{
+				}
+				STOREDPARTS
+				{
+					STOREDPART
+					{
+						slotIndex = 0
+						partName = evaChute
+						quantity = 1
+						stackCapacity = 1
+						variantName = 
+						PART
+						{
+							name = evaChute
+							cid = 4294818686
+							uid = 0
+							mid = 0
+							persistentId = 3321359357
+							launchID = 0
+							parent = 0
+							position = 0,0,0
+							rotation = 0,0,0,0
+							mirror = 1,1,1
+							symMethod = Radial
+							istg = 0
+							resPri = 0
+							dstg = 0
+							sqor = -1
+							sepI = 0
+							sidx = -1
+							attm = 0
+							sameVesselCollision = False
+							srfN = None, -1
+							mass = 0.00400000019
+							shielded = False
+							temp = -1
+							tempExt = 0
+							tempExtUnexp = 0
+							staticPressureAtm = 0
+							expt = 0.5
+							state = 0
+							PreFailState = 0
+							attached = True
+							autostrutMode = Off
+							rigidAttachment = False
+							flag = 
+							rTrf = evaChute
+							modCost = 0
+							modMass = 0
+							moduleVariantName = 
+							moduleCargoStackableQuantity = 1
+							EVENTS
+							{
+							}
+							ACTIONS
+							{
+								ToggleSameVesselInteraction
+								{
+									actionGroup = None
+									wasActiveBeforePartWasAdjusted = False
+								}
+								SetSameVesselInteraction
+								{
+									actionGroup = None
+									wasActiveBeforePartWasAdjusted = False
+								}
+								RemoveSameVesselInteraction
+								{
+									actionGroup = None
+									wasActiveBeforePartWasAdjusted = False
+								}
+							}
+							PARTDATA
+							{
+							}
+							MODULE
+							{
+								name = ModuleCargoPart
+								isEnabled = True
+								beingAttached = False
+								beingSettled = False
+								stagingEnabled = True
+								EVENTS
+								{
+								}
+								ACTIONS
+								{
+								}
+								UPGRADESAPPLIED
+								{
+								}
+							}
+							MODULE
+							{
+								name = HitpointTracker
+								isEnabled = True
+								Armor = 10
+								maxHitPoints = 0
+								ArmorThickness = 0
+								ArmorSet = False
+								ExplodeMode = Never
+								FireFX = True
+								FireFXLifeTimeInSeconds = 5
+								stagingEnabled = True
+								EVENTS
+								{
+								}
+								ACTIONS
+								{
+								}
+								UPGRADESAPPLIED
+								{
+								}
+							}
+						}
+					}
+					STOREDPART
+					{
+						slotIndex = 1
+						partName = evaJetpack
+						quantity = 1
+						stackCapacity = 1
+						variantName = 
+						PART
+						{
+							name = evaJetpack
+							cid = 4294818786
+							uid = 0
+							mid = 0
+							persistentId = 2426131367
+							launchID = 0
+							parent = 0
+							position = 0,0,0
+							rotation = 0,0,0,0
+							mirror = 1,1,1
+							symMethod = Radial
+							istg = 0
+							resPri = 2
+							dstg = 0
+							sqor = -1
+							sepI = 0
+							sidx = -1
+							attm = 0
+							sameVesselCollision = False
+							srfN = None, -1
+							mass = 0.0199999996
+							shielded = False
+							temp = -1
+							tempExt = 0
+							tempExtUnexp = 0
+							staticPressureAtm = 0
+							expt = 0.5
+							state = 0
+							PreFailState = 0
+							attached = True
+							autostrutMode = Off
+							rigidAttachment = False
+							flag = 
+							rTrf = evaJetpack
+							modCost = 0
+							modMass = 0
+							moduleVariantName = 
+							moduleCargoStackableQuantity = 1
+							EVENTS
+							{
+							}
+							ACTIONS
+							{
+								ToggleSameVesselInteraction
+								{
+									actionGroup = None
+									wasActiveBeforePartWasAdjusted = False
+								}
+								SetSameVesselInteraction
+								{
+									actionGroup = None
+									wasActiveBeforePartWasAdjusted = False
+								}
+								RemoveSameVesselInteraction
+								{
+									actionGroup = None
+									wasActiveBeforePartWasAdjusted = False
+								}
+							}
+							PARTDATA
+							{
+							}
+							MODULE
+							{
+								name = ModuleCargoPart
+								isEnabled = True
+								beingAttached = False
+								beingSettled = False
+								stagingEnabled = True
+								EVENTS
+								{
+								}
+								ACTIONS
+								{
+								}
+								UPGRADESAPPLIED
+								{
+								}
+							}
+							MODULE
+							{
+								name = HitpointTracker
+								isEnabled = True
+								Armor = 10
+								maxHitPoints = 0
+								ArmorThickness = 0
+								ArmorSet = False
+								ExplodeMode = Never
+								FireFX = True
+								FireFXLifeTimeInSeconds = 5
+								stagingEnabled = True
+								EVENTS
+								{
+								}
+								ACTIONS
+								{
+								}
+								UPGRADESAPPLIED
+								{
+								}
+							}
+							RESOURCE
+							{
+								name = EVA Propellant
+								amount = 5
+								maxAmount = 5
+								flowState = True
+								isTweakable = False
+								hideFlow = False
+								isVisible = True
+								flowMode = Both
+							}
+						}
+					}
+				}
+				UPGRADESAPPLIED
+				{
+				}
+			}
+			CAREER_LOG
+			{
+				flight = 1
+				0 = Training5,Kerbin
+				0 = Flight,Kerbin
+				0 = Die
+			}
+			FLIGHT_LOG
+			{
+				flight = 1
+			}
+		}
+		KERBAL
+		{
+			name = Valentina Kerman
+			gender = Female
+			type = Crew
+			trait = Pilot
+			brave = 0.550000012
+			dumb = 0.400000006
+			badS = True
+			veteran = True
+			tour = False
+			state = Missing
+			inactive = False
+			inactiveTimeEnd = 0
+			gExperienced = 0
+			outDueToG = False
+			ToD = 7268.0800000000036
+			idx = 3
+			extraXP = 0
+			hasHelmetOn = False
+			hasNeckRingOn = False
+			hasVisorDown = False
+			lightR = 1
+			lightG = 0.5176
+			lightB = 0
+			completedFirstEVA = False
+			suit = Default
+			hero = True
+			INVENTORY
+			{
+				name = ModuleInventoryPart
+				isEnabled = True
+				stagingEnabled = True
+				inventory = evaChute,evaJetpack
+				EVENTS
+				{
+				}
+				ACTIONS
+				{
+				}
+				STOREDPARTS
+				{
+					STOREDPART
+					{
+						slotIndex = 0
+						partName = evaChute
+						quantity = 1
+						stackCapacity = 1
+						variantName = 
+						PART
+						{
+							name = evaChute
+							cid = 4294818686
+							uid = 0
+							mid = 0
+							persistentId = 3450197031
+							launchID = 0
+							parent = 0
+							position = 0,0,0
+							rotation = 0,0,0,0
+							mirror = 1,1,1
+							symMethod = Radial
+							istg = 0
+							resPri = 0
+							dstg = 0
+							sqor = -1
+							sepI = 0
+							sidx = -1
+							attm = 0
+							sameVesselCollision = False
+							srfN = None, -1
+							mass = 0.00400000019
+							shielded = False
+							temp = -1
+							tempExt = 0
+							tempExtUnexp = 0
+							staticPressureAtm = 0
+							expt = 0.5
+							state = 0
+							PreFailState = 0
+							attached = True
+							autostrutMode = Off
+							rigidAttachment = False
+							flag = 
+							rTrf = evaChute
+							modCost = 0
+							modMass = 0
+							moduleVariantName = 
+							moduleCargoStackableQuantity = 1
+							EVENTS
+							{
+							}
+							ACTIONS
+							{
+								ToggleSameVesselInteraction
+								{
+									actionGroup = None
+									wasActiveBeforePartWasAdjusted = False
+								}
+								SetSameVesselInteraction
+								{
+									actionGroup = None
+									wasActiveBeforePartWasAdjusted = False
+								}
+								RemoveSameVesselInteraction
+								{
+									actionGroup = None
+									wasActiveBeforePartWasAdjusted = False
+								}
+							}
+							PARTDATA
+							{
+							}
+							MODULE
+							{
+								name = ModuleCargoPart
+								isEnabled = True
+								beingAttached = False
+								beingSettled = False
+								stagingEnabled = True
+								EVENTS
+								{
+								}
+								ACTIONS
+								{
+								}
+								UPGRADESAPPLIED
+								{
+								}
+							}
+							MODULE
+							{
+								name = HitpointTracker
+								isEnabled = True
+								Armor = 10
+								maxHitPoints = 0
+								ArmorThickness = 0
+								ArmorSet = False
+								ExplodeMode = Never
+								FireFX = True
+								FireFXLifeTimeInSeconds = 5
+								stagingEnabled = True
+								EVENTS
+								{
+								}
+								ACTIONS
+								{
+								}
+								UPGRADESAPPLIED
+								{
+								}
+							}
+						}
+					}
+					STOREDPART
+					{
+						slotIndex = 1
+						partName = evaJetpack
+						quantity = 1
+						stackCapacity = 1
+						variantName = 
+						PART
+						{
+							name = evaJetpack
+							cid = 4294818786
+							uid = 0
+							mid = 0
+							persistentId = 153744924
+							launchID = 0
+							parent = 0
+							position = 0,0,0
+							rotation = 0,0,0,0
+							mirror = 1,1,1
+							symMethod = Radial
+							istg = 0
+							resPri = 2
+							dstg = 0
+							sqor = -1
+							sepI = 0
+							sidx = -1
+							attm = 0
+							sameVesselCollision = False
+							srfN = None, -1
+							mass = 0.0199999996
+							shielded = False
+							temp = -1
+							tempExt = 0
+							tempExtUnexp = 0
+							staticPressureAtm = 0
+							expt = 0.5
+							state = 0
+							PreFailState = 0
+							attached = True
+							autostrutMode = Off
+							rigidAttachment = False
+							flag = 
+							rTrf = evaJetpack
+							modCost = 0
+							modMass = 0
+							moduleVariantName = 
+							moduleCargoStackableQuantity = 1
+							EVENTS
+							{
+							}
+							ACTIONS
+							{
+								ToggleSameVesselInteraction
+								{
+									actionGroup = None
+									wasActiveBeforePartWasAdjusted = False
+								}
+								SetSameVesselInteraction
+								{
+									actionGroup = None
+									wasActiveBeforePartWasAdjusted = False
+								}
+								RemoveSameVesselInteraction
+								{
+									actionGroup = None
+									wasActiveBeforePartWasAdjusted = False
+								}
+							}
+							PARTDATA
+							{
+							}
+							MODULE
+							{
+								name = ModuleCargoPart
+								isEnabled = True
+								beingAttached = False
+								beingSettled = False
+								stagingEnabled = True
+								EVENTS
+								{
+								}
+								ACTIONS
+								{
+								}
+								UPGRADESAPPLIED
+								{
+								}
+							}
+							MODULE
+							{
+								name = HitpointTracker
+								isEnabled = True
+								Armor = 10
+								maxHitPoints = 0
+								ArmorThickness = 0
+								ArmorSet = False
+								ExplodeMode = Never
+								FireFX = True
+								FireFXLifeTimeInSeconds = 5
+								stagingEnabled = True
+								EVENTS
+								{
+								}
+								ACTIONS
+								{
+								}
+								UPGRADESAPPLIED
+								{
+								}
+							}
+							RESOURCE
+							{
+								name = EVA Propellant
+								amount = 5
+								maxAmount = 5
+								flowState = True
+								isTweakable = False
+								hideFlow = False
+								isVisible = True
+								flowMode = Both
+							}
+						}
+					}
+				}
+				UPGRADESAPPLIED
+				{
+				}
+			}
+			CAREER_LOG
+			{
+				flight = 1
+				0 = Training5,Kerbin
+				0 = Flight,Kerbin
+				0 = Die
+			}
+			FLIGHT_LOG
+			{
+				flight = 1
+			}
+		}
+	}
+	MESSAGESYSTEM
+	{
+		flash = False
+		MESSAGE
+		{
+			title = Screen Message
+			message = Fun
+			color = 2
+			icon = 5
+			read = False
+		}
+		MESSAGE
+		{
+			title = Screen Message
+			message = Reach Altitude 10000
+			color = 2
+			icon = 5
+			read = False
+		}
+		MESSAGE
+		{
+			title = Screen Message
+			message = Reach altitude 7000
+			color = 2
+			icon = 5
+			read = False
+		}
+		MESSAGE
+		{
+			title = Screen Message
+			message = Launch
+			color = 2
+			icon = 5
+			read = False
+		}
+		MESSAGE
+		{
+			title = 
+			message = Lets watch the Fireworks
+			color = 3
+			icon = 6
+			read = False
+		}
+		MESSAGE
+		{
+			title = Screen Message
+			message = Fun
+			color = 2
+			icon = 5
+			read = False
+		}
+		MESSAGE
+		{
+			title = Screen Message
+			message = Reach Altitude 10000
+			color = 2
+			icon = 5
+			read = False
+		}
+		MESSAGE
+		{
+			title = Screen Message
+			message = Reach altitude 7000
+			color = 2
+			icon = 5
+			read = False
+		}
+		MESSAGE
+		{
+			title = Screen Message
+			message = Launch
+			color = 2
+			icon = 5
+			read = False
+		}
+		MESSAGE
+		{
+			title = 
+			message = Lets watch the Fireworks
+			color = 3
+			icon = 6
+			read = False
+		}
+	}
+}
