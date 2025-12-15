@@ -4,7 +4,7 @@
     "name": "installed-Kerbal Space Program",
     "abstract": "A list of modules installed on the Kerbal Space Program KSP instance",
     "author": "Firda",
-    "version": "2025.12.04.08.05.12",
+    "version": "2025.12.14.04.59.49",
     "ksp_version_min": "1.8",
     "ksp_version_max": "1.12",
     "license": "unknown",
@@ -95,6 +95,14 @@
         },
         {
             "name": "KerbalEngineerRedux",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "kRPC",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "MechJeb2",
             "suppress_recommendations": true
         },
         {
@@ -206,6 +214,10 @@
             "suppress_recommendations": true
         },
         {
+            "name": "BDAnimationModules",
+            "suppress_recommendations": true
+        },
+        {
             "name": "BakerOperatingSystem",
             "suppress_recommendations": true
         },
@@ -247,6 +259,10 @@
         },
         {
             "name": "ContractConfigurator-GrandTours",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "CriticalTemperatureGauge",
             "suppress_recommendations": true
         },
         {
@@ -311,6 +327,10 @@
         },
         {
             "name": "GroundProximity",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "HangerExtenderExtended",
             "suppress_recommendations": true
         },
         {
@@ -406,10 +426,6 @@
             "suppress_recommendations": true
         },
         {
-            "name": "KerbalMotorbikes",
-            "suppress_recommendations": true
-        },
-        {
             "name": "KerbalPowersArmory",
             "suppress_recommendations": true
         },
@@ -466,7 +482,7 @@
             "suppress_recommendations": true
         },
         {
-            "name": "kRPC",
+            "name": "kRPC-MechJeb",
             "suppress_recommendations": true
         },
         {
@@ -498,7 +514,7 @@
             "suppress_recommendations": true
         },
         {
-            "name": "MechJeb2",
+            "name": "MissingRobotics",
             "suppress_recommendations": true
         },
         {
@@ -686,6 +702,10 @@
             "suppress_recommendations": true
         },
         {
+            "name": "StockalikeAircraftCarrierDecks",
+            "suppress_recommendations": true
+        },
+        {
             "name": "Scatterer",
             "suppress_recommendations": true
         },
@@ -695,6 +715,10 @@
         },
         {
             "name": "ShineFix",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "SmokeScreen",
             "suppress_recommendations": true
         },
         {
@@ -798,6 +822,6 @@
             "suppress_recommendations": true
         }
     ],
-    "release_date": "2025-12-04T08:05:12.3266259Z",
+    "release_date": "2025-12-14T16:59:49.7082027Z",
     "kind": "metapackage"
 }
