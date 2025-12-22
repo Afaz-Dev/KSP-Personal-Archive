@@ -4,7 +4,7 @@
     "name": "installed-Kerbal Space Program",
     "abstract": "A list of modules installed on the Kerbal Space Program KSP instance",
     "author": "Firda",
-    "version": "2025.12.15.09.18.18",
+    "version": "2025.12.22.08.22.35",
     "ksp_version_min": "1.8",
     "ksp_version_max": "1.12",
     "license": "unknown",
@@ -106,6 +106,10 @@
             "suppress_recommendations": true
         },
         {
+            "name": "Parallax",
+            "suppress_recommendations": true
+        },
+        {
             "name": "RasterPropMonitor",
             "suppress_recommendations": true
         },
@@ -127,10 +131,6 @@
         },
         {
             "name": "StationPartsExpansionRedux",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "TextureReplacer",
             "suppress_recommendations": true
         },
         {
@@ -327,10 +327,6 @@
         },
         {
             "name": "GroundProximity",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "GPWS",
             "suppress_recommendations": true
         },
         {
@@ -622,15 +618,11 @@
             "suppress_recommendations": true
         },
         {
-            "name": "OuterPlanetsMod",
+            "name": "Parallax-OuterPlanetsMod",
             "suppress_recommendations": true
         },
         {
             "name": "PALETTE",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "Parallax",
             "suppress_recommendations": true
         },
         {
@@ -770,6 +762,10 @@
             "suppress_recommendations": true
         },
         {
+            "name": "TextureReplacer",
+            "suppress_recommendations": true
+        },
+        {
             "name": "ThroughTheEyesOfaKerbal",
             "suppress_recommendations": true
         },
@@ -846,10 +842,6 @@
             "suppress_recommendations": true
         },
         {
-            "name": "WindowShineTR",
-            "suppress_recommendations": true
-        },
-        {
             "name": "WorkingUnderwaterLite",
             "suppress_recommendations": true
         },
@@ -858,6 +850,6 @@
             "suppress_recommendations": true
         }
     ],
-    "release_date": "2025-12-15T09:18:18.5167238Z",
+    "release_date": "2025-12-22T08:22:35.0011211Z",
     "kind": "metapackage"
 }

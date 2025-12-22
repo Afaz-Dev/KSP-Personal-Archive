@@ -2,7 +2,7 @@ ship = AFL - 12c
 version = 1.12.5
 description = Fighter interceptor
 type = SPH
-size = 12.8692684,3.65625,13.2802544
+size = 12.8692684,3.65625,13.2802629
 steamPublishedFileId = 0
 persistentId = 425609064
 rot = 0,0,0,0
@@ -12,12 +12,12 @@ OverrideDefault = False,False,False,False
 OverrideActionControl = 0,0,0,0
 OverrideAxisControl = 0,0,0,0
 OverrideGroupNames = ,,,
-_modVersions = Scale_Redist=2.4.8|ModuleManager=4.2.3|ClickThroughBlocker=2.1.10|0Harmony=2.2.1|HarmonyInstallChecker=2.2.1|KSPBurst=1.5.5|Microsoft.Extensions.FileSystemGlobbing=6.0.21|System.IO.Compression=4.6.57|System.IO.Compression.FileSystem=4.6.57|System.Runtime.CompilerServices.Unsafe=4.700.20|System.Runtime=4.0.0|Unity.Burst=0.0.0|Unity.Burst.Unsafe=1.0.0|Unity.Collections=0.0.0|Unity.Jobs=0.0.0|Unity.Mathematics=1.0.0|BlendshapeModelLoader=1.6.4|TexturesUnlimited=1.6.4|USITools=1.0.0|USIToolsUI=1.0.0|ToolbarControl=0.1.9|KSPe.Light.Recall=2.5.2|Attached=0.5.0|AttachedOnEditor=0.5.0|ChillingOut=0.5.0|Driftless=0.5.0|KSP-Recall=0.5.0|Refunding=0.5.0|Resourceful=0.5.0|SolverEngines=3.13.1|AJE=2.20.0|AnalogControl=2.1.3|ASETPropsIdentifier=1.5.0|Astrogator=1.0.2|AtmosphereAutopilot.UI=1.0.0|AtmosphereAutopilot=1.6.1|KSPe.Light.AviationLights=2.4.3|AviationLights=4.2.1|AAPartCategory=1.0.0|AviatorArsenal=1.0.0|B9PartSwitch=2.21.0|B9-PWings-Fork=0.46.0|BDArmory=1.11.1|BurstAtomicThrust=0.1.0|CameraTools=1.37.1|Chatterer=0.9.99|CCK=5.1.0|ContractConfigurator=2.12.0|CustomPreLaunchChecks=1.8.1|KerbalKonstructs=1.12.0|KerKonConConExt=2.0.0|SimpleBoiloff=0.2.1|DeployableEngines=2.2.0|DestructionEffects=1.12.0|DistantObject=0.0.0|KSPe.Light.DOE=2.5.5|ContractParser=1.0.9|DockingFunctions=1.0.4|DynamicBatteryStorage=1.0.0|EasyVesselSwitch=2.3.7852|KSPDev_Utils.2.6-EVS=2.6.0|EngineLightRelit=1.6.3|Atmosphere=1.11.7|CelestialShadows=1.11.7|CityLights=1.11.7|EVEManager=1.11.7|PartFX=1.11.7|PQSManager=1.11.7|ShaderLoader=1.11.7|Terrain=1.11.7|TextureConfig=1.11.7|Utils=1.11.7|_BuildManager=1.11.7|FarFutureTechnologies=1.0.0|FerramAerospaceResearch.Base=0.16.1|ModularFlightIntegrator=1.2.10|FerramAerospaceResearch=0.16.1|ferramGraph=1.3.0|FieldTrainingLab=1.2.1|FireflyAPI=1.0.0|Firefly=1.0.5|FireflyInstallChecker=1.0.0|Firespitter=7.3.7660|FP_DockingSndFX=2.1.12|FreeIva=0.2.20|HangerExtenderExtended=3.6.1|G-Effects=1.0.0|HullcamVDSContinued=0.2.2|IndicatorLights=1.0.0|IRConnectionSystem=1.0.5|SigmaTweakChutes=1.0.0|Sigma88LoadingScreens=0.5.0|JSIAdvTransparentPods=0.1.24|JSIPartUtilities=0.5.0|RasterPropMonitor=1.0.2|KAS-API-v2=2.0.7239|KAS=1.12.8285|KSPDev_Utils.2.7=2.7.0|KAX=2.8.1|KSPe.Light.KAX=2.4.2|KerbalAnimationSuite=1.3.0|KerbalChangelog=1.4.2|KerbalChecklistDebug=1.0.0|KerbalCurrencyDisplay=1.0.0|KerbalEngineer.Unity=1.0.0|KerbalEngineer=1.1.9|KerbalFlightIndicators=0.20.0|KerbalismBootstrap=3.25.0|KerbalismLabExperimentsExpandedContinued=1.0.0|KerbalJointReinforcement=3.8.6|KerbalKrashSystem=1.0.0|KerbalKrashSystem_Leak=1.0.0|KerbalKrashSystem_Repair=1.0.0|KerbalKrashSystem_Science=1.0.0|VesselModuleSave=1.0.2|KerBalloons=0.6.0|KerbalWeatherProject=1.0.0|KIS=1.29.8039|KSPDev_Utils.2.6=2.6.7847|MiniAVC-V2=2.0.0|Kopernicus.Parser=1.0.0|Kopernicus=1.12.231|KEX-Common=1.0.0|KEX-EmissiveFX=1.0.0|KEX-EVAFootprints=1.0.0|KEX-RegionalPQSMods=1.0.0|KEX-VertexHeightDeformity=1.0.0|KEX-VertexHeightMap16=1.0.0|KEX-Wormholes=1.0.0|RunSharp=1.0.0|ICSharpCode.SharpZipLib=0.86.0|kOS=1.5.1|kOS.Safe=1.5.1|kOS-AddOns-Ferram=0.1.1|kOS-Astrogator=0.2.2|kOS-KerbalEngineer=0.1.1|KOS-Scansat=1.2.0|JsonFx=2.0.1209|kOSPropMonitor=1.7.3|Kronometer=1.12.0|Google.Protobuf=3.10.1|KRPC.Core=0.5.4|KRPC=0.5.4|KRPC.DockingCamera=0.5.4|KRPC.Drawing=0.5.4|KRPC.InfernalRobotics=0.5.4|KRPC.IO.Ports=0.0.0|KRPC.KerbalAlarmClock=0.5.4|KRPC.LiDAR=0.5.4|KRPC.RemoteTech=0.5.4|KRPC.SpaceCenter=0.5.4|KRPC.UI=0.5.4|KSPCasher=0.3.0|0_MultipleModuleInPartAPI=1.0.0|KSPCommunityFixes=1.39.1|KSPIRC=0.19.0|KSPWheel=0.0.0|GroundProximity=0.3.3|LazyPainter=0.4.1|IRSurfaceSampler=1.0.1|InfernalRobotics_v3=3.1.17|alglib=1.0.0|MechJeb2=2.15.1|MechJebLib=1.0.0|MechJebLibBindings=1.0.0|AvionicsSystems=1.3.7|MoonSharp.Interpreter=2.0.0|MOAR_Units=1.0.0|MouseAimFlight=0.0.0|NavUtilLib=0.7.2|NavUtilRPM=0.7.2|DockingPortAlignmentIndicator=6.12.0|DPAI_RPM=1.0.0|ModuleDockingNodeNamed=1.1.0|NearFutureElectrical=1.0.0|NearFutureExploration=0.4.0|NFPropUtils=1.0.0|NearFuturePropulsion=0.9.0|NearFutureSolar=0.4.0|NearFutureUtils=0.0.0|OhScrap=2.2.0|Grass=0.0.0|ParallaxQualityLibrary=1.0.0|ParallaxOptimized=1.0.0|PatchManager=0.0.17|PhysicsRangeExtender=1.21.0|PilotAssistant=1.0.0|PlanetShine=0.2.6|KSP_Log=1.2.0|PreciseEditor=1.5.0|PreciseNode=1.2.12|ProbeControlRoomRecontrolled=1.4.0|ROUtils=1.1.1|ProceduralParts=2.8.0|RealAntennas=2.9.0|RealChute=1.4.9059|RealFuels=15.12.0|RealFuelsB9PSPatch=1.0.0|RealHeat=5.1.0|BackgroundResources=1.12.0|Restock=1.0.0|Reviva=1.0.2|RocketSoundEnhancement.Unity=1.0.0|RocketSoundEnhancement=0.9.11|RSSTimeFormatter=1.12.0|SCANsat=21.1.0|SCANmechjeb=21.1.0|SCANsat.Unity=21.1.0|scatterer=0.772.0|ScrapYard=2.2.1|ScrapYard_ContractConfigurator=2.2.1|Shabby=0.4.2|SpaceDust=0.5.4|ButtonManager=1.0.2|KSP_ColorPicker=1.1.1|KSP_PartHighlighter=1.1.1|SpaceTuxUtility=1.0.2|KSPSteamCtrlr=0.0.1|StagedAnimation=1.0.0|StateFundingContinued=0.6.19|HabUtils=1.0.0|StockAlarmClockDisabler=1.0.0|SystemHeat=0.1.0|TextureReplacer=4.5.3|ThroughTheEyes=2.0.4|KerbalAlarmClock=3.14.0|TrimIndicator=1.12.0|TUFX=1.1.1|KSPe.Light.TweakScale=2.5.4|Scale=2.4.8|TweakScale.WatchDog=2.4.8|TweakScaleCompanion_Frameworks=0.4.0|TweakScalerTestFlightCore=0.4.0|Waterfall=0.10.2|TweakScalerWaterfallFX=0.4.0|TweakScaleCompanion_FS=1.3.0|TweakScalerFSBuoyancy=1.3.0|TweakScaleCompanion_KIAS=1.1.0|TweakScalerKISInventory=1.1.0|TweakScaleCompanion_PKMC=2.2.1|VesselMover=1.12.0|VesselNotes=0.0.2|VesselView=0.8.9|VesselViewRPM=0.8.9|VVDiscoDisplay=0.8.9|VVPartSelector=0.8.9|WaypointManager=2.8.4|WhatDoINeed=0.0.4|WildBlueTools=1.0.0|KerbalActuators=1.0.0|WildBlueCore=1.0.0|Deferred=1.3.3|Kerbalism=3.25.0
+_modVersions = KSPe.InstallChecker=1.1.0|KSPe=2.5.5|Scale_Redist=2.4.8|ModuleManager=4.2.3|ClickThroughBlocker=2.1.10|0Harmony=2.2.1|HarmonyInstallChecker=2.2.1|KSPBurst=1.5.5|Microsoft.Extensions.FileSystemGlobbing=6.0.21|System.IO.Compression=4.6.57|System.IO.Compression.FileSystem=4.6.57|System.Runtime.CompilerServices.Unsafe=4.700.20|System.Runtime=4.0.0|Unity.Burst=0.0.0|Unity.Burst.Unsafe=1.0.0|Unity.Collections=0.0.0|Unity.Jobs=0.0.0|Unity.Mathematics=1.0.0|KSPAPIExtensions=2.5.4|KSPe.External=2.5.5|KSPe.HMI=2.5.5|KSPe.System=2.5.5|KSPe.UI=2.5.5|TinyJSON=1.3.0|BlendshapeModelLoader=1.6.4|TexturesUnlimited=1.6.4|USITools=1.0.0|USIToolsUI=1.0.0|ToolbarControl=0.1.9|KSPe.Light.Recall=2.5.2|Attached=0.5.0|AttachedOnEditor=0.5.0|ChillingOut=0.5.0|Driftless=0.5.0|KSP-Recall=0.5.0|Refunding=0.5.0|Resourceful=0.5.0|SolverEngines=3.13.1|AJE=2.20.0|AnalogControl=2.1.3|ASETPropsIdentifier=1.5.0|Astrogator=1.0.2|AtmosphereAutopilot.UI=1.0.0|AtmosphereAutopilot=1.6.1|KSPe.Light.AviationLights=2.4.3|AviationLights=4.2.1|AAPartCategory=1.0.0|AviatorArsenal=1.0.0|B9PartSwitch=2.21.0|B9-PWings-Fork=0.46.1|BDAnimationModules=0.6.7|RNModules=1.2.1|BDArmory=1.11.1|BurstAtomicThrust=0.1.0|CameraTools=1.37.1|Chatterer=0.9.99|CCK=5.1.0|ContractConfigurator=2.12.0|CustomPreLaunchChecks=1.8.1|KerbalKonstructs=1.12.0|KerKonConConExt=2.0.0|CriticalTemperatureGauge=1.12.3|SimpleBoiloff=0.2.1|DeployableEngines=2.2.0|DestructionEffects=1.12.0|DistantObject=0.0.0|KSPe.Light.DOE=2.5.5|ContractParser=1.0.9|DockingFunctions=1.0.4|DynamicBatteryStorage=1.0.0|EasyVesselSwitch=2.3.7852|KSPDev_Utils.2.6-EVS=2.6.0|EngineLightRelit=1.6.3|Atmosphere=1.11.7|CelestialShadows=1.11.7|CityLights=1.11.7|EVEManager=1.11.7|PartFX=1.11.7|PQSManager=1.11.7|ShaderLoader=1.11.7|Terrain=1.11.7|TextureConfig=1.11.7|Utils=1.11.7|_BuildManager=1.11.7|FarFutureTechnologies=1.0.0|FerramAerospaceResearch.Base=0.16.1|ModularFlightIntegrator=1.2.10|FerramAerospaceResearch=0.16.1|ferramGraph=1.3.0|FieldTrainingLab=1.2.1|FireflyAPI=1.0.0|Firefly=1.0.5|FireflyInstallChecker=1.0.0|Firespitter=7.3.7660|FP_DockingSndFX=2.1.12|FreeIva=0.2.20|HangerExtenderExtended=3.6.1|G-Effects=1.0.0|HullcamVDSContinued=0.2.2|IndicatorLights=1.0.0|IRConnectionSystem=1.0.5|JSIAdvTransparentPods=0.1.24|JSIPartUtilities=0.5.0|RasterPropMonitor=1.0.2|KAS-API-v2=2.0.7239|KAS=1.12.8285|KSPDev_Utils.2.7=2.7.0|KAX=2.8.1|KSPe.Light.KAX=2.4.2|KerbalAnimationSuite=1.3.0|KerbalChangelog=1.4.2|KerbalChecklistDebug=1.0.0|KerbalCurrencyDisplay=1.0.0|KerbalEngineer.Unity=1.0.0|KerbalEngineer=1.1.9|KerbalFlightIndicators=0.20.0|KerbalismBootstrap=3.29.0|KerbalismLabExperimentsExpandedContinued=1.0.0|KerbalJointReinforcement=3.8.6|KerbalKrashSystem=1.0.0|KerbalKrashSystem_Leak=1.0.0|KerbalKrashSystem_Repair=1.0.0|KerbalKrashSystem_Science=1.0.0|VesselModuleSave=1.0.2|KerBalloons=0.6.0|KerbalWeatherProject=1.0.0|KIS=1.29.8039|KSPDev_Utils.2.6=2.6.7847|MiniAVC-V2=2.0.0|Kopernicus.Parser=1.0.0|Kopernicus=1.12.231|KEX-Common=1.0.0|KEX-EmissiveFX=1.0.0|KEX-EVAFootprints=1.0.0|KEX-RegionalPQSMods=1.0.0|KEX-VertexHeightDeformity=1.0.0|KEX-VertexHeightMap16=1.0.0|KEX-Wormholes=1.0.0|RunSharp=1.0.0|ICSharpCode.SharpZipLib=0.86.0|kOS=1.5.1|kOS.Safe=1.5.1|kOS-AddOns-Ferram=0.1.1|kOS-Astrogator=0.2.2|kOS-KerbalEngineer=0.1.1|KOS-Scansat=1.2.0|JsonFx=2.0.1209|kOSPropMonitor=1.7.3|Kronometer=1.12.0|Google.Protobuf=3.10.1|KRPC.Core=0.5.4|KRPC=0.5.4|KRPC.DockingCamera=0.5.4|KRPC.Drawing=0.5.4|KRPC.InfernalRobotics=0.5.4|KRPC.IO.Ports=0.0.0|KRPC.KerbalAlarmClock=0.5.4|KRPC.LiDAR=0.5.4|KRPC.RemoteTech=0.5.4|KRPC.SpaceCenter=0.5.4|KRPC.UI=0.5.4|KSPCasher=0.3.0|0_MultipleModuleInPartAPI=1.0.0|KSPCommunityFixes=1.39.1|KSPIRC=0.19.0|KSPWheel=0.0.0|GroundProximity=0.3.3|LazyPainter=0.4.1|IRSurfaceSampler=1.0.1|InfernalRobotics_v3=3.1.17|alglib=1.0.0|MechJeb2=2.15.1|MechJebLib=1.0.0|MechJebLibBindings=1.0.0|AvionicsSystems=1.3.7|MoonSharp.Interpreter=2.0.0|MOAR_Units=1.0.0|MouseAimFlight=0.0.0|NavUtilLib=0.7.2|NavUtilRPM=0.7.2|DockingPortAlignmentIndicator=6.12.0|DPAI_RPM=1.0.0|ModuleDockingNodeNamed=1.1.0|NearFutureElectrical=1.0.0|NearFutureExploration=0.4.0|NFPropUtils=1.0.0|NearFuturePropulsion=0.9.0|NearFutureSolar=0.4.0|NearFutureUtils=0.0.0|OhScrap=2.2.0|Grass=0.0.0|ParallaxQualityLibrary=1.0.0|ParallaxOptimized=1.0.0|PatchManager=0.0.17|PhysicsRangeExtender=1.21.0|PilotAssistant=1.0.0|PlanetShine=0.2.6|KSP_Log=1.2.0|PreciseEditor=1.5.0|PreciseNode=1.2.12|ProbeControlRoomRecontrolled=1.4.0|ROUtils=1.1.1|ProceduralParts=2.8.0|RealAntennas=2.9.0|RealChute=1.4.9059|RealFuels=15.12.0|RealFuelsB9PSPatch=1.0.0|RealHeat=5.1.0|BackgroundResources=1.12.0|Restock=1.0.0|Reviva=1.0.2|RocketSoundEnhancement.Unity=1.0.0|RocketSoundEnhancement=0.9.11|RSSTimeFormatter=1.12.0|SCANsat=21.1.0|SCANmechjeb=21.1.0|SCANsat.Unity=21.1.0|scatterer=0.878.0|ScrapYard=2.2.1|ScrapYard_ContractConfigurator=2.2.1|Shabby=0.4.2|SmokeScreen=2.8.14|SpaceDust=0.5.4|ButtonManager=1.0.2|KSP_ColorPicker=1.1.1|KSP_PartHighlighter=1.1.1|SpaceTuxUtility=1.0.2|KSPSteamCtrlr=0.0.1|StagedAnimation=1.0.0|StateFundingContinued=0.6.19|HabUtils=1.0.0|StockAlarmClockDisabler=1.0.0|SystemHeat=0.1.0|TextureReplacer=4.5.3|ThroughTheEyes=2.0.4|KerbalAlarmClock=3.14.0|TrimIndicator=1.12.0|TUFX=1.1.1|KSPe.Light.TweakScale=2.5.4|Scale=2.4.8|TweakScale.WatchDog=2.4.8|TweakScaleCompanion=2025.2.7|TweakScaleCompanion_Frameworks=0.4.0|TweakScalerTestFlightCore=0.4.0|TweakScalerWaterfallFX=0.4.0|TweakScaleCompanion_FS=1.3.0|TweakScalerFSBuoyancy=1.3.0|TweakScaleCompanion_KIAS=1.1.0|TweakScalerKISInventory=1.1.0|TweakScaleCompanion_PKMC=2.2.1|VaporCones=1.0.0|VesselMover=1.12.0|VesselNotes=0.0.2|VesselView=0.8.9|VesselViewRPM=0.8.9|VVDiscoDisplay=0.8.9|VVPartSelector=0.8.9|Waterfall=0.10.2|WaypointManager=2.8.4|WhatDoINeed=0.0.4|WildBlueTools=1.0.0|KerbalActuators=1.0.0|WildBlueCore=1.0.0|Deferred=1.3.3|Kerbalism=3.29.0
 PART
 {
 	part = Mark2Cockpit_4292997928
 	partName = Part
-	persistentId = 4015067405
+	persistentId = 1275787461
 	pos = 0,1.92861056,1.37256885
 	attPos = 0,-8.0713892,1.37256885
 	attPos0 = 0,10,0
@@ -1846,7 +1846,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 4015067405
+		id = 1275787461
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -2395,8 +2395,8 @@ PART
 {
 	part = MK1Fuselage_4292878264
 	partName = Part
-	persistentId = 3980824835
-	pos = 0,1.92861056,-0.502462626
+	persistentId = 2382552802
+	pos = 0,1.92861056,-0.502464056
 	attPos = 0,0,0
 	attPos0 = 0,-1.87500024,2.38418579E-07
 	rot = 0.707106829,0,0,0.707106829
@@ -2872,7 +2872,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 3980824835
+		id = 2382552802
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -2891,7 +2891,7 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (0, 1.92861056, -0.502462626)
+		originalPos = (0, 1.92861056, -0.502464056)
 		originalRotation = (0.707106829, 0, 0, 0.707106829)
 		moduleVersion = 6
 		stagingEnabled = True
@@ -2945,8 +2945,8 @@ PART
 {
 	part = MK1Fuselage_4292877754
 	partName = Part
-	persistentId = 3824086561
-	pos = 0,1.92861056,-2.3774941
+	persistentId = 648852156
+	pos = 0,1.92861056,-2.37749696
 	attPos = 0,0,0
 	attPos0 = 0,-1.87500072,2.38418579E-07
 	rot = 0.707106829,0,0,0.707106829
@@ -3418,7 +3418,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 3824086561
+		id = 648852156
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -3437,7 +3437,7 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (0, 1.92861056, -2.3774941)
+		originalPos = (0, 1.92861056, -2.37749696)
 		originalRotation = (0.707106829, 0, 0, 0.707106829)
 		moduleVersion = 6
 		stagingEnabled = True
@@ -3491,8 +3491,8 @@ PART
 {
 	part = MK1Fuselage_4292877348
 	partName = Part
-	persistentId = 960163390
-	pos = 0,1.92861056,-4.25249481
+	persistentId = 3640880960
+	pos = 0,1.92861056,-4.25249767
 	attPos = 0,0,0
 	attPos0 = 0,-1.87500095,0
 	rot = 0.707106829,0,0,0.707106829
@@ -3967,7 +3967,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 960163390
+		id = 3640880960
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -3986,7 +3986,7 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (0, 1.92861056, -4.25249481)
+		originalPos = (0, 1.92861056, -4.25249767)
 		originalRotation = (0.707106829, 0, 0, 0.707106829)
 		moduleVersion = 6
 		stagingEnabled = True
@@ -4040,8 +4040,8 @@ PART
 {
 	part = advSasModule_4292873672
 	partName = Part
-	persistentId = 3843284259
-	pos = 0,1.92861056,-5.38908768
+	persistentId = 2572846678
+	pos = 0,1.92861056,-5.3890934
 	attPos = 0,0,0
 	attPos0 = 0,-1.13652921,4.76837158E-07
 	rot = 0.707106829,0,0,0.707106829
@@ -4463,7 +4463,7 @@ PART
 		hasFailed = False
 		failureType = Reaction Wheel Failure
 		expectedLifetime = 6
-		chanceOfFailure = 0.0399999991
+		chanceOfFailure = 0.00999999978
 		baseChanceOfFailure = 0.100000001
 		numberOfRepairs = 0
 		stagingEnabled = True
@@ -4512,7 +4512,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 3843284259
+		id = 2572846678
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -4531,7 +4531,7 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (0, 1.92861056, -5.38908768)
+		originalPos = (0, 1.92861056, -5.3890934)
 		originalRotation = (0.707106829, 0, 0, 0.707106829)
 		moduleVersion = 6
 		stagingEnabled = True
@@ -4574,8 +4574,8 @@ PART
 {
 	part = SaturnAL31_4292872462
 	partName = Part
-	persistentId = 1702672280
-	pos = 0,1.92861056,-5.58811855
+	persistentId = 255919724
+	pos = 0,1.92861056,-5.58812428
 	attPos = 0,0,0
 	attPos0 = 0,-0.199028969,0
 	rot = 0.707106829,0,0,0.707106829
@@ -5372,7 +5372,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 1702672280
+		id = 255919724
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -5437,7 +5437,7 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (0, 1.92861056, -5.58811855)
+		originalPos = (0, 1.92861056, -5.58812428)
 		originalRotation = (0.707106829, 0, 0, 0.707106829)
 		moduleVersion = 6
 		stagingEnabled = True
@@ -5491,8 +5491,8 @@ PART
 {
 	part = miniFuselage_4292871732
 	partName = Part
-	persistentId = 2304564018
-	pos = 0,2.3286202,-0.302463412
+	persistentId = 3075378917
+	pos = 0,2.32862091,-0.302464843
 	attPos = 5.42752652E-08,0.005027771,0.533836365
 	attPos0 = -5.42752652E-08,0.194971323,-0.933836102
 	rot = -0.50000006,0.50000006,0.499999821,-0.500000298
@@ -5961,7 +5961,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 2304564018
+		id = 3075378917
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -5980,7 +5980,7 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (0, 2.3286202, -0.302463412)
+		originalPos = (0, 2.32862091, -0.302464843)
 		originalRotation = (-0.50000006, 0.50000006, 0.499999821, -0.500000298)
 		moduleVersion = 6
 		stagingEnabled = True
@@ -6035,7 +6035,7 @@ PART
 	part = avionicsNoseCone_4292870766
 	partName = Part
 	persistentId = 655955583
-	pos = -1.97549994E-08,2.32861042,0.416301429
+	pos = -1.9754971E-08,2.32861042,0.416300714
 	attPos = 0,0,0
 	attPos0 = 2.14014122E-07,0.718749821,-1.05366658E-08
 	rot = 0.707106829,-1.00485924E-14,1.00485924E-14,0.707106829
@@ -6500,7 +6500,7 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (-1.97549994E-08, 2.32861042, 0.416301429)
+		originalPos = (-1.9754971E-08, 2.32861042, 0.416300714)
 		originalRotation = (0.707106829, -1.00485924E-14, 1.00485924E-14, 0.707106829)
 		moduleVersion = 6
 		stagingEnabled = True
@@ -6539,8 +6539,8 @@ PART
 {
 	part = miniFuselage_4292870276
 	partName = Part
-	persistentId = 3911304478
-	pos = 1.9757362E-08,2.32861018,-1.23996425
+	persistentId = 2920845092
+	pos = 1.9757362E-08,2.32861018,-1.23996568
 	attPos = 0,0,0
 	attPos0 = -4.34639645E-07,-0.937500596,1.97563104E-08
 	rot = 0.707106829,-1.00485924E-14,1.00485924E-14,0.707106829
@@ -7010,7 +7010,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 3911304478
+		id = 2920845092
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -7029,7 +7029,7 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (1.9757362E-08, 2.32861018, -1.23996425)
+		originalPos = (1.9757362E-08, 2.32861018, -1.23996568)
 		originalRotation = (0.707106829, -1.00485924E-14, 1.00485924E-14, 0.707106829)
 		moduleVersion = 6
 		stagingEnabled = True
@@ -7083,8 +7083,8 @@ PART
 {
 	part = miniFuselage_4292869726
 	partName = Part
-	persistentId = 2128581774
-	pos = 1.97618988E-08,2.32861018,-2.17749619
+	persistentId = 729170306
+	pos = 1.97618348E-08,2.32861018,-2.17749906
 	attPos = 0,0,0
 	attPos0 = 1.17239592E-13,-0.937500954,3.57627925E-07
 	rot = 0.707106829,3.01457772E-14,-3.01457772E-14,0.707106829
@@ -7555,7 +7555,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 2128581774
+		id = 729170306
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -7574,7 +7574,7 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (1.97618988E-08, 2.32861018, -2.17749619)
+		originalPos = (1.97618348E-08, 2.32861018, -2.17749906)
 		originalRotation = (0.707106829, 3.01457772E-14, -3.01457772E-14, 0.707106829)
 		moduleVersion = 6
 		stagingEnabled = True
@@ -7628,8 +7628,8 @@ PART
 {
 	part = miniFuselage_4292869466
 	partName = Part
-	persistentId = 4226962316
-	pos = 1.97686063E-08,2.32861018,-3.11499715
+	persistentId = 2728966049
+	pos = 1.97703613E-08,2.32861018,-3.11500001
 	attPos = 0,0,0
 	attPos0 = 1.11022343E-13,-0.937500715,-1.43884863E-13
 	rot = 0.707106829,3.01457772E-14,-3.01457772E-14,0.707106829
@@ -8095,7 +8095,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 4226962316
+		id = 2728966049
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -8114,7 +8114,7 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (1.97686063E-08, 2.32861018, -3.11499715)
+		originalPos = (1.97703613E-08, 2.32861018, -3.11500001)
 		originalRotation = (0.707106829, 3.01457772E-14, -3.01457772E-14, 0.707106829)
 		moduleVersion = 6
 		stagingEnabled = True
@@ -8169,7 +8169,7 @@ PART
 	part = avionicsNoseCone_4292869188
 	partName = Part
 	persistentId = 1331121163
-	pos = 1.97735091E-08,2.32861018,-3.8337481
+	pos = 1.97743333E-08,2.32861018,-3.83375096
 	attPos = 0,0,0
 	attPos0 = 1.17683681E-13,-0.718751192,3.61488536E-13
 	rot = 1.88411061E-14,0.707106829,-0.707106829,-1.88411061E-14
@@ -8634,7 +8634,7 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (1.97735091E-08, 2.32861018, -3.8337481)
+		originalPos = (1.97743333E-08, 2.32861018, -3.83375096)
 		originalRotation = (1.88411061E-14, 0.707106829, -0.707106829, -1.88411061E-14)
 		moduleVersion = 6
 		stagingEnabled = True
@@ -8674,7 +8674,7 @@ PART
 	part = delta.small_4292858118
 	partName = Part
 	persistentId = 2542722282
-	pos = 0,1.92861056,-5.85255909
+	pos = 0,1.92861056,-5.85256481
 	attPos = -5.32551034E-08,-1.37035918,0.609167576
 	attPos0 = 5.32551034E-08,-0.229643345,-0.609167099
 	rot = -0.499999821,0.500000298,0.50000006,-0.50000006
@@ -9048,7 +9048,7 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (0, 1.92861056, -5.85255909)
+		originalPos = (0, 1.92861056, -5.85256481)
 		originalRotation = (-0.499999821, 0.500000298, 0.50000006, -0.50000006)
 		moduleVersion = 6
 		stagingEnabled = True
@@ -9083,8 +9083,8 @@ PART
 {
 	part = CanardController_4292857362
 	partName = Part
-	persistentId = 3502178725
-	pos = 0.0937488601,3.33225131,-6.85253525
+	persistentId = 4133171542
+	pos = 0.0937488601,3.33225131,-6.85254097
 	attPos = -1.43051147E-06,-0.549301684,3.42726707E-07
 	attPos0 = -1.40364027,-0.450672269,-0.0937482044
 	rot = -0.0407796651,0.705930054,0.705929935,-0.0407797992
@@ -9508,7 +9508,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 3502178725
+		id = 4133171542
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -9527,7 +9527,7 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (0.0937488601, 3.33225131, -6.85253525)
+		originalPos = (0.0937488601, 3.33225131, -6.85254097)
 		originalRotation = (-0.0407796651, 0.705930054, 0.705929935, -0.0407797992)
 		moduleVersion = 6
 		stagingEnabled = True
@@ -9562,8 +9562,8 @@ PART
 {
 	part = CanardController_4292856988
 	partName = Part
-	persistentId = 457228125
-	pos = -0.0937487707,3.33225131,-6.85253716
+	persistentId = 1396922215
+	pos = -0.0937487707,3.33225131,-6.85254288
 	attPos = -1.43051147E-06,-0.549303591,4.91738319E-07
 	attPos0 = -1.40364027,-0.450672269,0.0937491581
 	rot = -0.705930352,0.0407797284,0.040779572,-0.705929518
@@ -9987,7 +9987,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 457228125
+		id = 1396922215
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -10006,7 +10006,7 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (-0.0937487707, 3.33225131, -6.85253716)
+		originalPos = (-0.0937487707, 3.33225131, -6.85254288)
 		originalRotation = (-0.705930352, 0.0407797284, 0.040779572, -0.705929518)
 		moduleVersion = 6
 		stagingEnabled = True
@@ -10041,8 +10041,8 @@ PART
 {
 	part = AdvancedCanard_4292838948
 	partName = Part
-	persistentId = 242642460
-	pos = 0.619172394,1.92861056,-2.67480874
+	persistentId = 3649514168
+	pos = 0.619172394,1.92861056,-2.6748116
 	attPos = 0,-0.875627518,0
 	attPos0 = 0.619172394,0.578315735,0
 	rot = 4.21468513E-08,0.707106769,0.707106888,0
@@ -10374,7 +10374,7 @@ PART
 		hasFailed = False
 		failureType = Control Surface Failure
 		expectedLifetime = 6
-		chanceOfFailure = 0.0429999977
+		chanceOfFailure = 0.00999999978
 		baseChanceOfFailure = 0.109999999
 		numberOfRepairs = 0
 		stagingEnabled = True
@@ -10469,7 +10469,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 242642460
+		id = 3649514168
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -10488,7 +10488,7 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (0.619172394, 1.92861056, -2.67480874)
+		originalPos = (0.619172394, 1.92861056, -2.6748116)
 		originalRotation = (4.21468513E-08, 0.707106769, 0.707106888, 0)
 		moduleVersion = 6
 		stagingEnabled = True
@@ -10523,8 +10523,8 @@ PART
 {
 	part = AdvancedCanard_4292838734
 	partName = Part
-	persistentId = 2700834770
-	pos = -0.619172394,1.92861056,-2.67480874
+	persistentId = 1878460106
+	pos = -0.619172394,1.92861056,-2.6748116
 	attPos = 0,-0.875628471,0
 	attPos0 = -0.619172394,0.578315735,0
 	rot = -0.707107067,-3.0908641E-08,-7.30554746E-08,-0.70710659
@@ -10856,7 +10856,7 @@ PART
 		hasFailed = False
 		failureType = Control Surface Failure
 		expectedLifetime = 6
-		chanceOfFailure = 0.0429999977
+		chanceOfFailure = 0.00999999978
 		baseChanceOfFailure = 0.109999999
 		numberOfRepairs = 0
 		stagingEnabled = True
@@ -10951,7 +10951,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 2700834770
+		id = 1878460106
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -10970,7 +10970,7 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (-0.619172394, 1.92861056, -2.67480874)
+		originalPos = (-0.619172394, 1.92861056, -2.6748116)
 		originalRotation = (-0.707107067, -3.0908641E-08, -7.30554746E-08, -0.70710659)
 		moduleVersion = 6
 		stagingEnabled = True
@@ -11006,7 +11006,7 @@ PART
 	part = wingConnector4_4292832120
 	partName = Part
 	persistentId = 2482405178
-	pos = 6.81004053E-09,2.52861619,-0.839965582
+	pos = 6.81004053E-09,2.52861667,-0.839967012
 	attPos = -2.94885503E-08,-0.00744456053,0.109635338
 	attPos0 = 2.58379007E-09,0.407443255,-0.309635103
 	rot = -0.683013141,-0.183012664,-0.183012545,-0.683012545
@@ -11375,7 +11375,7 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (6.81004053E-09, 2.52861619, -0.839965582)
+		originalPos = (6.81004053E-09, 2.52861667, -0.839967012)
 		originalRotation = (-0.683013141, -0.183012664, -0.183012545, -0.683012545)
 		moduleVersion = 6
 		stagingEnabled = True
@@ -11411,7 +11411,7 @@ PART
 	part = wingConnector4_4292831444
 	partName = Part
 	persistentId = 2664831824
-	pos = 2.17112301E-08,2.52861619,-0.839965105
+	pos = 2.17112301E-08,2.52861667,-0.839966536
 	attPos = 4.5017245E-08,-0.00744408369,0.109635338
 	attPos0 = -5.70208627E-08,0.407443255,-0.309635103
 	rot = -0.18301262,-0.683012843,-0.683012843,-0.183012649
@@ -11780,7 +11780,7 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (2.17112301E-08, 2.52861619, -0.839965105)
+		originalPos = (2.17112301E-08, 2.52861667, -0.839966536)
 		originalRotation = (-0.18301262, -0.683012843, -0.683012843, -0.183012649)
 		moduleVersion = 6
 		stagingEnabled = True
@@ -11816,7 +11816,7 @@ PART
 	part = wingConnector4_4292831232
 	partName = Part
 	persistentId = 1607690152
-	pos = 3.78868421E-08,2.52860999,-2.5774982
+	pos = 3.78867782E-08,2.52860999,-2.57750106
 	attPos = 6.02790351E-08,-0.0160005093,0.1090803
 	attPos0 = -4.37558612E-08,-0.384001553,-0.309080154
 	rot = -0.183012843,-0.683012784,-0.683012664,-0.183012873
@@ -12185,7 +12185,7 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (3.78868421E-08, 2.52860999, -2.5774982)
+		originalPos = (3.78867782E-08, 2.52860999, -2.57750106)
 		originalRotation = (-0.183012843, -0.683012784, -0.683012664, -0.183012873)
 		moduleVersion = 6
 		stagingEnabled = True
@@ -12221,7 +12221,7 @@ PART
 	part = wingConnector4_4292830772
 	partName = Part
 	persistentId = 1660216453
-	pos = -6.81668411E-09,2.52860999,-2.57749915
+	pos = -6.81674805E-09,2.52860999,-2.57750201
 	attPos = -4.4029079E-08,-0.0160014629,0.1090803
 	attPos0 = 1.58487961E-08,-0.384001553,-0.309080154
 	rot = -0.683012724,-0.183012709,-0.183012679,-0.683012724
@@ -12590,7 +12590,7 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (-6.81668411E-09, 2.52860999, -2.57749915)
+		originalPos = (-6.81674805E-09, 2.52860999, -2.57750201)
 		originalRotation = (-0.683012724, -0.183012709, -0.183012679, -0.683012724)
 		moduleVersion = 6
 		stagingEnabled = True
@@ -12626,7 +12626,7 @@ PART
 	part = wingConnector4_4292830654
 	partName = Part
 	persistentId = 2713573816
-	pos = 1.98768302E-20,1.30544066,-4.13567734
+	pos = 1.98768302E-20,1.30544066,-4.1356802
 	attPos = 0,0,0
 	attPos0 = 0,0.116819859,0.623169899
 	rot = -0.683012784,0.183012739,0.18301256,-0.683012784
@@ -12996,7 +12996,7 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (1.98768302E-20, 1.30544066, -4.13567734)
+		originalPos = (1.98768302E-20, 1.30544066, -4.1356802)
 		originalRotation = (-0.683012784, 0.183012739, 0.18301256, -0.683012784)
 		moduleVersion = 6
 		stagingEnabled = True
@@ -13032,7 +13032,7 @@ PART
 	part = wingConnector4_4292829990
 	partName = Part
 	persistentId = 1465456074
-	pos = 1.04312782E-16,1.30544066,-4.13567638
+	pos = 1.04312782E-16,1.30544066,-4.13567924
 	attPos = 0,0,0
 	attPos0 = 1.04312782E-16,0.116819859,0.623169899
 	rot = -0.183012679,0.683012962,0.683012486,-0.183012798
@@ -13402,7 +13402,7 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (1.04312782E-16, 1.30544066, -4.13567638)
+		originalPos = (1.04312782E-16, 1.30544066, -4.13567924)
 		originalRotation = (-0.183012679, 0.683012962, 0.683012486, -0.183012798)
 		moduleVersion = 6
 		stagingEnabled = True
@@ -13438,7 +13438,7 @@ PART
 	part = wingConnector4_4292829780
 	partName = Part
 	persistentId = 3873507350
-	pos = 0,1.31392074,-2.18279529
+	pos = 0,1.31392074,-2.18279815
 	attPos = 0,0,0
 	attPos0 = 0,0.194699764,0.614689827
 	rot = -0.683012605,0.183012724,0.183012575,-0.683012962
@@ -13811,7 +13811,7 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (0, 1.31392074, -2.18279529)
+		originalPos = (0, 1.31392074, -2.18279815)
 		originalRotation = (-0.683012605, 0.183012724, 0.183012575, -0.683012962)
 		moduleVersion = 6
 		stagingEnabled = True
@@ -13847,7 +13847,7 @@ PART
 	part = wingConnector4_4292829622
 	partName = Part
 	persistentId = 208616159
-	pos = -6.18925122E-16,1.31392074,-2.18279624
+	pos = -6.18925122E-16,1.31392074,-2.1827991
 	attPos = 0,0,0
 	attPos0 = -6.18945027E-16,0.194699764,0.614689827
 	rot = -0.18301259,0.683013082,0.683012486,-0.183012709
@@ -14220,7 +14220,7 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (-6.18925122E-16, 1.31392074, -2.18279624)
+		originalPos = (-6.18925122E-16, 1.31392074, -2.1827991)
 		originalRotation = (-0.18301259, 0.683013082, 0.683012486, -0.183012709)
 		moduleVersion = 6
 		stagingEnabled = True
@@ -14256,7 +14256,7 @@ PART
 	part = wingConnector4_4292829296
 	partName = Part
 	persistentId = 3224472829
-	pos = 0,1.32861018,-0.902463436
+	pos = 0,1.32861018,-0.902464867
 	attPos = 0,-0.729436398,-0.018633008
 	attPos0 = 0,0.329435587,0.618633389
 	rot = -0.683012545,0.183012709,0.18301262,-0.683012903
@@ -14625,7 +14625,7 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (0, 1.32861018, -0.902463436)
+		originalPos = (0, 1.32861018, -0.902464867)
 		originalRotation = (-0.683012545, 0.183012709, 0.18301262, -0.683012903)
 		moduleVersion = 6
 		stagingEnabled = True
@@ -14661,7 +14661,7 @@ PART
 	part = wingConnector4_4292829116
 	partName = Part
 	persistentId = 2056838415
-	pos = 5.21083446E-16,1.32861018,-0.902463913
+	pos = 5.21083446E-16,1.32861018,-0.902465343
 	attPos = -2.01193089E-17,-0.729436874,-0.018633008
 	attPos0 = 5.41202755E-16,0.329435587,0.618633389
 	rot = -0.183012575,0.683012962,0.683012605,-0.183012724
@@ -15030,7 +15030,7 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (5.21083446E-16, 1.32861018, -0.902463913)
+		originalPos = (5.21083446E-16, 1.32861018, -0.902465343)
 		originalRotation = (-0.183012575, 0.683012962, 0.683012605, -0.183012724)
 		moduleVersion = 6
 		stagingEnabled = True
@@ -15066,7 +15066,7 @@ PART
 	part = wingConnector4_4292829028
 	partName = Part
 	persistentId = 1125152204
-	pos = -2.08432785E-15,1.32861018,-0.027446866
+	pos = -2.08432785E-15,1.32861018,-0.0274475813
 	attPos = -2.08432785E-15,-1.92293358,-0.0136488676
 	attPos0 = 0,0.522933245,0.613649368
 	rot = -0.183012709,0.683012784,0.683012903,-0.18301259
@@ -15436,7 +15436,7 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (-2.08432785E-15, 1.32861018, -0.027446866)
+		originalPos = (-2.08432785E-15, 1.32861018, -0.0274475813)
 		originalRotation = (-0.183012709, 0.683012784, 0.683012903, -0.18301259)
 		moduleVersion = 6
 		stagingEnabled = True
@@ -15472,7 +15472,7 @@ PART
 	part = wingConnector4_4292828784
 	partName = Part
 	persistentId = 3835385766
-	pos = 0,1.32860017,-0.0274465084
+	pos = 0,1.32859945,-0.0274472237
 	attPos = 1.42340795E-15,-1.9229331,-0.0136487484
 	attPos0 = -1.42340795E-15,0.522933245,0.613649368
 	rot = 0.683012784,-0.18301259,-0.18301262,0.683012784
@@ -15842,7 +15842,7 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (0, 1.32860017, -0.0274465084)
+		originalPos = (0, 1.32859945, -0.0274472237)
 		originalRotation = (0.683012784, -0.18301259, -0.18301262, 0.683012784)
 		moduleVersion = 6
 		stagingEnabled = True
@@ -15878,7 +15878,7 @@ PART
 	part = wingConnector4_4292827722
 	partName = Part
 	persistentId = 4146354324
-	pos = -2.08427216E-15,2.52861094,-4.5890522
+	pos = -2.08427216E-15,2.52861094,-4.58905602
 	attPos = -5.28201269E-08,0.662197113,0.00419092178
 	attPos0 = 5.28201234E-08,0.137798309,-0.60419178
 	rot = 0.183012724,0.683012962,0.683012724,0.183012575
@@ -16247,7 +16247,7 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (-2.08427216E-15, 2.52861094, -4.5890522)
+		originalPos = (-2.08427216E-15, 2.52861094, -4.58905602)
 		originalRotation = (0.183012724, 0.683012962, 0.683012724, 0.183012575)
 		moduleVersion = 6
 		stagingEnabled = True
@@ -16283,7 +16283,7 @@ PART
 	part = wingConnector4_4292827274
 	partName = Part
 	persistentId = 2535852645
-	pos = 0,2.52861094,-4.58905125
+	pos = 0,2.52861094,-4.58905506
 	attPos = 5.28201234E-08,0.662198067,0.00419092178
 	attPos0 = -5.28201234E-08,0.137798309,-0.60419178
 	rot = -0.683012605,-0.183012679,-0.183012798,-0.683012843
@@ -16652,7 +16652,7 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (0, 2.52861094, -4.58905125)
+		originalPos = (0, 2.52861094, -4.58905506)
 		originalRotation = (-0.683012605, -0.183012679, -0.183012798, -0.683012843)
 		moduleVersion = 6
 		stagingEnabled = True
@@ -16687,8 +16687,8 @@ PART
 {
 	part = GearSmall_4292818124
 	partName = Part
-	persistentId = 388680879
-	pos = 2.10519028,1.92861056,-2.91528058
+	persistentId = 4286740806
+	pos = 2.10519028,1.92861056,-2.91528344
 	attPos = 0,0,0
 	attPos0 = -1.1888144,-0.192369655,2.49943675E-08
 	rot = 1.49011612E-07,-0.00619756244,6.91507012E-08,0.999980807
@@ -17525,7 +17525,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 388680879
+		id = 4286740806
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -17544,7 +17544,7 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (2.10519028, 1.92861056, -2.91528058)
+		originalPos = (2.10519028, 1.92861056, -2.91528344)
 		originalRotation = (1.49011612E-07, -0.00619756244, 6.91507012E-08, 0.999980807)
 		moduleVersion = 6
 		stagingEnabled = True
@@ -17579,8 +17579,8 @@ PART
 {
 	part = GearSmall_4292816480
 	partName = Part
-	persistentId = 2430879397
-	pos = -2.10519028,1.92861056,-2.91527677
+	persistentId = 2683489728
+	pos = -2.10519028,1.92861056,-2.91527963
 	attPos = 0,0,0
 	attPos0 = -1.1888144,-0.19237034,-1.74788283E-07
 	rot = -1.49011612E-07,-0.00619756244,6.91507012E-08,-0.999980807
@@ -18385,7 +18385,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 2430879397
+		id = 2683489728
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -18404,7 +18404,7 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (-2.10519028, 1.92861056, -2.91527677)
+		originalPos = (-2.10519028, 1.92861056, -2.91527963)
 		originalRotation = (-1.49011612E-07, -0.00619756244, 6.91507012E-08, -0.999980807)
 		moduleVersion = 6
 		stagingEnabled = True
@@ -18439,8 +18439,8 @@ PART
 {
 	part = IntakeRadialLong_4292815410
 	partName = Part
-	persistentId = 145477923
-	pos = -0.600000024,1.92861056,-0.702463388
+	persistentId = 3970722101
+	pos = -0.600000024,1.92861056,-0.702464819
 	attPos = 0.0203458071,-0.872411489,1.1920929E-07
 	attPos0 = -0.620345831,0.672410727,-1.1920929E-07
 	rot = 0,5.96046448E-08,-0.707106829,0.707106829
@@ -18561,9 +18561,9 @@ PART
 	{
 		name = FundsKeeper
 		isEnabled = True
-		OriginalCost = 2700.0
+		OriginalCost = 900.0
 		OriginalResourcesCost = 0.0
-		OriginalModulesCost = 1800
+		OriginalModulesCost = 0
 		stagingEnabled = True
 		EVENTS
 		{
@@ -18898,7 +18898,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 145477923
+		id = 3970722101
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -18917,7 +18917,7 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (-0.600000024, 1.92861056, -0.702463388)
+		originalPos = (-0.600000024, 1.92861056, -0.702464819)
 		originalRotation = (0, 5.96046448E-08, -0.707106829, 0.707106829)
 		moduleVersion = 6
 		stagingEnabled = True
@@ -18974,8 +18974,8 @@ PART
 {
 	part = IntakeRadialLong_4292814878
 	partName = Part
-	persistentId = 2687725076
-	pos = 0.600000024,1.92861056,-0.702463865
+	persistentId = 3559203969
+	pos = 0.600000024,1.92861056,-0.702465296
 	attPos = -0.0203458071,-0.872411847,1.1920929E-07
 	attPos0 = 0.620345831,0.672410607,-1.1920929E-07
 	rot = -5.96046448E-08,-8.94069672E-08,0.707106948,0.707106709
@@ -18993,8 +18993,8 @@ PART
 	sepI = -1
 	attm = 1
 	sameVesselCollision = False
-	modCost = 1800
-	modMass = -0.0399999991
+	modCost = 0
+	modMass = 0
 	modSize = 0,0,0
 	sym = IntakeRadialLong_4292815410
 	srfN = srfAttach,MK1Fuselage_4292878264,CylCOL,0|0|0,0|1|0,0|0|0
@@ -19096,9 +19096,9 @@ PART
 	{
 		name = FundsKeeper
 		isEnabled = True
-		OriginalCost = 2700.0
+		OriginalCost = 900.0
 		OriginalResourcesCost = 0.0
-		OriginalModulesCost = 1800
+		OriginalModulesCost = 0
 		stagingEnabled = True
 		EVENTS
 		{
@@ -19149,7 +19149,7 @@ PART
 		Hardness = 300
 		Strength = 200
 		SafeUseTemp = 993
-		radarReflectivity = 0.800000012
+		radarReflectivity = 1
 		Cost = 0
 		vFactor = 1.82712211E-06
 		muParam1 = 1.37732458
@@ -19433,7 +19433,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 2687725076
+		id = 3559203969
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -19452,7 +19452,7 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (0.600000024, 1.92861056, -0.702463865)
+		originalPos = (0.600000024, 1.92861056, -0.702465296)
 		originalRotation = (-5.96046448E-08, -8.94069672E-08, 0.707106948, 0.707106709)
 		moduleVersion = 6
 		stagingEnabled = True
@@ -19509,8 +19509,8 @@ PART
 {
 	part = SurfAntenna_4292584300
 	partName = Part
-	persistentId = 253484021
-	pos = 6.9388939E-18,1.25476766,0.207989454
+	persistentId = 1469337815
+	pos = 6.9388939E-18,1.25476694,0.207988739
 	attPos = 0,0,0
 	attPos0 = -9.64180055E-11,0.710438013,0.673832774
 	rot = 0.707106829,1.78813934E-07,0.707106829,1.78813934E-07
@@ -19528,8 +19528,8 @@ PART
 	sepI = -1
 	attm = 1
 	sameVesselCollision = False
-	modCost = 725.400024
-	modMass = 0.00724180043
+	modCost = 125.400002
+	modMass = 0.00764180021
 	modSize = 0,0,0
 	srfN = srfAttach,MK1Fuselage_4292878264,CylCOL,0|-0.0500000007|0,0|-1|0,0|-0.0500000007|0
 	EVENTS
@@ -19615,9 +19615,9 @@ PART
 	{
 		name = FundsKeeper
 		isEnabled = True
-		OriginalCost = 1025.4
+		OriginalCost = 425.4
 		OriginalResourcesCost = 0
-		OriginalModulesCost = 725.4
+		OriginalModulesCost = 125.4
 		stagingEnabled = True
 		EVENTS
 		{
@@ -19649,7 +19649,7 @@ PART
 	{
 		name = HitpointTracker
 		isEnabled = True
-		Hitpoints = 37.5
+		Hitpoints = 12.5
 		Armor = 10
 		ArmorRemaining = 100
 		ArmorTypeNum = 1
@@ -19668,7 +19668,7 @@ PART
 		Hardness = 300
 		Strength = 200
 		SafeUseTemp = 993
-		radarReflectivity = 0.800000012
+		radarReflectivity = 1
 		Cost = 0
 		vFactor = 1.82712211E-06
 		muParam1 = 1.37732458
@@ -19914,7 +19914,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 253484021
+		id = 1469337815
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -19949,7 +19949,7 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (6.9388939E-18, 1.25476766, 0.207989454)
+		originalPos = (6.9388939E-18, 1.25476694, 0.207988739)
 		originalRotation = (0.707106829, 1.78813934E-07, 0.707106829, 1.78813934E-07)
 		moduleVersion = 6
 		stagingEnabled = True
@@ -19985,7 +19985,7 @@ PART
 	part = missileController_4292541802
 	partName = Part
 	persistentId = 821432601
-	pos = 0,1.52860999,-0.702463627
+	pos = 0,1.52860999,-0.702465057
 	attPos = 6.9420962E-11,-0.00723671913,-0.187484741
 	attPos0 = -6.9420962E-11,-0.192764282,0.587485313
 	rot = 1.00000012,9.64180291E-10,4.99600361E-16,2.38418579E-07
@@ -20461,7 +20461,7 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (0, 1.52860999, -0.702463627)
+		originalPos = (0, 1.52860999, -0.702465057)
 		originalRotation = (1.00000012, 9.64180291E-10, 4.99600361E-16, 2.38418579E-07)
 		moduleVersion = 6
 		stagingEnabled = True
@@ -20497,7 +20497,7 @@ PART
 	part = bdPilotAI_4292541592
 	partName = Part
 	persistentId = 3310963876
-	pos = 0,1.52860999,-1.10246348
+	pos = 0,1.52860999,-1.10246491
 	attPos = 3.99103459E-11,0.0146410465,-0.242529869
 	attPos0 = -3.99103459E-11,-0.614641905,0.642530441
 	rot = 1.00000012,-9.64180291E-10,-4.99600361E-16,2.38418579E-07
@@ -20972,7 +20972,7 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (0, 1.52860999, -1.10246348)
+		originalPos = (0, 1.52860999, -1.10246491)
 		originalRotation = (1.00000012, -9.64180291E-10, -4.99600361E-16, 2.38418579E-07)
 		moduleVersion = 6
 		stagingEnabled = True
@@ -21008,7 +21008,7 @@ PART
 	part = flagPartFlat_4292506630
 	partName = Part
 	persistentId = 18341481
-	pos = -3.51240396,1.99180388,-4.18490982
+	pos = -3.51240396,1.99180388,-4.18491268
 	attPos = -0.00194406509,0.00218200684,0.0301008224
 	attPos0 = -2.31265211,-1.21026504,-0.0816550478
 	rot = 0.682212472,-0.178608358,0.187184662,0.683847427
@@ -21442,7 +21442,7 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (-3.51240396, 1.99180388, -4.18490982)
+		originalPos = (-3.51240396, 1.99180388, -4.18491268)
 		originalRotation = (0.682212472, -0.178608358, 0.187184662, 0.683847427)
 		moduleVersion = 6
 		stagingEnabled = True
@@ -21478,7 +21478,7 @@ PART
 	part = flagPartFlat_4292506248
 	partName = Part
 	persistentId = 1098195466
-	pos = 3.51240373,1.99180436,-4.18491745
+	pos = 3.51240373,1.99180436,-4.18492031
 	attPos = -0.00194406509,0.00218105316,-0.0301008336
 	attPos0 = -2.31265163,-1.21026647,0.0816553608
 	rot = -0.682212532,-0.178608388,0.187184393,-0.683847487
@@ -21912,7 +21912,7 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (3.51240373, 1.99180436, -4.18491745)
+		originalPos = (3.51240373, 1.99180436, -4.18492031)
 		originalRotation = (-0.682212532, -0.178608388, 0.187184393, -0.683847487)
 		moduleVersion = 6
 		stagingEnabled = True
@@ -21948,7 +21948,7 @@ PART
 	part = flagPartFlat_4292498764
 	partName = Part
 	persistentId = 2856932043
-	pos = -0.0945564508,2.87970614,-6.15459156
+	pos = -0.0945564508,2.87970614,-6.15459728
 	attPos = -1.1920929E-07,-1.52587891E-05,-0.0241945237
 	attPos0 = -0.951095879,-0.302016795,0.118751526
 	rot = -2.08616257E-07,0.707107186,-1.1920929E-07,0.70710659
@@ -22383,7 +22383,7 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (-0.0945564508, 2.87970614, -6.15459156)
+		originalPos = (-0.0945564508, 2.87970614, -6.15459728)
 		originalRotation = (-2.08616257E-07, 0.707107186, -1.1920929E-07, 0.70710659)
 		moduleVersion = 6
 		stagingEnabled = True
@@ -22419,10 +22419,10 @@ PART
 	part = flagPartFlat_4292498004
 	partName = Part
 	persistentId = 931781227
-	pos = 0.0945563614,2.87970614,-6.15458965
+	pos = 0.0945563614,2.87970614,-6.15459538
 	attPos = -1.1920929E-07,-1.33514404E-05,0.0241945833
 	attPos0 = -0.951095998,-0.302016795,-0.118750334
-	rot = -1.49011612E-07,-0.707107067,2.08616257E-07,0.707106709
+	rot = -8.94069672E-08,-0.707107067,1.49011612E-07,0.707106709
 	attRot = 0,0,0.707106709,0.707106709
 	attRot0 = -2.53319712E-07,-1.7881392E-07,-0.707106769,-0.707106888
 	mir = 1,1,1
@@ -22854,8 +22854,8 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (0.0945563614, 2.87970614, -6.15458965)
-		originalRotation = (-1.49011612E-07, -0.707107067, 2.08616257E-07, 0.707106709)
+		originalPos = (0.0945563614, 2.87970614, -6.15459538)
+		originalRotation = (-8.94069672E-08, -0.707107067, 1.49011612E-07, 0.707106709)
 		moduleVersion = 6
 		stagingEnabled = True
 		userReallyDeactivatedIt = False
@@ -22890,7 +22890,7 @@ PART
 	part = bahaAdjustableRail_4292495506
 	partName = Part
 	persistentId = 2054647856
-	pos = -0.377843082,1.37531638,-2.79921365
+	pos = -0.377843082,1.37531638,-2.79921651
 	attPos = 0,0,0
 	attPos0 = -0.357919723,-0.616417348,0.135751024
 	rot = -3.27825546E-07,-2.68220901E-07,-0.258818448,0.965926051
@@ -23211,7 +23211,7 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (-0.377843082, 1.37531638, -2.79921365)
+		originalPos = (-0.377843082, 1.37531638, -2.79921651)
 		originalRotation = (-3.27825546E-07, -2.68220901E-07, -0.258818448, 0.965926051)
 		moduleVersion = 6
 		stagingEnabled = True
@@ -23263,7 +23263,7 @@ PART
 	part = bahaAdjustableRail_4292494246
 	partName = Part
 	persistentId = 2966805862
-	pos = 0.377850592,1.37531638,-2.79921269
+	pos = 0.37785095,1.37531638,-2.79921556
 	attPos = 0,0,0
 	attPos0 = -0.357919902,-0.616416454,-0.13575083
 	rot = 2.08616257E-07,7.4505806E-08,0.258818805,0.965925932
@@ -23584,7 +23584,7 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (0.377850592, 1.37531638, -2.79921269)
+		originalPos = (0.37785095, 1.37531638, -2.79921556)
 		originalRotation = (2.08616257E-07, 7.4505806E-08, 0.258818805, 0.965925932)
 		moduleVersion = 6
 		stagingEnabled = True
@@ -23636,7 +23636,7 @@ PART
 	part = bahaAdjustableRail_4292493982
 	partName = Part
 	persistentId = 4223248342
-	pos = -0.751993537,1.5913322,-2.68741059
+	pos = -0.751993537,1.5913322,-2.68741345
 	attPos = 0,0,0
 	attPos0 = -0.789951444,-0.504615128,0.135751069
 	rot = -3.27825546E-07,-2.68220901E-07,-0.258818448,0.965926051
@@ -23957,7 +23957,7 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (-0.751993537, 1.5913322, -2.68741059)
+		originalPos = (-0.751993537, 1.5913322, -2.68741345)
 		originalRotation = (-3.27825546E-07, -2.68220901E-07, -0.258818448, 0.965926051)
 		moduleVersion = 6
 		stagingEnabled = True
@@ -24009,7 +24009,7 @@ PART
 	part = bahaAdjustableRail_4292493652
 	partName = Part
 	persistentId = 94779464
-	pos = 0.752008677,1.5913322,-2.68741059
+	pos = 0.752009451,1.5913322,-2.68741345
 	attPos = 0,0,0
 	attPos0 = -0.789951861,-0.504614234,-0.135750994
 	rot = 2.08616257E-07,7.4505806E-08,0.258818805,0.965925932
@@ -24330,7 +24330,7 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (0.752008677, 1.5913322, -2.68741059)
+		originalPos = (0.752009451, 1.5913322, -2.68741345)
 		originalRotation = (2.08616257E-07, 7.4505806E-08, 0.258818805, 0.965925932)
 		moduleVersion = 6
 		stagingEnabled = True
@@ -24382,7 +24382,7 @@ PART
 	part = bahaAdjustableRail_4292493382
 	partName = Part
 	persistentId = 1765111278
-	pos = -0.57160306,1.48718333,-2.75225186
+	pos = -0.57160306,1.48718333,-2.75225472
 	attPos = 0,0,0
 	attPos0 = -0.581654251,-0.569456458,0.135751352
 	rot = -3.27825546E-07,-2.68220901E-07,-0.258818448,0.965926051
@@ -24703,7 +24703,7 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (-0.57160306, 1.48718333, -2.75225186)
+		originalPos = (-0.57160306, 1.48718333, -2.75225472)
 		originalRotation = (-3.27825546E-07, -2.68220901E-07, -0.258818448, 0.965926051)
 		moduleVersion = 6
 		stagingEnabled = True
@@ -24755,7 +24755,7 @@ PART
 	part = bahaAdjustableRail_4292492972
 	partName = Part
 	persistentId = 2477180460
-	pos = 0.571612775,1.48718333,-2.75225186
+	pos = 0.571613252,1.48718333,-2.75225472
 	attPos = 0,0,0
 	attPos0 = -0.581654489,-0.569455564,-0.135751173
 	rot = 2.08616257E-07,7.4505806E-08,0.258818805,0.965925932
@@ -25076,7 +25076,7 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (0.571612775, 1.48718333, -2.75225186)
+		originalPos = (0.571613252, 1.48718333, -2.75225472)
 		originalRotation = (2.08616257E-07, 7.4505806E-08, 0.258818805, 0.965925932)
 		moduleVersion = 6
 		stagingEnabled = True
@@ -25128,7 +25128,7 @@ PART
 	part = bahaAdjustableRail_4292492696
 	partName = Part
 	persistentId = 3688897275
-	pos = -0.196404219,1.27056193,-2.8572576
+	pos = -0.196404219,1.27056193,-2.85726047
 	attPos = 0,0,0
 	attPos0 = -0.148411855,-0.674462318,0.13575162
 	rot = -3.27825546E-07,-2.68220901E-07,-0.258818448,0.965926051
@@ -25449,7 +25449,7 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (-0.196404219, 1.27056193, -2.8572576)
+		originalPos = (-0.196404219, 1.27056193, -2.85726047)
 		originalRotation = (-3.27825546E-07, -2.68220901E-07, -0.258818448, 0.965926051)
 		moduleVersion = 6
 		stagingEnabled = True
@@ -25501,7 +25501,7 @@ PART
 	part = bahaAdjustableRail_4292492100
 	partName = Part
 	persistentId = 618539626
-	pos = 0.196408063,1.27056193,-2.8572576
+	pos = 0.196408257,1.27056193,-2.85726047
 	attPos = 0,0,0
 	attPos0 = -0.148411989,-0.674461484,-0.135751426
 	rot = 2.08616257E-07,7.4505806E-08,0.258818805,0.965925932
@@ -25822,7 +25822,7 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (0.196408063, 1.27056193, -2.8572576)
+		originalPos = (0.196408257, 1.27056193, -2.85726047)
 		originalRotation = (2.08616257E-07, 7.4505806E-08, 0.258818805, 0.965925932)
 		moduleVersion = 6
 		stagingEnabled = True
@@ -25874,7 +25874,7 @@ PART
 	part = bahaAim9_4292491516
 	partName = Part
 	persistentId = 825592508
-	pos = -0.817871451,1.47722793,-2.67061257
+	pos = -0.817871451,1.47722793,-2.67061543
 	attPos = 0,0,0
 	attPos0 = 1.99849083E-07,-0.131756157,0.0167988874
 	rot = 8.94069672E-08,2.98023224E-08,0.258818716,-0.965925932
@@ -26258,7 +26258,7 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (-0.817871451, 1.47722793, -2.67061257)
+		originalPos = (-0.817871451, 1.47722793, -2.67061543)
 		originalRotation = (8.94069672E-08, 2.98023224E-08, 0.258818716, -0.965925932)
 		moduleVersion = 6
 		stagingEnabled = True
@@ -26298,7 +26298,7 @@ PART
 	part = bahaAim9_4292490840
 	partName = Part
 	persistentId = 3270751336
-	pos = 0.817888856,1.47722793,-2.67061114
+	pos = 0.817889571,1.47722793,-2.670614
 	attPos = 0,0,0
 	attPos0 = -1.7131871E-08,-0.131756246,0.0167993791
 	rot = 2.08616257E-07,7.4505806E-08,0.258818805,0.965925932
@@ -26682,7 +26682,7 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (0.817888856, 1.47722793, -2.67061114)
+		originalPos = (0.817889571, 1.47722793, -2.670614)
 		originalRotation = (2.08616257E-07, 7.4505806E-08, 0.258818805, 0.965925932)
 		moduleVersion = 6
 		stagingEnabled = True
@@ -26722,7 +26722,7 @@ PART
 	part = bahaAim9_4292490606
 	partName = Part
 	persistentId = 3506176804
-	pos = -0.637481093,1.37308002,-2.73545241
+	pos = -0.637481093,1.37308002,-2.73545527
 	attPos = 0,0,0
 	attPos0 = -3.36592564E-07,-0.131755382,0.0167993959
 	rot = 8.94069672E-08,2.98023224E-08,0.258818716,-0.965925932
@@ -27106,7 +27106,7 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (-0.637481093, 1.37308002, -2.73545241)
+		originalPos = (-0.637481093, 1.37308002, -2.73545527)
 		originalRotation = (8.94069672E-08, 2.98023224E-08, 0.258818716, -0.965925932)
 		moduleVersion = 6
 		stagingEnabled = True
@@ -27146,7 +27146,7 @@ PART
 	part = bahaAim9_4292490170
 	partName = Part
 	persistentId = 1927992879
-	pos = 0.637493014,1.37307858,-2.73545241
+	pos = 0.637493491,1.37307858,-2.73545527
 	attPos = 0,0,0
 	attPos0 = 3.40495831E-07,-0.131755501,0.016799381
 	rot = 2.08616257E-07,7.4505806E-08,0.258818805,0.965925932
@@ -27530,7 +27530,7 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (0.637493014, 1.37307858, -2.73545241)
+		originalPos = (0.637493491, 1.37307858, -2.73545527)
 		originalRotation = (2.08616257E-07, 7.4505806E-08, 0.258818805, 0.965925932)
 		moduleVersion = 6
 		stagingEnabled = True
@@ -27570,7 +27570,7 @@ PART
 	part = bahaAim9_4292489936
 	partName = Part
 	persistentId = 4237764095
-	pos = -0.443720996,1.26121211,-2.7824142
+	pos = -0.443720996,1.26121211,-2.78241706
 	attPos = 0,0,0
 	attPos0 = 1.99849026E-07,-0.131756172,0.0167993773
 	rot = 8.94069672E-08,2.98023224E-08,0.258818716,-0.965925932
@@ -27954,7 +27954,7 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (-0.443720996, 1.26121211, -2.7824142)
+		originalPos = (-0.443720996, 1.26121211, -2.78241706)
 		originalRotation = (8.94069672E-08, 2.98023224E-08, 0.258818716, -0.965925932)
 		moduleVersion = 6
 		stagingEnabled = True
@@ -27994,7 +27994,7 @@ PART
 	part = bahaAim9_4292489520
 	partName = Part
 	persistentId = 4102504214
-	pos = 0.443730175,1.26120925,-2.78241324
+	pos = 0.443730503,1.26120925,-2.78241611
 	attPos = 0,0,0
 	attPos0 = -1.66143522E-07,-0.131756246,0.0167993177
 	rot = 2.08616257E-07,7.4505806E-08,0.258818805,0.965925932
@@ -28378,7 +28378,7 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (0.443730175, 1.26120925, -2.78241324)
+		originalPos = (0.443730503, 1.26120925, -2.78241611)
 		originalRotation = (2.08616257E-07, 7.4505806E-08, 0.258818805, 0.965925932)
 		moduleVersion = 6
 		stagingEnabled = True
@@ -28418,7 +28418,7 @@ PART
 	part = bahaAim9_4292489286
 	partName = Part
 	persistentId = 3373205544
-	pos = -0.262282193,1.15645862,-2.84045863
+	pos = -0.262282193,1.15645862,-2.84046149
 	attPos = 0,0,0
 	attPos0 = -2.76987834E-07,-0.131755322,0.0167988613
 	rot = 8.94069672E-08,2.98023224E-08,0.258818716,-0.965925932
@@ -28802,7 +28802,7 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (-0.262282193, 1.15645862, -2.84045863)
+		originalPos = (-0.262282193, 1.15645862, -2.84046149)
 		originalRotation = (8.94069672E-08, 2.98023224E-08, 0.258818716, -0.965925932)
 		moduleVersion = 6
 		stagingEnabled = True
@@ -28842,7 +28842,7 @@ PART
 	part = bahaAim9_4292488794
 	partName = Part
 	persistentId = 2191341982
-	pos = 0.262286842,1.1564467,-2.84045863
+	pos = 0.262286991,1.15644622,-2.84046149
 	attPos = 0,0,0
 	attPos0 = -1.95945887E-07,-0.131756231,0.016798906
 	rot = 2.08616257E-07,7.4505806E-08,0.258818805,0.965925932
@@ -29226,7 +29226,7 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (0.262286842, 1.1564467, -2.84045863)
+		originalPos = (0.262286991, 1.15644622, -2.84046149)
 		originalRotation = (2.08616257E-07, 7.4505806E-08, 0.258818805, 0.965925932)
 		moduleVersion = 6
 		stagingEnabled = True
@@ -29266,7 +29266,7 @@ PART
 	part = navLight1_4292481500
 	partName = Part
 	persistentId = 3529702559
-	pos = 0,1.23920894,-3.377496
+	pos = 0,1.23920894,-3.37749887
 	attPos = 0,-1.80616069,0.0651810169
 	attPos0 = 0,0.806158781,0.62422061
 	rot = -6.81778523E-10,0.707107008,0.70710665,-6.81777967E-10
@@ -29730,7 +29730,7 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (0, 1.23920894, -3.377496)
+		originalPos = (0, 1.23920894, -3.37749887)
 		originalRotation = (-6.81778523E-10, 0.707107008, 0.70710665, -6.81777967E-10)
 		moduleVersion = 6
 		stagingEnabled = True
@@ -29765,8 +29765,8 @@ PART
 {
 	part = baha20mmAmmo_4292478636
 	partName = Part
-	persistentId = 2498555335
-	pos = 0.400000006,1.7286098,-1.10246348
+	persistentId = 2234297043
+	pos = 0.400000006,1.7286098,-1.10246491
 	attPos = 0.0328017473,-0.488786697,-0.436005592
 	attPos0 = 0.367198259,-0.111214161,0.636006355
 	rot = 0.965925992,0.258819044,8.94069672E-08,2.38418579E-07
@@ -30157,7 +30157,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 2498555335
+		id = 2234297043
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -30176,7 +30176,7 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (0.400000006, 1.7286098, -1.10246348)
+		originalPos = (0.400000006, 1.7286098, -1.10246491)
 		originalRotation = (0.965925992, 0.258819044, 8.94069672E-08, 2.38418579E-07)
 		moduleVersion = 6
 		stagingEnabled = True
@@ -30222,8 +30222,8 @@ PART
 {
 	part = baha20mmAmmo_4292478022
 	partName = Part
-	persistentId = 3654895022
-	pos = -0.400000006,1.7286098,-1.10246396
+	persistentId = 1528254710
+	pos = -0.400000006,1.7286098,-1.10246539
 	attPos = -0.0328017473,-0.488787413,-0.436005712
 	attPos0 = -0.367198259,-0.111213923,0.636006474
 	rot = 0.965925992,-0.258818865,-7.4505806E-08,1.78813934E-07
@@ -30614,7 +30614,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 3654895022
+		id = 1528254710
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -30633,7 +30633,7 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (-0.400000006, 1.7286098, -1.10246396)
+		originalPos = (-0.400000006, 1.7286098, -1.10246539)
 		originalRotation = (0.965925992, -0.258818865, -7.4505806E-08, 1.78813934E-07)
 		moduleVersion = 6
 		stagingEnabled = True
@@ -30679,11 +30679,11 @@ PART
 {
 	part = baha20mmAmmo_4292477840
 	partName = Part
-	persistentId = 341180972
-	pos = 0.200005472,2.32861018,-2.1774981
+	persistentId = 130689791
+	pos = 0.20000574,2.32861018,-2.17750096
 	attPos = -0.094124943,0.0487260818,0.294124693
 	attPos0 = 0.29412511,-0.0487279892,-0.294124693
-	rot = 0.382686079,0.92387867,-1.16229057E-06,-2.69711018E-06
+	rot = 0.382686198,0.92387867,-1.13248825E-06,-2.90572643E-06
 	attRot = 0,0,0,1
 	attRot0 = 0.270598143,0.653281391,-0.653281629,0.270597845
 	mir = 1,1,1
@@ -31071,7 +31071,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 341180972
+		id = 130689791
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -31090,8 +31090,8 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (0.200005472, 2.32861018, -2.1774981)
-		originalRotation = (0.382686079, 0.92387867, -1.16229057E-06, -2.69711018E-06)
+		originalPos = (0.20000574, 2.32861018, -2.17750096)
+		originalRotation = (0.382686198, 0.92387867, -1.13248825E-06, -2.90572643E-06)
 		moduleVersion = 6
 		stagingEnabled = True
 		userReallyDeactivatedIt = False
@@ -31136,8 +31136,8 @@ PART
 {
 	part = baha20mmAmmo_4292477510
 	partName = Part
-	persistentId = 529585435
-	pos = -0.200005561,2.32861018,-2.17749906
+	persistentId = 1913287478
+	pos = -0.200005829,2.32861018,-2.17750192
 	attPos = 0.0941247642,0.0487251282,0.294124663
 	attPos0 = -0.29412508,-0.0487279892,-0.294124663
 	rot = -0.382683545,0.923879743,-2.08616257E-07,1.78813934E-07
@@ -31528,7 +31528,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 529585435
+		id = 1913287478
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -31547,7 +31547,7 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (-0.200005561, 2.32861018, -2.17749906)
+		originalPos = (-0.200005829, 2.32861018, -2.17750192)
 		originalRotation = (-0.382683545, 0.923879743, -2.08616257E-07, 1.78813934E-07)
 		moduleVersion = 6
 		stagingEnabled = True
@@ -31593,11 +31593,11 @@ PART
 {
 	part = baha20mmAmmo_4292477322
 	partName = Part
-	persistentId = 1110910010
-	pos = 0.200005487,2.32861018,-1.63999534
+	persistentId = 2371838043
+	pos = 0.200005755,2.32861018,-1.6399982
 	attPos = -0.093356818,-0.0257369876,0.293357164
 	attPos0 = 0.293357015,-0.374264717,-0.293356925
-	rot = 0.382686079,0.92387867,-1.16229057E-06,-2.69711018E-06
+	rot = 0.382686198,0.92387867,-1.13248825E-06,-2.90572643E-06
 	attRot = 0,0,0,1
 	attRot0 = 0.270598114,0.65328145,-0.653281569,0.270597875
 	mir = 1,1,1
@@ -31985,7 +31985,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 1110910010
+		id = 2371838043
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -32004,8 +32004,8 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (0.200005487, 2.32861018, -1.63999534)
-		originalRotation = (0.382686079, 0.92387867, -1.16229057E-06, -2.69711018E-06)
+		originalPos = (0.200005755, 2.32861018, -1.6399982)
+		originalRotation = (0.382686198, 0.92387867, -1.13248825E-06, -2.90572643E-06)
 		moduleVersion = 6
 		stagingEnabled = True
 		userReallyDeactivatedIt = False
@@ -32050,8 +32050,8 @@ PART
 {
 	part = baha20mmAmmo_4292477064
 	partName = Part
-	persistentId = 2118173684
-	pos = -0.200005576,2.32861018,-1.63999629
+	persistentId = 213062216
+	pos = -0.200005844,2.32861018,-1.63999915
 	attPos = 0.0933566689,-0.0257379413,0.293357164
 	attPos0 = -0.293356985,-0.374264717,-0.293356925
 	rot = -0.382683545,0.923879623,-8.94069672E-08,1.78813934E-07
@@ -32442,7 +32442,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 2118173684
+		id = 213062216
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -32461,7 +32461,7 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (-0.200005576, 2.32861018, -1.63999629)
+		originalPos = (-0.200005844, 2.32861018, -1.63999915)
 		originalRotation = (-0.382683545, 0.923879623, -8.94069672E-08, 1.78813934E-07)
 		moduleVersion = 6
 		stagingEnabled = True
@@ -32508,7 +32508,7 @@ PART
 	part = airbrake1_4292459104
 	partName = Part
 	persistentId = 1638056659
-	pos = 0.646939039,1.92861056,-4.21429729
+	pos = 0.646939039,1.92861056,-4.21430016
 	attPos = 0,0,0
 	attPos0 = 0.646939039,0.0381984711,0
 	rot = 0.5,0.49999997,0.500000119,0.5
@@ -32526,8 +32526,8 @@ PART
 	sepI = -1
 	attm = 1
 	sameVesselCollision = False
-	modCost = 2000
-	modMass = -0.0199999996
+	modCost = 0
+	modMass = 0
 	modSize = 0,0,0
 	sym = airbrake1_4292450478
 	srfN = srfAttach,MK1Fuselage_4292877348,CylCOL,0|0|-0.0250000004,0|0|1,0|0|-0.0250000004
@@ -32759,9 +32759,9 @@ PART
 	{
 		name = FundsKeeper
 		isEnabled = True
-		OriginalCost = 3000
+		OriginalCost = 1000
 		OriginalResourcesCost = 0
-		OriginalModulesCost = 2000
+		OriginalModulesCost = 0
 		stagingEnabled = True
 		EVENTS
 		{
@@ -32812,7 +32812,7 @@ PART
 		Hardness = 300
 		Strength = 200
 		SafeUseTemp = 993
-		radarReflectivity = 0.800000012
+		radarReflectivity = 1
 		Cost = 0
 		vFactor = 1.82712211E-06
 		muParam1 = 1.37732458
@@ -33024,7 +33024,7 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (0.646939039, 1.92861056, -4.21429729)
+		originalPos = (0.646939039, 1.92861056, -4.21430016)
 		originalRotation = (0.5, 0.49999997, 0.500000119, 0.5)
 		moduleVersion = 6
 		stagingEnabled = True
@@ -33060,7 +33060,7 @@ PART
 	part = airbrake1_4292450478
 	partName = Part
 	persistentId = 2627979305
-	pos = -0.646939039,1.92861056,-4.21429634
+	pos = -0.646939039,1.92861056,-4.2142992
 	attPos = 0,0,0
 	attPos0 = -0.646939039,0.0381984711,0
 	rot = 0.5,-0.49999997,-0.500000119,0.5
@@ -33078,8 +33078,8 @@ PART
 	sepI = -1
 	attm = 1
 	sameVesselCollision = False
-	modCost = 2000
-	modMass = -0.0199999996
+	modCost = 0
+	modMass = 0
 	modSize = 0,0,0
 	sym = airbrake1_4292459104
 	srfN = srfAttach,MK1Fuselage_4292877348,CylCOL,0|0|-0.0250000004,0|0|1,0|0|-0.0250000004
@@ -33311,9 +33311,9 @@ PART
 	{
 		name = FundsKeeper
 		isEnabled = True
-		OriginalCost = 3000
+		OriginalCost = 1000
 		OriginalResourcesCost = 0
-		OriginalModulesCost = 2000
+		OriginalModulesCost = 0
 		stagingEnabled = True
 		EVENTS
 		{
@@ -33364,7 +33364,7 @@ PART
 		Hardness = 300
 		Strength = 200
 		SafeUseTemp = 993
-		radarReflectivity = 0.800000012
+		radarReflectivity = 1
 		Cost = 0
 		vFactor = 1.82712211E-06
 		muParam1 = 1.37732458
@@ -33576,7 +33576,7 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (-0.646939039, 1.92861056, -4.21429634)
+		originalPos = (-0.646939039, 1.92861056, -4.2142992)
 		originalRotation = (0.5, -0.49999997, -0.500000119, 0.5)
 		moduleVersion = 6
 		stagingEnabled = True
@@ -33611,8 +33611,8 @@ PART
 {
 	part = bahaCmPod_4292439100
 	partName = Part
-	persistentId = 2103535737
-	pos = 0.725445926,1.92861056,-3.82168603
+	persistentId = 3377406335
+	pos = 0.725445926,1.92861056,-3.82168889
 	attPos = 0,0,0
 	attPos0 = 0.725445926,0.430809975,0
 	rot = 0.707106829,0.707106829,5.96046448E-08,0
@@ -33749,7 +33749,7 @@ PART
 	{
 		name = HitpointTracker
 		isEnabled = True
-		Hitpoints = 75
+		Hitpoints = 25
 		Armor = 10
 		ArmorRemaining = 100
 		ArmorTypeNum = 1
@@ -33993,7 +33993,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 2103535737
+		id = 3377406335
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -34012,7 +34012,7 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (0.725445926, 1.92861056, -3.82168603)
+		originalPos = (0.725445926, 1.92861056, -3.82168889)
 		originalRotation = (0.707106829, 0.707106829, 5.96046448E-08, 0)
 		moduleVersion = 6
 		stagingEnabled = True
@@ -34058,8 +34058,8 @@ PART
 {
 	part = bahaCmPod_4292438534
 	partName = Part
-	persistentId = 2002612765
-	pos = -0.725445926,1.92861056,-3.82168508
+	persistentId = 948421392
+	pos = -0.725445926,1.92861056,-3.82168794
 	attPos = 0,0,0
 	attPos0 = -0.725445926,0.430809975,0
 	rot = 0.707106888,-0.707106769,-5.96046448E-08,0
@@ -34196,7 +34196,7 @@ PART
 	{
 		name = HitpointTracker
 		isEnabled = True
-		Hitpoints = 75
+		Hitpoints = 25
 		Armor = 10
 		ArmorRemaining = 100
 		ArmorTypeNum = 1
@@ -34440,7 +34440,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 2002612765
+		id = 948421392
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -34459,7 +34459,7 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (-0.725445926, 1.92861056, -3.82168508)
+		originalPos = (-0.725445926, 1.92861056, -3.82168794)
 		originalRotation = (0.707106888, -0.707106769, -5.96046448E-08, 0)
 		moduleVersion = 6
 		stagingEnabled = True
@@ -34505,8 +34505,8 @@ PART
 {
 	part = bahaChaffPod_4292438468
 	partName = Part
-	persistentId = 173678559
-	pos = 0.721452296,1.92861056,-3.5618031
+	persistentId = 68194014
+	pos = 0.721452296,1.92861056,-3.56180596
 	attPos = 0,0,0
 	attPos0 = 0.721452296,0.690692902,0
 	rot = 0.707106829,0.707106829,5.96046448E-08,0
@@ -34643,7 +34643,7 @@ PART
 	{
 		name = HitpointTracker
 		isEnabled = True
-		Hitpoints = 75
+		Hitpoints = 25
 		Armor = 10
 		ArmorRemaining = 100
 		ArmorTypeNum = 1
@@ -34887,7 +34887,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 173678559
+		id = 68194014
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -34906,7 +34906,7 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (0.721452296, 1.92861056, -3.5618031)
+		originalPos = (0.721452296, 1.92861056, -3.56180596)
 		originalRotation = (0.707106829, 0.707106829, 5.96046448E-08, 0)
 		moduleVersion = 6
 		stagingEnabled = True
@@ -34952,8 +34952,8 @@ PART
 {
 	part = bahaChaffPod_4292437862
 	partName = Part
-	persistentId = 1975752620
-	pos = -0.721452296,1.92861056,-3.56180215
+	persistentId = 2162939782
+	pos = -0.721452296,1.92861056,-3.56180501
 	attPos = 0,0,0
 	attPos0 = -0.721452296,0.690692902,0
 	rot = 0.707106888,-0.707106769,-5.96046448E-08,0
@@ -35090,7 +35090,7 @@ PART
 	{
 		name = HitpointTracker
 		isEnabled = True
-		Hitpoints = 75
+		Hitpoints = 25
 		Armor = 10
 		ArmorRemaining = 100
 		ArmorTypeNum = 1
@@ -35334,7 +35334,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 1975752620
+		id = 2162939782
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -35353,7 +35353,7 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (-0.721452296, 1.92861056, -3.56180215)
+		originalPos = (-0.721452296, 1.92861056, -3.56180501)
 		originalRotation = (0.707106888, -0.707106769, -5.96046448E-08, 0)
 		moduleVersion = 6
 		stagingEnabled = True
@@ -35400,7 +35400,7 @@ PART
 	part = bahaECMJammer_4292427896
 	partName = Part
 	persistentId = 509390436
-	pos = 2.10281499E-08,2.12861037,-2.97749829
+	pos = 2.10280859E-08,2.12861037,-2.97750115
 	attPos = 1.95520101E-07,-0.664283514,0.79921937
 	attPos0 = -1.64107604E-07,-0.135718346,-0.599219501
 	rot = -6.32202699E-08,5.96046448E-07,1.00000012,-2.10734363E-08
@@ -35548,7 +35548,7 @@ PART
 	{
 		name = HitpointTracker
 		isEnabled = True
-		Hitpoints = 3550
+		Hitpoints = 25
 		Armor = 10
 		ArmorRemaining = 100
 		ArmorTypeNum = 1
@@ -35756,7 +35756,7 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (2.10281499E-08, 2.12861037, -2.97749829)
+		originalPos = (2.10280859E-08, 2.12861037, -2.97750115)
 		originalRotation = (-6.32202699E-08, 5.96046448E-07, 1.00000012, -2.10734363E-08)
 		moduleVersion = 6
 		stagingEnabled = True
@@ -35796,7 +35796,7 @@ PART
 	part = bahaHiddenVulcan_4292496296
 	partName = Part
 	persistentId = 3316742725
-	pos = 0.309888333,1.39186335,1.11545682
+	pos = 0.309888333,1.39186299,1.11545682
 	attPos = 0,0,0
 	attPos0 = 0.309888333,-0.257110685,0.53674233
 	rot = 0.965925992,0.258819044,1.04308128E-07,2.38418579E-07
@@ -35980,7 +35980,7 @@ PART
 	{
 		name = HitpointTracker
 		isEnabled = True
-		Hitpoints = 200
+		Hitpoints = 25
 		Armor = 10
 		ArmorRemaining = 100
 		ArmorTypeNum = 1
@@ -36188,7 +36188,7 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (0.309888333, 1.39186335, 1.11545682)
+		originalPos = (0.309888333, 1.39186299, 1.11545682)
 		originalRotation = (0.965925992, 0.258819044, 1.04308128E-07, 2.38418579E-07)
 		moduleVersion = 6
 		stagingEnabled = True
@@ -36224,7 +36224,7 @@ PART
 	part = bahaHiddenVulcan_4292426478
 	partName = Part
 	persistentId = 2427679570
-	pos = -0.309888333,1.39186335,1.11545706
+	pos = -0.309888333,1.39186299,1.11545706
 	attPos = 0,0,0
 	attPos0 = -0.309888333,-0.257110655,0.53674233
 	rot = 0.965925932,-0.258818924,-4.47034836E-08,8.94069672E-08
@@ -36408,7 +36408,7 @@ PART
 	{
 		name = HitpointTracker
 		isEnabled = True
-		Hitpoints = 200
+		Hitpoints = 25
 		Armor = 10
 		ArmorRemaining = 100
 		ArmorTypeNum = 1
@@ -36616,7 +36616,7 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (-0.309888333, 1.39186335, 1.11545706)
+		originalPos = (-0.309888333, 1.39186299, 1.11545706)
 		originalRotation = (0.965925932, -0.258818924, -4.47034836E-08, 8.94069672E-08)
 		moduleVersion = 6
 		stagingEnabled = True
@@ -37430,7 +37430,7 @@ PART
 	part = VesselNotes.DataLog_4290465304
 	partName = Part
 	persistentId = 3291837356
-	pos = 0,1.8478806,-3.314996
+	pos = 0,1.8478806,-3.31499887
 	attPos = 0,0,0
 	attPos0 = 0,-0.937500954,0.0807299614
 	rot = 0.707106829,0,0,-0.707106829
@@ -37568,7 +37568,7 @@ PART
 	{
 		name = HitpointTracker
 		isEnabled = True
-		Hitpoints = 50
+		Hitpoints = 25
 		Armor = 10
 		ArmorRemaining = 100
 		ArmorTypeNum = 1
@@ -37714,7 +37714,7 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (0, 1.8478806, -3.314996)
+		originalPos = (0, 1.8478806, -3.31499887)
 		originalRotation = (0.707106829, 0, 0, -0.707106829)
 		moduleVersion = 6
 		stagingEnabled = True
@@ -37749,8 +37749,8 @@ PART
 {
 	part = advSasModule_4289463522
 	partName = Part
-	persistentId = 2493263978
-	pos = 0,1.92861044,2.49119115
+	persistentId = 316282043
+	pos = 0,1.92861044,2.49119186
 	attPos = 0,0,0
 	attPos0 = 0,1.13652694,0
 	rot = 0.707106829,0,0,0.707106829
@@ -38170,7 +38170,7 @@ PART
 		hasFailed = False
 		failureType = Reaction Wheel Failure
 		expectedLifetime = 6
-		chanceOfFailure = 0.0399999991
+		chanceOfFailure = 0.00999999978
 		baseChanceOfFailure = 0.100000001
 		numberOfRepairs = 0
 		stagingEnabled = True
@@ -38219,7 +38219,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 2493263978
+		id = 316282043
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -38238,7 +38238,7 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (0, 1.92861044, 2.49119115)
+		originalPos = (0, 1.92861044, 2.49119186)
 		originalRotation = (0.707106829, 0, 0, 0.707106829)
 		moduleVersion = 6
 		stagingEnabled = True
@@ -38282,7 +38282,7 @@ PART
 	part = bdRadome1_4292959200
 	partName = Part
 	persistentId = 1149771578
-	pos = 0,1.92861032,3.26181293
+	pos = 0,1.92861032,3.26181436
 	attPos = 0,-0.348699808,0
 	attPos0 = 0,1.11931455,0
 	rot = 0.707106829,0,0,0.707106829
@@ -38658,7 +38658,7 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (0, 1.92861032, 3.26181293)
+		originalPos = (0, 1.92861032, 3.26181436)
 		originalRotation = (0.707106829, 0, 0, 0.707106829)
 		moduleVersion = 6
 		stagingEnabled = True
@@ -38697,8 +38697,8 @@ PART
 {
 	part = SmallGearBay_4292818738
 	partName = Part
-	persistentId = 3754657071
-	pos = 0,1.30815303,2.32997108
+	persistentId = 4154308803
+	pos = 0,1.30815268,2.32997179
 	attPos = 0,0,0
 	attPos0 = 0,-0.931826115,0.620452106
 	rot = -3.32165628E-09,-0.999910235,0.0134030282,4.45247172E-11
@@ -38716,8 +38716,8 @@ PART
 	sepI = -1
 	attm = 1
 	sameVesselCollision = False
-	modCost = 1200
-	modMass = -0.0179999992
+	modCost = 0
+	modMass = 0
 	modSize = 0,0,0
 	srfN = srfAttach,bdRadome1_4292959200,collider.001,0|0|0,0|1|0,0|0|0
 	EVENTS
@@ -39157,9 +39157,9 @@ PART
 	{
 		name = FundsKeeper
 		isEnabled = True
-		OriginalCost = 1800
+		OriginalCost = 600
 		OriginalResourcesCost = 0
-		OriginalModulesCost = 1200
+		OriginalModulesCost = 0
 		stagingEnabled = True
 		EVENTS
 		{
@@ -39191,7 +39191,7 @@ PART
 	{
 		name = HitpointTracker
 		isEnabled = True
-		Hitpoints = 75
+		Hitpoints = 12.5
 		Armor = 10
 		ArmorRemaining = 100
 		ArmorTypeNum = 1
@@ -39210,7 +39210,7 @@ PART
 		Hardness = 300
 		Strength = 200
 		SafeUseTemp = 993
-		radarReflectivity = 0.800000012
+		radarReflectivity = 1
 		Cost = 0
 		vFactor = 1.82712211E-06
 		muParam1 = 1.37732458
@@ -39535,7 +39535,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 3754657071
+		id = 4154308803
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -39554,7 +39554,7 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (0, 1.30815303, 2.32997108)
+		originalPos = (0, 1.30815268, 2.32997179)
 		originalRotation = (-3.32165628E-09, -0.999910235, 0.0134030282, 4.45247172E-11)
 		moduleVersion = 6
 		stagingEnabled = True
@@ -39589,8 +39589,8 @@ PART
 {
 	part = StandardCtrlSrf_4292811982
 	partName = Part
-	persistentId = 2178458188
-	pos = 4.43574436E-07,2.8894012,-6.47756577
+	persistentId = 3634969398
+	pos = 4.43574464E-07,2.8894012,-6.47757149
 	attPos = -0.00548219681,-3.81469727E-06,0
 	attPos0 = -0.955309093,-0.625002742,1.78813963E-07
 	rot = -0.50000006,-0.50000006,-0.50000006,-0.50000006
@@ -39608,8 +39608,8 @@ PART
 	sepI = -1
 	attm = 1
 	sameVesselCollision = False
-	modCost = 800
-	modMass = -0.0384274982
+	modCost = 0
+	modMass = -0.0184274986
 	modSize = 0,0,0
 	srfN = srfAttach,delta.small_4292858118,COL 11,0|0|0,1|0|0,0|0|0
 	EVENTS
@@ -39691,9 +39691,9 @@ PART
 	{
 		name = FundsKeeper
 		isEnabled = True
-		OriginalCost = 1200
+		OriginalCost = 400
 		OriginalResourcesCost = 0
-		OriginalModulesCost = 800
+		OriginalModulesCost = 0
 		stagingEnabled = True
 		EVENTS
 		{
@@ -39725,7 +39725,7 @@ PART
 	{
 		name = HitpointTracker
 		isEnabled = True
-		Hitpoints = 350
+		Hitpoints = 12.5
 		Armor = 10
 		ArmorRemaining = 100
 		ArmorTypeNum = 1
@@ -39744,7 +39744,7 @@ PART
 		Hardness = 300
 		Strength = 200
 		SafeUseTemp = 993
-		radarReflectivity = 0.800000012
+		radarReflectivity = 1
 		Cost = 0
 		vFactor = 1.82712211E-06
 		muParam1 = 1.37732458
@@ -40014,7 +40014,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 2178458188
+		id = 3634969398
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -40033,7 +40033,7 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (4.43574436E-07, 2.8894012, -6.47756577)
+		originalPos = (4.43574464E-07, 2.8894012, -6.47757149)
 		originalRotation = (-0.50000006, -0.50000006, -0.50000006, -0.50000006)
 		moduleVersion = 6
 		stagingEnabled = True
@@ -40069,7 +40069,7 @@ PART
 	part = light.aviation_4288539082
 	partName = Part
 	persistentId = 2262187636
-	pos = 5.08698034,1.92861676,-5.5499773
+	pos = 5.08698034,1.92861676,-5.54998302
 	attPos = 0,0,0
 	attPos0 = -3.57924604,-2.30013514,5.38699032E-06
 	rot = -0.498141855,0.498034805,0.501850724,-0.501958251
@@ -40453,7 +40453,7 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (5.08698034, 1.92861676, -5.5499773)
+		originalPos = (5.08698034, 1.92861676, -5.54998302)
 		originalRotation = (-0.498141855, 0.498034805, 0.501850724, -0.501958251)
 		moduleVersion = 6
 		stagingEnabled = True
@@ -40489,7 +40489,7 @@ PART
 	part = light.aviation_4288535352
 	partName = Part
 	persistentId = 11830225
-	pos = -5.08668184,1.92860627,-5.54978561
+	pos = -5.08668184,1.92860627,-5.54979134
 	attPos = 0,0.0301866531,-1.9791969E-08
 	attPos0 = -3.5790081,-2.33018637,5.76994853E-06
 	rot = 0.498035043,0.498141766,0.501958609,0.501850247
@@ -40873,7 +40873,7 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (-5.08668184, 1.92860627, -5.54978561)
+		originalPos = (-5.08668184, 1.92860627, -5.54979134)
 		originalRotation = (0.498035043, 0.498141766, 0.501958609, 0.501850247)
 		moduleVersion = 6
 		stagingEnabled = True
@@ -40909,7 +40909,7 @@ PART
 	part = light.aviation_4288531898
 	partName = Part
 	persistentId = 4062818543
-	pos = 8.66391133E-07,3.57418895,-6.61005974
+	pos = 8.6639119E-07,3.57419181,-6.61006546
 	attPos = 0.221607327,-0.107497394,-1.19209304E-07
 	attPos0 = -1.86716759,-0.650002837,2.38418608E-07
 	rot = -7.37569934E-08,-5.96046448E-08,1.00000024,-5.26835642E-08
@@ -41292,7 +41292,7 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (8.66391133E-07, 3.57418895, -6.61005974)
+		originalPos = (8.6639119E-07, 3.57419181, -6.61006546)
 		originalRotation = (-7.37569934E-08, -5.96046448E-08, 1.00000024, -5.26835642E-08)
 		moduleVersion = 6
 		stagingEnabled = True
@@ -41327,8 +41327,8 @@ PART
 {
 	part = R8winglet_4292910748
 	partName = Part
-	persistentId = 360477031
-	pos = -1.12474072,2.19407845,0.172849536
+	persistentId = 4177409797
+	pos = -1.12474072,2.19407845,0.172848821
 	attPos = 0.0352481604,-0.581575632,-0.265467823
 	attPos0 = -1.15998888,-0.618140697,5.96046448E-08
 	rot = -0.707106888,4.21468513E-08,-4.21468513E-08,-0.707106769
@@ -41642,7 +41642,7 @@ PART
 		hasFailed = False
 		failureType = Control Surface Failure
 		expectedLifetime = 6
-		chanceOfFailure = 0.0429999977
+		chanceOfFailure = 0.0319999978
 		baseChanceOfFailure = 0.109999999
 		numberOfRepairs = 0
 		stagingEnabled = True
@@ -41737,7 +41737,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 360477031
+		id = 4177409797
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -41756,7 +41756,7 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (-1.12474072, 2.19407845, 0.172849536)
+		originalPos = (-1.12474072, 2.19407845, 0.172848821)
 		originalRotation = (-0.707106888, 4.21468513E-08, -4.21468513E-08, -0.707106769)
 		moduleVersion = 6
 		stagingEnabled = True
@@ -41791,8 +41791,8 @@ PART
 {
 	part = R8winglet_4287783346
 	partName = Part
-	persistentId = 388833413
-	pos = 1.12474072,2.19407845,0.172849298
+	persistentId = 3668341642
+	pos = 1.12474072,2.19407845,0.172848582
 	attPos = -0.0352481604,-0.581575811,-0.265467823
 	attPos0 = 1.15998888,-0.618140757,5.96046448E-08
 	rot = 1.12382068E-08,0.707106709,0.707106948,-7.30554675E-08
@@ -42106,7 +42106,7 @@ PART
 		hasFailed = False
 		failureType = Control Surface Failure
 		expectedLifetime = 6
-		chanceOfFailure = 0.0429999977
+		chanceOfFailure = 0.0319999978
 		baseChanceOfFailure = 0.109999999
 		numberOfRepairs = 0
 		stagingEnabled = True
@@ -42201,7 +42201,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 388833413
+		id = 3668341642
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -42220,7 +42220,7 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (1.12474072, 2.19407845, 0.172849298)
+		originalPos = (1.12474072, 2.19407845, 0.172848582)
 		originalRotation = (1.12382068E-08, 0.707106709, 0.707106948, -7.30554675E-08)
 		moduleVersion = 6
 		stagingEnabled = True
@@ -42256,10 +42256,10 @@ PART
 	part = nfe-rtg-snap27-1_4286615908
 	partName = Part
 	persistentId = 4156628553
-	pos = -1.87342849E-07,2.47439289,-0.504825592
+	pos = -1.87342849E-07,2.47439289,-0.504827023
 	attPos = 0.161407515,-1.02818012E-06,7.45058131E-08
 	attPos0 = -0.307181895,-0.202360988,5.96046519E-08
-	rot = -1.68587519E-07,0.707107008,-0.707106769,1.68587235E-07
+	rot = -1.68587547E-07,0.707107008,-0.707106769,1.68587206E-07
 	attRot = 0.707106769,0,0,0.707106769
 	attRot0 = 0.707106829,-3.05254503E-07,0.707106829,2.75452152E-07
 	mir = 1,1,1
@@ -42274,8 +42274,8 @@ PART
 	sepI = -1
 	attm = 1
 	sameVesselCollision = False
-	modCost = -500
-	modMass = -0.0200999994
+	modCost = 0
+	modMass = 0
 	modSize = 0,0,0
 	srfN = srfAttach,miniFuselage_4292871732,CYLCOL,0|-0.150000006|0,0|-1|0,0|-0.150000006|0
 	attN = top,Null_0_0|0.216000006|0_0|1|0_0|0.216000006|0_0|1|0
@@ -42359,9 +42359,9 @@ PART
 	{
 		name = FundsKeeper
 		isEnabled = True
-		OriginalCost = 5900.000
+		OriginalCost = 6400.000
 		OriginalResourcesCost = 0.000
-		OriginalModulesCost = -500
+		OriginalModulesCost = 0
 		stagingEnabled = True
 		EVENTS
 		{
@@ -42393,7 +42393,7 @@ PART
 	{
 		name = HitpointTracker
 		isEnabled = True
-		Hitpoints = 18.75
+		Hitpoints = 6.25
 		Armor = 10
 		ArmorRemaining = 100
 		ArmorTypeNum = 1
@@ -42412,7 +42412,7 @@ PART
 		Hardness = 300
 		Strength = 200
 		SafeUseTemp = 993
-		radarReflectivity = 0.699999988
+		radarReflectivity = 1
 		Cost = 0
 		vFactor = 1.82712211E-06
 		muParam1 = 1.37732458
@@ -42556,7 +42556,7 @@ PART
 		radiation = 1.388875E-05
 		ec_rate = 0
 		running = True
-		radiation_impact = 0.020818239580039685
+		radiation_impact = 0.020818209115697837
 		stagingEnabled = True
 		EVENTS
 		{
@@ -42636,8 +42636,8 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (-1.87342849E-07, 2.47439289, -0.504825592)
-		originalRotation = (-1.68587519E-07, 0.707107008, -0.707106769, 1.68587235E-07)
+		originalPos = (-1.87342849E-07, 2.47439289, -0.504827023)
+		originalRotation = (-1.68587547E-07, 0.707107008, -0.707106769, 1.68587206E-07)
 		moduleVersion = 6
 		stagingEnabled = True
 		userReallyDeactivatedIt = False
@@ -42690,8 +42690,8 @@ PART
 {
 	part = ksp.r.largeBatteryPack_4286572884
 	partName = Part
-	persistentId = 2225606974
-	pos = -0.32426247,1.92861044,1.94103456
+	persistentId = 3646198199
+	pos = -0.32426247,1.92861044,1.94103491
 	attPos = 0.286579877,1.1920929E-07,0
 	attPos0 = -0.610842347,0.568464816,5.96046448E-08
 	rot = 0.5,0.49999997,0.500000119,0.5
@@ -42709,8 +42709,8 @@ PART
 	sepI = -1
 	attm = 1
 	sameVesselCollision = False
-	modCost = 1100
-	modMass = -0.00799999945
+	modCost = 0
+	modMass = 0
 	modSize = 0,0,0
 	sym = ksp.r.largeBatteryPack_4286571580
 	srfN = srfAttach,Mark2Cockpit_4292997928,COL,0|0|0,0|0|-1,0|0|0
@@ -42795,9 +42795,9 @@ PART
 	{
 		name = FundsKeeper
 		isEnabled = True
-		OriginalCost = 1650
+		OriginalCost = 550
 		OriginalResourcesCost = 0
-		OriginalModulesCost = 1100
+		OriginalModulesCost = 0
 		stagingEnabled = True
 		EVENTS
 		{
@@ -42848,7 +42848,7 @@ PART
 		Hardness = 300
 		Strength = 200
 		SafeUseTemp = 993
-		radarReflectivity = 0.800000012
+		radarReflectivity = 1
 		Cost = 0
 		vFactor = 1.82712211E-06
 		muParam1 = 1.37732458
@@ -43134,7 +43134,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 2225606974
+		id = 3646198199
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -43153,7 +43153,7 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (-0.32426247, 1.92861044, 1.94103456)
+		originalPos = (-0.32426247, 1.92861044, 1.94103491)
 		originalRotation = (0.5, 0.49999997, 0.500000119, 0.5)
 		moduleVersion = 6
 		stagingEnabled = True
@@ -43199,8 +43199,8 @@ PART
 {
 	part = ksp.r.largeBatteryPack_4286571580
 	partName = Part
-	persistentId = 1409359744
-	pos = 0.32426247,1.92861044,1.94103467
+	persistentId = 1988212416
+	pos = 0.32426247,1.92861044,1.94103503
 	attPos = -0.286579877,3.57627869E-07,0
 	attPos0 = 0.610842347,0.568464696,5.96046448E-08
 	rot = 0.500000119,-0.49999994,-0.50000006,0.499999881
@@ -43218,8 +43218,8 @@ PART
 	sepI = -1
 	attm = 1
 	sameVesselCollision = False
-	modCost = 1100
-	modMass = -0.00799999945
+	modCost = 0
+	modMass = 0
 	modSize = 0,0,0
 	sym = ksp.r.largeBatteryPack_4286572884
 	srfN = srfAttach,Mark2Cockpit_4292997928,COL,0|0|0,0|0|-1,0|0|0
@@ -43304,9 +43304,9 @@ PART
 	{
 		name = FundsKeeper
 		isEnabled = True
-		OriginalCost = 1650
+		OriginalCost = 550
 		OriginalResourcesCost = 0
-		OriginalModulesCost = 1100
+		OriginalModulesCost = 0
 		stagingEnabled = True
 		EVENTS
 		{
@@ -43357,7 +43357,7 @@ PART
 		Hardness = 300
 		Strength = 200
 		SafeUseTemp = 993
-		radarReflectivity = 0.800000012
+		radarReflectivity = 1
 		Cost = 0
 		vFactor = 1.82712211E-06
 		muParam1 = 1.37732458
@@ -43643,7 +43643,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 1409359744
+		id = 1988212416
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -43662,7 +43662,7 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (0.32426247, 1.92861044, 1.94103467)
+		originalPos = (0.32426247, 1.92861044, 1.94103503)
 		originalRotation = (0.500000119, -0.49999994, -0.50000006, 0.499999881)
 		moduleVersion = 6
 		stagingEnabled = True
@@ -43708,11 +43708,11 @@ PART
 {
 	part = IntakeRadialLong_4286556766
 	partName = Part
-	persistentId = 2939323314
-	pos = -0.253663749,1.62772322,-0.824130774
+	persistentId = 4229796875
+	pos = -0.253663778,1.62772322,-0.824132204
 	attPos = 0.315760493,-0.0410410762,-0.315760523
 	attPos0 = -0.68500036,-0.755641758,0.18354556
-	rot = 1.1920929E-07,-1.78813934E-07,0.60876137,-0.793353558
+	rot = 1.1920929E-07,-1.78813934E-07,0.608761311,-0.793353498
 	attRot = 6.4693694E-08,-6.04343171E-08,0.258819163,0.965925932
 	attRot0 = 0.653281569,0.270597905,0.270598173,-0.65328151
 	mir = 1,1,1
@@ -43727,8 +43727,8 @@ PART
 	sepI = -1
 	attm = 1
 	sameVesselCollision = False
-	modCost = 1800
-	modMass = -0.0399999991
+	modCost = 0
+	modMass = 0
 	modSize = 0,0,0
 	sym = IntakeRadialLong_4286554398
 	srfN = srfAttach,wingConnector4_4292828784,COL 9,0|0|0,0|1|0,0|0|0
@@ -43830,9 +43830,9 @@ PART
 	{
 		name = FundsKeeper
 		isEnabled = True
-		OriginalCost = 2700.0
+		OriginalCost = 900.0
 		OriginalResourcesCost = 0.0
-		OriginalModulesCost = 1800
+		OriginalModulesCost = 0
 		stagingEnabled = True
 		EVENTS
 		{
@@ -43883,7 +43883,7 @@ PART
 		Hardness = 300
 		Strength = 200
 		SafeUseTemp = 993
-		radarReflectivity = 0.800000012
+		radarReflectivity = 1
 		Cost = 0
 		vFactor = 1.82712211E-06
 		muParam1 = 1.37732458
@@ -44167,7 +44167,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 2939323314
+		id = 4229796875
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -44186,8 +44186,8 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (-0.253663749, 1.62772322, -0.824130774)
-		originalRotation = (1.1920929E-07, -1.78813934E-07, 0.60876137, -0.793353558)
+		originalPos = (-0.253663778, 1.62772322, -0.824132204)
+		originalRotation = (1.1920929E-07, -1.78813934E-07, 0.608761311, -0.793353498)
 		moduleVersion = 6
 		stagingEnabled = True
 		userReallyDeactivatedIt = False
@@ -44243,11 +44243,11 @@ PART
 {
 	part = IntakeRadialLong_4286554398
 	partName = Part
-	persistentId = 1740794203
-	pos = 0.253664732,1.62772334,-0.82413125
+	persistentId = 845129643
+	pos = 0.253665149,1.62772334,-0.824132681
 	attPos = 0.315760553,-0.0410416126,0.315760672
 	attPos0 = -0.684996188,-0.755641341,-0.183553085
-	rot = 8.94069672E-08,-2.08616257E-07,0.608761549,0.793353438
+	rot = 5.96046448E-08,-3.57627869E-07,0.608761668,0.793353319
 	attRot = 0,0,0,1
 	attRot0 = -0.43045938,-0.560985386,-0.560985565,0.43045944
 	mir = 1,1,1
@@ -44262,8 +44262,8 @@ PART
 	sepI = -1
 	attm = 1
 	sameVesselCollision = False
-	modCost = 1800
-	modMass = -0.0399999991
+	modCost = 0
+	modMass = 0
 	modSize = 0,0,0
 	sym = IntakeRadialLong_4286556766
 	srfN = srfAttach,wingConnector4_4292829028,COL 9,0|0|0,0|1|0,0|0|0
@@ -44365,9 +44365,9 @@ PART
 	{
 		name = FundsKeeper
 		isEnabled = True
-		OriginalCost = 2700.0
+		OriginalCost = 900.0
 		OriginalResourcesCost = 0.0
-		OriginalModulesCost = 1800
+		OriginalModulesCost = 0
 		stagingEnabled = True
 		EVENTS
 		{
@@ -44418,7 +44418,7 @@ PART
 		Hardness = 300
 		Strength = 200
 		SafeUseTemp = 993
-		radarReflectivity = 0.800000012
+		radarReflectivity = 1
 		Cost = 0
 		vFactor = 1.82712211E-06
 		muParam1 = 1.37732458
@@ -44702,7 +44702,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 1740794203
+		id = 845129643
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -44721,8 +44721,8 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (0.253664732, 1.62772334, -0.82413125)
-		originalRotation = (8.94069672E-08, -2.08616257E-07, 0.608761549, 0.793353438)
+		originalPos = (0.253665149, 1.62772334, -0.824132681)
+		originalRotation = (5.96046448E-08, -3.57627869E-07, 0.608761668, 0.793353319)
 		moduleVersion = 6
 		stagingEnabled = True
 		userReallyDeactivatedIt = False
@@ -44779,7 +44779,7 @@ PART
 	part = radialDrogue_4288427112
 	partName = Part
 	persistentId = 2727659824
-	pos = 0.812117398,1.77431655,-4.91342831
+	pos = 0.812117398,1.77431655,-4.91343403
 	attPos = 0,0,0
 	attPos0 = -0.937752008,-0.777750909,-3.57627812E-07
 	rot = -0.612372339,0.353553355,0.353553116,-0.612372816
@@ -44798,7 +44798,7 @@ PART
 	attm = 1
 	sameVesselCollision = False
 	modCost = 3.70000005
-	modMass = 0
+	modMass = 1.62981451E-09
 	modSize = 0,0,0
 	sym = radialDrogue_4288426110
 	srfN = srfAttach,wingConnector4_4292829990,COL 9,0|0|0,0|0|-1,0|0|0
@@ -45111,7 +45111,7 @@ PART
 			modelID = -1
 			typeID = 0
 			lastTypeID = 0
-			position = 0.860505342,2.03180003,-4.92366791
+			position = 0.856561482,1.79997849,-4.91677856
 			isPressure = True
 			calcSelect = True
 			getMass = True
@@ -45290,7 +45290,7 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (0.812117398, 1.77431655, -4.91342831)
+		originalPos = (0.812117398, 1.77431655, -4.91343403)
 		originalRotation = (-0.612372339, 0.353553355, 0.353553116, -0.612372816)
 		moduleVersion = 6
 		stagingEnabled = True
@@ -45326,10 +45326,10 @@ PART
 	part = radialDrogue_4288426110
 	partName = Part
 	persistentId = 2110044797
-	pos = -0.812117457,1.77431655,-4.91342831
+	pos = -0.812117577,1.77431655,-4.91343403
 	attPos = 0,0,0
 	attPos0 = -0.937752247,-0.777750075,5.96046448E-07
-	rot = 0.612372518,0.353553325,0.353553087,0.612372875
+	rot = 0.612372458,0.353553295,0.353553057,0.612372816
 	attRot = 0,0,0,1
 	attRot0 = 2.38043924E-07,-0.707106471,1.77751815E-07,-0.707107186
 	mir = 1,1,1
@@ -45345,7 +45345,7 @@ PART
 	attm = 1
 	sameVesselCollision = False
 	modCost = 3.70000005
-	modMass = 0
+	modMass = 1.62981451E-09
 	modSize = 0,0,0
 	sym = radialDrogue_4288427112
 	srfN = srfAttach,wingConnector4_4292830654,COL 9,0|0|0,0|0|-1,0|0|0
@@ -45658,7 +45658,7 @@ PART
 			modelID = -1
 			typeID = 0
 			lastTypeID = 0
-			position = -0.860556722,1.80228078,-5.00177526
+			position = -0.856563568,1.79997516,-4.91677856
 			isPressure = True
 			calcSelect = True
 			getMass = True
@@ -45837,8 +45837,8 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (-0.812117457, 1.77431655, -4.91342831)
-		originalRotation = (0.612372518, 0.353553325, 0.353553087, 0.612372875)
+		originalPos = (-0.812117577, 1.77431655, -4.91343403)
+		originalRotation = (0.612372458, 0.353553295, 0.353553057, 0.612372816)
 		moduleVersion = 6
 		stagingEnabled = True
 		userReallyDeactivatedIt = False

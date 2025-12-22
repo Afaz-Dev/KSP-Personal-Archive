@@ -16,9 +16,10 @@ GAME
 	defaultVABLaunchSite = LaunchPad
 	defaultSPHLaunchSite = Runway
 	modded = True
-	envInfo =  - Environment Info - Win32NT 7FFFFFFFFFFFFFFF  Args: KSP_x64.exe -pduserid=543dabc0-3655-4ae8-a1ee-5d1c05d2b327 - 
+	envInfo =  - Environment Info - Win32NT 7FFFFFFFFFFFFFFF  Args: KSP_x64.exe  - 
 	versionFull = 1.12.5.3190 (WindowsPlayer x64)
 	versionCreated = 1.12.5.3190 (WindowsPlayer x64)
+	_modVersions = KSPe.InstallChecker=1.1.0|KSPe=2.5.5|Scale_Redist=2.4.8|ModuleManager=4.2.3|ClickThroughBlocker=2.1.10|0Harmony=2.2.1|HarmonyInstallChecker=2.2.1|KSPBurst=1.5.5|Microsoft.Extensions.FileSystemGlobbing=6.0.21|System.IO.Compression=4.6.57|System.IO.Compression.FileSystem=4.6.57|System.Runtime.CompilerServices.Unsafe=4.700.20|System.Runtime=4.0.0|Unity.Burst=0.0.0|Unity.Burst.Unsafe=1.0.0|Unity.Collections=0.0.0|Unity.Jobs=0.0.0|Unity.Mathematics=1.0.0|KSPAPIExtensions=2.5.4|KSPe.External=2.5.5|KSPe.HMI=2.5.5|KSPe.System=2.5.5|KSPe.UI=2.5.5|TinyJSON=1.3.0|BlendshapeModelLoader=1.6.4|TexturesUnlimited=1.6.4|USITools=1.0.0|USIToolsUI=1.0.0|ToolbarControl=0.1.9|KSPe.Light.Recall=2.5.2|Attached=0.5.0|AttachedOnEditor=0.5.0|ChillingOut=0.5.0|Driftless=0.5.0|KSP-Recall=0.5.0|Refunding=0.5.0|Resourceful=0.5.0|SolverEngines=3.13.1|AJE=2.20.0|AnalogControl=2.1.3|ASETPropsIdentifier=1.5.0|Astrogator=1.0.2|AtmosphereAutopilot.UI=1.0.0|AtmosphereAutopilot=1.6.1|KSPe.Light.AviationLights=2.4.3|AviationLights=4.2.1|AAPartCategory=1.0.0|AviatorArsenal=1.0.0|B9PartSwitch=2.21.0|B9-PWings-Fork=0.46.1|BDAnimationModules=0.6.7|RNModules=1.2.1|BDArmory=1.11.1|BurstAtomicThrust=0.1.0|CameraTools=1.37.1|Chatterer=0.9.99|CCK=5.1.0|ContractConfigurator=2.12.0|CustomPreLaunchChecks=1.8.1|KerbalKonstructs=1.12.0|KerKonConConExt=2.0.0|CriticalTemperatureGauge=1.12.3|SimpleBoiloff=0.2.1|DeployableEngines=2.2.0|DestructionEffects=1.12.0|DistantObject=0.0.0|KSPe.Light.DOE=2.5.5|ContractParser=1.0.9|DockingFunctions=1.0.4|DynamicBatteryStorage=1.0.0|EasyVesselSwitch=2.3.7852|KSPDev_Utils.2.6-EVS=2.6.0|EngineLightRelit=1.6.3|Atmosphere=1.11.7|CelestialShadows=1.11.7|CityLights=1.11.7|EVEManager=1.11.7|PartFX=1.11.7|PQSManager=1.11.7|ShaderLoader=1.11.7|Terrain=1.11.7|TextureConfig=1.11.7|Utils=1.11.7|_BuildManager=1.11.7|FarFutureTechnologies=1.0.0|FerramAerospaceResearch.Base=0.16.1|ModularFlightIntegrator=1.2.10|FerramAerospaceResearch=0.16.1|ferramGraph=1.3.0|FieldTrainingLab=1.2.1|FireflyAPI=1.0.0|Firefly=1.0.5|FireflyInstallChecker=1.0.0|Firespitter=7.3.7660|FP_DockingSndFX=2.1.12|FreeIva=0.2.20|HangerExtenderExtended=3.6.1|G-Effects=1.0.0|GPWS=0.4.0|HullcamVDSContinued=0.2.2|IndicatorLights=1.0.0|IRConnectionSystem=1.0.5|JSIAdvTransparentPods=0.1.24|JSIPartUtilities=0.5.0|RasterPropMonitor=1.0.2|KAS-API-v2=2.0.7239|KAS=1.12.8285|KSPDev_Utils.2.7=2.7.0|KAX=2.8.1|KSPe.Light.KAX=2.4.2|KerbalAnimationSuite=1.3.0|KerbalChangelog=1.4.2|KerbalChecklistDebug=1.0.0|KerbalCurrencyDisplay=1.0.0|KerbalEngineer.Unity=1.0.0|KerbalEngineer=1.1.9|KerbalFlightIndicators=0.20.0|KerbalismBootstrap=3.29.0|KerbalismLabExperimentsExpandedContinued=1.0.0|KerbalJointReinforcement=3.8.6|KerbalKrashSystem=1.0.0|KerbalKrashSystem_Leak=1.0.0|KerbalKrashSystem_Repair=1.0.0|KerbalKrashSystem_Science=1.0.0|VesselModuleSave=1.0.2|KerBalloons=0.6.0|KerbalWeatherProject=1.0.0|MiniAVC=1.0.3|KIS=1.29.8039|KSPDev_Utils.2.6=2.6.7847|MiniAVC-V2=2.0.0|Kopernicus.Parser=1.0.0|Kopernicus=1.12.231|KEX-Common=1.0.0|KEX-EmissiveFX=1.0.0|KEX-EVAFootprints=1.0.0|KEX-RegionalPQSMods=1.0.0|KEX-VertexHeightDeformity=1.0.0|KEX-VertexHeightMap16=1.0.0|KEX-Wormholes=1.0.0|RunSharp=1.0.0|ICSharpCode.SharpZipLib=0.86.0|kOS=1.5.1|kOS.Safe=1.5.1|kOS-AddOns-Ferram=0.1.1|kOS-Astrogator=0.2.2|kOS-KerbalEngineer=0.1.1|KOS-Scansat=1.2.0|JsonFx=2.0.1209|kOSPropMonitor=1.7.3|Kronometer=1.12.0|Google.Protobuf=3.10.1|KRPC.Core=0.5.4|KRPC=0.5.4|KRPC.DockingCamera=0.5.4|KRPC.Drawing=0.5.4|KRPC.InfernalRobotics=0.5.4|KRPC.IO.Ports=0.0.0|KRPC.KerbalAlarmClock=0.5.4|KRPC.LiDAR=0.5.4|KRPC.RemoteTech=0.5.4|KRPC.SpaceCenter=0.5.4|KRPC.UI=0.5.4|KSPCasher=0.3.0|0_MultipleModuleInPartAPI=1.0.0|KSPCommunityFixes=1.39.1|KSPIRC=0.19.0|KSPWheel=0.0.0|GroundProximity=0.3.3|LazyPainter=0.4.1|IRSurfaceSampler=1.0.1|InfernalRobotics_v3=3.1.17|alglib=1.0.0|MechJeb2=2.15.1|MechJebLib=1.0.0|MechJebLibBindings=1.0.0|AvionicsSystems=1.3.7|MoonSharp.Interpreter=2.0.0|MOAR_Units=1.0.0|MouseAimFlight=0.0.0|NavUtilLib=0.7.2|NavUtilRPM=0.7.2|DockingPortAlignmentIndicator=6.12.0|DPAI_RPM=1.0.0|ModuleDockingNodeNamed=1.1.0|NearFutureElectrical=1.0.0|NearFutureExploration=0.4.0|NFPropUtils=1.0.0|NearFuturePropulsion=0.9.0|NearFutureSolar=0.4.0|NearFutureUtils=0.0.0|OhScrap=2.2.0|Grass=0.0.0|ParallaxQualityLibrary=1.0.0|ParallaxOptimized=1.0.0|PatchManager=0.0.17|PhysicsRangeExtender=1.21.0|PilotAssistant=1.0.0|PlanetShine=0.2.6|KSP_Log=1.2.0|PreciseEditor=1.5.0|PreciseNode=1.2.12|ProbeControlRoomRecontrolled=1.4.0|ROUtils=1.1.1|ProceduralParts=2.8.0|RealAntennas=2.9.0|RealChute=1.4.9059|RealFuels=15.12.0|RealFuelsB9PSPatch=1.0.0|RealHeat=5.1.0|BackgroundResources=1.12.0|Restock=1.0.0|Reviva=1.0.2|RocketSoundEnhancement.Unity=1.0.0|RocketSoundEnhancement=0.9.11|RSSTimeFormatter=1.12.0|SCANsat=21.1.0|SCANmechjeb=21.1.0|SCANsat.Unity=21.1.0|scatterer=0.878.0|ScrapYard=2.2.1|ScrapYard_ContractConfigurator=2.2.1|Shabby=0.4.2|SmokeScreen=2.8.14|SpaceDust=0.5.4|ButtonManager=1.0.2|KSP_ColorPicker=1.1.1|KSP_PartHighlighter=1.1.1|SpaceTuxUtility=1.0.2|KSPSteamCtrlr=0.0.1|StagedAnimation=1.0.0|StateFundingContinued=0.6.19|HabUtils=1.0.0|StockAlarmClockDisabler=1.0.0|SystemHeat=0.1.0|TextureReplacer=4.5.3|ThroughTheEyes=2.0.4|KerbalAlarmClock=3.14.0|TrimIndicator=1.12.0|TUFX=1.1.1|KSPe.Light.TweakScale=2.5.4|Scale=2.4.8|TweakScale.WatchDog=2.4.8|TweakScaleCompanion=2025.2.7|TweakScaleCompanion_Frameworks=0.4.0|TweakScalerTestFlightCore=0.4.0|TweakScalerWaterfallFX=0.4.0|TweakScaleCompanion_FS=1.3.0|TweakScalerFSBuoyancy=1.3.0|TweakScaleCompanion_KIAS=1.1.0|TweakScalerKISInventory=1.1.0|TweakScaleCompanion_PKMC=2.2.1|VaporCones=1.0.0|VesselMover=1.12.0|VesselNotes=0.0.2|VesselView=0.8.9|VesselViewRPM=0.8.9|VVDiscoDisplay=0.8.9|VVPartSelector=0.8.9|Waterfall=0.10.2|WaypointManager=2.8.4|WhatDoINeed=0.0.4|WildBlueTools=1.0.0|KerbalActuators=1.0.0|WildBlueCore=1.0.0|Deferred=1.3.3|Kerbalism=3.29.0
 	RemovedROCs
 	{
 	}
@@ -106,6 +107,39 @@ GAME
 			RepLossMultiplier = 1
 			RepLossDeclined = 1
 		}
+		WildBlueCoreSettings
+		{
+			debugMode = False
+		}
+		WBIDockingParameters
+		{
+			weldRequiresEVA = True
+			weldRequiresRepairSkill = True
+		}
+		G_Effects_Visuals
+		{
+			empty = 
+			visualText = 
+			mainCamGreyout = True
+			IVAGreyout = True
+			gLocFadeInSpeed = 4
+			gLocFadeOutSpeed = 4
+			RedoutText = 
+			red = 255
+			green = 0
+			blue = 0
+			EnableLogging = True
+			InfoText = 
+		}
+		TUFXGameSettings
+		{
+			FlightSceneProfile = Default-Flight
+			IVAProfile = Default-Internal
+			MapSceneProfile = Default-Tracking
+			EditorSceneProfile = Default-Editor
+			SpaceCenterSceneProfile = Default-KSC
+			TrackingStationProfile = Default-Tracking
+		}
 		TUGameSettings
 		{
 			customEditorReflections = True
@@ -114,6 +148,81 @@ GAME
 			recolorGUIHeight = 540
 			recolorGUITopSectionHeight = 100
 			debug = False
+		}
+		USI_ConverterOptions
+		{
+			ConverterSwapRequiresEVA = True
+			ConverterSwapRequiresRepairSkill = True
+			ConverterSwapCostMultiplier = 1
+		}
+		StockContractParametersTemplate
+		{
+			ARMContract = True
+			BaseContract = True
+			CollectScience = True
+			CometSampleContract = True
+			CrossBelt = True
+			CrossHeliopause = True
+			DeployedScienceContract = True
+			ExplorationContract = False
+			PlantFlag = True
+			GrandTour = True
+			ISRUContract = True
+			MannedOrbit = True
+			OrbitalConstructionContract = True
+			PartTest = True
+			RecoverAsset = True
+			ROCScienceArmContract = True
+			ROCScienceRetrievalContract = True
+			RoverConstructionContract = True
+			SatelliteContract = True
+			SentinelContract = True
+			CometDetectionContract = True
+			SpaceAnalysis = True
+			SpaceHarvest = True
+			StationContract = True
+			SurveyContract = True
+			TourismContract = True
+			VesselRepairContract = True
+		}
+		G_Effects_Sound_1
+		{
+			breathThresholdTime = 8
+			maxBreaths = 6
+			minBreaths = 2
+		}
+		G_Effects_Sound_0
+		{
+			VolumeInfoText = 
+			masterVolume = 1
+			gruntsVolume = 2
+			breathVolume = 2
+			heartBeatVolume = 2
+			femaleVoicePitch = 1.4
+			breathSoundPitch = 1.8
+		}
+		KKCustomParameters1
+		{
+			blank1 = 
+			maxEditorVisRange = 25000
+			enableInflightHighlight = False
+			blank11 = 
+			blank01 = 
+			spawnPreviewModels = True
+			useLegacyCamera = False
+			useCamUnderdroudColors = False
+			newInstanceEnum = INTERNAL
+			newInstancePath = KerbalKonstructs/NewInstances
+			blank02 = 
+			blank2 = 
+			DebugMode = False
+		}
+		PreferencesScience
+		{
+			transmitScience = True
+			analyzeSamples = True
+			transmitFactor = 1
+			sampleTransfer = True
 		}
 		KSPWheelScaleSettings
 		{
@@ -126,6 +235,108 @@ GAME
 			motorTorqueScalingPower = 3
 			motorPowerScalingPower = 3
 			motorMaxRPMScalingPower = 0
+		}
+		PreferencesReliability
+		{
+			highlights = True
+			mtbfFailures = True
+			criticalChance = 0.25
+			safeModeChance = 0.5
+			incentiveRedundancy = True
+			engineFailures = True
+			ignitionFailureChance = 1
+			engineOperationFailureChance = 1
+		}
+		WBIMainSettings
+		{
+			payToReconfigure = True
+			requiresSkillCheck = True
+			enableDebugLogging = False
+			emailConverterResults = True
+		}
+		RAParameters
+		{
+			enforceMinDirectionalDistance = True
+			performanceUI = True
+			debugWalkLogging = False
+			debugWalkInterval = 120
+			MaxMinDirectionalDistance = 1000
+			MaxTechLevel = 10
+			StockRateModifier = 0.01
+		}
+		PreferencesRadiation
+		{
+			lifetime = False
+			stormFrequency = 0.4
+			stormDurationHours = 2
+			stormRadiation = 5
+			shieldingEfficiency = 0.9
+		}
+		PreferencesMessages
+		{
+			ec = True
+			supply = True
+			signal = False
+			malfunction = True
+			storm = False
+			script = False
+			stockMessages = False
+			messageLength = 4
+		}
+		WPDebug
+		{
+			logCAV = False
+			logUpdate = False
+			logUpdateGeometry = False
+			logUpdateMaterials = False
+			logMeshReferences = False
+			logCheckMeshFilter = False
+			logPropertyWindow = False
+			logFlightSetup = False
+			logFieldSetup = False
+			logFuel = False
+			logLimits = False
+			logEvents = False
+		}
+		G_Effects_KerbalModifiers
+		{
+			femaleModifier = 1
+			SpecializationModifierText = 
+			Pilot = 1.3
+			Engineer = 1
+			Scientist = 1
+			Tourist = 0.6
+		}
+		JSIATP_SettingsParms
+		{
+			DebugLogging = False
+			LoadedInactive = True
+		}
+		GoldStrikeSettings
+		{
+			prospectResetCost = 100
+			bonusPerSkillPoint = 1
+		}
+		HangerExtender
+		{
+			scalingFactor = 5
+			changeHotkey = False
+			newHotKey = KeypadMultiply
+			hideHangars = True
+			BuildingStartMaxSize = False
+			advancedDebug = False
+			startInExternalView = False
+		}
+		TTE
+		{
+			forceEVA = False
+			showSightAngle = True
+			forceIVABeforeLaunch = False
+			forceIVA = False
+			disableMapView = False
+		}
+		KJRSettings
+		{
 		}
 		VN_Settings
 		{
@@ -140,6 +351,46 @@ GAME
 			confirmLock = True
 			checkForVesselNotesLog = True
 		}
+		KKCustomParameters0
+		{
+			blank0 = 
+			enableRT = False
+			enableCommNet = False
+			blank01 = 
+			blank1 = 
+			disableRemoteBaseOpening = False
+			facilityUseRange = 300
+			disableRemoteRecovery = False
+			blank03 = 
+			blank3 = 
+			blank04 = 
+			toggleIconsWithBB = False
+			soundMasterVolume = 1
+			focusLastLaunchSite = False
+		}
+		SystemHeatGameSettings_ReactorDamage
+		{
+			reactorDamage = True
+			reactorRepairs = True
+			engineerLevel = 5
+			repairPerKit = 0.25
+			repairThreshold = 0.1
+			repairMax = 0.75
+		}
+		SystemHeatGameSettings_NuclearFuel
+		{
+			requireEngineersForTransfer = True
+			engineerLevel = 3
+		}
+		FarFutureTechnologiesSettings_EngineDamage
+		{
+			damageFacilities = True
+			facilityDamageScale = 1
+		}
+		USI_DifficultyOptions
+		{
+			ConsumeMachinery = True
+		}
 		KSPWheelWearSettings
 		{
 			stressDamageMultiplier = 1
@@ -147,6 +398,43 @@ GAME
 			slipDamageMultiplier = 1
 			motorDamageMultiplier = 1
 			motorHeatMultiplier = 1
+		}
+		SystemHeatGameSettings_Boiloff
+		{
+			boiloffEnabled = True
+			boiloffRate = 1
+		}
+		WPSensitivity
+		{
+			mouseSensitivity = 4
+		}
+		ContractGroupParameters
+		{
+			STGGrandTours = True
+			PBCgroup = True
+			ScanSatOfficial = True
+		}
+		kOSConnectivityParameters
+		{
+			version = 0
+			knownHandlerList = PermitAllConnectivityManager
+			connectivityHandler = StockConnectivityManager
+		}
+		kOSCustomParameters
+		{
+			InstructionsPerUpdate = 200
+			migrated = False
+			version = 0
+			useCompressedPersistence = True
+			showStatistics = False
+			startOnArchive = False
+			obeyHideUi = True
+			enableSafeMode = True
+			audibleExceptions = True
+			verboseExceptions = True
+			clobberBuiltIns = False
+			useBlizzyToolbarOnly = False
+			debugEachOpcode = False
 		}
 		CommNetParams
 		{
@@ -158,12 +446,50 @@ GAME
 			occlusionMultiplierAtm = 0.75
 			enableGroundStations = True
 		}
+		PreferencesComfort
+		{
+			stressBreakdowns = False
+			stressBreakdownRate = 0.25
+			livingSpace = 20
+			firmGround = 0.1
+			exercise = 0.2
+			notAlone = 0.3
+			callHome = 0.2
+			panorama = 0.1
+			plants = 0.1
+		}
+		G_Effects_gLimits_1
+		{
+			gLocStartCoeff = 1.1
+			gDeathCoeff = 20
+			gDeathEnabled = False
+			gGainMultiplier = 11
+			gReductionMultiplier = 0.9
+		}
+		G_Effects_gLimits_0
+		{
+			gLimits = True
+			gResistance = 300
+			downwardGMultiplier = 1
+			upwardGMultiplier = 2
+			forwardGMultiplier = 0.5
+			backwardGMultiplier = 0.75
+			deltaGTolerance = 3
+			gDampingThreshold = 100
+		}
 		CTB
 		{
 			showPopup = False
-			focusFollowsclick = True
+			focusFollowsclick = False
 			global = True
 			cleanupDelay = 0.5
+		}
+		KKCustomParameters2
+		{
+			launchFromAnySite = False
+			disableCareerStrategyLayer = False
+			discoverAllBases = False
+			dontRemoveStockCommNet = True
 		}
 		KSPWheelSettings
 		{
@@ -207,6 +533,24 @@ GAME
 			OnReturnFromSurface = True
 			onVesselDestroy = True
 		}
+		FarFutureTechnologiesSettings_AntimatterContainment
+		{
+			containmentEnabled = True
+			detonationRate = 1
+			volatility = 1
+		}
+		FarFutureTechnologiesSettings_Antimatter
+		{
+			antimatterCostsScience = True
+			antimatterScienceCostPerUnit = 1
+		}
+		WildBlueCoreAnimatedSettings
+		{
+			startEventRequiresSkillCheck = True
+			endEventRequiresSkillCheck = True
+			startEventRequiresResources = True
+			endEventGivesResources = True
+		}
 		AdvancedParams
 		{
 			EnableKerbalExperience = False
@@ -224,6 +568,46 @@ GAME
 			PartUpgradesInMission = False
 			EnableFullSASInSandbox = False
 			EnableFullSASInMissions = False
+		}
+		SaveSpecificSettings
+		{
+			ModEnabled = True
+			UseInventory = True
+			UseTracker = True
+			OverrideFunds = False
+			FundsSalePercent = 100
+			DebugLogging = False
+			RefreshTime = 10
+			coloredPAW = True
+		}
+		UPFMSettings
+		{
+			autoPersistance = True
+			newGameOnly = False
+			safetyWarning = True
+			highlightFailures = True
+			audibleAlarms = True
+			stopOnFailure = True
+			overrideStageRecovery = False
+			AlternatorFailureModuleAllowed = True
+			AntennaFailureModuleAllowed = True
+			BatteryFailureModuleAllowed = True
+			ControlSurfaceFailureModuleAllowed = True
+			EngineFailureModuleAllowed = True
+			LandingGearFailureModuleAllowed = True
+			ParachuteFailureModuleAllowed = True
+			RCSFailureModuleAllowed = True
+			ReactionWheelFailureModuleAllowed = True
+			TankFailureModuleAllowed = True
+			SolarPanelFailureModuleAllowed = True
+			SRBFailureModuleAllowed = True
+			logging = False
+			coloredPAW = True
+			quietMode = False
+		}
+		Settings
+		{
+			debugMode = False
 		}
 		MissionParamsGeneral
 		{
@@ -259,9 +643,66 @@ GAME
 			facilityLevelTS = 3
 			facilityLevelVAB = 3
 		}
+		ContractConfiguratorParameters
+		{
+			DisplayOfferedOrbits = True
+			DisplayActiveOrbits = True
+			DisplayOfferedWaypoints = True
+			DisplayActiveWaypoints = True
+			ActiveContractMultiplier = 1
+			lastMCButton = All
+			lastMCButton = All
+		}
+		KerbalWxCustomParams_Sec3
+		{
+			wind_switched = False
+			windstrs = N,NNE,NE,ENE,...
+			velunit = m/s
+			windunit = m/s
+			tempunit = K
+			presunit = hPa
+			precipunit = mm
+		}
+		KerbalWxCustomParams_Sec2
+		{
+			wind_switched = False
+			wind_switched2 = False
+			wind_switched3 = False
+			use_mpaswind = True
+			use_cnstprofile = False
+			set_wspeed = 20
+			set_wdir = 90
+			disable_surface_wind = False
+		}
+		KerbalWxCustomParams
+		{
+			switched = False
+			WxEnabled = True
+			use_climo = True
+			use_point = False
+			allow_thermo = True
+			allow_aero = True
+		}
+		KerBSettings
+		{
+			DebugMode = False
+			altskin = False
+			speedLimiterEnabled = True
+			saveInModFolder = False
+		}
 		BM
 		{
 			debugMode = False
+		}
+		StateFundingSettings
+		{
+			ConvergingRate = 50
+			enabled = True
+			budgetPeriodsPerYear = 4
+			stopWarpAtBudgetPeriod = True
+			stopWarpOnNewYear = True
+			convergingRate = 0.5
+			multiplier = 1
 		}
 		TC
 		{
@@ -270,6 +711,21 @@ GAME
 			allowAllToolbarButtonsHidden = False
 			debugMode = False
 			oldDebugMode = False
+		}
+		EL
+		{
+			lightFadeCoefficient = 1
+			lightPower = 1
+			lightRange = 1
+			useKSPskin = False
+		}
+		PM
+		{
+			EnabledForSave = True
+		}
+		Casher
+		{
+			useBlizzy = False
 		}
 	}
 	SCENARIO
@@ -1266,6 +1722,116 @@ GAME
 			}
 		}
 	}
+	SCENARIO
+	{
+		name = KerbalKonstructsSettings
+		scene = 5, 6, 7, 8
+	}
+	SCENARIO
+	{
+		name = FARSettingsScenarioModule
+		scene = 5, 6, 7
+	}
+	SCENARIO
+	{
+		name = DiscoverableObjects
+		scene = 7, 8, 5
+	}
+	SCENARIO
+	{
+		name = InterVesselManager
+		scene = 7, 5, 8
+	}
+	SCENARIO
+	{
+		name = UPFMData
+		scene = 7, 6
+	}
+	SCENARIO
+	{
+		name = RACommNetScenario
+		scene = 7, 8, 5, 6
+	}
+	SCENARIO
+	{
+		name = CommNetPatcher
+		scene = 2
+	}
+	SCENARIO
+	{
+		name = EntryCostManager
+		scene = 6, 5
+	}
+	SCENARIO
+	{
+		name = ScrapYard
+		scene = 8, 5, 6, 7
+	}
+	SCENARIO
+	{
+		name = SpaceDustScenario
+		scene = 5, 7, 8, 6
+	}
+	SCENARIO
+	{
+		name = StateFundingScenario
+		scene = 5, 6, 7, 8
+	}
+	SCENARIO
+	{
+		name = TRScenario
+		scene = 5
+	}
+	SCENARIO
+	{
+		name = KerbalAlarmClockScenario
+		scene = 5, 6, 7, 8
+	}
+	SCENARIO
+	{
+		name = WhatDoINeedScenario
+		scene = 6
+	}
+	SCENARIO
+	{
+		name = WBIGoldStrikeScenario
+		scene = 5, 6, 7, 8
+	}
+	SCENARIO
+	{
+		name = WBIOmniManager
+		scene = 5, 6, 7, 8
+	}
+	SCENARIO
+	{
+		name = ToolTipScenario
+		scene = 5, 6, 7, 8
+	}
+	SCENARIO
+	{
+		name = WBIManifestScenario
+		scene = 5, 6, 7, 8
+	}
+	SCENARIO
+	{
+		name = WBIRefinery
+		scene = 5, 6, 7, 8
+	}
+	SCENARIO
+	{
+		name = WBIToolTipManager
+		scene = 6
+	}
+	SCENARIO
+	{
+		name = WildBlueCoreScenario
+		scene = 6, 7
+	}
+	SCENARIO
+	{
+		name = Kerbalism
+		scene = 5, 8, 7, 6
+	}
 	FLIGHTSTATE
 	{
 		version = 1.12.5
@@ -1323,6 +1889,7 @@ GAME
 				MNA = 0.27150461151991234
 				EPH = 2042368.9149316407
 				REF = 0
+				IDENT = Squad/Sun
 			}
 			PART
 			{
@@ -1468,6 +2035,7 @@ GAME
 				MNA = 6.0340504847685636
 				EPH = 4250746.3443164062
 				REF = 0
+				IDENT = Squad/Sun
 			}
 			PART
 			{
@@ -1613,6 +2181,7 @@ GAME
 				MNA = 1.0841651831549228
 				EPH = 2253269.4470605468
 				REF = 0
+				IDENT = Squad/Sun
 			}
 			PART
 			{
@@ -1758,6 +2327,7 @@ GAME
 				MNA = 6.1183774171962177
 				EPH = 2630736.1306705843
 				REF = 0
+				IDENT = Squad/Sun
 			}
 			PART
 			{
@@ -1903,6 +2473,7 @@ GAME
 				MNA = -0.28504553965528812
 				EPH = 443.06162468517431
 				REF = 0
+				IDENT = Squad/Sun
 			}
 			PART
 			{
@@ -2069,6 +2640,7 @@ GAME
 				MNA = 6.0894378498319899
 				EPH = 1863078.3136486108
 				REF = 0
+				IDENT = Squad/Sun
 			}
 			PART
 			{
@@ -2217,6 +2789,7 @@ GAME
 				MNA = 0.85966816830376336
 				EPH = 77943.188193782742
 				REF = 1
+				IDENT = Squad/Kerbin
 			}
 			PART
 			{
@@ -6037,6 +6610,7 @@ GAME
 				MNA = 1.8249717781871651
 				EPH = 12689.074087582483
 				REF = 1
+				IDENT = Squad/Kerbin
 			}
 			PART
 			{
@@ -8057,6 +8631,7 @@ GAME
 				MNA = 6.2014261932017867
 				EPH = 10547.019312191103
 				REF = 1
+				IDENT = Squad/Kerbin
 			}
 			PART
 			{
@@ -11882,6 +12457,7 @@ GAME
 				MNA = 1.9901779920434879
 				EPH = 12689.074087582483
 				REF = 1
+				IDENT = Squad/Kerbin
 			}
 			PART
 			{
@@ -12378,6 +12954,7 @@ GAME
 				MNA = 1.9857592252946124
 				EPH = 12689.074087582483
 				REF = 1
+				IDENT = Squad/Kerbin
 			}
 			PART
 			{
@@ -16207,6 +16784,7 @@ GAME
 				MNA = 6.2121949585572223
 				EPH = 10547.019312191103
 				REF = 1
+				IDENT = Squad/Kerbin
 			}
 			PART
 			{
@@ -16703,6 +17281,7 @@ GAME
 				MNA = 5.5603211276794617
 				EPH = 78002.728193794872
 				REF = 1
+				IDENT = Squad/Kerbin
 			}
 			PART
 			{
@@ -20560,6 +21139,7 @@ GAME
 				MNA = 1.9858725104039452
 				EPH = 12689.074087582483
 				REF = 1
+				IDENT = Squad/Kerbin
 			}
 			PART
 			{
@@ -21056,6 +21636,7 @@ GAME
 				MNA = 4.4241391617992143
 				EPH = 7345.0651617958765
 				REF = 1
+				IDENT = Squad/Kerbin
 			}
 			PART
 			{
@@ -27591,6 +28172,7 @@ GAME
 				MNA = 4.417079959477638
 				EPH = 7345.0651617958765
 				REF = 1
+				IDENT = Squad/Kerbin
 			}
 			PART
 			{
@@ -28087,6 +28669,7 @@ GAME
 				MNA = 1.6233056078534756
 				EPH = 508437.52401502046
 				REF = 1
+				IDENT = Squad/Kerbin
 			}
 			PART
 			{
@@ -36306,6 +36889,7 @@ GAME
 				MNA = 0.092246690758374952
 				EPH = 43970.051159493029
 				REF = 1
+				IDENT = Squad/Kerbin
 			}
 			PART
 			{
@@ -41852,6 +42436,7 @@ GAME
 				MNA = 5.1867391464703196
 				EPH = 165947.23747215208
 				REF = 2
+				IDENT = Squad/Mun
 			}
 			PART
 			{
@@ -50102,6 +50687,7 @@ GAME
 				MNA = 5.0642276152320367
 				EPH = 121059.32585934062
 				REF = 2
+				IDENT = Squad/Mun
 			}
 			PART
 			{
@@ -55366,6 +55952,7 @@ GAME
 				MNA = 0
 				EPH = 516679.51034571783
 				REF = 2
+				IDENT = Squad/Mun
 			}
 			PART
 			{
@@ -70490,6 +71077,7 @@ GAME
 				MNA = 1.3912144449088113
 				EPH = 108822.24431864879
 				REF = 2
+				IDENT = Squad/Mun
 			}
 			PART
 			{
@@ -74252,6 +74840,7 @@ GAME
 				MNA = 1.3954595017290263
 				EPH = 108822.24431864879
 				REF = 2
+				IDENT = Squad/Mun
 			}
 			PART
 			{
@@ -74745,6 +75334,7 @@ GAME
 				MNA = 0.9676622647703147
 				EPH = 2123370.044488572
 				REF = 0
+				IDENT = Squad/Sun
 			}
 			PART
 			{
@@ -74890,6 +75480,7 @@ GAME
 				MNA = 6.0662400199514321
 				EPH = 4041253.4063049783
 				REF = 0
+				IDENT = Squad/Sun
 			}
 			PART
 			{
@@ -75035,6 +75626,7 @@ GAME
 				MNA = 0.041528932021148532
 				EPH = 1788368.4636780252
 				REF = 0
+				IDENT = Squad/Sun
 			}
 			PART
 			{
@@ -75180,6 +75772,7 @@ GAME
 				MNA = 0.17615369255516836
 				EPH = 5225923.3826478664
 				REF = 0
+				IDENT = Squad/Sun
 			}
 			PART
 			{
@@ -75328,6 +75921,7 @@ GAME
 				MNA = 3.5585569087318127
 				EPH = 516679.51034571783
 				REF = 1
+				IDENT = Squad/Kerbin
 			}
 			PART
 			{
@@ -95200,6 +95794,7 @@ GAME
 				MNA = 0.090704229500006367
 				EPH = 515340.69703511056
 				REF = 1
+				IDENT = Squad/Kerbin
 			}
 			PART
 			{
@@ -99644,6 +100239,7 @@ GAME
 				MNA = 0.080913842800398358
 				EPH = 515340.69703511056
 				REF = 1
+				IDENT = Squad/Kerbin
 			}
 			PART
 			{
@@ -100078,21 +100674,21 @@ GAME
 	{
 		Scale_Redist v1.0.0.0 / v2.4.7.3 = False
 		ModuleManager v4.2.3.0 = True
-		ClickThroughBlocker v2.1.10.21 = True
-		BlendshapeModelLoader v1.0.0.0 = True
-		TexturesUnlimited v0.0.0.0 = True
-		ToolbarControl v0.1.9.11 = True
+		ClickThroughBlocker v2.1.10.21 = False
+		BlendshapeModelLoader v1.0.0.0 = False
+		TexturesUnlimited v0.0.0.0 = False
+		ToolbarControl v0.1.9.11 = False
 		KSPe.Light.Recall v2.5.2.0 = True
-		Attached v0.4.0.1 = True
-		AttachedOnEditor v0.4.0.1 = True
-		ChillingOut v0.4.0.1 = True
-		Driftless v0.4.0.1 = True
-		KSP-Recall v0.4.0.1 = True
-		Refunding v0.4.0.1 = True
-		Resourceful v0.4.0.1 = True
+		Attached v0.4.0.1 = False
+		AttachedOnEditor v0.4.0.1 = False
+		ChillingOut v0.4.0.1 = False
+		Driftless v0.4.0.1 = False
+		KSP-Recall v0.4.0.1 = False
+		Refunding v0.4.0.1 = False
+		Resourceful v0.4.0.1 = False
 		ASETPropsIdentifier v1.5.0.0 = True
-		Astrogator v1.0.0.0 = True
-		B9PartSwitch v2.20.0.0 / vv2.20.0 = True
+		Astrogator v1.0.0.0 = False
+		B9PartSwitch v2.20.0.0 / vv2.20.0 = False
 		BDArmory v1.6.5.0 = False
 		CameraTools v1.29.1.0 / v1.29.1 = False
 		Chatterer v0.9.99.2788 = True
@@ -100102,45 +100698,45 @@ GAME
 		Firespitter v7.3.7660.26532 = True
 		FreeIva v0.2.16.1 = False
 		HangerExtenderExtended v3.6.0.2 = False
-		HullcamVDSContinued v0.2.2.1 = True
+		HullcamVDSContinued v0.2.2.1 = False
 		RasterPropMonitor v0.31.13.2 = False
 		KAS-API-v2 v2.0.7239.35367 / vKAS API v2 = True
 		KAS v1.12.8285.34332 / v1.12 for KSP v1 = True
 		KSPDev_Utils.2.7 v2.7.0.0 / v2.7 for KSP v1 = True
 		KSPWheel v0.0.0.0 = True
-		MechJeb2 v2.5.1.0 / v / v2.14.3.0 = True
+		MechJeb2 v2.5.1.0 / v / v2.14.3.0 = False
 		AvionicsSystems v1.3.7.30145 = True
 		MoonSharp.Interpreter v2.0.0.0 = True
 		MouseAimFlight v0.0.0.0 = True
-		DockingPortAlignmentIndicator v6.10.0.0 = True
-		DPAI_RPM v1.0.0.2 = True
-		ModuleDockingNodeNamed v1.0.0.2 = True
+		DockingPortAlignmentIndicator v6.10.0.0 = False
+		DPAI_RPM v1.0.0.2 = False
+		ModuleDockingNodeNamed v1.0.0.2 = False
 		NFPropUtils v1.0.0.0 = True
 		PhysicsRangeExtender v1.21.0.0 = True
-		ProbeControlRoomRecontrolled v1.3.3.0 = True
+		ProbeControlRoomRecontrolled v1.3.3.0 = False
 		BackgroundResources v1.12.0.0 = True
-		Reviva v0.8.1.0 / v0.8.1-0-g2af0238 = True
+		Reviva v0.8.1.0 / v0.8.1-0-g2af0238 = False
 		RocketSoundEnhancement.Unity v1.0.0.0 = True
 		RocketSoundEnhancement v0.9.7.16485 / v0.9.7 = False
-		SCANsat v1.20.4.0 / vv20.4 = True
-		SCANmechjeb v1.20.4.0 / vv20.4 = True
-		SCANsat.Unity v1.20.4.0 = True
-		KSP_Log v1.2.0.0 / v1.2.0 = True
-		ButtonManager v1.0.1.1 = True
-		KSP_ColorPicker v1.1.0.5 = True
-		KSP_PartHighlighter v1.1.0.10 = True
-		SpaceTuxUtility v1.0.1.3 = True
-		VesselModuleSave v1.0.1.2 = True
-		VesselMover v1.10.0.0 = True
+		SCANsat v1.20.4.0 / vv20.4 = False
+		SCANmechjeb v1.20.4.0 / vv20.4 = False
+		SCANsat.Unity v1.20.4.0 = False
+		KSP_Log v1.2.0.0 / v1.2.0 = False
+		ButtonManager v1.0.1.1 = False
+		KSP_ColorPicker v1.1.0.5 = False
+		KSP_PartHighlighter v1.1.0.10 = False
+		SpaceTuxUtility v1.0.1.3 = False
+		VesselModuleSave v1.0.1.2 = False
+		VesselMover v1.10.0.0 = False
 		HabUtils v1.0.0.0 = True
-		KSPe.Light.TweakScale v2.5.2.0 = True
+		KSPe.Light.TweakScale v2.5.2.0 = False
 		Scale v2.4.7.3 = False
 		TweakScaleCompanion_Frameworks v0.4.0.2 = False
-		TweakScaleCompanion_FS v1.3.0.0 = True
-		TweakScalerFSBuoyancy v1.3.0.0 = True
+		TweakScaleCompanion_FS v1.3.0.0 = False
+		TweakScalerFSBuoyancy v1.3.0.0 = False
 		TweakScaleCompanion_KIAS v1.1.0.0 = True
 		TweakScalerKISInventory v1.1.0.0 = True
-		TweakScaleCompanion_PKMC v2.2.1.1 = True
+		TweakScaleCompanion_PKMC v2.2.1.1 = False
 		VesselNotes v0.0.2.4 = True
 		VesselView v0.8.9.0 / v0.8.9 = True
 		VesselViewRPM v0.8.9.0 / v0.8.9 = True
@@ -100164,8 +100760,8 @@ GAME
 		DE_IVAExtension = True
 		EasyVesselSwitch = True
 		Firespitter = True
-		FreeIva = False
-		FShangarExtender = False
+		FreeIva = True
+		FShangarExtender = True
 		HullCameraVDS = True
 		JSI = True
 		KAS = True
@@ -100188,7 +100784,7 @@ GAME
 		Reviva = True
 		RocketSoundEnhancement = True
 		RocketSoundEnhancementDefault = True
-		SACDCJ = False
+		SACDCJ = True
 		SCANsat = True
 		SpaceTuxLibrary = True
 		StationPartsExpansionRedux = True
@@ -100199,21 +100795,463 @@ GAME
 		WildBlueIndustries = True
 		999_Scale_Redist.dll = True
 		ModuleManager.4.2.3.dll = True
-		ModuleManager.ConfigCache = True
-		ModuleManager.ConfigSHA = True
+		ModuleManager.ConfigCache = False
+		ModuleManager.ConfigSHA = False
 		ModuleManager.Physics = True
 		ModuleManager.TechTree = True
-		toolbar-settings.dat = True
+		toolbar-settings.dat = False
 		StationPartsExpansionReduxIVAs = True
-		Scale_Redist v1.0.0.0 / v2.4.7.4 = True
-		BDArmory v1.6.8.0 = True
-		CameraTools v1.30.1.0 / v1.30.1 = True
-		RasterPropMonitor v0.31.13.4 = True
-		RocketSoundEnhancement v0.9.8.18123 / v0.9.8 = True
-		Scale v2.4.7.4 = True
-		TweakScaleCompanion_Frameworks v0.4.0.3 = True
-		TweakScalerTestFlightCore v0.4.0.3 = True
-		System.Buffers v4.0.3.0 / v4.6.28619.01 @BuiltBy: dlab14-DDVSOWINAGE069 @Branch: release/2.1 @SrcCode: https://github.com/dotnet/corefx/tree/7601f4f6225089ffb291dc7d58293c7bbf5c5d4f / v4.6.28619.01 = True
+		Scale_Redist v1.0.0.0 / v2.4.7.4 = False
+		BDArmory v1.6.8.0 = False
+		CameraTools v1.30.1.0 / v1.30.1 = False
+		RasterPropMonitor v0.31.13.4 = False
+		RocketSoundEnhancement v0.9.8.18123 / v0.9.8 = False
+		Scale v2.4.7.4 = False
+		TweakScaleCompanion_Frameworks v0.4.0.3 = False
+		TweakScalerTestFlightCore v0.4.0.3 = False
+		KSPe.InstallChecker v1.1.0.0 = True
+		KSPe v2.5.5.1 = True
+		Scale_Redist v1.0.0.0 / v2.4.8.6 = True
+		ClickThroughBlocker v2.1.10.22 = True
+		0Harmony v2.2.1.0 = True
+		HarmonyInstallChecker v2.2.1.0 = True
+		KSPBurst v1.5.5.2 = True
+		Microsoft.Extensions.FileSystemGlobbing v6.0.0.0 / v6.0.0-preview.2.21154.6+3eaf1f316b8b1da73fdb98e9cca43c0ddaa12f45 / v6.0.21.15406 = True
+		System.IO.Compression v4.0.0.0 / v4.6.57.0 = True
+		System.IO.Compression.FileSystem v4.0.0.0 / v4.6.57.0 = True
+		System.Runtime.CompilerServices.Unsafe v4.0.6.0 / v3.1.3+8a3ffed558ddf943c1efa87d693227722d6af094 / v4.700.20.12001 = True
+		System.Runtime v4.1.0.0 / v4.0.0.0 = True
+		Unity.Burst v0.0.0.0 = True
+		Unity.Burst.Unsafe v4.0.5.0 / v1.0.0.0 = True
+		Unity.Collections v0.0.0.0 = True
+		Unity.Jobs v0.0.0.0 = True
+		Unity.Mathematics v1.0.0.0 = True
+		KSPAPIExtensions v2.5.4.0 = True
+		KSPe.External v2.5.5.1 = True
+		KSPe.HMI v2.5.5.1 = True
+		KSPe.System v2.5.5.1 = True
+		KSPe.UI v2.5.5.1 = True
+		TinyJSON v1.3.0.0 = True
+		BlendshapeModelLoader v1.6.4.30 = True
+		TexturesUnlimited v1.6.4.30 = True
+		USITools v1.0.0.0 = True
+		USIToolsUI v1.0.0.0 = True
+		ToolbarControl v0.1.9.14 = True
+		Attached v0.5.0.2 = True
+		AttachedOnEditor v0.5.0.2 = True
+		ChillingOut v0.5.0.2 = True
+		Driftless v0.5.0.2 = True
+		KSP-Recall v0.5.0.2 = True
+		Refunding v0.5.0.2 = True
+		Resourceful v0.5.0.2 = True
+		SolverEngines v3.13.0.0 / v3.13.1.0 = True
+		AJE v2.20.0.0 = True
+		AnalogControl v2.1.3.0 / v2.1.3 = True
+		Astrogator v1.0.2.0 = True
+		AtmosphereAutopilot.UI v1.0.0.0 = True
+		AtmosphereAutopilot v1.6.1.0 = True
+		KSPe.Light.AviationLights v2.4.3.0 = True
+		AviationLights v4.2.1.1 = True
+		AAPartCategory v1.0.0.0 = True
+		AviatorArsenal v1.0.0.0 = True
+		B9PartSwitch v2.21.0.4 = True
+		B9-PWings-Fork v0.46.1.0 / v0.46.1 = True
+		BDAnimationModules v0.6.7.1 = True
+		RNModules v1.2.1.0 = True
+		BDArmory v1.11.1.0 = True
+		BurstAtomicThrust v0.1.0.4 = True
+		CameraTools v1.37.1.0 / v1.37.1 = True
+		CCK v5.1.0.0 / v5.1.0.0 for KSP v1 = True
+		ContractConfigurator v1.0.0.0 / v2.12.0.0 KSP-RO / v2.12.0.0 = True
+		CustomPreLaunchChecks v1.0.0.0 / v1.8.1.0 = True
+		KerbalKonstructs v2.0.0.0 / v1.12.0.0 = True
+		KerKonConConExt v2.0.0.0 / v2.0.0 = True
+		CriticalTemperatureGauge v1.12.3.1 = True
+		SimpleBoiloff v0.2.1.0 = True
+		DestructionEffects v1.12.0.0 = True
+		DistantObject v0.0.0.0 = True
+		KSPe.Light.DOE v2.5.5.1 = True
+		ContractParser v1.0.9.0 / vv9.0 = True
+		DockingFunctions v1.0.4.0 = True
+		DynamicBatteryStorage v1.0.0.0 = True
+		EngineLightRelit v1.6.3.4 = True
+		Atmosphere v1.11.7.2 = True
+		CelestialShadows v1.11.7.2 = True
+		CityLights v1.11.7.2 = True
+		EVEManager v1.11.7.2 = True
+		PartFX v1.11.7.2 = True
+		PQSManager v1.11.7.2 = True
+		ShaderLoader v1.11.7.2 = True
+		Terrain v1.11.7.2 = True
+		TextureConfig v1.11.7.2 = True
+		Utils v1.11.7.2 = True
+		_BuildManager v1.11.7.2 = True
+		FarFutureTechnologies v1.0.0.0 = True
+		FerramAerospaceResearch.Base v0.16.1.2 = True
+		ModularFlightIntegrator v1.0.0.0 / v1.2.10.0 = True
+		FerramAerospaceResearch v0.16.1.2 = True
+		ferramGraph v1.3.0.0 = True
+		FieldTrainingLab v1.2.1.0 / v1.2.1 / v1.2.1.14 = True
+		FireflyAPI v1.0.0.0 / v1.0.0+329dbaa96a227c74fcec9d880058e72b53e4d710 = True
+		Firefly v1.0.5.0 / v1.0.5+b77f16ca57e8a9b459b72851f0ac4c38436458a0 = True
+		FireflyInstallChecker v1.0.0.0 / v1.0.0+b77f16ca57e8a9b459b72851f0ac4c38436458a0 = True
+		FP_DockingSndFX v2.1.12.27690 = True
+		FreeIva v0.2.20.2 / v0.2.20.2+c013cb43ae19a8e0486cf472a68287d18f2f85f4 = True
+		HangerExtenderExtended v3.6.1.0 / v3.6.1 = True
+		G-Effects v1.0.0.0 / v1.0.0 = True
+		GPWS v0.4.0.2 = True
+		HullcamVDSContinued v0.2.2.4 = True
+		IndicatorLights v1.0.0.0 = True
+		IRConnectionSystem v1.0.5.0 = True
+		JSIAdvTransparentPods v0.1.24.0 = True
+		JSIPartUtilities v0.5.0.6 = True
+		RasterPropMonitor v1.0.2.0 = True
+		KAX v2.8.1.1 = True
+		KSPe.Light.KAX v2.4.2.4 = True
+		KerbalAnimationSuite v1.3.0.0 = True
+		KerbalChangelog v1.4.2.0 = True
+		KerbalChecklistDebug v1.0.0.0 = True
+		KerbalCurrencyDisplay v1.0.0.0 = True
+		KerbalEngineer.Unity v1.0.0.0 = True
+		KerbalEngineer v1.1.9.5 = True
+		KerbalFlightIndicators v0.20.0.0 = True
+		KerbalismBootstrap v3.29.9479.4692 / v3.29 = True
+		KerbalismLabExperimentsExpandedContinued v1.0.0.0 / v1.0.0+7ea283c482d0e37597b827813d0c58a9635bdd7e = True
+		KerbalJointReinforcement v3.8.6.0 = True
+		KerbalKrashSystem v1.0.0.0 = True
+		KerbalKrashSystem_Leak v1.0.0.0 = True
+		KerbalKrashSystem_Repair v1.0.0.0 = True
+		KerbalKrashSystem_Science v1.0.0.0 = True
+		VesselModuleSave v1.0.2.0 / v1.0.2 = True
+		KerBalloons v0.6.0.1 = True
+		KerbalWeatherProject v1.0.0.0 = True
+		MiniAVC v1.0.3.2 = True
+		KIS v1.29.8039.40483 / v1.29 for KSP v1.12+ = True
+		KSPDev_Utils.2.6 v2.6.7847.1936 / v2.6 for KSP v1 = True
+		MiniAVC-V2 v2.0.0.0 = True
+		Kopernicus.Parser v1.0.0.0 = True
+		Kopernicus v1.0.0.0 / v1.12.231.0 = True
+		KEX-Common v1.0.0.0 = True
+		KEX-EmissiveFX v1.0.0.0 = True
+		KEX-EVAFootprints v1.0.0.0 = True
+		KEX-RegionalPQSMods v1.0.0.0 = True
+		KEX-VertexHeightDeformity v1.0.0.0 = True
+		KEX-VertexHeightMap16 v1.0.0.0 = True
+		KEX-Wormholes v1.0.0.0 = True
+		RunSharp v1.0.0.19 = True
+		ICSharpCode.SharpZipLib v0.86.0.518 / v0.86.0 = True
+		kOS v1.5.1.0 = True
+		kOS.Safe v1.5.1.0 = True
+		kOS-AddOns-Ferram v0.1.1.0 = True
+		kOS-Astrogator v0.2.2.0 = True
+		kOS-KerbalEngineer v0.1.1.0 = True
+		KOS-Scansat v1.2.0.0 = True
+		JsonFx v2.0.1209.2802 = True
+		kOSPropMonitor v1.7.3.0 = True
+		Kronometer v1.12.0.2 = True
+		Google.Protobuf v3.10.1.0 / v3.10.1+d09d649aea36f02c03f8396ba39a8d4db8a607e4 = True
+		KRPC.Core v0.5.4.0 = True
+		KRPC v0.5.4.0 = True
+		KRPC.DockingCamera v0.5.4.0 = True
+		KRPC.Drawing v0.5.4.0 = True
+		KRPC.InfernalRobotics v0.5.4.0 = True
+		KRPC.IO.Ports v0.0.0.0 = True
+		KRPC.KerbalAlarmClock v0.5.4.0 = True
+		KRPC.LiDAR v0.5.4.0 = True
+		KRPC.RemoteTech v0.5.4.0 = True
+		KRPC.SpaceCenter v0.5.4.0 = True
+		KRPC.UI v0.5.4.0 = True
+		KSPCasher v0.3.0.2 = True
+		0_MultipleModuleInPartAPI v1.0.0.0 = True
+		KSPCommunityFixes v1.37.3.0 / v1.39.1.0 = True
+		KSPIRC v0.19.0.0 / v0.19.0 = True
+		GroundProximity v0.3.3.3 = True
+		LazyPainter v0.4.1.0 = True
+		IRSurfaceSampler v1.0.1.7 / v1.7 = True
+		InfernalRobotics_v3 v3.1.17.0 = True
+		alglib v1.0.0.0 = True
+		MechJeb2 v2.5.1.0 / v / v2.15.1.0 = True
+		MechJebLib v1.0.0.0 = True
+		MechJebLibBindings v1.0.0.0 = True
+		MOAR_Units v1.0.0.0 = True
+		NavUtilLib v0.7.2.0 = True
+		NavUtilRPM v0.7.2.0 = True
+		DockingPortAlignmentIndicator v6.12.0.0 = True
+		DPAI_RPM v1.0.0.4 = True
+		ModuleDockingNodeNamed v1.1.0.0 = True
+		NearFutureElectrical v1.0.0.0 = True
+		NearFutureExploration v0.4.0.0 = True
+		NearFuturePropulsion v0.9.0.0 = True
+		NearFutureSolar v0.4.0.0 = True
+		NearFutureUtils v0.0.0.0 = True
+		OhScrap v2.2.0.0 / v2.2.0.13 = True
+		Grass v0.0.0.0 = True
+		ParallaxQualityLibrary v1.0.0.0 = True
+		ParallaxOptimized v1.0.0.0 = True
+		PatchManager v0.0.17.7 = True
+		PilotAssistant v1.0.0.0 = True
+		PlanetShine v0.2.6.6 = True
+		KSP_Log v1.2.0.1 = True
+		PreciseEditor v1.5.0.1 = True
+		PreciseNode v1.2.12.0 / v1.2.12 = True
+		ProbeControlRoomRecontrolled v1.4.0.0 = True
+		ROUtils v1.1.0.0 / v1.1.1.0 = True
+		ProceduralParts v2.0.0.0 / v2.8.0.0 = True
+		RealAntennas v2.6.0.0 / v2.9.0.0 = True
+		RealChute v1.4.9059.6703 / v1.4.9.5 = True
+		RealFuels v1.0.0.0 / v15.12.0.0 = True
+		RealFuelsB9PSPatch v1.0.0.0 = True
+		RealHeat v5.1.0.0 = True
+		Restock v1.0.0.0 / v1.0.0+7f266364f4d5f763ed815d920b99e1b449d29ef2 = True
+		Reviva v1.0.2.0 / v1.0.2+8db371091b34056ad2a781bbc933fd16255ef73f = True
+		RocketSoundEnhancement v0.9.11.31642 / v0.9.11 = True
+		RSSTimeFormatter v1.12.0.0 = True
+		SCANsat v21.1.0.0 / v21.1+2b660e6d3986b5ceaa11bf8fe7f24cb874fe232b = True
+		SCANmechjeb v21.1.0.0 / v21.1+2b660e6d3986b5ceaa11bf8fe7f24cb874fe232b = True
+		SCANsat.Unity v21.1.0.0 / v21.1+2b660e6d3986b5ceaa11bf8fe7f24cb874fe232b = True
+		scatterer v0.878.0.0 = True
+		ScrapYard v2.2.1.0 / v2.2.1.23 = True
+		ScrapYard_ContractConfigurator v2.2.1.0 / v2.2.1.6 = True
+		Shabby v0.0.0.0 / v0.4.2 / v0.4.2.0 = True
+		SmokeScreen v2.8.14.0 = True
+		SpaceDust v0.5.4.0 / v0.5.4 = True
+		ButtonManager v1.0.2.0 / v1.0.2 = True
+		KSP_ColorPicker v1.1.1.0 / v1.1.1 = True
+		KSP_PartHighlighter v1.1.1.0 / v1.1.1 = True
+		SpaceTuxUtility v1.0.2.0 / v1.0.2 = True
+		StagedAnimation v1.0.0.0 = True
+		StateFundingContinued v0.6.19.0 / v0.6.19 = True
+		StockAlarmClockDisabler v1.0.0.0 = True
+		SystemHeat v0.1.0.0 = True
+		TextureReplacer v4.5.3.925 = True
+		ThroughTheEyes v2.0.4.5 = True
+		KerbalAlarmClock v3.14.0.0 = True
+		TrimIndicator v1.12.0.0 = True
+		TUFX v1.1.1.0 / v1.1.1+a5d61676496ecbe8816c28c50b3dfd2e094803d5 = True
+		KSPe.Light.TweakScale v2.5.4.4 = True
+		Scale v2.4.8.6 = True
+		TweakScale.WatchDog v2.4.8.6 = True
+		TweakScaleCompanion v2025.2.7.1 = True
+		TweakScaleCompanion_Frameworks v0.4.0.7 = True
+		TweakScalerTestFlightCore v0.4.0.7 = True
+		TweakScalerWaterfallFX v0.4.0.7 = True
+		TweakScaleCompanion_FS v1.3.0.1 = True
+		TweakScalerFSBuoyancy v1.3.0.1 = True
+		TweakScaleCompanion_PKMC v2.2.1.2 = True
+		VaporCones v1.0.0.0 = True
+		VesselMover v1.12.0.0 = True
+		Waterfall v0.10.2.0 / v0.10.2 = True
+		WaypointManager v2.8.4.7 / v2.8.1 = True
+		WhatDoINeed v0.0.4.6 = True
+		WildBlueTools v1.0.0.0 = True
+		WildBlueCore v1.0.0.0 = True
+		Deferred v1.3.3.0 = True
+		000_Harmony = True
+		000_KSPBurst = True
+		000_KSPe = True
+		000_ShineFix = True
+		000_USITools = True
+		A330neo = True
+		Adiri's TUFX Profiles = True
+		AFAZAerospace = True
+		AirplanePlus = True
+		AJE = True
+		AJEExtended = True
+		Analog Control Continued = True
+		AtmosphereAutopilot = True
+		aurora station = True
+		AviationLights = True
+		AviatorArsenal = True
+		B9_Aerospace_ProceduralWings = True
+		BahaSP = True
+		BDArmoryExtended = True
+		BDArmoryRefurbished = True
+		BetterEarlyTree = True
+		BetterKerbol = True
+		BLEAK = True
+		BoulderCo = True
+		BurstAtomicThrustModule = True
+		ChromaWorks = True
+		CommNetAntennasExtension = True
+		CommunityCategoryKit = True
+		ContractConfigurator = True
+		ContractPacks = True
+		CriticalTemperatureGauge = True
+		CryoEngines = True
+		CryoEnginesNFAero = True
+		CryoTanks = True
+		CTTP = True
+		CustomPreLaunchChecks = True
+		Dan's TUFX = True
+		DestructionEffects = True
+		DistantObject = True
+		DMagicUtilities = True
+		DockingFunctions = True
+		DynamicBatteryStorage = True
+		EngineLightRelit = True
+		EngineModificationConfig = True
+		EnvironmentalVisualEnhancements = True
+		FarFutureTechnologies = True
+		FerramAerospaceResearch = True
+		FieldTrainingLab = True
+		Firefly = True
+		FireflyAPI = True
+		Fox's Profiles = True
+		FP_DPSoundFX = True
+		G-Effects = True
+		Galen = True
+		GPWS = True
+		HealingTUFXProfiles = True
+		HeatControl = True
+		IndicatorLights = True
+		IndicatorLightsCommunityExtensions = True
+		IRConnectionSystem = True
+		JetSoundsUpdated = True
+		JSIA Vision = True
+		JX2Antenna = True
+		KAX = True
+		KerbalAnimationSuite = True
+		KerbalAtomics = True
+		KerbalChangelog = True
+		KerbalChecklists = True
+		KerbalCurrencyDisplay = True
+		KerbalEngineer = True
+		KerbalField = True
+		KerbalFlightIndicators = True
+		Kerbalism = True
+		KerbalismChecklist = True
+		KerbalismConfig = True
+		KerbalismLabExperimentsExpandedContinued = True
+		KerbalJointReinforcement = True
+		KerbalKonstructs = True
+		KerbalKonstructs-WaterLaunchSites = True
+		KerbalKrashSystem = True
+		KerBalloons = True
+		KerbalPowers = True
+		KerbalWeatherProject = True
+		KerbinSideRemastered = True
+		KIS = True
+		Kopernicus = True
+		KopernicusExpansion = True
+		kOS = True
+		kOS-Addons = True
+		kOS-Astrogator = True
+		kOS-KerbalEngineer = True
+		kOS-SCANsat = True
+		kPM = True
+		Kronometer = True
+		kRPC = True
+		KSCExtended = True
+		KSCHarbor = True
+		KSPCasher = True
+		KSPCommunityFixes = True
+		KSPIRC = True
+		KSPRC = True
+		KSP_Proximity = True
+		LazyPainter = True
+		Leonard = True
+		MagicSmokeIndustries = True
+		MangoTech = True
+		Missing_robotics = True
+		Mk2Expansion = True
+		Mk2Rebalance = True
+		Mk3Expansion = True
+		MOAR_Units = True
+		ModularFlightIntegrator = True
+		ModularLaunchPads = True
+		MotorBike = True
+		NavUtilities continued = True
+		NearFutureConstruction = True
+		NearFutureElectrical = True
+		NearFutureExploration = True
+		NearFutureLaunchVehicles = True
+		NearFuturePropulsion = True
+		NearFutureRovers = True
+		NearFutureSolar = True
+		NearFutureSpacecraft = True
+		NKDR = True
+		OhScrap = True
+		OkemTUFX = True
+		OPM = True
+		OrbitalTug = True
+		OrdinaryKonstruction = True
+		OSSNTR = True
+		Palette = True
+		Parallax = True
+		Parallax_StockTextures = True
+		PatchManager = True
+		Pilot Assistant = True
+		PlanetShine = True
+		PreciseEditor = True
+		PreciseNode = True
+		ProbesBeforeCrew = True
+		ProceduralParts = True
+		PsiWedge = True
+		RationalResources = True
+		RationalResourcesCompanion = True
+		RationalResourcesKerbalism = True
+		RationalResourcesKerbalismRF = True
+		RealAntennas = True
+		RealChute = True
+		RealChuteMaterialExtensions = True
+		RealFuels = True
+		RealFuels-Stock = True
+		RealHeat = True
+		RemoteTechRedev = True
+		ReStock = True
+		ReStockPlus = True
+		RestockWaterfallExpansion = True
+		RN_Salyut = True
+		RN_Soviet_Rockets = True
+		RN_Soyuz = True
+		ROUtils = True
+		RSS-Icons = True
+		RSSDateTime = True
+		Scatterer = True
+		ScattererAtmosphereCache = True
+		ScrapYard = True
+		Shabby = True
+		Shaddy = True
+		Sigma = True
+		SmokeScreen = True
+		Snoopy's TUFX Profile = True
+		SolverEngines = True
+		SpaceDust = True
+		SpaceTuxSA = True
+		StagedAnimation = True
+		StateFunding = True
+		StockAlarmClockDisabler = True
+		StockScattererConfigs = True
+		StockWaterfallEffects = True
+		SystemHeat = True
+		TextureReplacer = True
+		ThroughTheEyes = True
+		TriggerTech = True
+		TrimIndicator = True
+		TUFX = True
+		TundraSpaceCenter = True
+		TURD = True
+		TU_NearFutureAero = True
+		TU_NearFutureLaunchVehicles = True
+		TU_NearFuturePropulsion = True
+		TU_NearFutureSpacecraft = True
+		UmbraSpaceIndustries = True
+		VaporCones = True
+		VesselMover = True
+		VexarpIVA = True
+		Waterfall = True
+		WaterfallRestock = True
+		WaypointManager = True
+		WhatDoINeed = True
+		WindowShine = True
+		WorkingUnderLite = True
+		XenonISRU = True
+		XyphosAerospace = True
+		zzz_Deferred = True
+		000_KSPe.dll = True
+		001_KSPe.dll = True
+		Custom_FARAeroData.cfg = True
+		WBIPlayMode.cfg = True
 	}
 	ROSTER
 	{
@@ -107431,104 +108469,7 @@ GAME
 			}
 		}
 	}
-	MESSAGESYSTEM
-	{
-		flash = False
-	}
 	VMSNode
 	{
-		VesselModuleSaveFrameworkVesselModuleSave
-		{
-			6c446006-6427-4ce0-a097-94994f763646
-			{
-			}
-			3c59b8a1-74c3-42dd-aaae-87ad610e5660
-			{
-			}
-			11869ef7-982b-4dbc-9472-6880ed454136
-			{
-			}
-			ba58db03-4aa8-4d91-8ddd-22d1781ebc47
-			{
-			}
-			22bc66ac-7840-4eaf-b072-d83afe06131a
-			{
-			}
-			66405318-cf12-4628-93b3-6fb6d92dbfba
-			{
-			}
-			80be32a4-310a-4c66-8552-df80f38376bf
-			{
-			}
-			370cd435-53b8-42ba-bc44-77fa69116860
-			{
-			}
-			02523fd7-e76c-4a2a-a38a-9e0e3f6df6fa
-			{
-			}
-			3d288a69-aa1b-4e45-a388-97057b46eece
-			{
-			}
-			6dc9934d-0ce7-48ce-b0ba-3846a9966764
-			{
-			}
-			5d9c6d5e-a114-428c-8cc9-935e6b691b52
-			{
-			}
-			5e86178f-9961-4984-8e5c-19c979c090be
-			{
-			}
-			be86897b-2213-4965-91b7-0b197c864f39
-			{
-			}
-			cecc0f61-927e-4ddf-9046-079bd6849850
-			{
-			}
-			dc8a7892-e461-4688-90cd-26304f9ff7a8
-			{
-			}
-			106502fc-f2a9-4b42-b042-1f9c79b821a9
-			{
-			}
-			0c736a31-b0f4-4bad-a01b-cbfd873cc64d
-			{
-			}
-			341a25dc-3ee0-4c0e-8a5b-f5e777321da1
-			{
-			}
-			e7b974e2-e1e3-4e5b-84d3-f4ed784df3df
-			{
-			}
-			43a30ee0-a00a-4df9-9d45-f5df9cdbf36d
-			{
-			}
-			a18102ef-5d43-4ed2-976a-02ce2bce2df6
-			{
-			}
-			5652f25c-afab-4d8a-80ff-d02f1825046c
-			{
-			}
-			2380b8ea-e6ea-40ab-8aa2-bb785aabf832
-			{
-			}
-			dffc7e41-396c-493d-bbff-855e0d271e21
-			{
-			}
-			6c2ebb38-ddc1-48d9-ab51-a009e1ea880f
-			{
-			}
-			002b3a21-33c0-4fcb-8240-7a8524e0e2f9
-			{
-			}
-			76f1e1cb-8029-4785-a1be-c08b73ed53f1
-			{
-			}
-			96f51ebd-e532-434c-ac1c-012591b37244
-			{
-			}
-			6e0c9813-1018-4d3c-ad7c-c0f124048a8c
-			{
-			}
-		}
 	}
 }

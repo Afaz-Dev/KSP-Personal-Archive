@@ -4,7 +4,7 @@
     "name": "installed-Kerbal Space Program",
     "abstract": "A list of modules installed on the Kerbal Space Program KSP instance",
     "author": "Firda",
-    "version": "2025.12.15.04.07.46",
+    "version": "2025.12.22.09.37.30",
     "ksp_version_min": "1.8",
     "ksp_version_max": "1.12",
     "license": "unknown",
@@ -50,11 +50,19 @@
             "suppress_recommendations": true
         },
         {
+            "name": "Scatterer-sunflare",
+            "suppress_recommendations": true
+        },
+        {
             "name": "AvionicsSystems",
             "suppress_recommendations": true
         },
         {
             "name": "CommunityTechTree",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Kronometer",
             "suppress_recommendations": true
         },
         {
@@ -67,10 +75,6 @@
         },
         {
             "name": "RealChute",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "Scatterer-sunflare",
             "suppress_recommendations": true
         },
         {
@@ -94,15 +98,11 @@
             "suppress_recommendations": true
         },
         {
+            "name": "JNSQ",
+            "suppress_recommendations": true
+        },
+        {
             "name": "KerbalEngineerRedux",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "kRPC",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "MechJeb2",
             "suppress_recommendations": true
         },
         {
@@ -358,7 +358,7 @@
             "suppress_recommendations": true
         },
         {
-            "name": "JNSQ",
+            "name": "JNSQ-RibbonPack",
             "suppress_recommendations": true
         },
         {
@@ -402,6 +402,10 @@
             "suppress_recommendations": true
         },
         {
+            "name": "KerbalCitiesPack",
+            "suppress_recommendations": true
+        },
+        {
             "name": "KerbalCurrencyDisplay",
             "suppress_recommendations": true
         },
@@ -423,6 +427,10 @@
         },
         {
             "name": "KerbalKrashSystem",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KerbalMotorbikes",
             "suppress_recommendations": true
         },
         {
@@ -482,7 +490,7 @@
             "suppress_recommendations": true
         },
         {
-            "name": "kRPC-MechJeb",
+            "name": "kRPC",
             "suppress_recommendations": true
         },
         {
@@ -511,6 +519,10 @@
         },
         {
             "name": "MangoTechsTUFX",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "MechJeb2",
             "suppress_recommendations": true
         },
         {
@@ -595,6 +607,10 @@
         },
         {
             "name": "OrbitalTug",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "OrdinaryKonstruction",
             "suppress_recommendations": true
         },
         {
@@ -794,6 +810,10 @@
             "suppress_recommendations": true
         },
         {
+            "name": "VaporCones",
+            "suppress_recommendations": true
+        },
+        {
             "name": "VesselNotes",
             "suppress_recommendations": true
         },
@@ -803,6 +823,10 @@
         },
         {
             "name": "VexarpIVA",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "WaterLaunchSites",
             "suppress_recommendations": true
         },
         {
@@ -822,6 +846,6 @@
             "suppress_recommendations": true
         }
     ],
-    "release_date": "2025-12-15T04:07:46.7155232Z",
+    "release_date": "2025-12-22T09:37:30.2279989Z",
     "kind": "metapackage"
 }
