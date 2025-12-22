@@ -4,7 +4,7 @@
     "name": "installed-Kerbal Space Program",
     "abstract": "A list of modules installed on the Kerbal Space Program KSP instance",
     "author": "Firda",
-    "version": "2025.12.22.10.14.18",
+    "version": "2025.12.22.08.44.31",
     "ksp_version_min": "1.8",
     "ksp_version_max": "1.12",
     "license": "unknown",
@@ -22,19 +22,7 @@
             "suppress_recommendations": true
         },
         {
-            "name": "KSPBurst",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "TweakScaleRescaled-Redist",
-            "suppress_recommendations": true
-        },
-        {
             "name": "TUFX",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "FerramAerospaceResearchContinued",
             "suppress_recommendations": true
         },
         {
@@ -42,15 +30,11 @@
             "suppress_recommendations": true
         },
         {
-            "name": "RealChute",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "AdvancedJetEngine",
-            "suppress_recommendations": true
-        },
-        {
             "name": "FinalFrontier",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KSPBurst",
             "suppress_recommendations": true
         },
         {
@@ -62,31 +46,15 @@
             "suppress_recommendations": true
         },
         {
-            "name": "KerbalChangelog",
+            "name": "TweakScaleRescaled-Redist",
             "suppress_recommendations": true
         },
         {
-            "name": "KerbalJointReinforcementContinued",
+            "name": "RSSTextures4096",
             "suppress_recommendations": true
         },
         {
-            "name": "RealChuteForStock",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "RealHeat",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "SmokeScreen",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "RSSTextures16K",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "RealismOverhaul",
+            "name": "FerramAerospaceResearchContinued",
             "suppress_recommendations": true
         },
         {
@@ -94,7 +62,19 @@
             "suppress_recommendations": true
         },
         {
-            "name": "BDAnimationModules",
+            "name": "Scatterer-config",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KabramsSunFlaresPack-Orange-Medium",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Scatterer",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "AdvancedJetEngine",
             "suppress_recommendations": true
         },
         {
@@ -102,19 +82,11 @@
             "suppress_recommendations": true
         },
         {
+            "name": "BDAnimationModules",
+            "suppress_recommendations": true
+        },
+        {
             "name": "NearFutureSpacecraft",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "PatchManager",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "Scatterer-config",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "Scatterer-sunflare",
             "suppress_recommendations": true
         },
         {
@@ -126,11 +98,11 @@
             "suppress_recommendations": true
         },
         {
-            "name": "Deferred",
+            "name": "IndicatorLights",
             "suppress_recommendations": true
         },
         {
-            "name": "IndicatorLights",
+            "name": "KerbalChangelog",
             "suppress_recommendations": true
         },
         {
@@ -138,7 +110,7 @@
             "suppress_recommendations": true
         },
         {
-            "name": "Kerbalism-Config-RO",
+            "name": "KerbalJointReinforcementContinued",
             "suppress_recommendations": true
         },
         {
@@ -154,7 +126,19 @@
             "suppress_recommendations": true
         },
         {
+            "name": "PatchManager",
+            "suppress_recommendations": true
+        },
+        {
             "name": "RasterPropMonitor",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "RealChute",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "RealHeat",
             "suppress_recommendations": true
         },
         {
@@ -162,7 +146,7 @@
             "suppress_recommendations": true
         },
         {
-            "name": "Scatterer",
+            "name": "SmokeScreen",
             "suppress_recommendations": true
         },
         {
@@ -179,10 +163,6 @@
         },
         {
             "name": "VesselView-UI-RasterPropMonitor",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "WildBlue-PlayMode-CRP",
             "suppress_recommendations": true
         },
         {
@@ -254,14 +234,6 @@
             "suppress_recommendations": true
         },
         {
-            "name": "BetterKerbol",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "BetterTimeWarpCont",
-            "suppress_recommendations": true
-        },
-        {
             "name": "BLEAK",
             "suppress_recommendations": true
         },
@@ -271,10 +243,6 @@
         },
         {
             "name": "ChattererExtended",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "ClassicStockResources",
             "suppress_recommendations": true
         },
         {
@@ -422,19 +390,11 @@
             "suppress_recommendations": true
         },
         {
-            "name": "KerbalAnimationSuiteCont",
-            "suppress_recommendations": true
-        },
-        {
             "name": "KerbalAtomics",
             "suppress_recommendations": true
         },
         {
             "name": "KAS",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "KerbalCitiesPack",
             "suppress_recommendations": true
         },
         {
@@ -458,10 +418,6 @@
             "suppress_recommendations": true
         },
         {
-            "name": "KerbalMotorbikes",
-            "suppress_recommendations": true
-        },
-        {
             "name": "KerbalPowersArmory",
             "suppress_recommendations": true
         },
@@ -478,6 +434,10 @@
             "suppress_recommendations": true
         },
         {
+            "name": "Kerbalism-Config-RO",
+            "suppress_recommendations": true
+        },
+        {
             "name": "KerbalismChecklist",
             "suppress_recommendations": true
         },
@@ -491,10 +451,6 @@
         },
         {
             "name": "KerBalloons",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "KopernicusExpansionContinueder",
             "suppress_recommendations": true
         },
         {
@@ -670,7 +626,7 @@
             "suppress_recommendations": true
         },
         {
-            "name": "Parallax",
+            "name": "ParallaxContinued",
             "suppress_recommendations": true
         },
         {
@@ -694,19 +650,11 @@
             "suppress_recommendations": true
         },
         {
-            "name": "ProceduralFairings",
-            "suppress_recommendations": true
-        },
-        {
             "name": "ProceduralParts",
             "suppress_recommendations": true
         },
         {
             "name": "PsiWedge",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "RationalResourcesKerbalismRF",
             "suppress_recommendations": true
         },
         {
@@ -718,15 +666,11 @@
             "suppress_recommendations": true
         },
         {
-            "name": "MaterialExtensionsForRealChute",
-            "suppress_recommendations": true
-        },
-        {
             "name": "RealismEnvironmentalOverhaul",
             "suppress_recommendations": true
         },
         {
-            "name": "RP-1",
+            "name": "RealismOverhaul",
             "suppress_recommendations": true
         },
         {
@@ -742,35 +686,11 @@
             "suppress_recommendations": true
         },
         {
-            "name": "RestockWaterfallExpansion",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "ReStockPlus",
-            "suppress_recommendations": true
-        },
-        {
             "name": "Reviva",
             "suppress_recommendations": true
         },
         {
-            "name": "ROCapsules",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "ROEngines",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "ROHeatshields",
-            "suppress_recommendations": true
-        },
-        {
             "name": "ROSolar",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "ROTanks",
             "suppress_recommendations": true
         },
         {
@@ -783,6 +703,10 @@
         },
         {
             "name": "RSSDateTimeFormatter",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "RSSVE-LR",
             "suppress_recommendations": true
         },
         {
@@ -803,10 +727,6 @@
         },
         {
             "name": "Shaddy",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "ShineFix",
             "suppress_recommendations": true
         },
         {
@@ -858,15 +778,11 @@
             "suppress_recommendations": true
         },
         {
-            "name": "TestFlight",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "TextureReplacer",
-            "suppress_recommendations": true
-        },
-        {
             "name": "ThroughTheEyesOfaKerbal",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "TooManyOrbits",
             "suppress_recommendations": true
         },
         {
@@ -930,15 +846,15 @@
             "suppress_recommendations": true
         },
         {
-            "name": "WaterLaunchSites",
-            "suppress_recommendations": true
-        },
-        {
             "name": "WaypointManager",
             "suppress_recommendations": true
         },
         {
             "name": "WhatDoINeed",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "WildBlue-PlayMode-CRP",
             "suppress_recommendations": true
         },
         {
@@ -950,6 +866,6 @@
             "suppress_recommendations": true
         }
     ],
-    "release_date": "2025-12-22T10:14:18.7802178Z",
+    "release_date": "2025-12-22T20:44:31.8161819Z",
     "kind": "metapackage"
 }
