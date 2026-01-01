@@ -4,7 +4,7 @@
     "name": "installed-Kerbal Space Program",
     "abstract": "A list of modules installed on the Kerbal Space Program KSP instance",
     "author": "Firda",
-    "version": "2025.12.22.09.37.30",
+    "version": "2026.01.01.06.10.43",
     "ksp_version_min": "1.8",
     "ksp_version_max": "1.12",
     "license": "unknown",
@@ -59,10 +59,6 @@
         },
         {
             "name": "CommunityTechTree",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "Kronometer",
             "suppress_recommendations": true
         },
         {
@@ -135,6 +131,10 @@
         },
         {
             "name": "StationPartsExpansionRedux",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "TextureReplacer",
             "suppress_recommendations": true
         },
         {
@@ -427,10 +427,6 @@
         },
         {
             "name": "KerbalKrashSystem",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "KerbalMotorbikes",
             "suppress_recommendations": true
         },
         {
@@ -758,10 +754,6 @@
             "suppress_recommendations": true
         },
         {
-            "name": "TextureReplacer",
-            "suppress_recommendations": true
-        },
-        {
             "name": "ThroughTheEyesOfaKerbal",
             "suppress_recommendations": true
         },
@@ -838,6 +830,10 @@
             "suppress_recommendations": true
         },
         {
+            "name": "WindowShineTR",
+            "suppress_recommendations": true
+        },
+        {
             "name": "WorkingUnderwaterLite",
             "suppress_recommendations": true
         },
@@ -846,6 +842,6 @@
             "suppress_recommendations": true
         }
     ],
-    "release_date": "2025-12-22T09:37:30.2279989Z",
+    "release_date": "2026-01-01T06:10:43.4253476Z",
     "kind": "metapackage"
 }
