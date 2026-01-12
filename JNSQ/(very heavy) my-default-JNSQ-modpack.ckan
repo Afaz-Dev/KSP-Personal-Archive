@@ -4,7 +4,7 @@
     "name": "installed-Kerbal Space Program",
     "abstract": "A list of modules installed on the Kerbal Space Program KSP instance",
     "author": "Firda",
-    "version": "2026.01.01.06.10.43",
+    "version": "2026.01.08.12.56.59",
     "ksp_version_min": "1.8",
     "ksp_version_max": "1.12",
     "license": "unknown",
@@ -118,6 +118,10 @@
             "suppress_recommendations": true
         },
         {
+            "name": "RealFuels-Stock",
+            "suppress_recommendations": true
+        },
+        {
             "name": "RocketSoundEnhancement",
             "suppress_recommendations": true
         },
@@ -130,11 +134,11 @@
             "suppress_recommendations": true
         },
         {
-            "name": "StationPartsExpansionRedux",
+            "name": "SmokeScreen",
             "suppress_recommendations": true
         },
         {
-            "name": "TextureReplacer",
+            "name": "StationPartsExpansionRedux",
             "suppress_recommendations": true
         },
         {
@@ -486,6 +490,10 @@
             "suppress_recommendations": true
         },
         {
+            "name": "KVVContinued",
+            "suppress_recommendations": true
+        },
+        {
             "name": "kRPC",
             "suppress_recommendations": true
         },
@@ -662,6 +670,10 @@
             "suppress_recommendations": true
         },
         {
+            "name": "RealPlume",
+            "suppress_recommendations": true
+        },
+        {
             "name": "RealChuteForStock",
             "suppress_recommendations": true
         },
@@ -671,10 +683,6 @@
         },
         {
             "name": "RealFuelsISRU",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "RealFuels-Stock",
             "suppress_recommendations": true
         },
         {
@@ -730,10 +738,6 @@
             "suppress_recommendations": true
         },
         {
-            "name": "SmokeScreen",
-            "suppress_recommendations": true
-        },
-        {
             "name": "SnoopysTUFXProfile",
             "suppress_recommendations": true
         },
@@ -751,6 +755,10 @@
         },
         {
             "name": "StationPartsExpansionRedux-IVAs",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "TextureReplacer",
             "suppress_recommendations": true
         },
         {
@@ -830,10 +838,6 @@
             "suppress_recommendations": true
         },
         {
-            "name": "WindowShineTR",
-            "suppress_recommendations": true
-        },
-        {
             "name": "WorkingUnderwaterLite",
             "suppress_recommendations": true
         },
@@ -842,6 +846,6 @@
             "suppress_recommendations": true
         }
     ],
-    "release_date": "2026-01-01T06:10:43.4253476Z",
+    "release_date": "2026-01-08T12:56:59.0373613Z",
     "kind": "metapackage"
 }
