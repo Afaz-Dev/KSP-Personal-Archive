@@ -2,7 +2,7 @@ ship = PFC - 4
 version = 1.12.5
 description = 
 type = SPH
-size = 12.6022129,3.86956406,8.68282986
+size = 12.6022129,3.86956406,8.68283176
 steamPublishedFileId = 0
 persistentId = 864687978
 rot = 0,0,0,0
@@ -12,12 +12,12 @@ OverrideDefault = False,False,False,False
 OverrideActionControl = 0,0,0,0
 OverrideAxisControl = 0,0,0,0
 OverrideGroupNames = ,,,
-_modVersions = Scale_Redist=2.4.8|ModuleManager=4.2.3|ClickThroughBlocker=2.1.10|0Harmony=2.2.1|HarmonyInstallChecker=2.2.1|KSPBurst=1.5.5|Microsoft.Extensions.FileSystemGlobbing=6.0.21|System.IO.Compression=4.6.57|System.IO.Compression.FileSystem=4.6.57|System.Runtime.CompilerServices.Unsafe=4.700.20|System.Runtime=4.0.0|Unity.Burst=0.0.0|Unity.Burst.Unsafe=1.0.0|Unity.Collections=0.0.0|Unity.Jobs=0.0.0|Unity.Mathematics=1.0.0|BlendshapeModelLoader=1.6.4|TexturesUnlimited=1.6.4|ToolbarControl=0.1.9|KSPe.Light.Recall=2.5.2|Attached=0.5.0|AttachedOnEditor=0.5.0|ChillingOut=0.5.0|Driftless=0.5.0|KSP-Recall=0.5.0|Refunding=0.5.0|Resourceful=0.5.0|SolverEngines=3.13.1|AJE=2.20.0|AnalogControl=2.1.3|ASETPropsIdentifier=1.5.0|Astrogator=1.0.2|AtmosphereAutopilot.UI=1.0.0|AtmosphereAutopilot=1.6.1|KSPe.Light.AviationLights=2.4.3|AviationLights=4.2.1|AAPartCategory=1.0.0|AviatorArsenal=1.0.0|B9PartSwitch=2.21.0|B9-PWings-Fork=0.46.0|BDArmory=1.11.1|CameraTools=1.37.1|Chatterer=0.9.99|CCK=5.1.0|ContractConfigurator=2.11.2|CustomPreLaunchChecks=1.8.1|KerbalKonstructs=1.11.0|KerKonConConExt=2.0.0|SimpleBoiloff=0.2.1|DeployableEngines=2.2.0|DestructionEffects=1.12.0|DistantObject=0.0.0|KSPe.Light.DOE=2.5.5|ContractParser=1.0.9|DynamicBatteryStorage=1.0.0|EasyVesselSwitch=2.3.7852|KSPDev_Utils.2.6-EVS=2.6.0|EngineLightRelit=1.6.3|Atmosphere=1.11.7|CelestialShadows=1.11.7|CityLights=1.11.7|EVEManager=1.11.7|PartFX=1.11.7|PQSManager=1.11.7|ShaderLoader=1.11.7|Terrain=1.11.7|TextureConfig=1.11.7|Utils=1.11.7|_BuildManager=1.11.7|FarFutureTechnologies=1.0.0|FerramAerospaceResearch.Base=0.16.1|ModularFlightIntegrator=1.2.10|FerramAerospaceResearch=0.16.1|ferramGraph=1.3.0|FieldTrainingLab=1.2.1|FireflyAPI=1.0.0|Firefly=1.0.5|FireflyInstallChecker=1.0.0|Firespitter=7.3.7660|FP_DockingSndFX=2.1.12|FreeIva=0.2.20|G-Effects=1.0.0|GPWS=0.4.0|HullcamVDSContinued=0.2.2|IndicatorLights=1.0.0|SigmaTweakChutes=1.0.0|Sigma88LoadingScreens=0.5.0|RasterPropMonitor=1.0.2|KAS-API-v2=2.0.7239|KAS=1.12.8285|KSPDev_Utils.2.7=2.7.0|KAX=2.8.1|KSPe.Light.KAX=2.4.2|KerbalAnimationSuite=1.3.0|KerbalChangelog=1.4.2|KerbalChecklistDebug=1.0.0|KerbalCurrencyDisplay=1.0.0|KerbalEngineer.Unity=1.0.0|KerbalEngineer=1.1.9|KerbalFlightIndicators=0.20.0|KerbalismBootstrap=3.25.0|KerbalismLabExperimentsExpandedContinued=1.0.0|KerbalJointReinforcement=3.8.6|KerbalKrashSystem=1.0.0|KerbalKrashSystem_Leak=1.0.0|KerbalKrashSystem_Repair=1.0.0|KerbalKrashSystem_Science=1.0.0|VesselModuleSave=1.0.2|KerBalloons=0.6.0|KerbalWeatherProject=1.0.0|MiniAVC=1.0.3|Kopernicus.Parser=1.0.0|Kopernicus=1.12.230|KEX-Common=1.0.0|KEX-EmissiveFX=1.0.0|KEX-EVAFootprints=1.0.0|KEX-RegionalPQSMods=1.0.0|KEX-VertexHeightDeformity=1.0.0|KEX-VertexHeightMap16=1.0.0|KEX-Wormholes=1.0.0|RunSharp=1.0.0|Kronometer=1.12.0|KSPCasher=0.3.0|0_MultipleModuleInPartAPI=1.0.0|KSPCommunityFixes=1.39.1|KSPWheel=0.0.0|GroundProximity=0.3.3|LazyPainter=0.4.1|MechJeb2=2.14.3|System.Buffers=4.6.28619|AvionicsSystems=1.3.7|MoonSharp.Interpreter=2.0.0|MOAR_Units=1.0.0|MouseAimFlight=0.0.0|NavUtilLib=0.7.2|NavUtilRPM=0.7.2|DockingPortAlignmentIndicator=6.12.0|DPAI_RPM=1.0.0|ModuleDockingNodeNamed=1.1.0|NearFutureElectrical=1.0.0|NearFutureExploration=0.4.0|NFPropUtils=1.0.0|NearFuturePropulsion=0.9.0|NearFutureSolar=0.4.0|NearFutureUtils=0.0.0|OhScrap=2.2.0|Grass=0.0.0|ParallaxQualityLibrary=1.0.0|ParallaxOptimized=1.0.0|PatchManager=0.0.17|PhysicsRangeExtender=1.21.0|PlanetShine=0.2.6|ProbeControlRoomRecontrolled=1.4.0|ROUtils=1.1.1|ProceduralParts=2.8.0|RealAntennas=2.9.0|RealFuels=15.12.0|RealFuelsB9PSPatch=1.0.0|RealHeat=5.1.0|BackgroundResources=1.12.0|Restock=1.0.0|Reviva=1.0.2|RocketSoundEnhancement.Unity=1.0.0|RocketSoundEnhancement=0.9.11|RSSTimeFormatter=1.12.0|SCANsat=21.1.0|SCANmechjeb=21.1.0|SCANsat.Unity=21.1.0|scatterer=0.878.0|ScrapYard=2.2.1|ScrapYard_ContractConfigurator=2.2.1|Shabby=0.4.2|SpaceDust=0.5.4|KSP_Log=1.2.0|ButtonManager=1.0.2|KSP_ColorPicker=1.1.1|KSP_PartHighlighter=1.1.1|SpaceTuxUtility=1.0.2|KSPSteamCtrlr=0.0.1|StagedAnimation=1.0.0|StateFundingContinued=0.6.19|HabUtils=1.0.0|StockAlarmClockDisabler=1.0.0|SystemHeat=0.1.0|TextureReplacer=4.5.3|ThroughTheEyes=2.0.4|KerbalAlarmClock=3.14.0|TrimIndicator=1.12.0|TUFX=1.1.1|KSPe.Light.TweakScale=2.5.4|Scale=2.4.8|TweakScale.WatchDog=2.4.8|TweakScaleCompanion_Frameworks=0.4.0|TweakScalerTestFlightCore=0.4.0|Waterfall=0.10.2|TweakScalerWaterfallFX=0.4.0|TweakScaleCompanion_FS=1.3.0|TweakScalerFSBuoyancy=1.3.0|TweakScaleCompanion_KIAS=1.1.0|TweakScalerKISInventory=1.1.0|TweakScaleCompanion_PKMC=2.2.1|VesselMover=1.12.0|VesselNotes=0.0.2|VesselView=0.8.9|VesselViewRPM=0.8.9|VVDiscoDisplay=0.8.9|VVPartSelector=0.8.9|WaypointManager=2.8.4|WhatDoINeed=0.0.4|WildBlueTools=1.0.0|KerbalActuators=1.0.0|WildBlueCore=1.0.0|Kerbalism=3.25.0
+_modVersions = Scale_Redist=2.4.8|Interstellar_Redist=1.4.0|ModuleManager=4.2.3|ClickThroughBlocker=2.1.10|0Harmony=2.2.1|HarmonyInstallChecker=2.2.1|KSPBurst=1.5.5|Microsoft.Extensions.FileSystemGlobbing=6.0.21|System.IO.Compression=4.6.57|System.IO.Compression.FileSystem=4.6.57|System.Runtime.CompilerServices.Unsafe=4.700.20|System.Runtime=4.0.0|Unity.Burst=0.0.0|Unity.Burst.Unsafe=1.0.0|Unity.Collections=0.0.0|Unity.Jobs=0.0.0|Unity.Mathematics=1.0.0|BlendshapeModelLoader=1.6.4|TexturesUnlimited=1.6.4|USITools=1.0.0|USIToolsUI=1.0.0|ToolbarControl=0.1.9|KSPe.Light.Recall=2.5.2|Attached=0.5.0|AttachedOnEditor=0.5.0|ChillingOut=0.5.0|Driftless=0.5.0|KSP-Recall=0.5.0|Refunding=0.5.0|Resourceful=0.5.0|SolverEngines=3.13.1|AJE=2.20.0|AnalogControl=2.1.3|ASETPropsIdentifier=1.5.0|Astrogator=1.0.2|AtmosphereAutopilot.UI=1.0.0|AtmosphereAutopilot=1.6.1|KSPe.Light.AviationLights=2.4.3|AviationLights=4.2.1|AAPartCategory=1.0.0|AviatorArsenal=1.0.0|B9PartSwitch=2.21.0|B9-PWings-Fork=0.46.1|BDAnimationModules=0.6.7|RNModules=1.2.1|BDArmory=1.12.0|BurstAtomicThrust=0.1.0|CameraTools=1.37.1|Chatterer=0.9.99|CCK=5.1.0|ContractConfigurator=2.12.0|CustomPreLaunchChecks=1.8.1|KerbalKonstructs=1.12.0|KerKonConConExt=2.0.0|CriticalTemperatureGauge=1.12.3|SimpleBoiloff=0.2.1|DeployableEngines=2.2.0|DestructionEffects=1.12.0|DistantObject=0.0.0|KSPe.Light.DOE=2.5.5|ContractParser=1.0.9|DockingFunctions=1.0.4|DynamicBatteryStorage=1.0.0|EasyVesselSwitch=2.3.7852|KSPDev_Utils.2.6-EVS=2.6.0|EngineLightRelit=1.6.3|Atmosphere=1.11.7|CelestialShadows=1.11.7|CityLights=1.11.7|EVEManager=1.11.7|PartFX=1.11.7|PQSManager=1.11.7|ShaderLoader=1.11.7|Terrain=1.11.7|TextureConfig=1.11.7|Utils=1.11.7|_BuildManager=1.11.7|FarFutureTechnologies=1.0.0|FerramAerospaceResearch.Base=0.16.1|ModularFlightIntegrator=1.2.10|FerramAerospaceResearch=0.16.1|ferramGraph=1.3.0|FieldTrainingLab=1.2.1|FireflyAPI=1.0.0|Firefly=1.0.5|FireflyInstallChecker=1.0.0|Firespitter=7.3.7660|FP_DockingSndFX=2.1.12|FreeIva=0.2.20|HangerExtenderExtended=3.6.1|G-Effects=1.0.0|HullcamVDSContinued=0.2.2|IndicatorLights=1.0.0|InterstellarFuelSwitch=3.30.0|IRConnectionSystem=1.0.5|SigmaTweakChutes=1.0.0|Sigma88LoadingScreens=0.5.0|JSIAdvTransparentPods=0.1.24|JSIPartUtilities=0.5.0|RasterPropMonitor=1.0.2|KAS-API-v2=2.0.7239|KAS=1.12.8285|KSPDev_Utils.2.7=2.7.0|KAX=2.8.1|KSPe.Light.KAX=2.4.2|KerbalAnimationSuite=1.3.0|KerbalChangelog=1.4.2|KerbalChecklistDebug=1.0.0|KerbalCurrencyDisplay=1.0.0|KerbalEngineer.Unity=1.0.0|KerbalEngineer=1.1.9|KerbalFlightIndicators=0.20.0|KerbalismBootstrap=3.31.0|KerbalismLabExperimentsExpandedContinued=1.0.0|KerbalJointReinforcement=3.8.6|KerbalKrashSystem=1.0.0|KerbalKrashSystem_Leak=1.0.0|KerbalKrashSystem_Repair=1.0.0|KerbalKrashSystem_Science=1.0.0|VesselModuleSave=1.0.2|KerBalloons=0.6.0|KerbalWeatherProject=1.0.0|KIS=1.29.8039|KSPDev_Utils.2.6=2.6.7847|MiniAVC-V2=2.0.0|Kopernicus.Parser=1.0.0|SharpDX=4.2.0|SharpDX.DXGI=4.2.0|SharpDX.Direct3D11=4.2.0|KSPTextureLoader=0.0.21|Kopernicus=1.12.234|KEX-Common=1.0.0|KEX-EmissiveFX=1.0.0|KEX-EVAFootprints=1.0.0|KEX-RegionalPQSMods=1.0.0|KEX-VertexHeightDeformity=1.0.0|KEX-VertexHeightMap16=1.0.0|KEX-Wormholes=1.0.0|RunSharp=1.0.0|ICSharpCode.SharpZipLib=0.86.0|kOS=1.5.1|kOS.Safe=1.5.1|kOS-AddOns-Ferram=0.1.1|kOS-Astrogator=0.2.2|kOS-KerbalEngineer=0.1.1|KOS-Scansat=1.2.0|JsonFx=2.0.1209|kOSPropMonitor=1.7.3|KronalUtils=1.0.0|Kronometer=1.12.0|Google.Protobuf=3.10.1|KRPC.Core=0.5.4|KRPC=0.5.4|KRPC.DockingCamera=0.5.4|KRPC.Drawing=0.5.4|KRPC.InfernalRobotics=0.5.4|KRPC.IO.Ports=0.0.0|KRPC.KerbalAlarmClock=0.5.4|KRPC.LiDAR=0.5.4|KRPC.RemoteTech=0.5.4|KRPC.SpaceCenter=0.5.4|KRPC.UI=0.5.4|KSPCasher=0.3.0|0_MultipleModuleInPartAPI=1.0.0|KSPCommunityFixes=1.39.1|KSPIRC=0.19.0|KSPWheel=0.0.0|GroundProximity=0.3.3|LazyPainter=0.4.1|IRSurfaceSampler=1.0.1|InfernalRobotics_v3=3.1.17|alglib=1.0.0|MechJeb2=2.15.1|MechJebLib=1.0.0|MechJebLibBindings=1.0.0|AvionicsSystems=1.3.7|MoonSharp.Interpreter=2.0.0|MOAR_Units=1.0.0|MouseAimFlight=0.0.0|NavUtilLib=0.7.2|NavUtilRPM=0.7.2|DockingPortAlignmentIndicator=6.12.0|DPAI_RPM=1.0.0|ModuleDockingNodeNamed=1.1.0|NearFutureElectrical=1.0.0|NearFutureExploration=0.4.0|NFPropUtils=1.0.0|NearFuturePropulsion=0.9.0|NearFutureSolar=0.4.0|NearFutureUtils=0.0.0|FinalFrontier=1.0.0|OhScrap=2.2.0|Grass=0.0.0|ParallaxQualityLibrary=1.0.0|ParallaxOptimized=1.0.0|PatchManager=0.0.17|PhotonSail=1.7.4|PhysicsRangeExtender=1.21.0|PilotAssistant=1.0.0|PlanetShine=0.2.6|KSP_Log=1.2.0|PreciseEditor=1.5.0|PreciseNode=1.2.12|ProbeControlRoomRecontrolled=1.4.0|ROUtils=1.1.1|ProceduralParts=2.8.0|RealAntennas=2.9.0|RealChute=1.4.9059|RealFuels=15.12.0|RealFuelsB9PSPatch=1.0.0|RealHeat=5.1.0|BackgroundResources=1.12.0|Restock=1.0.0|Reviva=1.0.2|RocketSoundEnhancement.Unity=1.0.0|RocketSoundEnhancement=0.9.11|RSSTimeFormatter=1.12.0|SCANsat=21.1.0|SCANmechjeb=21.1.0|SCANsat.Unity=21.1.0|scatterer=0.878.0|ScrapYard=2.2.1|ScrapYard_ContractConfigurator=2.2.1|Shabby=0.4.2|SmokeScreen=2.8.14|SpaceDust=0.5.4|ButtonManager=1.0.2|KSP_ColorPicker=1.1.1|KSP_PartHighlighter=1.1.1|SpaceTuxUtility=1.0.2|KSPSteamCtrlr=0.0.1|StagedAnimation=1.0.0|StateFundingContinued=0.6.19|HabUtils=1.0.0|StockAlarmClockDisabler=1.0.0|SystemHeat=0.1.0|TextureReplacer=4.5.3|ThroughTheEyes=2.0.4|KerbalAlarmClock=3.14.0|TrimIndicator=1.12.0|TUFX=1.1.1|KSPe.Light.TweakScale=2.5.4|Scale=2.4.8|TweakScale.WatchDog=2.4.8|TweakScaleCompanion=2025.12.12|TweakScaleCompanion_Frameworks=0.4.0|TweakScalerTestFlightCore=0.4.0|TweakScalerWaterfallFX=0.4.0|TweakScaleCompanion_FS=1.3.0|TweakScalerFSBuoyancy=1.3.0|TweakScaleCompanion_KIAS=1.1.0|TweakScalerKISInventory=1.1.0|TweakScaleCompanion_PKMC=2.2.1|VaporCones=1.0.0|VesselMover=1.12.0|VesselNotes=0.0.2|VesselView=0.8.9|VesselViewRPM=0.8.9|VVDiscoDisplay=0.8.9|VVPartSelector=0.8.9|Interstellar=1.29.6|Waterfall=0.10.2|WaypointManager=2.8.4|WhatDoINeed=0.0.4|WildBlueTools=1.0.0|KerbalActuators=1.0.0|WildBlueCore=1.0.0|Deferred=1.3.3|Kerbalism=3.31.0
 PART
 {
 	part = FSfighterCockpit_4291702638
 	partName = Part
-	persistentId = 810988483
+	persistentId = 3218855692
 	pos = 0,7,0
 	attPos = 0,0,0
 	attPos0 = 0,7,0
@@ -431,107 +431,8 @@ PART
 		{
 			MechJebModuleMenu
 			{
-				unlockParts = 
-				unlockTechs = 
-			}
-			MechJebModuleRoverWindow
-			{
-				unlockParts = 
-				unlockTechs = fieldScience
-			}
-			MechJebModuleAttitudeAdjustment
-			{
-				unlockParts = 
-				unlockTechs = advFlightControl
-			}
-			MechJebModuleAscentNavBall
-			{
-				unlockParts = 
-				unlockTechs = 
-			}
-			MechJebModuleLogicalStageTracking
-			{
-				unlockParts = 
-				unlockTechs = 
-			}
-			MechJebModuleRCSBalancerWindow
-			{
-				unlockParts = 
-				unlockTechs = advFlightControl
-			}
-			MechJebModuleRoverController
-			{
-				ControlHeading = False
-				ControlSpeed = False
-				BrakeOnEject = False
-				BrakeOnEnergyDepletion = False
-				WarpToDaylight = False
-				StabilityControl = False
-				LimitAcceleration = False
-				unlockParts = 
-				unlockTechs = 
-				heading
-				{
-					_val = 0
-					_text = 0
-				}
-				speed
-				{
-					_val = 10
-					_text = 10
-				}
-			}
-			MechJebModuleSpaceplaneGuidance
-			{
-				runwayIndex = 0
-				unlockParts = 
-				unlockTechs = unmannedTech
-			}
-			MechJebModuleAscentPVG
-			{
-				unlockParts = 
-				unlockTechs = 
-			}
-			MechJebModuleInfoItems
-			{
-				unlockParts = 
-				unlockTechs = 
-			}
-			MechJebModuleSmartRcs
-			{
-				unlockParts = 
-				unlockTechs = 
-			}
-			MechJebModuleAscentClassic
-			{
-				unlockParts = 
-				unlockTechs = 
-			}
-			MechJebModuleSpaceplaneAutopilot
-			{
-				bBreakAsSoonAsLanded = False
-				unlockParts = 
-				unlockTechs = 
-				glideslope
-				{
-					_val = 2.5
-					_text = 2.5
-				}
-				approachSpeed
-				{
-					_val = 80
-					_text = 80
-				}
-				touchdownSpeed
-				{
-					_val = 60
-					_text = 60
-				}
-				maximumSafeBankAngle
-				{
-					_val = 25
-					_text = 25
-				}
+				UnlockParts = 
+				UnlockTechs = 
 			}
 			MechJebModuleAirplaneAutopilot
 			{
@@ -546,108 +447,278 @@ PART
 				SpeedTarget = 0
 				VertSpeedTarget = 0
 				BankAngle = 30
-				unlockParts = 
-				unlockTechs = 
+				UnlockParts = 
+				UnlockTechs = 
 				AccKp
 				{
-					_val = 0.5
-					_text = 0.5
+					ValConfig = 0.5
+					TextConfig = 0.5
 				}
 				AccKi
 				{
-					_val = 0.5
-					_text = 0.5
+					ValConfig = 0.5
+					TextConfig = 0.5
 				}
 				AccKd
 				{
-					_val = 0.0050000000000000001
-					_text = 0.005
+					ValConfig = 0.0050000000000000001
+					TextConfig = 0.005
 				}
 				PitKp
 				{
-					_val = 2
-					_text = 2
+					ValConfig = 2
+					TextConfig = 2
 				}
 				PitKi
 				{
-					_val = 1
-					_text = 1
+					ValConfig = 1
+					TextConfig = 1
 				}
 				PitKd
 				{
-					_val = 0.0050000000000000001
-					_text = 0.005
+					ValConfig = 0.0050000000000000001
+					TextConfig = 0.005
 				}
 				RolKp
 				{
-					_val = 0.5
-					_text = 0.5
+					ValConfig = 0.5
+					TextConfig = 0.5
 				}
 				RolKi
 				{
-					_val = 0.02
-					_text = 0.02
+					ValConfig = 0.02
+					TextConfig = 0.02
 				}
 				RolKd
 				{
-					_val = 0.5
-					_text = 0.5
+					ValConfig = 0.5
+					TextConfig = 0.5
 				}
 				YawKp
 				{
-					_val = 1
-					_text = 1
+					ValConfig = 1
+					TextConfig = 1
 				}
 				YawKi
 				{
-					_val = 0.25
-					_text = 0.25
+					ValConfig = 0.25
+					TextConfig = 0.25
 				}
 				YawKd
 				{
-					_val = 0.02
-					_text = 0.02
+					ValConfig = 0.02
+					TextConfig = 0.02
 				}
 				YawLimit
 				{
-					_val = 10
-					_text = 10
+					ValConfig = 10
+					TextConfig = 10
 				}
 				RollLimit
 				{
-					_val = 45
-					_text = 45
+					ValConfig = 45
+					TextConfig = 45
 				}
 				PitchDownLimit
 				{
-					_val = 15
-					_text = 15
+					ValConfig = 15
+					TextConfig = 15
 				}
 				PitchUpLimit
 				{
-					_val = 25
-					_text = 25
+					ValConfig = 25
+					TextConfig = 25
+				}
+			}
+			MechJebModuleAirplaneGuidance
+			{
+				showpid = False
+				UnlockParts = 
+				UnlockTechs = 
+			}
+			MechJebModuleAscentClassicAutopilot
+			{
+				UnlockParts = 
+				UnlockTechs = 
+			}
+			MechJebModuleAscentClassicPathMenu
+			{
+				UnlockParts = 
+				UnlockTechs = 
+			}
+			MechJebModuleAscentMenu
+			{
+				UnlockParts = 
+				UnlockTechs = 
+			}
+			MechJebModuleAscentPVGAutopilot
+			{
+				UnlockParts = 
+				UnlockTechs = 
+			}
+			MechJebModuleAscentPVGSettingsMenu
+			{
+				UnlockParts = 
+				UnlockTechs = 
+			}
+			MechJebModuleAscentSettings
+			{
+				UnlockParts = 
+				UnlockTechs = 
+			}
+			MechJebModuleAscentSettingsMenu
+			{
+				UnlockParts = 
+				UnlockTechs = 
+			}
+			MechJebModuleAttitudeAdjustment
+			{
+				UnlockParts = 
+				UnlockTechs = 
+			}
+			MechJebModuleCustomWindowEditor
+			{
+				UnlockParts = 
+				UnlockTechs = 
+			}
+			MechJebModuleDebugArrows
+			{
+				UnlockParts = 
+				UnlockTechs = 
+			}
+			MechJebModuleDockingAutopilot
+			{
+				forceRol = False
+				overrideSafeDistance = False
+				overrideTargetSize = False
+				UnlockParts = 
+				UnlockTechs = 
+				rol
+				{
+					ValConfig = 0
+					TextConfig = 0
 				}
 			}
 			MechJebModuleDockingGuidance
 			{
-				unlockParts = 
-				unlockTechs = advUnmanned
+				UnlockParts = 
+				UnlockTechs = 
+			}
+			MechJebModuleInfoItems
+			{
+				UnlockParts = 
+				UnlockTechs = 
+			}
+			MechJebModuleLandingAutopilot
+			{
+				DeployGears = True
+				DeployChutes = True
+				RCSAdjustment = True
+				UnlockParts = 
+				UnlockTechs = 
+				TouchdownSpeed
+				{
+					ValConfig = 0.5
+					TextConfig = 0.5
+				}
+				LimitGearsStage
+				{
+					ValConfig = 0
+					TextConfig = 0
+				}
+				LimitChutesStage
+				{
+					ValConfig = 0
+					TextConfig = 0
+				}
+			}
+			MechJebModuleLandingGuidance
+			{
+				_landingSiteIdx = 0
+				UnlockParts = 
+				UnlockTechs = 
+			}
+			MechJebModuleLandingPredictions
+			{
+				UnlockParts = 
+				UnlockTechs = 
+			}
+			MechJebModuleManeuverPlanner
+			{
+				UnlockParts = 
+				UnlockTechs = 
+			}
+			MechJebModuleStageStats
+			{
+				UnlockParts = 
+				UnlockTechs = 
+			}
+			MechJebModuleNodeEditor
+			{
+				UnlockParts = 
+				UnlockTechs = 
+			}
+			MechJebModuleNodeExecutor
+			{
+				UnlockParts = 
+				UnlockTechs = 
+			}
+			MechJebModuleGuidanceController
+			{
+				UnlockParts = 
+				UnlockTechs = 
+			}
+			MechJebModuleRCSBalancerWindow
+			{
+				UnlockParts = 
+				UnlockTechs = 
+			}
+			MechJebModuleRendezvousAutopilot
+			{
+				UnlockParts = 
+				UnlockTechs = 
+			}
+			MechJebModuleRendezvousAutopilotWindow
+			{
+				UnlockParts = 
+				UnlockTechs = 
+			}
+			MechJebModuleRendezvousGuidance
+			{
+				UnlockParts = 
+				UnlockTechs = 
+			}
+			MechJebModuleRoverController
+			{
+				ControlHeading = False
+				ControlSpeed = False
+				BrakeOnEject = False
+				BrakeOnEnergyDepletion = False
+				WarpToDaylight = False
+				StabilityControl = False
+				LimitAcceleration = False
+				UnlockParts = 
+				UnlockTechs = 
+				heading
+				{
+					ValConfig = 0
+					TextConfig = 0
+				}
+				speed
+				{
+					ValConfig = 10
+					TextConfig = 10
+				}
+			}
+			MechJebModuleRoverWindow
+			{
+				UnlockParts = 
+				UnlockTechs = 
 			}
 			MechJebModuleSettings
 			{
-				unlockParts = 
-				unlockTechs = 
-			}
-			MechJebModuleAscentGT
-			{
-				unlockParts = 
-				unlockTechs = 
-			}
-			MechJebModuleDebugArrows
-			{
-				unlockParts = 
-				unlockTechs = 
+				UnlockParts = 
+				UnlockTechs = 
 			}
 			MechJebModuleSmartASS
 			{
@@ -658,211 +729,141 @@ PART
 				forceRol = False
 				forcePitch = True
 				forceYaw = True
-				unlockParts = 
-				unlockTechs = flightControl
+				UnlockParts = 
+				UnlockTechs = 
 				srfHdg
 				{
-					_val = 90
-					_text = 90
+					ValConfig = 90
+					TextConfig = 90
 				}
 				srfPit
 				{
-					_val = 90
-					_text = 90
+					ValConfig = 90
+					TextConfig = 90
 				}
 				srfRol
 				{
-					_val = 0
-					_text = 0
+					ValConfig = 0
+					TextConfig = 0
 				}
 				srfVelYaw
 				{
-					_val = 0
-					_text = 0
+					ValConfig = 0
+					TextConfig = 0
 				}
 				srfVelPit
 				{
-					_val = 0
-					_text = 0
+					ValConfig = 0
+					TextConfig = 0
 				}
 				srfVelRol
 				{
-					_val = 0
-					_text = 0
+					ValConfig = 0
+					TextConfig = 0
 				}
 				rol
 				{
-					_val = 0
-					_text = 0
+					ValConfig = 0
+					TextConfig = 0
 				}
 			}
-			MechJebModuleDockingAutopilot
+			MechJebModuleSmartRcs
 			{
-				forceRol = False
-				overrideSafeDistance = False
-				overrideTargetSize = False
-				unlockParts = 
-				unlockTechs = 
-				rol
+				UnlockParts = 
+				UnlockTechs = 
+			}
+			MechJebModuleSpaceplaneAutopilot
+			{
+				bBreakAsSoonAsLanded = False
+				UnlockParts = 
+				UnlockTechs = 
+				glideslope
 				{
-					_val = 0
-					_text = 0
+					ValConfig = 2.5
+					TextConfig = 2.5
+				}
+				approachSpeed
+				{
+					ValConfig = 80
+					TextConfig = 80
+				}
+				touchdownSpeed
+				{
+					ValConfig = 60
+					TextConfig = 60
+				}
+				maximumSafeBankAngle
+				{
+					ValConfig = 25
+					TextConfig = 25
 				}
 			}
-			ModExtensionDemo
+			MechJebModuleSpaceplaneGuidance
 			{
-				unlockParts = 
-				unlockTechs = 
+				runwayIndex = 0
+				UnlockParts = 
+				UnlockTechs = 
+			}
+			MechJebModuleSpinupController
+			{
+				UnlockParts = 
+				UnlockTechs = 
+			}
+			MechJebModuleSuicideTimer
+			{
+				UnlockParts = 
+				UnlockTechs = 
+			}
+			MechJebModuleTargetController
+			{
+				UnlockParts = 
+				UnlockTechs = 
 			}
 			MechJebModuleThrustWindow
 			{
 				autostageSavedState = False
-				unlockParts = 
-				unlockTechs = advFlightControl
-			}
-			MechJebModuleWarpHelper
-			{
-				unlockParts = 
-				unlockTechs = advFlightControl
-				phaseAngle
-				{
-					_val = 0
-					_text = 0
-				}
-			}
-			MechJebModuleCustomWindowEditor
-			{
-				unlockParts = 
-				unlockTechs = flightControl
-			}
-			MechJebModuleAscentAutopilot
-			{
-				unlockParts = 
-				unlockTechs = 
-			}
-			MechJebModuleRendezvousAutopilotWindow
-			{
-				unlockParts = 
-				unlockTechs = advUnmanned
-			}
-			MechJebModuleNodeExecutor
-			{
-				unlockParts = 
-				unlockTechs = 
-			}
-			MechJebModuleNodeEditor
-			{
-				unlockParts = 
-				unlockTechs = advFlightControl
-			}
-			MechJebModuleLandingAutopilot
-			{
-				deployGears = True
-				deployChutes = True
-				rcsAdjustment = True
-				unlockParts = 
-				unlockTechs = 
-				touchdownSpeed
-				{
-					_val = 90
-					_text = 90
-				}
-				limitGearsStage
-				{
-					val = 0
-					_text = 0
-				}
-				limitChutesStage
-				{
-					val = 0
-					_text = 0
-				}
-			}
-			MechJebModuleScript
-			{
-				minifiedGUI = False
-				selectedSlot = 0
-				selectedMemorySlotType = 0
-				activeSavepoint = -1
-				unlockParts = 
-				unlockTechs = 
-			}
-			MechJebModuleLandingGuidance
-			{
-				landingSiteIdx = 0
-				unlockParts = 
-				unlockTechs = unmannedTech
-			}
-			MechJebModuleLandingPredictions
-			{
-				unlockParts = 
-				unlockTechs = 
+				UnlockParts = 
+				UnlockTechs = 
 			}
 			MechJebModuleTranslatron
 			{
-				unlockParts = 
-				unlockTechs = advFlightControl
+				UnlockParts = 
+				UnlockTechs = 
 				trans_spd
 				{
-					_val = 0
-					_text = 0
+					ValConfig = 0
+					TextConfig = 0
 				}
 			}
-			MechJebModuleAscentGuidance
+			MechJebModuleWarpHelper
 			{
-				unlockParts = 
-				unlockTechs = unmannedTech
-			}
-			MechJebModuleRendezvousAutopilot
-			{
-				unlockParts = 
-				unlockTechs = 
+				UnlockParts = 
+				UnlockTechs = 
+				phaseAngle
+				{
+					ValConfig = 0
+					TextConfig = 0
+				}
 			}
 			MechJebModuleWaypointWindow
 			{
-				unlockParts = 
-				unlockTechs = 
+				UnlockParts = 
+				UnlockTechs = 
 			}
 			MechJebModuleWaypointHelpWindow
 			{
-				unlockParts = 
-				unlockTechs = 
+				UnlockParts = 
+				UnlockTechs = 
 			}
-			MechJebModuleTargetController
+			ModExtensionDemo
 			{
-				unlockParts = 
-				unlockTechs = 
+				UnlockParts = 
+				UnlockTechs = 
 			}
-			MechJebModuleManeuverPlanner
+			MechJebModulePVGGlueBall
 			{
-				unlockParts = 
-				unlockTechs = advFlightControl
-			}
-			MechJebModuleStageStats
-			{
-				unlockParts = 
-				unlockTechs = 
-			}
-			MechJebModuleAirplaneGuidance
-			{
-				showpid = False
-				unlockParts = 
-				unlockTechs = 
-			}
-			MechJebModuleGuidanceController
-			{
-				unlockParts = 
-				unlockTechs = 
-			}
-			MechJebModuleRendezvousGuidance
-			{
-				unlockParts = 
-				unlockTechs = advUnmanned
-			}
-			MechJebModuleAscentClassicMenu
-			{
-				unlockParts = 
-				unlockTechs = 
+				UnlockParts = 
+				UnlockTechs = 
 			}
 			MechJebModuleCustomInfoWindow
 			{
@@ -893,83 +894,83 @@ PART
 			}
 			MechJebModuleWarpController
 			{
-				unlockParts = 
-				unlockTechs = 
+				UnlockParts = 
+				UnlockTechs = 
 			}
 			MechJebModuleDeployableAntennaController
 			{
 				prev_shouldDeploy = False
-				unlockParts = 
-				unlockTechs = 
+				UnlockParts = 
+				UnlockTechs = 
 			}
 			MechJebModuleSolarPanelController
 			{
 				prev_shouldDeploy = False
-				unlockParts = 
-				unlockTechs = 
+				UnlockParts = 
+				UnlockTechs = 
 			}
 			MechJebModuleThrustController
 			{
-				limitThrottle = False
-				limiterMinThrottle = False
-				electricThrottle = False
-				unlockParts = 
-				unlockTechs = 
-				maxThrottle
+				LimitThrottle = False
+				LimiterMinThrottle = True
+				ElectricThrottle = False
+				UnlockParts = 
+				UnlockTechs = 
+				MaxThrottle
 				{
-					_val = 1
-					_text = 100
+					ValConfig = 1
+					TextConfig = 100
 				}
-				minThrottle
+				MinThrottle
 				{
-					_val = 0.050000000000000003
-					_text = 5
+					ValConfig = 0.050000000000000003
+					TextConfig = 5
 				}
-				electricThrottleLo
+				ElectricThrottleLo
 				{
-					_val = 0.050000000000000003
-					_text = 5
+					ValConfig = 0.050000000000000003
+					TextConfig = 5
 				}
-				electricThrottleHi
+				ElectricThrottleHi
 				{
-					_val = 0.14999999999999999
-					_text = 15
+					ValConfig = 0.14999999999999999
+					TextConfig = 15
 				}
 			}
 			MechJebModuleRCSController
 			{
-				unlockParts = 
-				unlockTechs = 
+				UnlockParts = 
+				UnlockTechs = 
 				Tf
 				{
-					_val = 1
-					_text = 1
+					ValConfig = 1
+					TextConfig = 1
 				}
 				Kp
 				{
-					_val = 0.125
-					_text = 0.125
+					ValConfig = 0.125
+					TextConfig = 0.125
 				}
 				Ki
 				{
-					_val = 0.070000000000000007
-					_text = 0.07
+					ValConfig = 0.070000000000000007
+					TextConfig = 0.07
 				}
 				Kd
 				{
-					_val = 0.53000000000000003
-					_text = 0.53
+					ValConfig = 0.53000000000000003
+					TextConfig = 0.53
 				}
 			}
 			MechJebModuleRCSBalancer
 			{
-				unlockParts = 
-				unlockTechs = 
+				UnlockParts = 
+				UnlockTechs = 
 			}
 			MechJebModuleAttitudeController
 			{
-				unlockParts = 
-				unlockTechs = 
+				UnlockParts = 
+				UnlockTechs = 
 				MJAttitudeController
 				{
 				}
@@ -982,32 +983,35 @@ PART
 				BetterController
 				{
 				}
+				LQRController
+				{
+				}
 			}
 			MechJebModuleStagingController
 			{
-				unlockParts = 
-				unlockTechs = 
+				UnlockParts = 
+				UnlockTechs = 
 			}
 			MechJebModuleFlightRecorder
 			{
-				markUT = 0
-				deltaVExpended = 0
-				dragLosses = 0
-				gravityLosses = 0
-				steeringLosses = 0
-				markLAN = 0
-				markLatitude = 0
-				markLongitude = 0
-				markAltitude = 0
-				markBodyIndex = 1
-				maxDragGees = 0
-				unlockParts = 
-				unlockTechs = 
+				MarkUT = 0
+				DeltaVExpended = 0
+				DragLosses = 0
+				GravityLosses = 0
+				SteeringLosses = 0
+				MarkLAN = 0
+				MarkLatitude = 0
+				MarkLongitude = 0
+				MarkAltitude = 0
+				MarkBodyIndex = 1
+				MaxDragGees = 0
+				UnlockParts = 
+				UnlockTechs = 
 			}
 			MechJebModuleFlightRecorderGraph
 			{
-				unlockParts = 
-				unlockTechs = 
+				UnlockParts = 
+				UnlockTechs = 
 			}
 		}
 		UPGRADESAPPLIED
@@ -1026,6 +1030,68 @@ PART
 		}
 		ACTIONS
 		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = kOSProcessor
+		isEnabled = True
+		bootFile = None
+		diskSpace = 100000
+		baseDiskSpace = 100000
+		baseModuleMass = 0
+		additionalCost = 0
+		diskSpaceCostFactor = 0.0244140625
+		diskSpaceMassFactor = 4.88289986E-09
+		MaxPartId = 100
+		ECPerInstruction = 3.99999999E-06
+		ECPerBytePerSecond = 0
+		RequiredPower = 0.0399999991
+		stagingEnabled = True
+		activated = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+			Activate
+			{
+				actionGroup = None
+				wasActiveBeforePartWasAdjusted = False
+			}
+			Deactivate
+			{
+				actionGroup = None
+				wasActiveBeforePartWasAdjusted = False
+			}
+			Toggle
+			{
+				actionGroup = None
+				wasActiveBeforePartWasAdjusted = False
+			}
+			TogglePower
+			{
+				actionGroup = None
+				wasActiveBeforePartWasAdjusted = False
+			}
+			StartSuppressAutopilot
+			{
+				actionGroup = None
+				wasActiveBeforePartWasAdjusted = False
+			}
+			StopSuppressAutopilot
+			{
+				actionGroup = None
+				wasActiveBeforePartWasAdjusted = False
+			}
+			ToggleSuppressAutopilot
+			{
+				actionGroup = None
+				wasActiveBeforePartWasAdjusted = False
+			}
 		}
 		UPGRADESAPPLIED
 		{
@@ -1081,6 +1147,7 @@ PART
 		name = ProcessController
 		isEnabled = True
 		running = True
+		broken = False
 		stagingEnabled = True
 		persistentValveIndex = 0
 		EVENTS
@@ -1103,6 +1170,7 @@ PART
 		name = ProcessController
 		isEnabled = True
 		running = True
+		broken = False
 		stagingEnabled = True
 		persistentValveIndex = 0
 		EVENTS
@@ -1125,6 +1193,7 @@ PART
 		name = ProcessController
 		isEnabled = False
 		running = True
+		broken = False
 		stagingEnabled = True
 		persistentValveIndex = 6
 		EVENTS
@@ -1147,6 +1216,7 @@ PART
 		name = ProcessController
 		isEnabled = False
 		running = True
+		broken = False
 		stagingEnabled = True
 		persistentValveIndex = 0
 		EVENTS
@@ -1169,6 +1239,7 @@ PART
 		name = ProcessController
 		isEnabled = False
 		running = False
+		broken = False
 		stagingEnabled = True
 		persistentValveIndex = 0
 		EVENTS
@@ -1215,6 +1286,11 @@ PART
 		}
 		ACTIONS
 		{
+			Action
+			{
+				actionGroup = None
+				wasActiveBeforePartWasAdjusted = False
+			}
 		}
 		UPGRADESAPPLIED
 		{
@@ -1300,6 +1376,46 @@ PART
 	{
 		name = ModuleKerbalKrashSystem_Repair
 		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = KOSNameTag
+		isEnabled = False
+		nameTag = 
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = AntennaFailureModule
+		isEnabled = True
+		originalPower = 0
+		launched = False
+		endOfLife = False
+		hasFailed = False
+		failureType = communication failure
+		expectedLifetime = 6
+		chanceOfFailure = 0.00999999978
+		baseChanceOfFailure = 0.100000001
+		numberOfRepairs = 0
 		stagingEnabled = True
 		EVENTS
 		{
@@ -1507,7 +1623,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 810988483
+		id = 3218855692
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -1614,6 +1730,21 @@ PART
 	}
 	MODULE
 	{
+		name = Proximity
+		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
 		name = ModuleTripLogger
 		isEnabled = True
 		stagingEnabled = True
@@ -1626,6 +1757,37 @@ PART
 		Log
 		{
 			flight = 0
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleKISInventory
+		isEnabled = True
+		invName = 
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleIREditorHelper
+		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
 		}
 		UPGRADESAPPLIED
 		{
@@ -1736,7 +1898,7 @@ PART
 	part = FS.OblongToRoundAdapter_4291785750
 	partName = Part
 	persistentId = 2076391312
-	pos = 0,7,0.811649382
+	pos = 0,7,0.811649859
 	attPos = 0,-0.43985647,0
 	attPos0 = 0,1.25150025,-1.1920929E-07
 	rot = 0.707106829,0,0,0.707106829
@@ -1926,6 +2088,38 @@ PART
 	}
 	MODULE
 	{
+		name = ThermalPowerTransport
+		isEnabled = True
+		thermalCost = 0.25
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ThermalPowerTransport
+		isEnabled = True
+		thermalCost = 0.25
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
 		name = GeometryPartModule
 		isEnabled = True
 		stagingEnabled = True
@@ -2001,6 +2195,22 @@ PART
 	}
 	MODULE
 	{
+		name = KOSNameTag
+		isEnabled = False
+		nameTag = 
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
 		name = ShipEffectsCollisions
 		isEnabled = True
 		stagingEnabled = True
@@ -2060,7 +2270,7 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (0, 7, 0.811649382)
+		originalPos = (0, 7, 0.811649859)
 		originalRotation = (0.707106829, 0, 0, 0.707106829)
 		moduleVersion = 6
 		stagingEnabled = True
@@ -2083,13 +2293,28 @@ PART
 		{
 		}
 	}
+	MODULE
+	{
+		name = ModuleIREditorHelper
+		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
 }
 PART
 {
 	part = navLight1_4290467038
 	partName = Part
 	persistentId = 3668774239
-	pos = -0.161953345,6.3955822,0.925147355
+	pos = -0.161953345,6.3955822,0.925147831
 	attPos = 0,0,0
 	attPos0 = -0.161953345,0.113497734,0.604417861
 	rot = 0.0922959447,0.701057315,0.701057553,0.0922959894
@@ -2340,7 +2565,7 @@ PART
 	{
 		name = HitpointTracker
 		isEnabled = True
-		Hitpoints = 100
+		Hitpoints = 25
 		Armor = 10
 		ArmorRemaining = 100
 		ArmorTypeNum = 1
@@ -2501,6 +2726,22 @@ PART
 	}
 	MODULE
 	{
+		name = KOSNameTag
+		isEnabled = False
+		nameTag = 
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
 		name = ShipEffectsCollisions
 		isEnabled = True
 		stagingEnabled = True
@@ -2537,11 +2778,26 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (-0.161953345, 6.3955822, 0.925147355)
+		originalPos = (-0.161953345, 6.3955822, 0.925147831)
 		originalRotation = (0.0922959447, 0.701057315, 0.701057553, 0.0922959894)
 		moduleVersion = 6
 		stagingEnabled = True
 		userReallyDeactivatedIt = False
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleIREditorHelper
+		isEnabled = True
+		stagingEnabled = True
 		EVENTS
 		{
 		}
@@ -2558,7 +2814,7 @@ PART
 	part = navLight1_4290465568
 	partName = Part
 	persistentId = 1690298821
-	pos = 0.161953345,6.3955822,0.925147116
+	pos = 0.161953345,6.3955822,0.925147593
 	attPos = 0,0,0
 	attPos0 = 0.161953345,0.113497734,0.604417861
 	rot = -0.0922959521,0.701057196,0.701057673,-0.0922959819
@@ -2785,7 +3041,7 @@ PART
 	{
 		name = HitpointTracker
 		isEnabled = True
-		Hitpoints = 100
+		Hitpoints = 25
 		Armor = 10
 		ArmorRemaining = 100
 		ArmorTypeNum = 1
@@ -2946,6 +3202,22 @@ PART
 	}
 	MODULE
 	{
+		name = KOSNameTag
+		isEnabled = False
+		nameTag = 
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
 		name = ShipEffectsCollisions
 		isEnabled = True
 		stagingEnabled = True
@@ -2982,11 +3254,26 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (0.161953345, 6.3955822, 0.925147116)
+		originalPos = (0.161953345, 6.3955822, 0.925147593)
 		originalRotation = (-0.0922959521, 0.701057196, 0.701057673, -0.0922959819)
 		moduleVersion = 6
 		stagingEnabled = True
 		userReallyDeactivatedIt = False
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleIREditorHelper
+		isEnabled = True
+		stagingEnabled = True
 		EVENTS
 		{
 		}
@@ -3002,8 +3289,8 @@ PART
 {
 	part = FSoblongMultiTank_4291889466
 	partName = Part
-	persistentId = 954347402
-	pos = 0,7,-2.01114035
+	persistentId = 4132674467
+	pos = 0,7,-2.0111413
 	attPos = 0,0,0
 	attPos0 = 0,-2.01112533,2.38418579E-07
 	rot = 0.707106829,0,0,0.707106829
@@ -3327,6 +3614,22 @@ PART
 	}
 	MODULE
 	{
+		name = KOSNameTag
+		isEnabled = False
+		nameTag = 
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
 		name = TankFailureModule
 		isEnabled = True
 		leakingName = None
@@ -3426,7 +3729,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 954347402
+		id = 4132674467
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -3468,7 +3771,7 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (0, 7, -2.01114035)
+		originalPos = (0, 7, -2.0111413)
 		originalRotation = (0.707106829, 0, 0, 0.707106829)
 		moduleVersion = 6
 		stagingEnabled = True
@@ -3481,6 +3784,21 @@ PART
 		originalAttachNodeOrientation = (0.0, -1.0, 0.0)
 		originalAttachNodeOffset = (0.0, 0.0, 0.0)
 		originalAttachNodeOffset = (0.0, 0.0, 0.0)
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleIREditorHelper
+		isEnabled = True
+		stagingEnabled = True
 		EVENTS
 		{
 		}
@@ -3508,7 +3826,7 @@ PART
 	part = FSoblongTail_4291882032
 	partName = Part
 	persistentId = 147397862
-	pos = 0,7,-3.89003849
+	pos = 0,7,-3.8900404
 	attPos = 0,0,0
 	attPos0 = 0,-1.87887585,3.57627869E-07
 	rot = 0.707106829,0,0,0.707106829
@@ -3775,6 +4093,22 @@ PART
 	}
 	MODULE
 	{
+		name = KOSNameTag
+		isEnabled = False
+		nameTag = 
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
 		name = ModuleFuelTanks
 		isEnabled = True
 		type = Fuselage
@@ -3876,7 +4210,7 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (0, 7, -3.89003849)
+		originalPos = (0, 7, -3.8900404)
 		originalRotation = (0.707106829, 0, 0, 0.707106829)
 		moduleVersion = 6
 		stagingEnabled = True
@@ -3889,6 +4223,21 @@ PART
 		originalAttachNodeOrientation = (0.0, -1.3, 0.0)
 		originalAttachNodeOffset = (0.0, 0.0, 0.0)
 		originalAttachNodeOffset = (0.0, 0.0, 0.0)
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleIREditorHelper
+		isEnabled = True
+		stagingEnabled = True
 		EVENTS
 		{
 		}
@@ -3916,10 +4265,10 @@ PART
 	part = FS.BiplaneElevator_4291096266
 	partName = Part
 	persistentId = 3896337531
-	pos = -0.400000006,7.19999981,-3.59324932
+	pos = -0.400000006,7.19999981,-3.59325123
 	attPos = -0.0606836081,0.462856174,0.071062088
 	attPos0 = -0.339316398,-0.166067004,-0.271061897
-	rot = 0.707097888,-0.00355061167,0.0035493027,0.707098007
+	rot = 0.707097888,-0.00355061097,0.003549302,0.707098007
 	attRot = -6.76564582E-10,-4.78147244E-10,0.0636901185,-0.997969806
 	attRot0 = 0,-9.25268978E-07,0.00502041262,0.999987483
 	mir = 1,1,1
@@ -4311,6 +4660,22 @@ PART
 	}
 	MODULE
 	{
+		name = KOSNameTag
+		isEnabled = False
+		nameTag = 
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
 		name = ShipEffectsCollisions
 		isEnabled = True
 		stagingEnabled = True
@@ -4370,11 +4735,26 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (-0.400000006, 7.19999981, -3.59324932)
-		originalRotation = (0.707097888, -0.00355061167, 0.0035493027, 0.707098007)
+		originalPos = (-0.400000006, 7.19999981, -3.59325123)
+		originalRotation = (0.707097888, -0.00355061097, 0.003549302, 0.707098007)
 		moduleVersion = 6
 		stagingEnabled = True
 		userReallyDeactivatedIt = False
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleIREditorHelper
+		isEnabled = True
+		stagingEnabled = True
 		EVENTS
 		{
 		}
@@ -4391,7 +4771,7 @@ PART
 	part = FS.BiplaneRudder_4290922698
 	partName = Part
 	persistentId = 1610781715
-	pos = -1.49470007,7.22134447,-4.51772261
+	pos = -1.49470007,7.22134447,-4.51772451
 	attPos = 0,0,0
 	attPos0 = -1.10393095,-0.913430929,-0.0213426258
 	rot = -0.502503514,0.502504468,0.497484058,-0.497483134
@@ -4770,6 +5150,22 @@ PART
 	}
 	MODULE
 	{
+		name = KOSNameTag
+		isEnabled = False
+		nameTag = 
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
 		name = ShipEffectsCollisions
 		isEnabled = True
 		stagingEnabled = True
@@ -4829,11 +5225,26 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (-1.49470007, 7.22134447, -4.51772261)
+		originalPos = (-1.49470007, 7.22134447, -4.51772451)
 		originalRotation = (-0.502503514, 0.502504468, 0.497484058, -0.497483134)
 		moduleVersion = 6
 		stagingEnabled = True
 		userReallyDeactivatedIt = False
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleIREditorHelper
+		isEnabled = True
+		stagingEnabled = True
 		EVENTS
 		{
 		}
@@ -4850,10 +5261,10 @@ PART
 	part = FS.BiplaneElevator_4291087542
 	partName = Part
 	persistentId = 1615054689
-	pos = 0.400000006,7.19999981,-3.59325027
+	pos = 0.400000006,7.19999981,-3.59325218
 	attPos = 0.0606836081,0.46285522,0.071062088
 	attPos0 = 0.339316398,-0.166067004,-0.271061897
-	rot = 0.00354927056,0.707098007,0.707097888,-0.0035506438
+	rot = 0.00354926987,0.707098007,0.707097888,-0.0035506431
 	attRot = 0,0,0,1
 	attRot0 = 0.0686995089,0.997637451,0,-9.68575478E-07
 	mir = 1,1,1
@@ -5237,6 +5648,22 @@ PART
 	}
 	MODULE
 	{
+		name = KOSNameTag
+		isEnabled = False
+		nameTag = 
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
 		name = ShipEffectsCollisions
 		isEnabled = True
 		stagingEnabled = True
@@ -5296,11 +5723,26 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (0.400000006, 7.19999981, -3.59325027)
-		originalRotation = (0.00354927056, 0.707098007, 0.707097888, -0.0035506438)
+		originalPos = (0.400000006, 7.19999981, -3.59325218)
+		originalRotation = (0.00354926987, 0.707098007, 0.707097888, -0.0035506431)
 		moduleVersion = 6
 		stagingEnabled = True
 		userReallyDeactivatedIt = False
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleIREditorHelper
+		isEnabled = True
+		stagingEnabled = True
 		EVENTS
 		{
 		}
@@ -5317,7 +5759,7 @@ PART
 	part = FS.BiplaneRudder_4290915926
 	partName = Part
 	persistentId = 1751408422
-	pos = 1.49471545,7.22134447,-4.51772356
+	pos = 1.49471641,7.22134447,-4.51772547
 	attPos = 0,0,0
 	attPos0 = -1.10393155,-0.913429976,0.0213421565
 	rot = -0.497484326,0.497483015,0.502503395,-0.502504289
@@ -5688,6 +6130,22 @@ PART
 	}
 	MODULE
 	{
+		name = KOSNameTag
+		isEnabled = False
+		nameTag = 
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
 		name = ShipEffectsCollisions
 		isEnabled = True
 		stagingEnabled = True
@@ -5747,11 +6205,26 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (1.49471545, 7.22134447, -4.51772356)
+		originalPos = (1.49471641, 7.22134447, -4.51772547)
 		originalRotation = (-0.497484326, 0.497483015, 0.502503395, -0.502504289)
 		moduleVersion = 6
 		stagingEnabled = True
 		userReallyDeactivatedIt = False
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleIREditorHelper
+		isEnabled = True
+		stagingEnabled = True
 		EVENTS
 		{
 		}
@@ -5768,7 +6241,7 @@ PART
 	part = FS.BiplaneElevator_4290962916
 	partName = Part
 	persistentId = 1113842989
-	pos = 0.400000006,7,-3.72319317
+	pos = 0.400000006,7,-3.72319508
 	attPos = -0.00500190258,-0.141751766,-0.0648815632
 	attPos0 = 0.405001909,0.308597088,0.0648815632
 	rot = 0.0485778078,0.705435991,0.705436468,-0.0485778153
@@ -6154,6 +6627,22 @@ PART
 	}
 	MODULE
 	{
+		name = KOSNameTag
+		isEnabled = False
+		nameTag = 
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
 		name = ShipEffectsCollisions
 		isEnabled = True
 		stagingEnabled = True
@@ -6213,11 +6702,26 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (0.400000006, 7, -3.72319317)
+		originalPos = (0.400000006, 7, -3.72319508)
 		originalRotation = (0.0485778078, 0.705435991, 0.705436468, -0.0485778153)
 		moduleVersion = 6
 		stagingEnabled = True
 		userReallyDeactivatedIt = False
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleIREditorHelper
+		isEnabled = True
+		stagingEnabled = True
 		EVENTS
 		{
 		}
@@ -6234,7 +6738,7 @@ PART
 	part = FS.BiplaneElevator_4290957930
 	partName = Part
 	persistentId = 1203580022
-	pos = -0.400000006,7,-3.72319412
+	pos = -0.400000006,7,-3.72319603
 	attPos = 0.00500190258,-0.14175272,-0.0648815632
 	attPos0 = -0.405001909,0.308597088,0.0648815632
 	rot = -0.705436587,0.0485778339,-0.0485777743,-0.705435872
@@ -6620,6 +7124,22 @@ PART
 	}
 	MODULE
 	{
+		name = KOSNameTag
+		isEnabled = False
+		nameTag = 
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
 		name = ShipEffectsCollisions
 		isEnabled = True
 		stagingEnabled = True
@@ -6679,11 +7199,26 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (-0.400000006, 7, -3.72319412)
+		originalPos = (-0.400000006, 7, -3.72319603)
 		originalRotation = (-0.705436587, 0.0485778339, -0.0485777743, -0.705435872)
 		moduleVersion = 6
 		stagingEnabled = True
 		userReallyDeactivatedIt = False
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleIREditorHelper
+		isEnabled = True
+		stagingEnabled = True
 		EVENTS
 		{
 		}
@@ -6700,7 +7235,7 @@ PART
 	part = GearFree_4290741342
 	partName = Part
 	persistentId = 1287393972
-	pos = 0,6.45270872,-3.3208878
+	pos = 0,6.45270872,-3.32088971
 	attPos = 0,0,0
 	attPos0 = 0,0.569146872,0.54729104
 	rot = 0.116772473,5.10428855E-09,4.34123422E-08,0.993158758
@@ -6946,7 +7481,7 @@ PART
 	{
 		name = HitpointTracker
 		isEnabled = True
-		Hitpoints = 100
+		Hitpoints = 50
 		Armor = 10
 		ArmorRemaining = 100
 		ArmorTypeNum = 1
@@ -7033,6 +7568,55 @@ PART
 	}
 	MODULE
 	{
+		name = KSPTextureSwitch
+		isEnabled = True
+		currentTextureSet = Stock_Default_GearFree
+		persistentData = 0.9254902,0.9254902,0.9254902,0,0,1;0.9254902,0.9254902,0.9254902,0,0,1;0.9254902,0.9254902,0.9254902,0,0,1
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = KSPTextureSwitch
+		isEnabled = True
+		currentTextureSet = Stock_Default_GearFree_Wheel
+		persistentData = 0.9254902,0.9254902,0.9254902,0,0,1;0.9254902,0.9254902,0.9254902,0,0,1;0.9254902,0.9254902,0.9254902,0,0,1
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = SSTURecolorGUI
+		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
 		name = GeometryPartModule
 		isEnabled = True
 		stagingEnabled = True
@@ -7080,6 +7664,22 @@ PART
 	{
 		name = ModuleKerbalKrashSystem_Repair
 		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = KOSNameTag
+		isEnabled = False
+		nameTag = 
 		stagingEnabled = True
 		EVENTS
 		{
@@ -7144,11 +7744,26 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (0, 6.45270872, -3.3208878)
+		originalPos = (0, 6.45270872, -3.32088971)
 		originalRotation = (0.116772473, 5.10428855E-09, 4.34123422E-08, 0.993158758)
 		moduleVersion = 6
 		stagingEnabled = True
 		userReallyDeactivatedIt = False
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleIREditorHelper
+		isEnabled = True
+		stagingEnabled = True
 		EVENTS
 		{
 		}
@@ -7165,7 +7780,7 @@ PART
 	part = FS.BiplaneElevator_4289944098
 	partName = Part
 	persistentId = 2029302572
-	pos = 0.200000003,7.19999981,-3.56338048
+	pos = 0.200000003,7.19999981,-3.56338239
 	attPos = 0.575356901,0.239964008,-0.199999809
 	attPos0 = -0.375356883,0.0866940022,0
 	rot = -0.705436409,0.0485785529,-0.0485771596,-0.705436051
@@ -7551,6 +8166,22 @@ PART
 	}
 	MODULE
 	{
+		name = KOSNameTag
+		isEnabled = False
+		nameTag = 
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
 		name = ShipEffectsCollisions
 		isEnabled = True
 		stagingEnabled = True
@@ -7610,11 +8241,26 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (0.200000003, 7.19999981, -3.56338048)
+		originalPos = (0.200000003, 7.19999981, -3.56338239)
 		originalRotation = (-0.705436409, 0.0485785529, -0.0485771596, -0.705436051)
 		moduleVersion = 6
 		stagingEnabled = True
 		userReallyDeactivatedIt = False
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleIREditorHelper
+		isEnabled = True
+		stagingEnabled = True
 		EVENTS
 		{
 		}
@@ -7631,7 +8277,7 @@ PART
 	part = FS.BiplaneElevator_4289939094
 	partName = Part
 	persistentId = 1110829274
-	pos = -0.200000003,7.19999981,-3.56337953
+	pos = -0.200000003,7.19999981,-3.56338143
 	attPos = -0.575356901,0.239964962,-0.199999809
 	attPos0 = 0.375356883,0.0866940022,0
 	rot = 0.0485772006,0.70543623,0.70543623,-0.0485785715
@@ -8017,6 +8663,22 @@ PART
 	}
 	MODULE
 	{
+		name = KOSNameTag
+		isEnabled = False
+		nameTag = 
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
 		name = ShipEffectsCollisions
 		isEnabled = True
 		stagingEnabled = True
@@ -8076,11 +8738,26 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (-0.200000003, 7.19999981, -3.56337953)
+		originalPos = (-0.200000003, 7.19999981, -3.56338143)
 		originalRotation = (0.0485772006, 0.70543623, 0.70543623, -0.0485785715)
 		moduleVersion = 6
 		stagingEnabled = True
 		userReallyDeactivatedIt = False
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleIREditorHelper
+		isEnabled = True
+		stagingEnabled = True
 		EVENTS
 		{
 		}
@@ -8097,7 +8774,7 @@ PART
 	part = bahaAdjustableRail_4290613264
 	partName = Part
 	persistentId = 3636569220
-	pos = 0,6.33804989,-1.10854793
+	pos = 0,6.33804989,-1.1085484
 	attPos = 0,0,0
 	attPos0 = 0,0.902583957,0.661949635
 	rot = -2.38418579E-07,0,0,1.00000012
@@ -8239,7 +8916,7 @@ PART
 	{
 		name = HitpointTracker
 		isEnabled = True
-		Hitpoints = 100
+		Hitpoints = 25
 		Armor = 10
 		ArmorRemaining = 100
 		ArmorTypeNum = 1
@@ -8275,6 +8952,38 @@ PART
 		maxSupportedArmor = 5
 		armorVolume = 0.56371063
 		ignitionTemp = -1
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = KSPTextureSwitch
+		isEnabled = True
+		currentTextureSet = BDArmory_adjustableRail_Default
+		persistentData = 0.9254902,0.9254902,0.9254902,0,0,1;0.9254902,0.9254902,0.9254902,0,0,1;0.9254902,0.9254902,0.9254902,0,0,1
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = SSTURecolorGUI
+		isEnabled = True
 		stagingEnabled = True
 		EVENTS
 		{
@@ -8333,6 +9042,22 @@ PART
 	}
 	MODULE
 	{
+		name = KOSNameTag
+		isEnabled = False
+		nameTag = 
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
 		name = ShipEffectsCollisions
 		isEnabled = True
 		stagingEnabled = True
@@ -8369,7 +9094,7 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (0, 6.33804989, -1.10854793)
+		originalPos = (0, 6.33804989, -1.1085484)
 		originalRotation = (-2.38418579E-07, 0, 0, 1.00000012)
 		moduleVersion = 6
 		stagingEnabled = True
@@ -8400,13 +9125,28 @@ PART
 		{
 		}
 	}
+	MODULE
+	{
+		name = ModuleIREditorHelper
+		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
 }
 PART
 {
 	part = bahaMk82Bomb_4290588834
 	partName = Part
 	persistentId = 2836369523
-	pos = 0,6.13165665,-1.24174809
+	pos = 0,6.13165569,-1.24174857
 	attPos = 0,0,0
 	attPos0 = 0,-0.206374764,-0.133200139
 	rot = 0,0,0,-1.00000012
@@ -8492,7 +9232,6 @@ PART
 		decoupleSpeed = 0
 		maxAltitude = 0
 		terminalGuidanceShouldActivate = False
-		priority = 0
 		DetonationOffset = 0.100000001
 		autoDetCalc = False
 		maxStaticLaunchRange = 5000
@@ -8504,6 +9243,7 @@ PART
 		dropTime = 3
 		missileFireAngle = -1
 		inCargoBay = False
+		priority = 0
 		customBayGroup = 0
 		detonationTime = 2
 		BallisticOverShootFactor = 0.699999988
@@ -8511,16 +9251,7 @@ PART
 		CruiseAltitude = 500
 		CruiseSpeed = 300
 		CruisePredictionTime = 5
-		LoftMaxAltitude = 16000
-		LoftRangeOverride = 15000
-		LoftAltitudeAdvMax = 3000
-		LoftMinAltitude = 6000
-		LoftAngle = 45
-		LoftTermAngle = 20
-		LoftRangeFac = 0.5
-		LoftVelComp = -0.5
-		LoftVertVelComp = -0.5
-		terminalHomingRange = 3000
+		customTurretID = 0
 		gpsSet = False
 		assignedGPSCoords = (0, 0, 0)
 		gpsTargetName = Unknown
@@ -8531,6 +9262,7 @@ PART
 		engageMissile = False
 		engageGround = True
 		engageSLW = False
+		weaponChannel = 0
 		shortName = Mk82
 		stagingEnabled = True
 		EVENTS
@@ -8671,6 +9403,38 @@ PART
 	}
 	MODULE
 	{
+		name = KSPTextureSwitch
+		isEnabled = True
+		currentTextureSet = BDArmory_Bomb_Default
+		persistentData = 0.9254902,0.9254902,0.9254902,0,0,1;0.9254902,0.9254902,0.9254902,0,0,1;0.9254902,0.9254902,0.9254902,0,0,1
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = SSTURecolorGUI
+		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
 		name = GeometryPartModule
 		isEnabled = True
 		stagingEnabled = True
@@ -8746,6 +9510,22 @@ PART
 	}
 	MODULE
 	{
+		name = KOSNameTag
+		isEnabled = False
+		nameTag = 
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
 		name = ShipEffectsCollisions
 		isEnabled = True
 		stagingEnabled = True
@@ -8782,7 +9562,7 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (0, 6.13165665, -1.24174809)
+		originalPos = (0, 6.13165569, -1.24174857)
 		originalRotation = (0, 0, 0, -1.00000012)
 		moduleVersion = 6
 		stagingEnabled = True
@@ -8801,13 +9581,28 @@ PART
 		{
 		}
 	}
+	MODULE
+	{
+		name = ModuleIREditorHelper
+		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
 }
 PART
 {
 	part = baha20mmAmmo_4290537914
 	partName = Part
-	persistentId = 2092959882
-	pos = 0,7,-1.41113341
+	persistentId = 2038555450
+	pos = 0,7,-1.41113389
 	attPos = 0.587790489,-0.0887902379,5.96046448E-08
 	attPos0 = -0.587790489,0.688789785,-5.96046448E-08
 	rot = 0.707106709,-0.707106948,-8.94069672E-08,-5.96046448E-08
@@ -9018,6 +9813,38 @@ PART
 	}
 	MODULE
 	{
+		name = KSPTextureSwitch
+		isEnabled = True
+		currentTextureSet = BDArmory_Ammo20_Default
+		persistentData = 0.9254902,0.9254902,0.9254902,0,0,1;0.9254902,0.9254902,0.9254902,0,0,1;0.9254902,0.9254902,0.9254902,0,0,1
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = SSTURecolorGUI
+		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
 		name = GeometryPartModule
 		isEnabled = True
 		stagingEnabled = True
@@ -9093,6 +9920,22 @@ PART
 	}
 	MODULE
 	{
+		name = KOSNameTag
+		isEnabled = False
+		nameTag = 
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
 		name = TankFailureModule
 		isEnabled = True
 		leakingName = None
@@ -9150,7 +9993,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 2092959882
+		id = 2038555450
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -9169,11 +10012,26 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (0, 7, -1.41113341)
+		originalPos = (0, 7, -1.41113389)
 		originalRotation = (0.707106709, -0.707106948, -8.94069672E-08, -5.96046448E-08)
 		moduleVersion = 6
 		stagingEnabled = True
 		userReallyDeactivatedIt = False
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleIREditorHelper
+		isEnabled = True
+		stagingEnabled = True
 		EVENTS
 		{
 		}
@@ -9200,8 +10058,8 @@ PART
 {
 	part = baha20mmAmmo_4290521908
 	partName = Part
-	persistentId = 3153140625
-	pos = -1.0421544E-15,7,-1.41113365
+	persistentId = 2808187824
+	pos = -1.0421544E-15,7,-1.41113412
 	attPos = -0.587790489,-0.0887904167,5.96046448E-08
 	attPos0 = 0.587790489,0.688789725,-5.96046448E-08
 	rot = 0.707106829,0.707106829,5.96046448E-08,0
@@ -9412,6 +10270,38 @@ PART
 	}
 	MODULE
 	{
+		name = KSPTextureSwitch
+		isEnabled = True
+		currentTextureSet = BDArmory_Ammo20_Default
+		persistentData = 0.9254902,0.9254902,0.9254902,0,0,1;0.9254902,0.9254902,0.9254902,0,0,1;0.9254902,0.9254902,0.9254902,0,0,1
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = SSTURecolorGUI
+		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
 		name = GeometryPartModule
 		isEnabled = True
 		stagingEnabled = True
@@ -9487,6 +10377,22 @@ PART
 	}
 	MODULE
 	{
+		name = KOSNameTag
+		isEnabled = False
+		nameTag = 
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
 		name = TankFailureModule
 		isEnabled = True
 		leakingName = None
@@ -9544,7 +10450,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 3153140625
+		id = 2808187824
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -9563,11 +10469,26 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (-1.0421544E-15, 7, -1.41113365)
+		originalPos = (-1.0421544E-15, 7, -1.41113412)
 		originalRotation = (0.707106829, 0.707106829, 5.96046448E-08, 0)
 		moduleVersion = 6
 		stagingEnabled = True
 		userReallyDeactivatedIt = False
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleIREditorHelper
+		isEnabled = True
+		stagingEnabled = True
 		EVENTS
 		{
 		}
@@ -9595,7 +10516,7 @@ PART
 	part = bdPilotAI_4290497276
 	partName = Part
 	persistentId = 2585469450
-	pos = 0,7.40000057,-2.61114335
+	pos = 0,7.40000057,-2.6111443
 	attPos = -5.44024665E-08,-0.0364878178,0.242987633
 	attPos0 = 5.44024665E-08,-0.56351316,-0.642988205
 	rot = 0,1.00000012,-2.38418579E-07,0
@@ -9684,6 +10605,7 @@ PART
 		steerMult = 14
 		steerKiAdjust = 0.400000006
 		steerDamping = 5
+		threeAxisPID = False
 		threeAxisSteerDamping = False
 		dynamicSteerDamping = False
 		steerDampingPitch = 5
@@ -9704,6 +10626,15 @@ PART
 		DynamicDampingRollMin = 6
 		DynamicDampingRollMax = 6.5
 		dynamicSteerDampingRollFactor = 8
+		threeAxisPIDPitchMult = 14
+		threeAxisPIDPitchKi = 0.400000006
+		threeAxisPIDPitchDamping = 5
+		threeAxisPIDYawMult = 14
+		threeAxisPIDYawKi = 0.400000006
+		threeAxisPIDYawDamping = 5
+		threeAxisPIDRollMult = 14
+		threeAxisPIDRollKi = 0.400000006
+		threeAxisPIDRollDamping = 5
 		autoTuningOptionNumSamples = 5
 		autoTuningOptionFastResponseRelevance = 0.200000003
 		autoTuningOptionInitialLearningRate = 1
@@ -9729,6 +10660,15 @@ PART
 		autoTuningOptionFixedDROff = False
 		autoTuningOptionFixedDROn = False
 		autoTuningOptionFixedDRF = False
+		autoTuningOptionFixedPp = False
+		autoTuningOptionFixedIp = False
+		autoTuningOptionFixedDp = False
+		autoTuningOptionFixedPy = False
+		autoTuningOptionFixedIy = False
+		autoTuningOptionFixedDy = False
+		autoTuningOptionFixedPr = False
+		autoTuningOptionFixedIr = False
+		autoTuningOptionFixedDr = False
 		autoTuningOptionClampMaximums = False
 		defaultAltitude = 2000
 		minAltitude = 200
@@ -9873,7 +10813,7 @@ PART
 	{
 		name = HitpointTracker
 		isEnabled = True
-		Hitpoints = 100
+		Hitpoints = 25
 		Armor = 10
 		ArmorRemaining = 100
 		ArmorTypeNum = 1
@@ -9909,6 +10849,38 @@ PART
 		maxSupportedArmor = 10
 		armorVolume = 0.756088555
 		ignitionTemp = -1
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = KSPTextureSwitch
+		isEnabled = True
+		currentTextureSet = BDArmory_AI_Default
+		persistentData = 0.9254902,0.9254902,0.9254902,0,0,1;0.9254902,0.9254902,0.9254902,0,0,1;0.9254902,0.9254902,0.9254902,0,0,1
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = SSTURecolorGUI
+		isEnabled = True
 		stagingEnabled = True
 		EVENTS
 		{
@@ -9967,6 +10939,22 @@ PART
 	}
 	MODULE
 	{
+		name = KOSNameTag
+		isEnabled = False
+		nameTag = 
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
 		name = ShipEffectsCollisions
 		isEnabled = True
 		stagingEnabled = True
@@ -10003,11 +10991,26 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (0, 7.40000057, -2.61114335)
+		originalPos = (0, 7.40000057, -2.6111443)
 		originalRotation = (0, 1.00000012, -2.38418579E-07, 0)
 		moduleVersion = 6
 		stagingEnabled = True
 		userReallyDeactivatedIt = False
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleIREditorHelper
+		isEnabled = True
+		stagingEnabled = True
 		EVENTS
 		{
 		}
@@ -10024,7 +11027,7 @@ PART
 	part = mumech.hullcam_4290431596
 	partName = Part
 	persistentId = 1845354961
-	pos = 0,6.3799715,-2.83552718
+	pos = 0,6.3799715,-2.83552814
 	attPos = 0,0,0
 	attPos0 = 0,-0.824383616,0.620028615
 	rot = 0,-0.866025746,-0.499999702,0
@@ -10204,7 +11207,7 @@ PART
 	{
 		name = HitpointTracker
 		isEnabled = True
-		Hitpoints = 100
+		Hitpoints = 25
 		Armor = 10
 		ArmorRemaining = 100
 		ArmorTypeNum = 1
@@ -10328,6 +11331,22 @@ PART
 	}
 	MODULE
 	{
+		name = KOSNameTag
+		isEnabled = False
+		nameTag = 
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
 		name = ShipEffectsCollisions
 		isEnabled = True
 		stagingEnabled = True
@@ -10364,11 +11383,26 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (0, 6.3799715, -2.83552718)
+		originalPos = (0, 6.3799715, -2.83552814)
 		originalRotation = (0, -0.866025746, -0.499999702, 0)
 		moduleVersion = 6
 		stagingEnabled = True
 		userReallyDeactivatedIt = False
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleIREditorHelper
+		isEnabled = True
+		stagingEnabled = True
 		EVENTS
 		{
 		}
@@ -10385,7 +11419,7 @@ PART
 	part = missileController_4290507318
 	partName = Part
 	persistentId = 76138825
-	pos = -5.45581749E-08,7.58807373,-1.433707
+	pos = -5.45581749E-08,7.58807373,-1.43370748
 	attPos = 0,0,0
 	attPos0 = -5.45581749E-08,0.577426076,-0.588073313
 	rot = 0,1.00000012,-2.38418579E-07,0
@@ -10519,6 +11553,8 @@ PART
 		nonGuardModeCMs = False
 		DynamicRadarOverride = False
 		isVIP = False
+		weaponChannel = 0
+		underAttackAG = None
 		guardMode = False
 		team = <"Name":"A","Neutral":false,"Allies":[]>
 		isArmed = False
@@ -10529,6 +11565,16 @@ PART
 		ACTIONS
 		{
 			AGToggleGuardMode
+			{
+				actionGroup = None
+				wasActiveBeforePartWasAdjusted = False
+			}
+			AGEnableGuardMode
+			{
+				actionGroup = None
+				wasActiveBeforePartWasAdjusted = False
+			}
+			AGDisableGuardMode
 			{
 				actionGroup = None
 				wasActiveBeforePartWasAdjusted = False
@@ -10672,7 +11718,7 @@ PART
 	{
 		name = HitpointTracker
 		isEnabled = True
-		Hitpoints = 100
+		Hitpoints = 25
 		Armor = 10
 		ArmorRemaining = 100
 		ArmorTypeNum = 1
@@ -10708,6 +11754,38 @@ PART
 		maxSupportedArmor = 10
 		armorVolume = 0.405559152
 		ignitionTemp = -1
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = KSPTextureSwitch
+		isEnabled = True
+		currentTextureSet = BDArmory_wm_Default
+		persistentData = 0.9254902,0.9254902,0.9254902,0,0,1;0.9254902,0.9254902,0.9254902,0,0,1;0.9254902,0.9254902,0.9254902,0,0,1
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = SSTURecolorGUI
+		isEnabled = True
 		stagingEnabled = True
 		EVENTS
 		{
@@ -10766,6 +11844,22 @@ PART
 	}
 	MODULE
 	{
+		name = KOSNameTag
+		isEnabled = False
+		nameTag = 
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
 		name = ShipEffectsCollisions
 		isEnabled = True
 		stagingEnabled = True
@@ -10802,11 +11896,26 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (-5.45581749E-08, 7.58807373, -1.433707)
+		originalPos = (-5.45581749E-08, 7.58807373, -1.43370748)
 		originalRotation = (0, 1.00000012, -2.38418579E-07, 0)
 		moduleVersion = 6
 		stagingEnabled = True
 		userReallyDeactivatedIt = False
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleIREditorHelper
+		isEnabled = True
+		stagingEnabled = True
 		EVENTS
 		{
 		}
@@ -10823,7 +11932,7 @@ PART
 	part = VesselNotes.DataLog_4290411736
 	partName = Part
 	persistentId = 3836423748
-	pos = -5.42139276E-08,7.62013531,-1.76837659
+	pos = -5.42139276E-08,7.62013531,-1.76837754
 	attPos = 0,0,0
 	attPos0 = -5.42139276E-08,0.242763877,-0.620135367
 	rot = 0,1.00000012,-2.38418579E-07,0
@@ -10961,7 +12070,7 @@ PART
 	{
 		name = HitpointTracker
 		isEnabled = True
-		Hitpoints = 100
+		Hitpoints = 50
 		Armor = 10
 		ArmorRemaining = 100
 		ArmorTypeNum = 1
@@ -11055,6 +12164,22 @@ PART
 	}
 	MODULE
 	{
+		name = KOSNameTag
+		isEnabled = False
+		nameTag = 
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
 		name = ShipEffectsCollisions
 		isEnabled = True
 		stagingEnabled = True
@@ -11091,11 +12216,26 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (-5.42139276E-08, 7.62013531, -1.76837659)
+		originalPos = (-5.42139276E-08, 7.62013531, -1.76837754)
 		originalRotation = (0, 1.00000012, -2.38418579E-07, 0)
 		moduleVersion = 6
 		stagingEnabled = True
 		userReallyDeactivatedIt = False
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleIREditorHelper
+		isEnabled = True
+		stagingEnabled = True
 		EVENTS
 		{
 		}
@@ -11112,7 +12252,7 @@ PART
 	part = FS.BiplaneWingShort_4291722376
 	partName = Part
 	persistentId = 1584620263
-	pos = -1.25442398,7,-0.106011555
+	pos = -1.25442398,7,-0.106011614
 	attPos = 0,0.489938229,-4.47034836E-08
 	attPos0 = -1.25442398,-0.595948935,5.96046448E-08
 	rot = -0.707107067,-4.21468371E-08,-4.21468442E-08,-0.70710659
@@ -11391,6 +12531,22 @@ PART
 	}
 	MODULE
 	{
+		name = KOSNameTag
+		isEnabled = False
+		nameTag = 
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
 		name = ShipEffectsCollisions
 		isEnabled = True
 		stagingEnabled = True
@@ -11450,11 +12606,26 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (-1.25442398, 7, -0.106011555)
+		originalPos = (-1.25442398, 7, -0.106011614)
 		originalRotation = (-0.707107067, -4.21468371E-08, -4.21468442E-08, -0.70710659)
 		moduleVersion = 6
 		stagingEnabled = True
 		userReallyDeactivatedIt = False
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleIREditorHelper
+		isEnabled = True
+		stagingEnabled = True
 		EVENTS
 		{
 		}
@@ -11471,7 +12642,7 @@ PART
 	part = FS.BiplaneWingMain_4291704330
 	partName = Part
 	persistentId = 2232262326
-	pos = -1.97741759,6.99999952,0.0659181848
+	pos = -1.97741759,6.99999952,0.0659182146
 	attPos = 0,0,0
 	attPos0 = -0.722993612,0.171927869,-2.02487644E-08
 	rot = -0.707107127,4.97379915E-14,-2.10734214E-07,-0.707106531
@@ -11867,6 +13038,22 @@ PART
 	}
 	MODULE
 	{
+		name = KOSNameTag
+		isEnabled = False
+		nameTag = 
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
 		name = ShipEffectsCollisions
 		isEnabled = True
 		stagingEnabled = True
@@ -11926,11 +13113,26 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (-1.97741759, 6.99999952, 0.0659181848)
+		originalPos = (-1.97741759, 6.99999952, 0.0659182146)
 		originalRotation = (-0.707107127, 4.97379915E-14, -2.10734214E-07, -0.707106531)
 		moduleVersion = 6
 		stagingEnabled = True
 		userReallyDeactivatedIt = False
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleIREditorHelper
+		isEnabled = True
+		stagingEnabled = True
 		EVENTS
 		{
 		}
@@ -11947,7 +13149,7 @@ PART
 	part = FS.BiplaneWingRound_4291667794
 	partName = Part
 	persistentId = 4108356197
-	pos = -5.10252905,6.99999857,-0.132866025
+	pos = -5.10252905,6.99999857,-0.132866085
 	attPos = 0,0,0
 	attPos0 = -3.12511134,-0.198781163,2.13310045E-07
 	rot = -0.707107186,1.42108547E-14,-1.68587377E-07,-0.707106471
@@ -12342,6 +13544,22 @@ PART
 	}
 	MODULE
 	{
+		name = KOSNameTag
+		isEnabled = False
+		nameTag = 
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
 		name = ShipEffectsCollisions
 		isEnabled = True
 		stagingEnabled = True
@@ -12401,11 +13619,26 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (-5.10252905, 6.99999857, -0.132866025)
+		originalPos = (-5.10252905, 6.99999857, -0.132866085)
 		originalRotation = (-0.707107186, 1.42108547E-14, -1.68587377E-07, -0.707106471)
 		moduleVersion = 6
 		stagingEnabled = True
 		userReallyDeactivatedIt = False
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleIREditorHelper
+		isEnabled = True
+		stagingEnabled = True
 		EVENTS
 		{
 		}
@@ -12422,7 +13655,7 @@ PART
 	part = navLight1_4290477596
 	partName = Part
 	persistentId = 1426166293
-	pos = -6.21721077,6.99999809,-0.0609059408
+	pos = -6.21721077,6.99999809,-0.0609059706
 	attPos = 0,0,0
 	attPos0 = -1.11468124,0.0719597489,-2.54275648E-07
 	rot = 0.50000006,0.49999994,0.500000417,0.499999821
@@ -12649,7 +13882,7 @@ PART
 	{
 		name = HitpointTracker
 		isEnabled = True
-		Hitpoints = 100
+		Hitpoints = 25
 		Armor = 10
 		ArmorRemaining = 100
 		ArmorTypeNum = 1
@@ -12810,6 +14043,22 @@ PART
 	}
 	MODULE
 	{
+		name = KOSNameTag
+		isEnabled = False
+		nameTag = 
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
 		name = ShipEffectsCollisions
 		isEnabled = True
 		stagingEnabled = True
@@ -12846,11 +14095,26 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (-6.21721077, 6.99999809, -0.0609059408)
+		originalPos = (-6.21721077, 6.99999809, -0.0609059706)
 		originalRotation = (0.50000006, 0.49999994, 0.500000417, 0.499999821)
 		moduleVersion = 6
 		stagingEnabled = True
 		userReallyDeactivatedIt = False
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleIREditorHelper
+		isEnabled = True
+		stagingEnabled = True
 		EVENTS
 		{
 		}
@@ -12867,7 +14131,7 @@ PART
 	part = FS.BiplaneWingShort_4291698968
 	partName = Part
 	persistentId = 687998827
-	pos = 1.25442398,7,-0.106011629
+	pos = 1.25442398,7,-0.106011689
 	attPos = 0,0.489938259,-4.47034836E-08
 	attPos0 = 1.25442398,-0.595949054,5.96046448E-08
 	rot = 1.12382166E-08,0.707106709,0.707106948,1.12382237E-08
@@ -13147,6 +14411,22 @@ PART
 	}
 	MODULE
 	{
+		name = KOSNameTag
+		isEnabled = False
+		nameTag = 
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
 		name = ShipEffectsCollisions
 		isEnabled = True
 		stagingEnabled = True
@@ -13206,11 +14486,26 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (1.25442398, 7, -0.106011629)
+		originalPos = (1.25442398, 7, -0.106011689)
 		originalRotation = (1.12382166E-08, 0.707106709, 0.707106948, 1.12382237E-08)
 		moduleVersion = 6
 		stagingEnabled = True
 		userReallyDeactivatedIt = False
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleIREditorHelper
+		isEnabled = True
+		stagingEnabled = True
 		EVENTS
 		{
 		}
@@ -13227,7 +14522,7 @@ PART
 	part = FS.BiplaneWingMain_4291698908
 	partName = Part
 	persistentId = 87053713
-	pos = 1.97741759,6.99999952,0.0659179911
+	pos = 1.97741759,6.99999952,0.0659180209
 	attPos = 0,0,0
 	attPos0 = -0.722993612,0.171927869,-2.02487644E-08
 	rot = 1.79825548E-07,0.70710665,0.707107008,-3.09085593E-08
@@ -13615,6 +14910,22 @@ PART
 	}
 	MODULE
 	{
+		name = KOSNameTag
+		isEnabled = False
+		nameTag = 
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
 		name = ShipEffectsCollisions
 		isEnabled = True
 		stagingEnabled = True
@@ -13674,11 +14985,26 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (1.97741759, 6.99999952, 0.0659179911)
+		originalPos = (1.97741759, 6.99999952, 0.0659180209)
 		originalRotation = (1.79825548E-07, 0.70710665, 0.707107008, -3.09085593E-08)
 		moduleVersion = 6
 		stagingEnabled = True
 		userReallyDeactivatedIt = False
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleIREditorHelper
+		isEnabled = True
+		stagingEnabled = True
 		EVENTS
 		{
 		}
@@ -13695,7 +15021,7 @@ PART
 	part = FS.BiplaneWingRound_4291698838
 	partName = Part
 	persistentId = 2900641824
-	pos = 5.10252905,6.99999857,-0.132866442
+	pos = 5.10252905,6.99999857,-0.132866502
 	attPos = 0,0,0
 	attPos0 = -3.12511134,-0.198781163,2.13310045E-07
 	rot = 1.37678768E-07,0.70710659,0.707107067,-3.09086303E-08
@@ -14082,6 +15408,22 @@ PART
 	}
 	MODULE
 	{
+		name = KOSNameTag
+		isEnabled = False
+		nameTag = 
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
 		name = ShipEffectsCollisions
 		isEnabled = True
 		stagingEnabled = True
@@ -14141,11 +15483,26 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (5.10252905, 6.99999857, -0.132866442)
+		originalPos = (5.10252905, 6.99999857, -0.132866502)
 		originalRotation = (1.37678768E-07, 0.70710659, 0.707107067, -3.09086303E-08)
 		moduleVersion = 6
 		stagingEnabled = True
 		userReallyDeactivatedIt = False
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleIREditorHelper
+		isEnabled = True
+		stagingEnabled = True
 		EVENTS
 		{
 		}
@@ -14162,7 +15519,7 @@ PART
 	part = navLight1_4291698766
 	partName = Part
 	persistentId = 65710661
-	pos = 6.21721077,6.99999809,-0.0609064624
+	pos = 6.21721077,6.99999809,-0.0609064922
 	attPos = 0,0,0
 	attPos0 = -1.11468124,0.0719597489,-2.54275648E-07
 	rot = -0.49999997,0.49999994,0.500000417,-0.49999997
@@ -14389,7 +15746,7 @@ PART
 	{
 		name = HitpointTracker
 		isEnabled = True
-		Hitpoints = 100
+		Hitpoints = 25
 		Armor = 10
 		ArmorRemaining = 100
 		ArmorTypeNum = 1
@@ -14550,6 +15907,22 @@ PART
 	}
 	MODULE
 	{
+		name = KOSNameTag
+		isEnabled = False
+		nameTag = 
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
 		name = ShipEffectsCollisions
 		isEnabled = True
 		stagingEnabled = True
@@ -14586,11 +15959,26 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (6.21721077, 6.99999809, -0.0609064624)
+		originalPos = (6.21721077, 6.99999809, -0.0609064922)
 		originalRotation = (-0.49999997, 0.49999994, 0.500000417, -0.49999997)
 		moduleVersion = 6
 		stagingEnabled = True
 		userReallyDeactivatedIt = False
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleIREditorHelper
+		isEnabled = True
+		stagingEnabled = True
 		EVENTS
 		{
 		}
@@ -14607,7 +15995,7 @@ PART
 	part = FS.BiplaneWingShort_4291709396
 	partName = Part
 	persistentId = 1067063635
-	pos = -1.26665926,7.12999821,-0.111610442
+	pos = -1.26665926,7.12999821,-0.111610502
 	attPos = -0.0266289711,0.344129235,0.20226714
 	attPos0 = -1.24003029,-0.455738842,-0.332265347
 	rot = -0.707107067,-3.1397601E-08,-2.43179468E-08,-0.70710659
@@ -14882,6 +16270,22 @@ PART
 	}
 	MODULE
 	{
+		name = KOSNameTag
+		isEnabled = False
+		nameTag = 
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
 		name = ShipEffectsCollisions
 		isEnabled = True
 		stagingEnabled = True
@@ -14941,11 +16345,26 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (-1.26665926, 7.12999821, -0.111610442)
+		originalPos = (-1.26665926, 7.12999821, -0.111610502)
 		originalRotation = (-0.707107067, -3.1397601E-08, -2.43179468E-08, -0.70710659)
 		moduleVersion = 6
 		stagingEnabled = True
 		userReallyDeactivatedIt = False
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleIREditorHelper
+		isEnabled = True
+		stagingEnabled = True
 		EVENTS
 		{
 		}
@@ -15349,6 +16768,22 @@ PART
 	}
 	MODULE
 	{
+		name = KOSNameTag
+		isEnabled = False
+		nameTag = 
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
 		name = ShipEffectsCollisions
 		isEnabled = True
 		stagingEnabled = True
@@ -15423,13 +16858,28 @@ PART
 		{
 		}
 	}
+	MODULE
+	{
+		name = ModuleIREditorHelper
+		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
 }
 PART
 {
 	part = FS.BiplaneWingRound_4291709266
 	partName = Part
 	persistentId = 3239168014
-	pos = -5.11476421,7.12999678,-0.138464928
+	pos = -5.11476421,7.12999678,-0.138464987
 	attPos = 0,0,0
 	attPos0 = -3.12511134,-0.198781163,2.13310045E-07
 	rot = -0.707107186,1.07492326E-08,-1.50758439E-07,-0.707106471
@@ -15815,6 +17265,22 @@ PART
 	}
 	MODULE
 	{
+		name = KOSNameTag
+		isEnabled = False
+		nameTag = 
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
 		name = ShipEffectsCollisions
 		isEnabled = True
 		stagingEnabled = True
@@ -15874,11 +17340,26 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (-5.11476421, 7.12999678, -0.138464928)
+		originalPos = (-5.11476421, 7.12999678, -0.138464987)
 		originalRotation = (-0.707107186, 1.07492326E-08, -1.50758439E-07, -0.707106471)
 		moduleVersion = 6
 		stagingEnabled = True
 		userReallyDeactivatedIt = False
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleIREditorHelper
+		isEnabled = True
+		stagingEnabled = True
 		EVENTS
 		{
 		}
@@ -15895,7 +17376,7 @@ PART
 	part = FS.BiplaneWingShort_4291696390
 	partName = Part
 	persistentId = 2474272238
-	pos = 1.26665926,7.12999821,-0.111610532
+	pos = 1.26665926,7.12999821,-0.111610591
 	attPos = 0.0266289711,0.344129205,0.20226714
 	attPos0 = 1.24003029,-0.455738902,-0.332265347
 	rot = -6.590684E-09,0.707106709,0.707106948,4.88982188E-10
@@ -16170,6 +17651,22 @@ PART
 	}
 	MODULE
 	{
+		name = KOSNameTag
+		isEnabled = False
+		nameTag = 
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
 		name = ShipEffectsCollisions
 		isEnabled = True
 		stagingEnabled = True
@@ -16229,11 +17726,26 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (1.26665926, 7.12999821, -0.111610532)
+		originalPos = (1.26665926, 7.12999821, -0.111610591)
 		originalRotation = (-6.590684E-09, 0.707106709, 0.707106948, 4.88982188E-10)
 		moduleVersion = 6
 		stagingEnabled = True
 		userReallyDeactivatedIt = False
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleIREditorHelper
+		isEnabled = True
+		stagingEnabled = True
 		EVENTS
 		{
 		}
@@ -16250,7 +17762,7 @@ PART
 	part = FS.BiplaneWingMain_4291696324
 	partName = Part
 	persistentId = 1940395074
-	pos = 1.98965287,7.12999773,0.0603196621
+	pos = 1.98965287,7.12999773,0.0603197217
 	attPos = 0,0,0
 	attPos0 = -0.722993612,0.171927869,-2.02487644E-08
 	rot = 1.61996653E-07,0.70710659,0.707107067,-4.16578416E-08
@@ -16637,6 +18149,22 @@ PART
 	}
 	MODULE
 	{
+		name = KOSNameTag
+		isEnabled = False
+		nameTag = 
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
 		name = ShipEffectsCollisions
 		isEnabled = True
 		stagingEnabled = True
@@ -16696,11 +18224,26 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (1.98965287, 7.12999773, 0.0603196621)
+		originalPos = (1.98965287, 7.12999773, 0.0603197217)
 		originalRotation = (1.61996653E-07, 0.70710659, 0.707107067, -4.16578416E-08)
 		moduleVersion = 6
 		stagingEnabled = True
 		userReallyDeactivatedIt = False
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleIREditorHelper
+		isEnabled = True
+		stagingEnabled = True
 		EVENTS
 		{
 		}
@@ -16717,7 +18260,7 @@ PART
 	part = FS.BiplaneWingRound_4291696248
 	partName = Part
 	persistentId = 336961054
-	pos = 5.11476421,7.12999678,-0.138465315
+	pos = 5.11476421,7.12999678,-0.138465375
 	attPos = 0,0,0
 	attPos0 = -3.12511134,-0.198781163,2.13310045E-07
 	rot = 1.1984983E-07,0.70710659,0.707107067,-4.16578665E-08
@@ -17103,6 +18646,22 @@ PART
 	}
 	MODULE
 	{
+		name = KOSNameTag
+		isEnabled = False
+		nameTag = 
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
 		name = ShipEffectsCollisions
 		isEnabled = True
 		stagingEnabled = True
@@ -17162,11 +18721,26 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (5.11476421, 7.12999678, -0.138465315)
+		originalPos = (5.11476421, 7.12999678, -0.138465375)
 		originalRotation = (1.1984983E-07, 0.70710659, 0.707107067, -4.16578665E-08)
 		moduleVersion = 6
 		stagingEnabled = True
 		userReallyDeactivatedIt = False
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleIREditorHelper
+		isEnabled = True
+		stagingEnabled = True
 		EVENTS
 		{
 		}
@@ -17182,8 +18756,8 @@ PART
 {
 	part = SmallGearBay_4291652584
 	partName = Part
-	persistentId = 1491703263
-	pos = -2.05079603,6.77087355,-0.315521896
+	persistentId = 1302883886
+	pos = -2.05079603,6.77087355,-0.315522015
 	attPos = -2.08616257E-07,-0.593659401,0.172785342
 	attPos0 = -0.0733783916,0.212220937,0.0563410148
 	rot = -1.43260223E-07,0.99928236,-0.037879467,1.54548957E-07
@@ -17764,6 +19338,72 @@ PART
 	}
 	MODULE
 	{
+		name = KSPTextureSwitch
+		isEnabled = True
+		currentTextureSet = Stock_Default_Landing_Gear_Body
+		persistentData = 0.9254902,0.9254902,0.9254902,0,0,1;0.9254902,0.9254902,0.9254902,0,0,1;0.9254902,0.9254902,0.9254902,0,0,1
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = KSPTextureSwitch
+		isEnabled = True
+		currentTextureSet = Stock_Default_Landing_Gear_Struts
+		persistentData = 0.9254902,0.9254902,0.9254902,0,0,1;0.9254902,0.9254902,0.9254902,0,0,1;0.9254902,0.9254902,0.9254902,0,0,1
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = KSPTextureSwitch
+		isEnabled = True
+		currentTextureSet = Stock_Default_Landing_Gear_Wheel
+		persistentData = 0.9254902,0.9254902,0.9254902,0,0,1;0.9254902,0.9254902,0.9254902,0,0,1;0.9254902,0.9254902,0.9254902,0,0,1
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = SSTURecolorGUI
+		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
 		name = GeometryPartModule
 		isEnabled = True
 		stagingEnabled = True
@@ -17868,6 +19508,22 @@ PART
 	}
 	MODULE
 	{
+		name = KOSNameTag
+		isEnabled = False
+		nameTag = 
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
 		name = LandingGearFailureModule
 		isEnabled = True
 		launched = False
@@ -17939,7 +19595,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 1491703263
+		id = 1302883886
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -17958,11 +19614,26 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (-2.05079603, 6.77087355, -0.315521896)
+		originalPos = (-2.05079603, 6.77087355, -0.315522015)
 		originalRotation = (-1.43260223E-07, 0.99928236, -0.037879467, 1.54548957E-07)
 		moduleVersion = 6
 		stagingEnabled = True
 		userReallyDeactivatedIt = False
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleIREditorHelper
+		isEnabled = True
+		stagingEnabled = True
 		EVENTS
 		{
 		}
@@ -17978,11 +19649,11 @@ PART
 {
 	part = SmallGearBay_4291651272
 	partName = Part
-	persistentId = 2564781682
-	pos = 2.05079603,6.77087355,-0.315522134
+	persistentId = 1597420100
+	pos = 2.05079603,6.77087355,-0.315522254
 	attPos = -2.08616257E-07,-0.59365952,-0.172785178
 	attPos0 = -0.0733783916,0.212220922,-0.0563410334
-	rot = 1.43260195E-07,0.999282598,-0.0378794968,-1.54548786E-07
+	rot = 1.43260209E-07,0.999282598,-0.0378794968,-1.54548772E-07
 	attRot = 0,0,0,1
 	attRot0 = 0.707106829,-3.09086161E-08,3.09087227E-08,0.707106829
 	mir = 1,1,1
@@ -18528,6 +20199,72 @@ PART
 	}
 	MODULE
 	{
+		name = KSPTextureSwitch
+		isEnabled = True
+		currentTextureSet = Stock_Default_Landing_Gear_Body
+		persistentData = 0.9254902,0.9254902,0.9254902,0,0,1;0.9254902,0.9254902,0.9254902,0,0,1;0.9254902,0.9254902,0.9254902,0,0,1
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = KSPTextureSwitch
+		isEnabled = True
+		currentTextureSet = Stock_Default_Landing_Gear_Struts
+		persistentData = 0.9254902,0.9254902,0.9254902,0,0,1;0.9254902,0.9254902,0.9254902,0,0,1;0.9254902,0.9254902,0.9254902,0,0,1
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = KSPTextureSwitch
+		isEnabled = True
+		currentTextureSet = Stock_Default_Landing_Gear_Wheel
+		persistentData = 0.9254902,0.9254902,0.9254902,0,0,1;0.9254902,0.9254902,0.9254902,0,0,1;0.9254902,0.9254902,0.9254902,0,0,1
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = SSTURecolorGUI
+		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
 		name = GeometryPartModule
 		isEnabled = True
 		stagingEnabled = True
@@ -18632,6 +20369,22 @@ PART
 	}
 	MODULE
 	{
+		name = KOSNameTag
+		isEnabled = False
+		nameTag = 
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
 		name = LandingGearFailureModule
 		isEnabled = True
 		launched = False
@@ -18703,7 +20456,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 2564781682
+		id = 1597420100
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -18722,11 +20475,26 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (2.05079603, 6.77087355, -0.315522134)
-		originalRotation = (1.43260195E-07, 0.999282598, -0.0378794968, -1.54548786E-07)
+		originalPos = (2.05079603, 6.77087355, -0.315522254)
+		originalRotation = (1.43260209E-07, 0.999282598, -0.0378794968, -1.54548772E-07)
 		moduleVersion = 6
 		stagingEnabled = True
 		userReallyDeactivatedIt = False
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleIREditorHelper
+		isEnabled = True
+		stagingEnabled = True
 		EVENTS
 		{
 		}
@@ -18743,7 +20511,7 @@ PART
 	part = MG151_4291613154
 	partName = Part
 	persistentId = 518832257
-	pos = -0.92628485,6.91207504,0.544180453
+	pos = -0.92628485,6.91207504,0.544180691
 	attPos = 0,0,0
 	attPos0 = 0.328139126,0.65018779,0.0879244953
 	rot = 7.4505806E-07,-1.69873238E-06,0.793353319,-0.608761549
@@ -18828,6 +20596,7 @@ PART
 		name = ModuleWeapon
 		isEnabled = True
 		WeaponDisplayName = MG151/20
+		customTurretID = 0
 		priority = 0
 		BurstOverride = False
 		fireBurstLength = 1
@@ -18856,6 +20625,7 @@ PART
 		engageMissile = False
 		engageGround = True
 		engageSLW = False
+		weaponChannel = 0
 		shortName = MG151/20
 		stagingEnabled = True
 		EVENTS
@@ -19051,6 +20821,22 @@ PART
 	}
 	MODULE
 	{
+		name = KOSNameTag
+		isEnabled = False
+		nameTag = 
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
 		name = ShipEffectsCollisions
 		isEnabled = True
 		stagingEnabled = True
@@ -19087,7 +20873,7 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (-0.92628485, 6.91207504, 0.544180453)
+		originalPos = (-0.92628485, 6.91207504, 0.544180691)
 		originalRotation = (7.4505806E-07, -1.69873238E-06, 0.793353319, -0.608761549)
 		moduleVersion = 6
 		stagingEnabled = True
@@ -19106,13 +20892,28 @@ PART
 		{
 		}
 	}
+	MODULE
+	{
+		name = ModuleIREditorHelper
+		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
 }
 PART
 {
 	part = MG151_4291612032
 	partName = Part
 	persistentId = 855179914
-	pos = 0.92628485,6.91207504,0.544180274
+	pos = 0.92628485,6.91207504,0.544180512
 	attPos = 0,0,0
 	attPos0 = 0.328139037,0.650187731,-0.087924622
 	rot = -7.74860382E-07,-1.66893005E-06,0.793353438,0.608761489
@@ -19197,6 +20998,7 @@ PART
 		name = ModuleWeapon
 		isEnabled = True
 		WeaponDisplayName = MG151/20
+		customTurretID = 0
 		priority = 0
 		BurstOverride = False
 		fireBurstLength = 1
@@ -19225,6 +21027,7 @@ PART
 		engageMissile = False
 		engageGround = True
 		engageSLW = False
+		weaponChannel = 0
 		shortName = MG151/20
 		stagingEnabled = True
 		EVENTS
@@ -19420,6 +21223,22 @@ PART
 	}
 	MODULE
 	{
+		name = KOSNameTag
+		isEnabled = False
+		nameTag = 
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
 		name = ShipEffectsCollisions
 		isEnabled = True
 		stagingEnabled = True
@@ -19456,7 +21275,7 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (0.92628485, 6.91207504, 0.544180274)
+		originalPos = (0.92628485, 6.91207504, 0.544180512)
 		originalRotation = (-7.74860382E-07, -1.66893005E-06, 0.793353438, 0.608761489)
 		moduleVersion = 6
 		stagingEnabled = True
@@ -19475,13 +21294,28 @@ PART
 		{
 		}
 	}
+	MODULE
+	{
+		name = ModuleIREditorHelper
+		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
 }
 PART
 {
 	part = bahaBrowningAnm2_4291567312
 	partName = Part
 	persistentId = 114192006
-	pos = -1.17576325,6.8825984,0.476823598
+	pos = -1.17576325,6.8825984,0.476823896
 	attPos = 0,0,0
 	attPos0 = 0.0786607116,0.582830012,0.117401183
 	rot = 1.00000012,4.95225038E-07,-6.82121026E-13,-2.11596489E-06
@@ -19565,6 +21399,7 @@ PART
 		name = ModuleWeapon
 		isEnabled = True
 		WeaponDisplayName = Browning AN/M3
+		customTurretID = 0
 		priority = 0
 		BurstOverride = False
 		fireBurstLength = 1
@@ -19593,6 +21428,7 @@ PART
 		engageMissile = True
 		engageGround = True
 		engageSLW = True
+		weaponChannel = 0
 		shortName = Browning AN/M3
 		stagingEnabled = True
 		EVENTS
@@ -19713,6 +21549,38 @@ PART
 	}
 	MODULE
 	{
+		name = KSPTextureSwitch
+		isEnabled = True
+		currentTextureSet = BDArmory_Browning_Default
+		persistentData = 0.9254902,0.9254902,0.9254902,0,0,1;0.9254902,0.9254902,0.9254902,0,0,1;0.9254902,0.9254902,0.9254902,0,0,1
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = SSTURecolorGUI
+		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
 		name = GeometryPartModule
 		isEnabled = True
 		stagingEnabled = True
@@ -19788,6 +21656,22 @@ PART
 	}
 	MODULE
 	{
+		name = KOSNameTag
+		isEnabled = False
+		nameTag = 
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
 		name = ShipEffectsCollisions
 		isEnabled = True
 		stagingEnabled = True
@@ -19824,11 +21708,26 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (-1.17576325, 6.8825984, 0.476823598)
+		originalPos = (-1.17576325, 6.8825984, 0.476823896)
 		originalRotation = (1.00000012, 4.95225038E-07, -6.82121026E-13, -2.11596489E-06)
 		moduleVersion = 6
 		stagingEnabled = True
 		userReallyDeactivatedIt = False
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleIREditorHelper
+		isEnabled = True
+		stagingEnabled = True
 		EVENTS
 		{
 		}
@@ -19845,7 +21744,7 @@ PART
 	part = bahaBrowningAnm2_4291565540
 	partName = Part
 	persistentId = 3289339389
-	pos = 1.17576325,6.8825984,0.476822525
+	pos = 1.17576325,6.8825984,0.476822764
 	attPos = 0,0,0
 	attPos0 = 0.0786606967,0.582830012,-0.117401317
 	rot = 1.00000012,-4.95224981E-07,6.53699317E-13,-2.11596489E-06
@@ -19929,6 +21828,7 @@ PART
 		name = ModuleWeapon
 		isEnabled = True
 		WeaponDisplayName = Browning AN/M3
+		customTurretID = 0
 		priority = 0
 		BurstOverride = False
 		fireBurstLength = 1
@@ -19957,6 +21857,7 @@ PART
 		engageMissile = True
 		engageGround = True
 		engageSLW = True
+		weaponChannel = 0
 		shortName = Browning AN/M3
 		stagingEnabled = True
 		EVENTS
@@ -20077,6 +21978,38 @@ PART
 	}
 	MODULE
 	{
+		name = KSPTextureSwitch
+		isEnabled = True
+		currentTextureSet = BDArmory_Browning_Default
+		persistentData = 0.9254902,0.9254902,0.9254902,0,0,1;0.9254902,0.9254902,0.9254902,0,0,1;0.9254902,0.9254902,0.9254902,0,0,1
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = SSTURecolorGUI
+		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
 		name = GeometryPartModule
 		isEnabled = True
 		stagingEnabled = True
@@ -20152,6 +22085,22 @@ PART
 	}
 	MODULE
 	{
+		name = KOSNameTag
+		isEnabled = False
+		nameTag = 
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
 		name = ShipEffectsCollisions
 		isEnabled = True
 		stagingEnabled = True
@@ -20188,11 +22137,26 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (1.17576325, 6.8825984, 0.476822525)
+		originalPos = (1.17576325, 6.8825984, 0.476822764)
 		originalRotation = (1.00000012, -4.95224981E-07, 6.53699317E-13, -2.11596489E-06)
 		moduleVersion = 6
 		stagingEnabled = True
 		userReallyDeactivatedIt = False
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleIREditorHelper
+		isEnabled = True
+		stagingEnabled = True
 		EVENTS
 		{
 		}
@@ -20209,7 +22173,7 @@ PART
 	part = bahaBrowningAnm2_4291565228
 	partName = Part
 	persistentId = 126773718
-	pos = -1.37177527,6.88259792,0.53853935
+	pos = -1.37177527,6.88259792,0.538539588
 	attPos = 0,0,0
 	attPos0 = -0.117351308,0.644546688,0.117401563
 	rot = 1.00000012,4.95225038E-07,-6.82121026E-13,-2.11596489E-06
@@ -20293,6 +22257,7 @@ PART
 		name = ModuleWeapon
 		isEnabled = True
 		WeaponDisplayName = Browning AN/M3
+		customTurretID = 0
 		priority = 0
 		BurstOverride = False
 		fireBurstLength = 1
@@ -20321,6 +22286,7 @@ PART
 		engageMissile = True
 		engageGround = True
 		engageSLW = True
+		weaponChannel = 0
 		shortName = Browning AN/M3
 		stagingEnabled = True
 		EVENTS
@@ -20441,6 +22407,38 @@ PART
 	}
 	MODULE
 	{
+		name = KSPTextureSwitch
+		isEnabled = True
+		currentTextureSet = BDArmory_Browning_Default
+		persistentData = 0.9254902,0.9254902,0.9254902,0,0,1;0.9254902,0.9254902,0.9254902,0,0,1;0.9254902,0.9254902,0.9254902,0,0,1
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = SSTURecolorGUI
+		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
 		name = GeometryPartModule
 		isEnabled = True
 		stagingEnabled = True
@@ -20516,6 +22514,22 @@ PART
 	}
 	MODULE
 	{
+		name = KOSNameTag
+		isEnabled = False
+		nameTag = 
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
 		name = ShipEffectsCollisions
 		isEnabled = True
 		stagingEnabled = True
@@ -20552,11 +22566,26 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (-1.37177527, 6.88259792, 0.53853935)
+		originalPos = (-1.37177527, 6.88259792, 0.538539588)
 		originalRotation = (1.00000012, 4.95225038E-07, -6.82121026E-13, -2.11596489E-06)
 		moduleVersion = 6
 		stagingEnabled = True
 		userReallyDeactivatedIt = False
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleIREditorHelper
+		isEnabled = True
+		stagingEnabled = True
 		EVENTS
 		{
 		}
@@ -20573,7 +22602,7 @@ PART
 	part = bahaBrowningAnm2_4291565132
 	partName = Part
 	persistentId = 3488645027
-	pos = 1.37177527,6.88259792,0.538539171
+	pos = 1.37177527,6.88259792,0.53853941
 	attPos = 0,0,0
 	attPos0 = -0.117351271,0.644546628,-0.117401727
 	rot = 1.00000012,-4.95224981E-07,6.53699317E-13,-2.11596489E-06
@@ -20657,6 +22686,7 @@ PART
 		name = ModuleWeapon
 		isEnabled = True
 		WeaponDisplayName = Browning AN/M3
+		customTurretID = 0
 		priority = 0
 		BurstOverride = False
 		fireBurstLength = 1
@@ -20685,6 +22715,7 @@ PART
 		engageMissile = True
 		engageGround = True
 		engageSLW = True
+		weaponChannel = 0
 		shortName = Browning AN/M3
 		stagingEnabled = True
 		EVENTS
@@ -20805,6 +22836,38 @@ PART
 	}
 	MODULE
 	{
+		name = KSPTextureSwitch
+		isEnabled = True
+		currentTextureSet = BDArmory_Browning_Default
+		persistentData = 0.9254902,0.9254902,0.9254902,0,0,1;0.9254902,0.9254902,0.9254902,0,0,1;0.9254902,0.9254902,0.9254902,0,0,1
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = SSTURecolorGUI
+		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
 		name = GeometryPartModule
 		isEnabled = True
 		stagingEnabled = True
@@ -20880,6 +22943,22 @@ PART
 	}
 	MODULE
 	{
+		name = KOSNameTag
+		isEnabled = False
+		nameTag = 
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
 		name = ShipEffectsCollisions
 		isEnabled = True
 		stagingEnabled = True
@@ -20916,11 +22995,26 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (1.37177527, 6.88259792, 0.538539171)
+		originalPos = (1.37177527, 6.88259792, 0.53853941)
 		originalRotation = (1.00000012, -4.95224981E-07, 6.53699317E-13, -2.11596489E-06)
 		moduleVersion = 6
 		stagingEnabled = True
 		userReallyDeactivatedIt = False
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleIREditorHelper
+		isEnabled = True
+		stagingEnabled = True
 		EVENTS
 		{
 		}
@@ -20937,7 +23031,7 @@ PART
 	part = bahaBrowningAnm2_4291564744
 	partName = Part
 	persistentId = 1279368776
-	pos = -1.5488261,6.88259792,0.493976027
+	pos = -1.5488261,6.88259792,0.493976325
 	attPos = 0,0,0
 	attPos0 = -0.294402122,0.59998256,0.1174016
 	rot = 1.00000012,4.95225038E-07,-6.82121026E-13,-2.11596489E-06
@@ -21021,6 +23115,7 @@ PART
 		name = ModuleWeapon
 		isEnabled = True
 		WeaponDisplayName = Browning AN/M3
+		customTurretID = 0
 		priority = 0
 		BurstOverride = False
 		fireBurstLength = 1
@@ -21049,6 +23144,7 @@ PART
 		engageMissile = True
 		engageGround = True
 		engageSLW = True
+		weaponChannel = 0
 		shortName = Browning AN/M3
 		stagingEnabled = True
 		EVENTS
@@ -21169,6 +23265,38 @@ PART
 	}
 	MODULE
 	{
+		name = KSPTextureSwitch
+		isEnabled = True
+		currentTextureSet = BDArmory_Browning_Default
+		persistentData = 0.9254902,0.9254902,0.9254902,0,0,1;0.9254902,0.9254902,0.9254902,0,0,1;0.9254902,0.9254902,0.9254902,0,0,1
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = SSTURecolorGUI
+		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
 		name = GeometryPartModule
 		isEnabled = True
 		stagingEnabled = True
@@ -21244,6 +23372,22 @@ PART
 	}
 	MODULE
 	{
+		name = KOSNameTag
+		isEnabled = False
+		nameTag = 
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
 		name = ShipEffectsCollisions
 		isEnabled = True
 		stagingEnabled = True
@@ -21280,11 +23424,26 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (-1.5488261, 6.88259792, 0.493976027)
+		originalPos = (-1.5488261, 6.88259792, 0.493976325)
 		originalRotation = (1.00000012, 4.95225038E-07, -6.82121026E-13, -2.11596489E-06)
 		moduleVersion = 6
 		stagingEnabled = True
 		userReallyDeactivatedIt = False
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleIREditorHelper
+		isEnabled = True
+		stagingEnabled = True
 		EVENTS
 		{
 		}
@@ -21301,7 +23460,7 @@ PART
 	part = bahaBrowningAnm2_4291564560
 	partName = Part
 	persistentId = 1706340995
-	pos = 1.5488261,6.88259792,0.493974984
+	pos = 1.5488261,6.88259792,0.493975222
 	attPos = 0,0,0
 	attPos0 = -0.294402063,0.59998244,-0.117401741
 	rot = 1.00000012,-4.95224981E-07,6.53699317E-13,-2.11596489E-06
@@ -21385,6 +23544,7 @@ PART
 		name = ModuleWeapon
 		isEnabled = True
 		WeaponDisplayName = Browning AN/M3
+		customTurretID = 0
 		priority = 0
 		BurstOverride = False
 		fireBurstLength = 1
@@ -21413,6 +23573,7 @@ PART
 		engageMissile = True
 		engageGround = True
 		engageSLW = True
+		weaponChannel = 0
 		shortName = Browning AN/M3
 		stagingEnabled = True
 		EVENTS
@@ -21533,6 +23694,38 @@ PART
 	}
 	MODULE
 	{
+		name = KSPTextureSwitch
+		isEnabled = True
+		currentTextureSet = BDArmory_Browning_Default
+		persistentData = 0.9254902,0.9254902,0.9254902,0,0,1;0.9254902,0.9254902,0.9254902,0,0,1;0.9254902,0.9254902,0.9254902,0,0,1
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = SSTURecolorGUI
+		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
 		name = GeometryPartModule
 		isEnabled = True
 		stagingEnabled = True
@@ -21608,6 +23801,22 @@ PART
 	}
 	MODULE
 	{
+		name = KOSNameTag
+		isEnabled = False
+		nameTag = 
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
 		name = ShipEffectsCollisions
 		isEnabled = True
 		stagingEnabled = True
@@ -21644,11 +23853,26 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (1.5488261, 6.88259792, 0.493974984)
+		originalPos = (1.5488261, 6.88259792, 0.493975222)
 		originalRotation = (1.00000012, -4.95224981E-07, 6.53699317E-13, -2.11596489E-06)
 		moduleVersion = 6
 		stagingEnabled = True
 		userReallyDeactivatedIt = False
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleIREditorHelper
+		isEnabled = True
+		stagingEnabled = True
 		EVENTS
 		{
 		}
@@ -21664,8 +23888,8 @@ PART
 {
 	part = SurfAntenna_4291688132
 	partName = Part
-	persistentId = 3591407425
-	pos = 0.466004819,7.39529371,0.571573913
+	persistentId = 3767053966
+	pos = 0.466004819,7.39529371,0.571574152
 	attPos = 0,0,0
 	attPos0 = 0.466004819,0.571570337,-0.395293832
 	rot = -0.653281569,-0.270598054,-0.653281569,0.270598054
@@ -21804,7 +24028,7 @@ PART
 	{
 		name = HitpointTracker
 		isEnabled = True
-		Hitpoints = 100
+		Hitpoints = 75
 		Armor = 10
 		ArmorRemaining = 100
 		ArmorTypeNum = 1
@@ -21921,6 +24145,53 @@ PART
 	}
 	MODULE
 	{
+		name = ModuleControllableEmissive
+		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleDataTransmitterIndicator
+		isEnabled = True
+		isUiEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = KOSNameTag
+		isEnabled = False
+		nameTag = 
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
 		name = AntennaFailureModule
 		isEnabled = True
 		originalPower = 0
@@ -22018,9 +24289,25 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 3591407425
+		id = 3767053966
 		TimesRecovered = 0
 		Inventoried = False
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = PlannerController
+		isEnabled = True
+		considered = True
 		stagingEnabled = True
 		EVENTS
 		{
@@ -22037,11 +24324,26 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (0.466004819, 7.39529371, 0.571573913)
+		originalPos = (0.466004819, 7.39529371, 0.571574152)
 		originalRotation = (-0.653281569, -0.270598054, -0.653281569, 0.270598054)
 		moduleVersion = 6
 		stagingEnabled = True
 		userReallyDeactivatedIt = False
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleIREditorHelper
+		isEnabled = True
+		stagingEnabled = True
 		EVENTS
 		{
 		}
@@ -22058,10 +24360,10 @@ PART
 	part = mumech.hullcam_4291537422
 	partName = Part
 	persistentId = 620918818
-	pos = 1.05442393,6.91975784,0.893995762
+	pos = 1.05442393,6.91975784,0.893996179
 	attPos = 0.274245203,-0.0684127808,-0.0603475943
 	attPos0 = -0.0742451996,1.06841338,-0.0198940169
-	rot = 1.49205023E-14,1.00000012,0,3.7834607E-14
+	rot = 1.61765759E-14,1.00000012,0,4.03467543E-14
 	attRot = 0,0,0,1
 	attRot0 = 0.707106948,1.12382237E-08,-1.12382166E-08,0.707106709
 	mir = 1,1,1
@@ -22238,7 +24540,7 @@ PART
 	{
 		name = HitpointTracker
 		isEnabled = True
-		Hitpoints = 100
+		Hitpoints = 25
 		Armor = 10
 		ArmorRemaining = 100
 		ArmorTypeNum = 1
@@ -22362,6 +24664,22 @@ PART
 	}
 	MODULE
 	{
+		name = KOSNameTag
+		isEnabled = False
+		nameTag = 
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
 		name = ShipEffectsCollisions
 		isEnabled = True
 		stagingEnabled = True
@@ -22398,11 +24716,26 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (1.05442393, 6.91975784, 0.893995762)
-		originalRotation = (1.49205023E-14, 1.00000012, 0, 3.7834607E-14)
+		originalPos = (1.05442393, 6.91975784, 0.893996179)
+		originalRotation = (1.61765759E-14, 1.00000012, 0, 4.03467543E-14)
 		moduleVersion = 6
 		stagingEnabled = True
 		userReallyDeactivatedIt = False
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleIREditorHelper
+		isEnabled = True
+		stagingEnabled = True
 		EVENTS
 		{
 		}
@@ -22418,8 +24751,8 @@ PART
 {
 	part = KAXradialPropLC_4291248676
 	partName = Part
-	persistentId = 3101962397
-	pos = 0,7,1.79385567
+	persistentId = 3115158998
+	pos = 0,7,1.79385662
 	attPos = 0,0,0
 	attPos0 = 0,0.982200265,-1.1920929E-07
 	rot = 0.707106829,0,0,0.707106829
@@ -22699,8 +25032,8 @@ PART
 	{
 		name = FundsKeeper
 		isEnabled = True
-		OriginalCost = 1275
-		OriginalResourcesCost = 0
+		OriginalCost = 1275.00000
+		OriginalResourcesCost = 0.00000
 		OriginalModulesCost = 0
 		stagingEnabled = True
 		EVENTS
@@ -22926,6 +25259,22 @@ PART
 	}
 	MODULE
 	{
+		name = KOSNameTag
+		isEnabled = False
+		nameTag = 
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
 		name = AlternatorFailureModule
 		isEnabled = True
 		launched = False
@@ -23055,9 +25404,26 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 3101962397
+		id = 3115158998
 		TimesRecovered = 0
 		Inventoried = False
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = AtmosphericIntake
+		isEnabled = True
+		finalAir = 0
+		intakeOpen = True
 		stagingEnabled = True
 		EVENTS
 		{
@@ -23090,7 +25456,7 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (0, 7, 1.79385567)
+		originalPos = (0, 7, 1.79385662)
 		originalRotation = (0.707106829, 0, 0, 0.707106829)
 		moduleVersion = 6
 		stagingEnabled = True
@@ -23099,6 +25465,21 @@ PART
 		originalAttachNodeSize = 0
 		originalAttachNodeOrientation = (0.0, -1.0, 0.0)
 		originalAttachNodeOffset = (0.0, 0.0, 0.0)
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleIREditorHelper
+		isEnabled = True
+		stagingEnabled = True
 		EVENTS
 		{
 		}
@@ -23151,7 +25532,7 @@ PART
 	pos = -1,7,0.0116438875
 	attPos = 0.349563122,-0.798670411,1.18277967E-07
 	attPos0 = -1.34956312,-0.0013294816,0
-	rot = -0.702578306,0.079899624,-0.0798995793,-0.702578187
+	rot = -0.702578306,0.0798996165,-0.0798995718,-0.702578187
 	attRot = 0,0,0,1
 	attRot0 = -8.94069601E-08,3.35276091E-08,-0.112995237,-0.9935956
 	mir = 1,1,1
@@ -23422,6 +25803,22 @@ PART
 	}
 	MODULE
 	{
+		name = KOSNameTag
+		isEnabled = False
+		nameTag = 
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
 		name = ShipEffectsCollisions
 		isEnabled = True
 		stagingEnabled = True
@@ -23482,10 +25879,25 @@ PART
 		isEnabled = True
 		active = True
 		originalPos = (-1, 7, 0.0116438875)
-		originalRotation = (-0.702578306, 0.079899624, -0.0798995793, -0.702578187)
+		originalRotation = (-0.702578306, 0.0798996165, -0.0798995718, -0.702578187)
 		moduleVersion = 6
 		stagingEnabled = True
 		userReallyDeactivatedIt = False
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleIREditorHelper
+		isEnabled = True
+		stagingEnabled = True
 		EVENTS
 		{
 		}
@@ -23776,6 +26188,22 @@ PART
 	}
 	MODULE
 	{
+		name = KOSNameTag
+		isEnabled = False
+		nameTag = 
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
 		name = ShipEffectsCollisions
 		isEnabled = True
 		stagingEnabled = True
@@ -23850,13 +26278,28 @@ PART
 		{
 		}
 	}
+	MODULE
+	{
+		name = ModuleIREditorHelper
+		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
 }
 PART
 {
 	part = baha50CalAmmo_4291025410
 	partName = Part
-	persistentId = 1062591875
-	pos = -0.200000003,6.79999971,-1.2111361
+	persistentId = 2904243019
+	pos = -0.200000003,6.79999971,-1.21113658
 	attPos = 0.381105721,0.0880200863,-0.135501385
 	attPos0 = -0.581105709,0.71197927,0.335501552
 	rot = 0.866025448,-0.5,-8.94069672E-08,8.94069672E-08
@@ -24067,6 +26510,38 @@ PART
 	}
 	MODULE
 	{
+		name = KSPTextureSwitch
+		isEnabled = True
+		currentTextureSet = BDArmory_Ammo50_Default
+		persistentData = 0.9254902,0.9254902,0.9254902,0,0,1;0.9254902,0.9254902,0.9254902,0,0,1;0.9254902,0.9254902,0.9254902,0,0,1
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = SSTURecolorGUI
+		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
 		name = GeometryPartModule
 		isEnabled = True
 		stagingEnabled = True
@@ -24142,6 +26617,22 @@ PART
 	}
 	MODULE
 	{
+		name = KOSNameTag
+		isEnabled = False
+		nameTag = 
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
 		name = TankFailureModule
 		isEnabled = True
 		leakingName = None
@@ -24199,7 +26690,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 1062591875
+		id = 2904243019
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -24218,11 +26709,26 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (-0.200000003, 6.79999971, -1.2111361)
+		originalPos = (-0.200000003, 6.79999971, -1.21113658)
 		originalRotation = (0.866025448, -0.5, -8.94069672E-08, 8.94069672E-08)
 		moduleVersion = 6
 		stagingEnabled = True
 		userReallyDeactivatedIt = False
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleIREditorHelper
+		isEnabled = True
+		stagingEnabled = True
 		EVENTS
 		{
 		}
@@ -24249,8 +26755,8 @@ PART
 {
 	part = baha50CalAmmo_4291024284
 	partName = Part
-	persistentId = 3252288433
-	pos = 0.200000003,6.79999971,-1.21113634
+	persistentId = 2101188644
+	pos = 0.200000003,6.79999971,-1.21113682
 	attPos = -0.381105721,0.0880199671,-0.135501385
 	attPos0 = 0.581105709,0.711979151,0.335501552
 	rot = 0.866025448,0.5,8.94069672E-08,8.94069672E-08
@@ -24461,6 +26967,38 @@ PART
 	}
 	MODULE
 	{
+		name = KSPTextureSwitch
+		isEnabled = True
+		currentTextureSet = BDArmory_Ammo50_Default
+		persistentData = 0.9254902,0.9254902,0.9254902,0,0,1;0.9254902,0.9254902,0.9254902,0,0,1;0.9254902,0.9254902,0.9254902,0,0,1
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = SSTURecolorGUI
+		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
 		name = GeometryPartModule
 		isEnabled = True
 		stagingEnabled = True
@@ -24536,6 +27074,22 @@ PART
 	}
 	MODULE
 	{
+		name = KOSNameTag
+		isEnabled = False
+		nameTag = 
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
 		name = TankFailureModule
 		isEnabled = True
 		leakingName = None
@@ -24593,7 +27147,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 3252288433
+		id = 2101188644
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -24612,11 +27166,26 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (0.200000003, 6.79999971, -1.21113634)
+		originalPos = (0.200000003, 6.79999971, -1.21113682)
 		originalRotation = (0.866025448, 0.5, 8.94069672E-08, 8.94069672E-08)
 		moduleVersion = 6
 		stagingEnabled = True
 		userReallyDeactivatedIt = False
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleIREditorHelper
+		isEnabled = True
+		stagingEnabled = True
 		EVENTS
 		{
 		}
@@ -24643,8 +27212,8 @@ PART
 {
 	part = baha50CalAmmo_4291023796
 	partName = Part
-	persistentId = 1246194567
-	pos = -0.200000003,6.79999971,-1.81114125
+	persistentId = 1361221823
+	pos = -0.200000003,6.79999971,-1.81114221
 	attPos = 0.371131122,0.0390441418,-0.129742146
 	attPos0 = -0.57113111,0.160954952,0.329742432
 	rot = 0.866025448,-0.5,-8.94069672E-08,8.94069672E-08
@@ -24855,6 +27424,38 @@ PART
 	}
 	MODULE
 	{
+		name = KSPTextureSwitch
+		isEnabled = True
+		currentTextureSet = BDArmory_Ammo50_Default
+		persistentData = 0.9254902,0.9254902,0.9254902,0,0,1;0.9254902,0.9254902,0.9254902,0,0,1;0.9254902,0.9254902,0.9254902,0,0,1
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = SSTURecolorGUI
+		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
 		name = GeometryPartModule
 		isEnabled = True
 		stagingEnabled = True
@@ -24930,6 +27531,22 @@ PART
 	}
 	MODULE
 	{
+		name = KOSNameTag
+		isEnabled = False
+		nameTag = 
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
 		name = TankFailureModule
 		isEnabled = True
 		leakingName = None
@@ -24987,7 +27604,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 1246194567
+		id = 1361221823
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -25006,11 +27623,26 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (-0.200000003, 6.79999971, -1.81114125)
+		originalPos = (-0.200000003, 6.79999971, -1.81114221)
 		originalRotation = (0.866025448, -0.5, -8.94069672E-08, 8.94069672E-08)
 		moduleVersion = 6
 		stagingEnabled = True
 		userReallyDeactivatedIt = False
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleIREditorHelper
+		isEnabled = True
+		stagingEnabled = True
 		EVENTS
 		{
 		}
@@ -25037,8 +27669,8 @@ PART
 {
 	part = baha50CalAmmo_4291023134
 	partName = Part
-	persistentId = 4208353151
-	pos = 0.200000003,6.79999971,-1.81114173
+	persistentId = 2027503942
+	pos = 0.200000003,6.79999971,-1.81114268
 	attPos = -0.371131122,0.0390437841,-0.129742265
 	attPos0 = 0.57113111,0.160954833,0.329742551
 	rot = 0.866025448,0.5,8.94069672E-08,8.94069672E-08
@@ -25249,6 +27881,38 @@ PART
 	}
 	MODULE
 	{
+		name = KSPTextureSwitch
+		isEnabled = True
+		currentTextureSet = BDArmory_Ammo50_Default
+		persistentData = 0.9254902,0.9254902,0.9254902,0,0,1;0.9254902,0.9254902,0.9254902,0,0,1;0.9254902,0.9254902,0.9254902,0,0,1
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = SSTURecolorGUI
+		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
 		name = GeometryPartModule
 		isEnabled = True
 		stagingEnabled = True
@@ -25324,6 +27988,22 @@ PART
 	}
 	MODULE
 	{
+		name = KOSNameTag
+		isEnabled = False
+		nameTag = 
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
 		name = TankFailureModule
 		isEnabled = True
 		leakingName = None
@@ -25381,7 +28061,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 4208353151
+		id = 2027503942
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -25400,11 +28080,26 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (0.200000003, 6.79999971, -1.81114173)
+		originalPos = (0.200000003, 6.79999971, -1.81114268)
 		originalRotation = (0.866025448, 0.5, 8.94069672E-08, 8.94069672E-08)
 		moduleVersion = 6
 		stagingEnabled = True
 		userReallyDeactivatedIt = False
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleIREditorHelper
+		isEnabled = True
+		stagingEnabled = True
 		EVENTS
 		{
 		}
@@ -25431,8 +28126,8 @@ PART
 {
 	part = batteryPack_4290220278
 	partName = Part
-	persistentId = 375730649
-	pos = -1.50987152E-08,6.82404757,-3.8897748
+	persistentId = 2017825462
+	pos = -1.50987152E-08,6.82404757,-3.88977671
 	attPos = -1.50987152E-08,0.0623664856,-0.172697544
 	attPos0 = 0,-0.0621027946,0.348649979
 	rot = -2.51181902E-08,0.574597538,0.818436205,-3.57774326E-08
@@ -25450,7 +28145,7 @@ PART
 	sepI = -1
 	attm = 1
 	sameVesselCollision = False
-	modCost = 0
+	modCost = 1.09849498E-06
 	modMass = 0
 	modSize = 0,0,0
 	srfN = srfAttach,FSoblongTail_4291882032,Cylinder_001,0|0|0,0|0|-1,0|0|0
@@ -25535,9 +28230,9 @@ PART
 	{
 		name = FundsKeeper
 		isEnabled = True
-		OriginalCost = 80
-		OriginalResourcesCost = 0
-		OriginalModulesCost = 0
+		OriginalCost = 80.002001098495
+		OriginalResourcesCost = 0.00200
+		OriginalModulesCost = 0.000001098495
 		stagingEnabled = True
 		EVENTS
 		{
@@ -25569,7 +28264,7 @@ PART
 	{
 		name = HitpointTracker
 		isEnabled = True
-		Hitpoints = 100
+		Hitpoints = 25
 		Armor = 10
 		ArmorRemaining = 100
 		ArmorTypeNum = 1
@@ -25701,6 +28396,53 @@ PART
 	}
 	MODULE
 	{
+		name = ModuleControllableEmissive
+		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleResourceLevelIndicator
+		isEnabled = True
+		isUiEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleResourceEnabledIndicator
+		isEnabled = True
+		isUiEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
 		name = ModuleKerbalKrashSystem_Leak
 		isEnabled = True
 		stagingEnabled = True
@@ -25718,6 +28460,22 @@ PART
 	{
 		name = ModuleKerbalKrashSystem_Repair
 		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = KOSNameTag
+		isEnabled = False
+		nameTag = 
 		stagingEnabled = True
 		EVENTS
 		{
@@ -25811,7 +28569,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 375730649
+		id = 2017825462
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -25830,11 +28588,26 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (-1.50987152E-08, 6.82404757, -3.8897748)
+		originalPos = (-1.50987152E-08, 6.82404757, -3.88977671)
 		originalRotation = (-2.51181902E-08, 0.574597538, 0.818436205, -3.57774326E-08)
 		moduleVersion = 6
 		stagingEnabled = True
 		userReallyDeactivatedIt = False
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleIREditorHelper
+		isEnabled = True
+		stagingEnabled = True
 		EVENTS
 		{
 		}
@@ -25861,8 +28634,8 @@ PART
 {
 	part = batteryPack_4290219340
 	partName = Part
-	persistentId = 3787465603
-	pos = -1.54289364E-08,6.95417166,-4.23689604
+	persistentId = 1934162025
+	pos = -1.54289364E-08,6.95417166,-4.23689795
 	attPos = -1.54289364E-08,0.0637326241,-0.176474571
 	attPos0 = 0,-0.410590172,0.222302914
 	rot = -2.51181902E-08,0.574597538,0.818436205,-3.57774326E-08
@@ -25880,7 +28653,7 @@ PART
 	sepI = -1
 	attm = 1
 	sameVesselCollision = False
-	modCost = 0
+	modCost = 1.09849498E-06
 	modMass = 0
 	modSize = 0,0,0
 	srfN = srfAttach,FSoblongTail_4291882032,Cylinder_001,0|0|0,0|0|-1,0|0|0
@@ -25965,9 +28738,9 @@ PART
 	{
 		name = FundsKeeper
 		isEnabled = True
-		OriginalCost = 80
-		OriginalResourcesCost = 0
-		OriginalModulesCost = 0
+		OriginalCost = 80.002001098495
+		OriginalResourcesCost = 0.00200
+		OriginalModulesCost = 0.000001098495
 		stagingEnabled = True
 		EVENTS
 		{
@@ -25999,7 +28772,7 @@ PART
 	{
 		name = HitpointTracker
 		isEnabled = True
-		Hitpoints = 100
+		Hitpoints = 25
 		Armor = 10
 		ArmorRemaining = 100
 		ArmorTypeNum = 1
@@ -26131,6 +28904,53 @@ PART
 	}
 	MODULE
 	{
+		name = ModuleControllableEmissive
+		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleResourceLevelIndicator
+		isEnabled = True
+		isUiEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleResourceEnabledIndicator
+		isEnabled = True
+		isUiEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
 		name = ModuleKerbalKrashSystem_Leak
 		isEnabled = True
 		stagingEnabled = True
@@ -26148,6 +28968,22 @@ PART
 	{
 		name = ModuleKerbalKrashSystem_Repair
 		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = KOSNameTag
+		isEnabled = False
+		nameTag = 
 		stagingEnabled = True
 		EVENTS
 		{
@@ -26241,7 +29077,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 3787465603
+		id = 1934162025
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -26260,11 +29096,26 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (-1.54289364E-08, 6.95417166, -4.23689604)
+		originalPos = (-1.54289364E-08, 6.95417166, -4.23689795)
 		originalRotation = (-2.51181902E-08, 0.574597538, 0.818436205, -3.57774326E-08)
 		moduleVersion = 6
 		stagingEnabled = True
 		userReallyDeactivatedIt = False
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleIREditorHelper
+		isEnabled = True
+		stagingEnabled = True
 		EVENTS
 		{
 		}
@@ -26292,7 +29143,7 @@ PART
 	part = FS.BiplaneWingShort_4290021392
 	partName = Part
 	persistentId = 293318576
-	pos = -0.542068779,7.04932499,-0.492596805
+	pos = -0.542068779,7.04932499,-0.492597044
 	attPos = 0.712029159,0.568422437,-5.96046448E-08
 	attPos0 = -1.25409794,-1.06101811,-0.0493248701
 	rot = -0.691251099,-0.148903057,0.148902878,-0.69125098
@@ -26566,6 +29417,22 @@ PART
 	}
 	MODULE
 	{
+		name = KOSNameTag
+		isEnabled = False
+		nameTag = 
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
 		name = ShipEffectsCollisions
 		isEnabled = True
 		stagingEnabled = True
@@ -26625,11 +29492,26 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (-0.542068779, 7.04932499, -0.492596805)
+		originalPos = (-0.542068779, 7.04932499, -0.492597044)
 		originalRotation = (-0.691251099, -0.148903057, 0.148902878, -0.69125098)
 		moduleVersion = 6
 		stagingEnabled = True
 		userReallyDeactivatedIt = False
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleIREditorHelper
+		isEnabled = True
+		stagingEnabled = True
 		EVENTS
 		{
 		}
@@ -26646,7 +29528,7 @@ PART
 	part = FS.BiplaneWingShort_4290020698
 	partName = Part
 	persistentId = 1911082531
-	pos = 0.542068779,7.04932499,-0.492596984
+	pos = 0.542068779,7.04932499,-0.492597222
 	attPos = -0.712029159,0.568422377,-5.96046448E-08
 	attPos0 = 1.25409794,-1.06101823,-0.0493248701
 	rot = -0.148902819,0.69125092,0.691251159,0.148902968
@@ -26920,6 +29802,22 @@ PART
 	}
 	MODULE
 	{
+		name = KOSNameTag
+		isEnabled = False
+		nameTag = 
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
 		name = ShipEffectsCollisions
 		isEnabled = True
 		stagingEnabled = True
@@ -26979,11 +29877,26 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (0.542068779, 7.04932499, -0.492596984)
+		originalPos = (0.542068779, 7.04932499, -0.492597222)
 		originalRotation = (-0.148902819, 0.69125092, 0.691251159, 0.148902968)
 		moduleVersion = 6
 		stagingEnabled = True
 		userReallyDeactivatedIt = False
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleIREditorHelper
+		isEnabled = True
+		stagingEnabled = True
 		EVENTS
 		{
 		}
@@ -27274,6 +30187,22 @@ PART
 	}
 	MODULE
 	{
+		name = KOSNameTag
+		isEnabled = False
+		nameTag = 
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
 		name = ShipEffectsCollisions
 		isEnabled = True
 		stagingEnabled = True
@@ -27338,6 +30267,21 @@ PART
 		moduleVersion = 6
 		stagingEnabled = True
 		userReallyDeactivatedIt = False
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleIREditorHelper
+		isEnabled = True
+		stagingEnabled = True
 		EVENTS
 		{
 		}
@@ -27628,6 +30572,22 @@ PART
 	}
 	MODULE
 	{
+		name = KOSNameTag
+		isEnabled = False
+		nameTag = 
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
 		name = ShipEffectsCollisions
 		isEnabled = True
 		stagingEnabled = True
@@ -27702,13 +30662,28 @@ PART
 		{
 		}
 	}
+	MODULE
+	{
+		name = ModuleIREditorHelper
+		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
 }
 PART
 {
 	part = kerbalism-container-radial-box-prosemian-small_4289188138
 	partName = Part
 	persistentId = 1605928341
-	pos = -0.464578837,7.26822472,0.349639207
+	pos = -0.464578837,7.26822472,0.349639326
 	attPos = 0,0,0
 	attPos0 = -0.464578837,0.349638671,-0.268224746
 	rot = -0.183012873,-0.683012664,0.183012724,-0.683012843
@@ -27857,7 +30832,7 @@ PART
 	{
 		name = HitpointTracker
 		isEnabled = True
-		Hitpoints = 100
+		Hitpoints = 25
 		Armor = 10
 		ArmorRemaining = 100
 		ArmorTypeNum = 1
@@ -27998,6 +30973,22 @@ PART
 	}
 	MODULE
 	{
+		name = KOSNameTag
+		isEnabled = False
+		nameTag = 
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
 		name = ShipEffectsCollisions
 		isEnabled = True
 		stagingEnabled = True
@@ -28049,11 +31040,26 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (-0.464578837, 7.26822472, 0.349639207)
+		originalPos = (-0.464578837, 7.26822472, 0.349639326)
 		originalRotation = (-0.183012873, -0.683012664, 0.183012724, -0.683012843)
 		moduleVersion = 6
 		stagingEnabled = True
 		userReallyDeactivatedIt = False
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleIREditorHelper
+		isEnabled = True
+		stagingEnabled = True
 		EVENTS
 		{
 		}
@@ -28092,7 +31098,7 @@ PART
 	part = KAS.JS1_4290439566
 	partName = Part
 	persistentId = 666624278
-	pos = 0,6.34034824,0.683791995
+	pos = 0,6.34034824,0.683792233
 	attPos = 0,0,0
 	attPos0 = 0,-0.127857149,0.659651875
 	rot = 1.00000012,0,0,-2.38418579E-07
@@ -28283,7 +31289,7 @@ PART
 	{
 		name = HitpointTracker
 		isEnabled = True
-		Hitpoints = 100
+		Hitpoints = 25
 		Armor = 10
 		ArmorRemaining = 100
 		ArmorTypeNum = 1
@@ -28407,6 +31413,22 @@ PART
 	}
 	MODULE
 	{
+		name = KOSNameTag
+		isEnabled = False
+		nameTag = 
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
 		name = ShipEffectsCollisions
 		isEnabled = True
 		stagingEnabled = True
@@ -28443,7 +31465,7 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (0, 6.34034824, 0.683791995)
+		originalPos = (0, 6.34034824, 0.683792233)
 		originalRotation = (1.00000012, 0, 0, -2.38418579E-07)
 		moduleVersion = 6
 		stagingEnabled = True
@@ -28466,13 +31488,28 @@ PART
 		{
 		}
 	}
+	MODULE
+	{
+		name = ModuleIREditorHelper
+		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
 }
 PART
 {
 	part = ReleaseValve_4289376628
 	partName = Part
 	persistentId = 3056658651
-	pos = 0,6.37878847,-3.00084639
+	pos = 0,6.37878847,-3.00084829
 	attPos = 0,0,0
 	attPos0 = 0,0.889193058,0.621211529
 	rot = -3.0909014E-08,0.707106769,0.707106888,-3.09090069E-08
@@ -28665,7 +31702,7 @@ PART
 	{
 		name = HitpointTracker
 		isEnabled = True
-		Hitpoints = 100
+		Hitpoints = 50
 		Armor = 10
 		ArmorRemaining = 100
 		ArmorTypeNum = 1
@@ -28798,6 +31835,22 @@ PART
 	}
 	MODULE
 	{
+		name = KOSNameTag
+		isEnabled = False
+		nameTag = 
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
 		name = ShipEffectsCollisions
 		isEnabled = True
 		stagingEnabled = True
@@ -28834,11 +31887,26 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (0, 6.37878847, -3.00084639)
+		originalPos = (0, 6.37878847, -3.00084829)
 		originalRotation = (-3.0909014E-08, 0.707106769, 0.707106888, -3.09090069E-08)
 		moduleVersion = 6
 		stagingEnabled = True
 		userReallyDeactivatedIt = False
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleIREditorHelper
+		isEnabled = True
+		stagingEnabled = True
 		EVENTS
 		{
 		}
