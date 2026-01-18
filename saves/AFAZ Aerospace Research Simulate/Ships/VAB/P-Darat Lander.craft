@@ -1,4 +1,4 @@
-ship = Mondboden Lander
+ship = P-Darat Lander
 version = 1.12.5
 description = 
 type = VAB
@@ -12,12 +12,12 @@ OverrideDefault = False,False,False,False
 OverrideActionControl = 0,0,0,0
 OverrideAxisControl = 0,0,0,0
 OverrideGroupNames = ,,,
-_modVersions = Scale_Redist=2.4.8|ModuleManager=4.2.3|ClickThroughBlocker=2.1.10|0Harmony=2.2.1|HarmonyInstallChecker=2.2.1|KSPBurst=1.5.5|Microsoft.Extensions.FileSystemGlobbing=6.0.21|System.IO.Compression=4.6.57|System.IO.Compression.FileSystem=4.6.57|System.Runtime.CompilerServices.Unsafe=4.700.20|System.Runtime=4.0.0|Unity.Burst=0.0.0|Unity.Burst.Unsafe=1.0.0|Unity.Collections=0.0.0|Unity.Jobs=0.0.0|Unity.Mathematics=1.0.0|BlendshapeModelLoader=1.6.4|TexturesUnlimited=1.6.4|USITools=1.0.0|USIToolsUI=1.0.0|ToolbarControl=0.1.9|KSPe.Light.Recall=2.5.2|Attached=0.5.0|AttachedOnEditor=0.5.0|ChillingOut=0.5.0|Driftless=0.5.0|KSP-Recall=0.5.0|Refunding=0.5.0|Resourceful=0.5.0|SolverEngines=3.13.1|AJE=2.20.0|AnalogControl=2.1.3|ASETPropsIdentifier=1.5.0|Astrogator=1.0.2|AtmosphereAutopilot.UI=1.0.0|AtmosphereAutopilot=1.6.1|KSPe.Light.AviationLights=2.4.3|AviationLights=4.2.1|AAPartCategory=1.0.0|AviatorArsenal=1.0.0|B9PartSwitch=2.21.0|B9-PWings-Fork=0.46.1|BDAnimationModules=0.6.7|RNModules=1.2.1|BDArmory=1.12.0|BurstAtomicThrust=0.1.0|CameraTools=1.37.1|Chatterer=0.9.99|CCK=5.1.0|ContractConfigurator=2.12.0|CustomPreLaunchChecks=1.8.1|KerbalKonstructs=1.12.0|KerKonConConExt=2.0.0|CriticalTemperatureGauge=1.12.3|SimpleBoiloff=0.2.1|DeployableEngines=2.2.0|DestructionEffects=1.12.0|DistantObject=0.0.0|KSPe.Light.DOE=2.5.5|ContractParser=1.0.9|DockingFunctions=1.0.4|DynamicBatteryStorage=1.0.0|EasyVesselSwitch=2.3.7852|KSPDev_Utils.2.6-EVS=2.6.0|EngineLightRelit=1.6.3|Atmosphere=1.11.7|CelestialShadows=1.11.7|CityLights=1.11.7|EVEManager=1.11.7|PartFX=1.11.7|PQSManager=1.11.7|ShaderLoader=1.11.7|Terrain=1.11.7|TextureConfig=1.11.7|Utils=1.11.7|_BuildManager=1.11.7|FarFutureTechnologies=1.0.0|FerramAerospaceResearch.Base=0.16.1|ModularFlightIntegrator=1.2.10|FerramAerospaceResearch=0.16.1|ferramGraph=1.3.0|FieldTrainingLab=1.2.1|FireflyAPI=1.0.0|Firefly=1.0.5|FireflyInstallChecker=1.0.0|Firespitter=7.3.7660|FP_DockingSndFX=2.1.12|FreeIva=0.2.20|HangerExtenderExtended=3.6.1|G-Effects=1.0.0|HullcamVDSContinued=0.2.2|IndicatorLights=1.0.0|IRConnectionSystem=1.0.5|SigmaTweakChutes=1.0.0|Sigma88LoadingScreens=0.5.0|JSIAdvTransparentPods=0.1.24|JSIPartUtilities=0.5.0|RasterPropMonitor=1.0.2|KAS-API-v2=2.0.7239|KAS=1.12.8285|KSPDev_Utils.2.7=2.7.0|KAX=2.8.1|KSPe.Light.KAX=2.4.2|KerbalAnimationSuite=1.3.0|KerbalChangelog=1.4.2|KerbalChecklistDebug=1.0.0|KerbalCurrencyDisplay=1.0.0|KerbalEngineer.Unity=1.0.0|KerbalEngineer=1.1.9|KerbalFlightIndicators=0.20.0|KerbalismBootstrap=3.31.0|KerbalismLabExperimentsExpandedContinued=1.0.0|KerbalJointReinforcement=3.8.6|KerbalKrashSystem=1.0.0|KerbalKrashSystem_Leak=1.0.0|KerbalKrashSystem_Repair=1.0.0|KerbalKrashSystem_Science=1.0.0|VesselModuleSave=1.0.2|KerBalloons=0.6.0|KerbalWeatherProject=1.0.0|KIS=1.29.8039|KSPDev_Utils.2.6=2.6.7847|MiniAVC-V2=2.0.0|Kopernicus.Parser=1.0.0|SharpDX=4.2.0|SharpDX.DXGI=4.2.0|SharpDX.Direct3D11=4.2.0|KSPTextureLoader=0.0.19|Kopernicus=1.12.234|KEX-Common=1.0.0|KEX-EmissiveFX=1.0.0|KEX-EVAFootprints=1.0.0|KEX-RegionalPQSMods=1.0.0|KEX-VertexHeightDeformity=1.0.0|KEX-VertexHeightMap16=1.0.0|KEX-Wormholes=1.0.0|RunSharp=1.0.0|ICSharpCode.SharpZipLib=0.86.0|kOS=1.5.1|kOS.Safe=1.5.1|kOS-AddOns-Ferram=0.1.1|kOS-Astrogator=0.2.2|kOS-KerbalEngineer=0.1.1|KOS-Scansat=1.2.0|JsonFx=2.0.1209|kOSPropMonitor=1.7.3|KronalUtils=1.0.0|Kronometer=1.12.0|Google.Protobuf=3.10.1|KRPC.Core=0.5.4|KRPC=0.5.4|KRPC.DockingCamera=0.5.4|KRPC.Drawing=0.5.4|KRPC.InfernalRobotics=0.5.4|KRPC.IO.Ports=0.0.0|KRPC.KerbalAlarmClock=0.5.4|KRPC.LiDAR=0.5.4|KRPC.RemoteTech=0.5.4|KRPC.SpaceCenter=0.5.4|KRPC.UI=0.5.4|KSPCasher=0.3.0|0_MultipleModuleInPartAPI=1.0.0|KSPCommunityFixes=1.39.1|KSPIRC=0.19.0|KSPWheel=0.0.0|GroundProximity=0.3.3|LazyPainter=0.4.1|IRSurfaceSampler=1.0.1|InfernalRobotics_v3=3.1.17|alglib=1.0.0|MechJeb2=2.15.1|MechJebLib=1.0.0|MechJebLibBindings=1.0.0|AvionicsSystems=1.3.7|MoonSharp.Interpreter=2.0.0|MOAR_Units=1.0.0|MouseAimFlight=0.0.0|NavUtilLib=0.7.2|NavUtilRPM=0.7.2|DockingPortAlignmentIndicator=6.12.0|DPAI_RPM=1.0.0|ModuleDockingNodeNamed=1.1.0|NearFutureElectrical=1.0.0|NearFutureExploration=0.4.0|NFPropUtils=1.0.0|NearFuturePropulsion=0.9.0|NearFutureSolar=0.4.0|NearFutureUtils=0.0.0|FinalFrontier=1.0.0|OhScrap=2.2.0|Grass=0.0.0|ParallaxQualityLibrary=1.0.0|ParallaxOptimized=1.0.0|PatchManager=0.0.17|PhysicsRangeExtender=1.21.0|PilotAssistant=1.0.0|PlanetShine=0.2.6|KSP_Log=1.2.0|PreciseEditor=1.5.0|PreciseNode=1.2.12|ProbeControlRoomRecontrolled=1.4.0|ROUtils=1.1.1|ProceduralParts=2.8.0|RealAntennas=2.9.0|RealChute=1.4.9059|RealFuels=15.12.0|RealFuelsB9PSPatch=1.0.0|RealHeat=5.1.0|BackgroundResources=1.12.0|Restock=1.0.0|Reviva=1.0.2|RocketSoundEnhancement.Unity=1.0.0|RocketSoundEnhancement=0.9.11|RSSTimeFormatter=1.12.0|SCANsat=21.1.0|SCANmechjeb=21.1.0|SCANsat.Unity=21.1.0|scatterer=0.878.0|ScrapYard=2.2.1|ScrapYard_ContractConfigurator=2.2.1|Shabby=0.4.2|SmokeScreen=2.8.14|SpaceDust=0.5.4|ButtonManager=1.0.2|KSP_ColorPicker=1.1.1|KSP_PartHighlighter=1.1.1|SpaceTuxUtility=1.0.2|KSPSteamCtrlr=0.0.1|StagedAnimation=1.0.0|StateFundingContinued=0.6.19|HabUtils=1.0.0|StockAlarmClockDisabler=1.0.0|SystemHeat=0.1.0|TextureReplacer=4.5.3|ThroughTheEyes=2.0.4|KerbalAlarmClock=3.14.0|TrimIndicator=1.12.0|TUFX=1.1.1|KSPe.Light.TweakScale=2.5.4|Scale=2.4.8|TweakScale.WatchDog=2.4.8|TweakScaleCompanion=2025.12.12|TweakScaleCompanion_Frameworks=0.4.0|TweakScalerTestFlightCore=0.4.0|TweakScalerWaterfallFX=0.4.0|TweakScaleCompanion_FS=1.3.0|TweakScalerFSBuoyancy=1.3.0|TweakScaleCompanion_KIAS=1.1.0|TweakScalerKISInventory=1.1.0|TweakScaleCompanion_PKMC=2.2.1|VaporCones=1.0.0|VesselMover=1.12.0|VesselNotes=0.0.2|VesselView=0.8.9|VesselViewRPM=0.8.9|VVDiscoDisplay=0.8.9|VVPartSelector=0.8.9|Waterfall=0.10.2|WaypointManager=2.8.4|WhatDoINeed=0.0.4|WildBlueTools=1.0.0|KerbalActuators=1.0.0|WildBlueCore=1.0.0|Deferred=1.3.3|Kerbalism=3.31.0
+_modVersions = Scale_Redist=2.4.8|Interstellar_Redist=1.4.0|ModuleManager=4.2.3|ClickThroughBlocker=2.1.10|0Harmony=2.2.1|HarmonyInstallChecker=2.2.1|KSPBurst=1.5.5|Microsoft.Extensions.FileSystemGlobbing=6.0.21|System.IO.Compression=4.6.57|System.IO.Compression.FileSystem=4.6.57|System.Runtime.CompilerServices.Unsafe=4.700.20|System.Runtime=4.0.0|Unity.Burst=0.0.0|Unity.Burst.Unsafe=1.0.0|Unity.Collections=0.0.0|Unity.Jobs=0.0.0|Unity.Mathematics=1.0.0|BlendshapeModelLoader=1.6.4|TexturesUnlimited=1.6.4|USITools=1.0.0|USIToolsUI=1.0.0|ToolbarControl=0.1.9|KSPe.Light.Recall=2.5.2|Attached=0.5.0|AttachedOnEditor=0.5.0|ChillingOut=0.5.0|Driftless=0.5.0|KSP-Recall=0.5.0|Refunding=0.5.0|Resourceful=0.5.0|SolverEngines=3.13.1|AJE=2.20.0|AnalogControl=2.1.3|ASETPropsIdentifier=1.5.0|Astrogator=1.0.2|AtmosphereAutopilot.UI=1.0.0|AtmosphereAutopilot=1.6.1|KSPe.Light.AviationLights=2.4.3|AviationLights=4.2.1|AAPartCategory=1.0.0|AviatorArsenal=1.0.0|B9PartSwitch=2.21.0|B9-PWings-Fork=0.46.1|BDAnimationModules=0.6.7|RNModules=1.2.1|BDArmory=1.12.0|BurstAtomicThrust=0.1.0|CameraTools=1.37.1|Chatterer=0.9.99|CCK=5.1.0|ContractConfigurator=2.12.0|CustomPreLaunchChecks=1.8.1|KerbalKonstructs=1.12.0|KerKonConConExt=2.0.0|CriticalTemperatureGauge=1.12.3|SimpleBoiloff=0.2.1|DeployableEngines=2.2.0|DestructionEffects=1.12.0|DistantObject=0.0.0|KSPe.Light.DOE=2.5.5|ContractParser=1.0.9|DockingFunctions=1.0.4|DynamicBatteryStorage=1.0.0|EasyVesselSwitch=2.3.7852|KSPDev_Utils.2.6-EVS=2.6.0|EngineLightRelit=1.6.3|Atmosphere=1.11.7|CelestialShadows=1.11.7|CityLights=1.11.7|EVEManager=1.11.7|PartFX=1.11.7|PQSManager=1.11.7|ShaderLoader=1.11.7|Terrain=1.11.7|TextureConfig=1.11.7|Utils=1.11.7|_BuildManager=1.11.7|FarFutureTechnologies=1.0.0|FerramAerospaceResearch.Base=0.16.1|ModularFlightIntegrator=1.2.10|FerramAerospaceResearch=0.16.1|ferramGraph=1.3.0|FieldTrainingLab=1.2.1|FireflyAPI=1.0.0|Firefly=1.0.5|FireflyInstallChecker=1.0.0|Firespitter=7.3.7660|FP_DockingSndFX=2.1.12|FreeIva=0.2.20|HangerExtenderExtended=3.6.1|G-Effects=1.0.0|HullcamVDSContinued=0.2.2|IndicatorLights=1.0.0|InterstellarFuelSwitch=3.30.0|IRConnectionSystem=1.0.5|SigmaTweakChutes=1.0.0|Sigma88LoadingScreens=0.5.0|JSIAdvTransparentPods=0.1.24|JSIPartUtilities=0.5.0|RasterPropMonitor=1.0.2|KAS-API-v2=2.0.7239|KAS=1.12.8285|KSPDev_Utils.2.7=2.7.0|KAX=2.8.1|KSPe.Light.KAX=2.4.2|KerbalAnimationSuite=1.3.0|KerbalChangelog=1.4.2|KerbalChecklistDebug=1.0.0|KerbalCurrencyDisplay=1.0.0|KerbalEngineer.Unity=1.0.0|KerbalEngineer=1.1.9|KerbalFlightIndicators=0.20.0|KerbalismBootstrap=3.31.0|KerbalismLabExperimentsExpandedContinued=1.0.0|KerbalJointReinforcement=3.8.6|KerbalKrashSystem=1.0.0|KerbalKrashSystem_Leak=1.0.0|KerbalKrashSystem_Repair=1.0.0|KerbalKrashSystem_Science=1.0.0|VesselModuleSave=1.0.2|KerBalloons=0.6.0|KerbalWeatherProject=1.0.0|KIS=1.29.8039|KSPDev_Utils.2.6=2.6.7847|MiniAVC-V2=2.0.0|Kopernicus.Parser=1.0.0|SharpDX=4.2.0|SharpDX.DXGI=4.2.0|SharpDX.Direct3D11=4.2.0|KSPTextureLoader=0.0.22|Kopernicus=1.12.235|KittopiaTech=1.0.0|KEX-Common=1.0.0|KEX-EmissiveFX=1.0.0|KEX-EVAFootprints=1.0.0|KEX-RegionalPQSMods=1.0.0|KEX-VertexHeightDeformity=1.0.0|KEX-VertexHeightMap16=1.0.0|KEX-Wormholes=1.0.0|RunSharp=1.0.0|ICSharpCode.SharpZipLib=0.86.0|kOS=1.5.1|kOS.Safe=1.5.1|kOS-AddOns-Ferram=0.1.1|kOS-Astrogator=0.2.2|kOS-KerbalEngineer=0.1.1|KOS-Scansat=1.2.0|JsonFx=2.0.1209|kOSPropMonitor=1.7.3|KronalUtils=1.0.0|Kronometer=1.12.0|Google.Protobuf=3.10.1|KRPC.Core=0.5.4|KRPC=0.5.4|KRPC.DockingCamera=0.5.4|KRPC.Drawing=0.5.4|KRPC.InfernalRobotics=0.5.4|KRPC.IO.Ports=0.0.0|KRPC.KerbalAlarmClock=0.5.4|KRPC.LiDAR=0.5.4|KRPC.RemoteTech=0.5.4|KRPC.SpaceCenter=0.5.4|KRPC.UI=0.5.4|KSPCasher=0.3.0|0_MultipleModuleInPartAPI=1.0.0|KSPCommunityFixes=1.39.1|KSPIRC=0.19.0|KSPWheel=0.0.0|GroundProximity=0.3.3|LazyPainter=0.4.1|IRSurfaceSampler=1.0.1|InfernalRobotics_v3=3.1.17|alglib=1.0.0|MechJeb2=2.15.1|MechJebLib=1.0.0|MechJebLibBindings=1.0.0|AvionicsSystems=1.3.7|MoonSharp.Interpreter=2.0.0|MOAR_Units=1.0.0|MouseAimFlight=0.0.0|NavUtilLib=0.7.2|NavUtilRPM=0.7.2|DockingPortAlignmentIndicator=6.12.0|DPAI_RPM=1.0.0|ModuleDockingNodeNamed=1.1.0|NearFutureElectrical=1.0.0|NearFutureExploration=0.4.0|NFPropUtils=1.0.0|NearFuturePropulsion=0.9.0|NearFutureSolar=0.4.0|NearFutureUtils=0.0.0|FinalFrontier=1.0.0|OhScrap=2.2.0|Grass=0.0.0|ParallaxQualityLibrary=1.0.0|ParallaxOptimized=1.0.0|PatchManager=0.0.17|PhotonSail=1.7.4|PhysicsRangeExtender=1.21.0|PilotAssistant=1.0.0|PlanetShine=0.2.6|KSP_Log=1.2.0|PreciseEditor=1.5.0|PreciseNode=1.2.12|ProbeControlRoomRecontrolled=1.4.0|ROUtils=1.1.1|ProceduralParts=2.8.0|RealAntennas=2.9.0|RealChute=1.4.9059|RealFuels=15.12.0|RealFuelsB9PSPatch=1.0.0|RealHeat=5.1.0|BackgroundResources=1.12.0|Restock=1.0.0|Reviva=1.0.2|RocketSoundEnhancement.Unity=1.0.0|RocketSoundEnhancement=0.9.11|RSSTimeFormatter=1.12.0|SCANsat=21.1.0|SCANmechjeb=21.1.0|SCANsat.Unity=21.1.0|scatterer=0.878.0|ScrapYard=2.2.1|ScrapYard_ContractConfigurator=2.2.1|Shabby=0.4.2|SmokeScreen=2.8.14|SpaceDust=0.5.4|ButtonManager=1.0.2|KSP_ColorPicker=1.1.1|KSP_PartHighlighter=1.1.1|SpaceTuxUtility=1.0.2|KSPSteamCtrlr=0.0.1|StagedAnimation=1.0.0|StateFundingContinued=0.6.19|HabUtils=1.0.0|StockAlarmClockDisabler=1.0.0|SystemHeat=0.1.0|TextureReplacer=4.5.3|ThroughTheEyes=2.0.4|KerbalAlarmClock=3.14.0|TrimIndicator=1.12.0|TUFX=1.1.1|KSPe.Light.TweakScale=2.5.4|Scale=2.4.8|TweakScale.WatchDog=2.4.8|TweakScaleCompanion=2025.12.12|TweakScaleCompanion_Frameworks=0.4.0|TweakScalerTestFlightCore=0.4.0|TweakScalerWaterfallFX=0.4.0|TweakScaleCompanion_FS=1.3.0|TweakScalerFSBuoyancy=1.3.0|TweakScaleCompanion_KIAS=1.1.0|TweakScalerKISInventory=1.1.0|TweakScaleCompanion_PKMC=2.2.1|VaporCones=1.0.0|VesselMover=1.12.0|VesselNotes=0.0.2|VesselView=0.8.9|VesselViewRPM=0.8.9|VVDiscoDisplay=0.8.9|VVPartSelector=0.8.9|Interstellar=1.29.6|Waterfall=0.10.2|WaypointManager=2.8.4|WhatDoINeed=0.0.4|WildBlueTools=1.0.0|KerbalActuators=1.0.0|WildBlueCore=1.0.0|Deferred=1.3.3|Kerbalism=3.31.0
 PART
 {
 	part = kv2Pod_4290224902
 	partName = Part
-	persistentId = 661460368
+	persistentId = 3443397040
 	pos = 0,15,0
 	attPos = 0,0,0
 	attPos0 = 0,15,0
@@ -608,8 +608,8 @@ PART
 	{
 		name = FundsKeeper
 		isEnabled = True
-		OriginalCost = 6266.317094354
-		OriginalResourcesCost = 658.200094354
+		OriginalCost = 6266.319894354
+		OriginalResourcesCost = 658.202894354
 		OriginalModulesCost = 3607.450
 		stagingEnabled = True
 		EVENTS
@@ -2274,7 +2274,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 661460368
+		id = 3443397040
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -3007,6 +3007,22 @@ PART
 	}
 	MODULE
 	{
+		name = ThermalPowerTransport
+		isEnabled = True
+		thermalCost = 0.20000000000000001
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
 		name = DPSoundFX
 		isEnabled = True
 		stagingEnabled = True
@@ -3347,7 +3363,7 @@ PART
 {
 	part = Rockomax8BW_4290178296
 	partName = Part
-	persistentId = 4159442719
+	persistentId = 3249007579
 	pos = 0,14.1714735,0
 	attPos = 0,0.301473618,0
 	attPos0 = 0,-1.13000011,0
@@ -3732,7 +3748,7 @@ PART
 		hasFailed = False
 		failureType = none
 		expectedLifetime = 6
-		chanceOfFailure = 0.0199999996
+		chanceOfFailure = 0.00999999978
 		baseChanceOfFailure = 0.100000001
 		numberOfRepairs = 0
 		stagingEnabled = True
@@ -3842,7 +3858,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 4159442719
+		id = 3249007579
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -3941,7 +3957,7 @@ PART
 {
 	part = RCSBlock.v2_4289947012
 	partName = Part
-	persistentId = 1830666314
+	persistentId = 2739279072
 	pos = 0.84779036,14.6104307,-0.847790301
 	attPos = 0,0,0
 	attPos0 = 0.84779036,0.438957214,-0.847790301
@@ -4329,7 +4345,7 @@ PART
 		hasFailed = False
 		failureType = RCS Failure
 		expectedLifetime = 6
-		chanceOfFailure = 0.0199999996
+		chanceOfFailure = 0.00999999978
 		baseChanceOfFailure = 0.100000001
 		numberOfRepairs = 0
 		stagingEnabled = True
@@ -4415,7 +4431,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 1830666314
+		id = 2739279072
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -4499,7 +4515,7 @@ PART
 {
 	part = RCSBlock.v2_4289938212
 	partName = Part
-	persistentId = 3944095965
+	persistentId = 1125434614
 	pos = -0.847790182,14.6104307,-0.84779036
 	attPos = 0,0,0
 	attPos0 = -0.847790182,0.438957214,-0.84779036
@@ -4887,7 +4903,7 @@ PART
 		hasFailed = False
 		failureType = RCS Failure
 		expectedLifetime = 6
-		chanceOfFailure = 0.0199999996
+		chanceOfFailure = 0.00999999978
 		baseChanceOfFailure = 0.100000001
 		numberOfRepairs = 0
 		stagingEnabled = True
@@ -4973,7 +4989,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 3944095965
+		id = 1125434614
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -5057,7 +5073,7 @@ PART
 {
 	part = RCSBlock.v2_4289937676
 	partName = Part
-	persistentId = 2990802798
+	persistentId = 818906535
 	pos = -0.847790301,14.6104307,0.84779036
 	attPos = 0,0,0
 	attPos0 = -0.847790301,0.438957214,0.84779036
@@ -5445,7 +5461,7 @@ PART
 		hasFailed = False
 		failureType = RCS Failure
 		expectedLifetime = 6
-		chanceOfFailure = 0.0199999996
+		chanceOfFailure = 0.00999999978
 		baseChanceOfFailure = 0.100000001
 		numberOfRepairs = 0
 		stagingEnabled = True
@@ -5531,7 +5547,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 2990802798
+		id = 818906535
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -5615,7 +5631,7 @@ PART
 {
 	part = RCSBlock.v2_4289937140
 	partName = Part
-	persistentId = 3847015014
+	persistentId = 1344523901
 	pos = 0.847790301,14.6104307,0.847790241
 	attPos = 0,0,0
 	attPos0 = 0.847790301,0.438957214,0.847790241
@@ -6003,7 +6019,7 @@ PART
 		hasFailed = False
 		failureType = RCS Failure
 		expectedLifetime = 6
-		chanceOfFailure = 0.0199999996
+		chanceOfFailure = 0.00999999978
 		baseChanceOfFailure = 0.100000001
 		numberOfRepairs = 0
 		stagingEnabled = True
@@ -6089,7 +6105,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 3847015014
+		id = 1344523901
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -8590,7 +8606,7 @@ PART
 {
 	part = landingLeg1_4289347456
 	partName = Part
-	persistentId = 2289934784
+	persistentId = 3511016384
 	pos = -0.857420862,14.1397829,-0.857420802
 	attPos = 0,0,0
 	attPos0 = -0.857420862,-0.0316905975,-0.857420802
@@ -9039,7 +9055,7 @@ PART
 	MODULE
 	{
 		name = KOSNameTag
-		isEnabled = False
+		isEnabled = True
 		nameTag = 
 		stagingEnabled = True
 		EVENTS
@@ -9110,7 +9126,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 2289934784
+		id = 3511016384
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -9164,7 +9180,7 @@ PART
 {
 	part = landingLeg1_4289337000
 	partName = Part
-	persistentId = 1915365833
+	persistentId = 2766623078
 	pos = -0.857420802,14.1397829,0.857420743
 	attPos = 0,0,0
 	attPos0 = -0.857420802,-0.0316905975,0.857420743
@@ -9684,7 +9700,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 1915365833
+		id = 2766623078
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -9738,7 +9754,7 @@ PART
 {
 	part = landingLeg1_4289336842
 	partName = Part
-	persistentId = 2368265472
+	persistentId = 2756413145
 	pos = 0.857420921,14.1397829,0.857420743
 	attPos = 0,0,0
 	attPos0 = 0.857420921,-0.0316905975,0.857420743
@@ -10258,7 +10274,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 2368265472
+		id = 2756413145
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -10312,7 +10328,7 @@ PART
 {
 	part = landingLeg1_4289336684
 	partName = Part
-	persistentId = 3572239909
+	persistentId = 3934982978
 	pos = 0.857420683,14.1397829,-0.857420862
 	attPos = 0,0,0
 	attPos0 = 0.857420683,-0.0316905975,-0.857420862
@@ -10832,7 +10848,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 3572239909
+		id = 3934982978
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -10886,7 +10902,7 @@ PART
 {
 	part = RCSBlock.v2_4289971896
 	partName = Part
-	persistentId = 2872511120
+	persistentId = 3403817321
 	pos = 0.854716599,13.7825298,-0.854716539
 	attPos = 0,0,0
 	attPos0 = 0.854716599,-0.388943672,-0.854716539
@@ -11274,7 +11290,7 @@ PART
 		hasFailed = False
 		failureType = RCS Failure
 		expectedLifetime = 6
-		chanceOfFailure = 0.0199999996
+		chanceOfFailure = 0.00999999978
 		baseChanceOfFailure = 0.100000001
 		numberOfRepairs = 0
 		stagingEnabled = True
@@ -11360,7 +11376,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 2872511120
+		id = 3403817321
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -11444,7 +11460,7 @@ PART
 {
 	part = RCSBlock.v2_4289282248
 	partName = Part
-	persistentId = 3486223436
+	persistentId = 996282896
 	pos = -0.85471642,13.7825298,-0.854716599
 	attPos = 0,0,0
 	attPos0 = -0.85471642,-0.388943672,-0.854716599
@@ -11832,7 +11848,7 @@ PART
 		hasFailed = False
 		failureType = RCS Failure
 		expectedLifetime = 6
-		chanceOfFailure = 0.0199999996
+		chanceOfFailure = 0.00999999978
 		baseChanceOfFailure = 0.100000001
 		numberOfRepairs = 0
 		stagingEnabled = True
@@ -11918,7 +11934,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 3486223436
+		id = 996282896
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -12002,7 +12018,7 @@ PART
 {
 	part = RCSBlock.v2_4289281712
 	partName = Part
-	persistentId = 3860493085
+	persistentId = 588617826
 	pos = -0.854716539,13.7825298,0.854716599
 	attPos = 0,0,0
 	attPos0 = -0.854716539,-0.388943672,0.854716599
@@ -12390,7 +12406,7 @@ PART
 		hasFailed = False
 		failureType = RCS Failure
 		expectedLifetime = 6
-		chanceOfFailure = 0.0199999996
+		chanceOfFailure = 0.00999999978
 		baseChanceOfFailure = 0.100000001
 		numberOfRepairs = 0
 		stagingEnabled = True
@@ -12476,7 +12492,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 3860493085
+		id = 588617826
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -12560,7 +12576,7 @@ PART
 {
 	part = RCSBlock.v2_4289281176
 	partName = Part
-	persistentId = 2314947739
+	persistentId = 3181756036
 	pos = 0.854716539,13.7825298,0.85471648
 	attPos = 0,0,0
 	attPos0 = 0.854716539,-0.388943672,0.85471648
@@ -12948,7 +12964,7 @@ PART
 		hasFailed = False
 		failureType = RCS Failure
 		expectedLifetime = 6
-		chanceOfFailure = 0.0199999996
+		chanceOfFailure = 0.00999999978
 		baseChanceOfFailure = 0.100000001
 		numberOfRepairs = 0
 		stagingEnabled = True
@@ -13034,7 +13050,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 2314947739
+		id = 3181756036
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -13118,7 +13134,7 @@ PART
 {
 	part = SurfAntenna_4289827670
 	partName = Part
-	persistentId = 190143258
+	persistentId = 1049468845
 	pos = 0.611643434,15.4651871,0.611643195
 	attPos = -0.0384281874,0.299895287,-0.0384283066
 	attPos0 = 0.650071621,0.165291786,0.650071502
@@ -13519,7 +13535,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 190143258
+		id = 1049468845
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -14679,7 +14695,7 @@ PART
 {
 	part = batteryPack_4288987494
 	partName = Part
-	persistentId = 3052629275
+	persistentId = 850700115
 	pos = -0.925983131,14.3109198,1.72917893E-08
 	attPos = 0,-0.320552826,-3.79011098E-08
 	attPos0 = -0.925983131,0.459999084,5.51928991E-08
@@ -14698,7 +14714,7 @@ PART
 	sepI = 1
 	attm = 1
 	sameVesselCollision = False
-	modCost = 0
+	modCost = 1.09849498E-06
 	modMass = 0
 	modSize = 0,0,0
 	sym = batteryPack_4288983392
@@ -14788,9 +14804,9 @@ PART
 	{
 		name = FundsKeeper
 		isEnabled = True
-		OriginalCost = 80
-		OriginalResourcesCost = 0
-		OriginalModulesCost = 0
+		OriginalCost = 80.002001098495
+		OriginalResourcesCost = 0.00200
+		OriginalModulesCost = 0.000001098495
 		stagingEnabled = True
 		EVENTS
 		{
@@ -15127,7 +15143,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 3052629275
+		id = 850700115
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -15192,7 +15208,7 @@ PART
 {
 	part = batteryPack_4288983392
 	partName = Part
-	persistentId = 1686293904
+	persistentId = 3002216637
 	pos = -0.462991536,14.3109198,0.801924884
 	attPos = -2.98023224E-08,-0.320552826,-5.96046448E-08
 	attPos0 = -0.462991506,0.459999084,0.801924944
@@ -15211,7 +15227,7 @@ PART
 	sepI = 1
 	attm = 1
 	sameVesselCollision = False
-	modCost = 0
+	modCost = 1.09849498E-06
 	modMass = 0
 	modSize = 0,0,0
 	sym = batteryPack_4288983302
@@ -15301,9 +15317,9 @@ PART
 	{
 		name = FundsKeeper
 		isEnabled = True
-		OriginalCost = 80
-		OriginalResourcesCost = 0
-		OriginalModulesCost = 0
+		OriginalCost = 80.002001098495
+		OriginalResourcesCost = 0.00200
+		OriginalModulesCost = 0.000001098495
 		stagingEnabled = True
 		EVENTS
 		{
@@ -15640,7 +15656,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 1686293904
+		id = 3002216637
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -15705,7 +15721,7 @@ PART
 {
 	part = batteryPack_4288983302
 	partName = Part
-	persistentId = 3735225751
+	persistentId = 3218366858
 	pos = 0.462991685,14.3109198,0.801924884
 	attPos = -2.98023224E-08,-0.320552826,0
 	attPos0 = 0.462991714,0.459999084,0.801924884
@@ -15724,7 +15740,7 @@ PART
 	sepI = 1
 	attm = 1
 	sameVesselCollision = False
-	modCost = 0
+	modCost = 1.09849498E-06
 	modMass = 0
 	modSize = 0,0,0
 	sym = batteryPack_4288983212
@@ -15814,9 +15830,9 @@ PART
 	{
 		name = FundsKeeper
 		isEnabled = True
-		OriginalCost = 80
-		OriginalResourcesCost = 0
-		OriginalModulesCost = 0
+		OriginalCost = 80.002001098495
+		OriginalResourcesCost = 0.00200
+		OriginalModulesCost = 0.000001098495
 		stagingEnabled = True
 		EVENTS
 		{
@@ -16153,7 +16169,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 3735225751
+		id = 3218366858
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -16218,7 +16234,7 @@ PART
 {
 	part = batteryPack_4288983212
 	partName = Part
-	persistentId = 2767114232
+	persistentId = 990369404
 	pos = 0.925983131,14.3109198,-9.82438024E-08
 	attPos = 0,-0.320552826,3.79011169E-08
 	attPos0 = 0.925983131,0.459999084,-1.36144919E-07
@@ -16237,7 +16253,7 @@ PART
 	sepI = 1
 	attm = 1
 	sameVesselCollision = False
-	modCost = 0
+	modCost = 1.09849498E-06
 	modMass = 0
 	modSize = 0,0,0
 	sym = batteryPack_4288983122
@@ -16327,9 +16343,9 @@ PART
 	{
 		name = FundsKeeper
 		isEnabled = True
-		OriginalCost = 80
-		OriginalResourcesCost = 0
-		OriginalModulesCost = 0
+		OriginalCost = 80.002001098495
+		OriginalResourcesCost = 0.00200
+		OriginalModulesCost = 0.000001098495
 		stagingEnabled = True
 		EVENTS
 		{
@@ -16666,7 +16682,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 2767114232
+		id = 990369404
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -16731,7 +16747,7 @@ PART
 {
 	part = batteryPack_4288983122
 	partName = Part
-	persistentId = 1897987523
+	persistentId = 2706312361
 	pos = 0.462991536,14.3109198,-0.801925004
 	attPos = 2.98023224E-08,-0.320552826,5.96046448E-08
 	attPos0 = 0.462991506,0.459999084,-0.801925063
@@ -16750,7 +16766,7 @@ PART
 	sepI = 1
 	attm = 1
 	sameVesselCollision = False
-	modCost = 0
+	modCost = 1.09849498E-06
 	modMass = 0
 	modSize = 0,0,0
 	sym = batteryPack_4288983032
@@ -16840,9 +16856,9 @@ PART
 	{
 		name = FundsKeeper
 		isEnabled = True
-		OriginalCost = 80
-		OriginalResourcesCost = 0
-		OriginalModulesCost = 0
+		OriginalCost = 80.002001098495
+		OriginalResourcesCost = 0.00200
+		OriginalModulesCost = 0.000001098495
 		stagingEnabled = True
 		EVENTS
 		{
@@ -17179,7 +17195,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 1897987523
+		id = 2706312361
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -17244,7 +17260,7 @@ PART
 {
 	part = batteryPack_4288983032
 	partName = Part
-	persistentId = 2319787498
+	persistentId = 2067499432
 	pos = -0.462991476,14.3109198,-0.801925004
 	attPos = 2.98023224E-08,-0.320552826,0
 	attPos0 = -0.462991506,0.459999084,-0.801925004
@@ -17263,7 +17279,7 @@ PART
 	sepI = 1
 	attm = 1
 	sameVesselCollision = False
-	modCost = 0
+	modCost = 1.09849498E-06
 	modMass = 0
 	modSize = 0,0,0
 	sym = batteryPack_4288987494
@@ -17353,9 +17369,9 @@ PART
 	{
 		name = FundsKeeper
 		isEnabled = True
-		OriginalCost = 80
-		OriginalResourcesCost = 0
-		OriginalModulesCost = 0
+		OriginalCost = 80.002001098495
+		OriginalResourcesCost = 0.00200
+		OriginalModulesCost = 0.000001098495
 		stagingEnabled = True
 		EVENTS
 		{
@@ -17692,7 +17708,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 2319787498
+		id = 2067499432
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -17757,7 +17773,7 @@ PART
 {
 	part = miniFuselage_4288820396
 	partName = Part
-	persistentId = 4246329604
+	persistentId = 1166555847
 	pos = -6.04708035E-08,14.5317802,0.883637428
 	attPos = -3.2486426E-08,-0.256192207,-0.107601583
 	attPos0 = -2.79843793E-08,0.616498947,0.991239011
@@ -18222,7 +18238,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 4246329604
+		id = 1166555847
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -20008,7 +20024,7 @@ PART
 {
 	part = HighGainAntenna5.v2_4288714470
 	partName = Part
-	persistentId = 4171323717
+	persistentId = 2148540801
 	pos = 0.870810688,14.4807844,0.502762794
 	attPos = 0,-0.150688171,0
 	attPos0 = 0.870810688,0.459999084,0.502762794
@@ -20492,7 +20508,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 4171323717
+		id = 2148540801
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -20585,7 +20601,7 @@ PART
 {
 	part = solarPanels3_4285312960
 	partName = Part
-	persistentId = 2198757726
+	persistentId = 4121332671
 	pos = -1.09130681E-07,14.6093349,-1.24830949
 	attPos = 0,0,0
 	attPos0 = -1.09130681E-07,0.437861443,-1.24830949
@@ -20604,7 +20620,7 @@ PART
 	sepI = 1
 	attm = 1
 	sameVesselCollision = False
-	modCost = 0
+	modCost = -1.05175786E-05
 	modMass = 0
 	modSize = 0,0,0
 	sym = solarPanels3_4285303368
@@ -20726,9 +20742,9 @@ PART
 	{
 		name = FundsKeeper
 		isEnabled = True
-		OriginalCost = 380
-		OriginalResourcesCost = 0
-		OriginalModulesCost = 0
+		OriginalCost = 379.99998948242
+		OriginalResourcesCost = 0.00
+		OriginalModulesCost = -0.00001051758
 		stagingEnabled = True
 		EVENTS
 		{
@@ -20969,7 +20985,7 @@ PART
 		hasFailed = False
 		failureType = none
 		expectedLifetime = 6
-		chanceOfFailure = 0.0600000024
+		chanceOfFailure = 0.0500000007
 		baseChanceOfFailure = 0.100000001
 		numberOfRepairs = 0
 		stagingEnabled = True
@@ -21018,9 +21034,32 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 2198757726
+		id = 4121332671
 		TimesRecovered = 0
 		Inventoried = False
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = FNSolarPanelWasteHeatModule
+		isEnabled = True
+		epx = 0
+		epy = 0
+		whx = 0
+		why = 0
+		tpx = 0
+		tpy = 0
+		cpx = 0
+		cpy = 0
 		stagingEnabled = True
 		EVENTS
 		{
@@ -21067,12 +21106,23 @@ PART
 		{
 		}
 	}
+	RESOURCE
+	{
+		name = Megajoules
+		amount = 0
+		maxAmount = 0.001
+		flowState = True
+		isTweakable = False
+		hideFlow = False
+		isVisible = True
+		flowMode = Both
+	}
 }
 PART
 {
 	part = solarPanels3_4285303368
 	partName = Part
-	persistentId = 1531732951
+	persistentId = 398308743
 	pos = 2.18261363E-07,14.6093349,1.24830949
 	attPos = 0,0,0
 	attPos0 = 2.18261363E-07,0.437861443,1.24830949
@@ -21091,7 +21141,7 @@ PART
 	sepI = 1
 	attm = 1
 	sameVesselCollision = False
-	modCost = 0
+	modCost = -1.05175786E-05
 	modMass = 0
 	modSize = 0,0,0
 	sym = solarPanels3_4285312960
@@ -21213,9 +21263,9 @@ PART
 	{
 		name = FundsKeeper
 		isEnabled = True
-		OriginalCost = 380
-		OriginalResourcesCost = 0
-		OriginalModulesCost = 0
+		OriginalCost = 379.99998948242
+		OriginalResourcesCost = 0.00
+		OriginalModulesCost = -0.00001051758
 		stagingEnabled = True
 		EVENTS
 		{
@@ -21456,7 +21506,7 @@ PART
 		hasFailed = False
 		failureType = none
 		expectedLifetime = 6
-		chanceOfFailure = 0.0600000024
+		chanceOfFailure = 0.0500000007
 		baseChanceOfFailure = 0.100000001
 		numberOfRepairs = 0
 		stagingEnabled = True
@@ -21505,9 +21555,32 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 1531732951
+		id = 398308743
 		TimesRecovered = 0
 		Inventoried = False
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = FNSolarPanelWasteHeatModule
+		isEnabled = True
+		epx = 0
+		epy = 0
+		whx = 0
+		why = 0
+		tpx = 0
+		tpy = 0
+		cpx = 0
+		cpy = 0
 		stagingEnabled = True
 		EVENTS
 		{
@@ -21553,6 +21626,17 @@ PART
 		UPGRADESAPPLIED
 		{
 		}
+	}
+	RESOURCE
+	{
+		name = Megajoules
+		amount = 0
+		maxAmount = 0.001
+		flowState = True
+		isTweakable = False
+		hideFlow = False
+		isVisible = True
+		flowMode = Both
 	}
 }
 PART
@@ -23183,7 +23267,7 @@ PART
 {
 	part = liquidEngineMini.v2_4287387570
 	partName = Part
-	persistentId = 2412914161
+	persistentId = 808096068
 	pos = -0.315662682,13.7114725,0.315662622
 	attPos = 0,0,0
 	attPos0 = -0.315662682,-0.460000992,0.315662622
@@ -23891,7 +23975,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 2412914161
+		id = 808096068
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -24013,7 +24097,7 @@ PART
 {
 	part = liquidEngineMini.v2_4287385084
 	partName = Part
-	persistentId = 1430483483
+	persistentId = 3933936279
 	pos = 0.315662593,13.7114725,0.315662682
 	attPos = 0,0,0
 	attPos0 = 0.315662593,-0.460000992,0.315662682
@@ -24713,7 +24797,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 1430483483
+		id = 3933936279
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -24835,7 +24919,7 @@ PART
 {
 	part = liquidEngineMini.v2_4287384638
 	partName = Part
-	persistentId = 1249583138
+	persistentId = 2777303136
 	pos = 0.315662652,13.7114725,-0.315662652
 	attPos = 0,0,0
 	attPos0 = 0.315662652,-0.460000992,-0.315662652
@@ -25535,7 +25619,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 1249583138
+		id = 2777303136
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -25657,7 +25741,7 @@ PART
 {
 	part = liquidEngineMini.v2_4287384192
 	partName = Part
-	persistentId = 2572811253
+	persistentId = 1969657975
 	pos = -0.315662622,13.7114725,-0.315662652
 	attPos = 0,0,0
 	attPos0 = -0.315662622,-0.460000992,-0.315662652
@@ -26357,7 +26441,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 2572811253
+		id = 1969657975
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
