@@ -12,12 +12,12 @@ OverrideDefault = False,False,False,False
 OverrideActionControl = 0,0,0,0
 OverrideAxisControl = 0,0,0,0
 OverrideGroupNames = ,,,
-_modVersions = Scale_Redist=2.4.8|ModuleManager=4.2.3|ClickThroughBlocker=2.1.10|0Harmony=2.2.1|HarmonyInstallChecker=2.2.1|KSPBurst=1.5.5|Microsoft.Extensions.FileSystemGlobbing=6.0.21|System.IO.Compression=4.6.57|System.IO.Compression.FileSystem=4.6.57|System.Runtime.CompilerServices.Unsafe=4.700.20|System.Runtime=4.0.0|Unity.Burst=0.0.0|Unity.Burst.Unsafe=1.0.0|Unity.Collections=0.0.0|Unity.Jobs=0.0.0|Unity.Mathematics=1.0.0|BlendshapeModelLoader=1.6.4|TexturesUnlimited=1.6.4|USITools=1.0.0|USIToolsUI=1.0.0|ToolbarControl=0.1.9|KSPe.Light.Recall=2.5.2|Attached=0.5.0|AttachedOnEditor=0.5.0|ChillingOut=0.5.0|Driftless=0.5.0|KSP-Recall=0.5.0|Refunding=0.5.0|Resourceful=0.5.0|SolverEngines=3.13.1|AJE=2.20.0|AnalogControl=2.1.3|ASETPropsIdentifier=1.5.0|Astrogator=1.0.2|AtmosphereAutopilot.UI=1.0.0|AtmosphereAutopilot=1.6.1|KSPe.Light.AviationLights=2.4.3|AviationLights=4.2.1|AAPartCategory=1.0.0|AviatorArsenal=1.0.0|B9PartSwitch=2.21.0|B9-PWings-Fork=0.46.1|BDAnimationModules=0.6.7|RNModules=1.2.1|BDArmory=1.12.0|BurstAtomicThrust=0.1.0|CameraTools=1.37.1|Chatterer=0.9.99|CCK=5.1.0|ContractConfigurator=2.12.0|CustomPreLaunchChecks=1.8.1|KerbalKonstructs=1.12.0|KerKonConConExt=2.0.0|CriticalTemperatureGauge=1.12.3|SimpleBoiloff=0.2.1|DeployableEngines=2.2.0|DestructionEffects=1.12.0|DistantObject=0.0.0|KSPe.Light.DOE=2.5.5|ContractParser=1.0.9|DockingFunctions=1.0.4|DynamicBatteryStorage=1.0.0|EasyVesselSwitch=2.3.7852|KSPDev_Utils.2.6-EVS=2.6.0|EngineLightRelit=1.6.3|Atmosphere=1.11.7|CelestialShadows=1.11.7|CityLights=1.11.7|EVEManager=1.11.7|PartFX=1.11.7|PQSManager=1.11.7|ShaderLoader=1.11.7|Terrain=1.11.7|TextureConfig=1.11.7|Utils=1.11.7|_BuildManager=1.11.7|FarFutureTechnologies=1.0.0|FerramAerospaceResearch.Base=0.16.1|ModularFlightIntegrator=1.2.10|FerramAerospaceResearch=0.16.1|ferramGraph=1.3.0|FieldTrainingLab=1.2.1|FireflyAPI=1.0.0|Firefly=1.0.5|FireflyInstallChecker=1.0.0|Firespitter=7.3.7660|FP_DockingSndFX=2.1.12|FreeIva=0.2.20|HangerExtenderExtended=3.6.1|G-Effects=1.0.0|HullcamVDSContinued=0.2.2|IndicatorLights=1.0.0|IRConnectionSystem=1.0.5|SigmaTweakChutes=1.0.0|Sigma88LoadingScreens=0.5.0|JSIAdvTransparentPods=0.1.24|JSIPartUtilities=0.5.0|RasterPropMonitor=1.0.2|KAS-API-v2=2.0.7239|KAS=1.12.8285|KSPDev_Utils.2.7=2.7.0|KAX=2.8.1|KSPe.Light.KAX=2.4.2|KerbalAnimationSuite=1.3.0|KerbalChangelog=1.4.2|KerbalChecklistDebug=1.0.0|KerbalCurrencyDisplay=1.0.0|KerbalEngineer.Unity=1.0.0|KerbalEngineer=1.1.9|KerbalFlightIndicators=0.20.0|KerbalismBootstrap=3.31.0|KerbalismLabExperimentsExpandedContinued=1.0.0|KerbalJointReinforcement=3.8.6|KerbalKrashSystem=1.0.0|KerbalKrashSystem_Leak=1.0.0|KerbalKrashSystem_Repair=1.0.0|KerbalKrashSystem_Science=1.0.0|VesselModuleSave=1.0.2|KerBalloons=0.6.0|KerbalWeatherProject=1.0.0|KIS=1.29.8039|KSPDev_Utils.2.6=2.6.7847|MiniAVC-V2=2.0.0|Kopernicus.Parser=1.0.0|SharpDX=4.2.0|SharpDX.DXGI=4.2.0|SharpDX.Direct3D11=4.2.0|KSPTextureLoader=0.0.19|Kopernicus=1.12.234|KEX-Common=1.0.0|KEX-EmissiveFX=1.0.0|KEX-EVAFootprints=1.0.0|KEX-RegionalPQSMods=1.0.0|KEX-VertexHeightDeformity=1.0.0|KEX-VertexHeightMap16=1.0.0|KEX-Wormholes=1.0.0|RunSharp=1.0.0|ICSharpCode.SharpZipLib=0.86.0|kOS=1.5.1|kOS.Safe=1.5.1|kOS-AddOns-Ferram=0.1.1|kOS-Astrogator=0.2.2|kOS-KerbalEngineer=0.1.1|KOS-Scansat=1.2.0|JsonFx=2.0.1209|kOSPropMonitor=1.7.3|KronalUtils=1.0.0|Kronometer=1.12.0|Google.Protobuf=3.10.1|KRPC.Core=0.5.4|KRPC=0.5.4|KRPC.DockingCamera=0.5.4|KRPC.Drawing=0.5.4|KRPC.InfernalRobotics=0.5.4|KRPC.IO.Ports=0.0.0|KRPC.KerbalAlarmClock=0.5.4|KRPC.LiDAR=0.5.4|KRPC.RemoteTech=0.5.4|KRPC.SpaceCenter=0.5.4|KRPC.UI=0.5.4|KSPCasher=0.3.0|0_MultipleModuleInPartAPI=1.0.0|KSPCommunityFixes=1.39.1|KSPIRC=0.19.0|KSPWheel=0.0.0|GroundProximity=0.3.3|LazyPainter=0.4.1|IRSurfaceSampler=1.0.1|InfernalRobotics_v3=3.1.17|alglib=1.0.0|MechJeb2=2.15.1|MechJebLib=1.0.0|MechJebLibBindings=1.0.0|AvionicsSystems=1.3.7|MoonSharp.Interpreter=2.0.0|MOAR_Units=1.0.0|MouseAimFlight=0.0.0|NavUtilLib=0.7.2|NavUtilRPM=0.7.2|DockingPortAlignmentIndicator=6.12.0|DPAI_RPM=1.0.0|ModuleDockingNodeNamed=1.1.0|NearFutureElectrical=1.0.0|NearFutureExploration=0.4.0|NFPropUtils=1.0.0|NearFuturePropulsion=0.9.0|NearFutureSolar=0.4.0|NearFutureUtils=0.0.0|FinalFrontier=1.0.0|OhScrap=2.2.0|Grass=0.0.0|ParallaxQualityLibrary=1.0.0|ParallaxOptimized=1.0.0|PatchManager=0.0.17|PhysicsRangeExtender=1.21.0|PilotAssistant=1.0.0|PlanetShine=0.2.6|KSP_Log=1.2.0|PreciseEditor=1.5.0|PreciseNode=1.2.12|ProbeControlRoomRecontrolled=1.4.0|ROUtils=1.1.1|ProceduralParts=2.8.0|RealAntennas=2.9.0|RealChute=1.4.9059|RealFuels=15.12.0|RealFuelsB9PSPatch=1.0.0|RealHeat=5.1.0|BackgroundResources=1.12.0|Restock=1.0.0|Reviva=1.0.2|RocketSoundEnhancement.Unity=1.0.0|RocketSoundEnhancement=0.9.11|RSSTimeFormatter=1.12.0|SCANsat=21.1.0|SCANmechjeb=21.1.0|SCANsat.Unity=21.1.0|scatterer=0.878.0|ScrapYard=2.2.1|ScrapYard_ContractConfigurator=2.2.1|Shabby=0.4.2|SmokeScreen=2.8.14|SpaceDust=0.5.4|ButtonManager=1.0.2|KSP_ColorPicker=1.1.1|KSP_PartHighlighter=1.1.1|SpaceTuxUtility=1.0.2|KSPSteamCtrlr=0.0.1|StagedAnimation=1.0.0|StateFundingContinued=0.6.19|HabUtils=1.0.0|StockAlarmClockDisabler=1.0.0|SystemHeat=0.1.0|TextureReplacer=4.5.3|ThroughTheEyes=2.0.4|KerbalAlarmClock=3.14.0|TrimIndicator=1.12.0|TUFX=1.1.1|KSPe.Light.TweakScale=2.5.4|Scale=2.4.8|TweakScale.WatchDog=2.4.8|TweakScaleCompanion=2025.12.12|TweakScaleCompanion_Frameworks=0.4.0|TweakScalerTestFlightCore=0.4.0|TweakScalerWaterfallFX=0.4.0|TweakScaleCompanion_FS=1.3.0|TweakScalerFSBuoyancy=1.3.0|TweakScaleCompanion_KIAS=1.1.0|TweakScalerKISInventory=1.1.0|TweakScaleCompanion_PKMC=2.2.1|VaporCones=1.0.0|VesselMover=1.12.0|VesselNotes=0.0.2|VesselView=0.8.9|VesselViewRPM=0.8.9|VVDiscoDisplay=0.8.9|VVPartSelector=0.8.9|Waterfall=0.10.2|WaypointManager=2.8.4|WhatDoINeed=0.0.4|WildBlueTools=1.0.0|KerbalActuators=1.0.0|WildBlueCore=1.0.0|Deferred=1.3.3|Kerbalism=3.31.0
+_modVersions = Scale_Redist=2.4.8|Interstellar_Redist=1.4.0|ModuleManager=4.2.3|ClickThroughBlocker=2.1.10|0Harmony=2.2.1|HarmonyInstallChecker=2.2.1|KSPBurst=1.5.5|Microsoft.Extensions.FileSystemGlobbing=6.0.21|System.IO.Compression=4.6.57|System.IO.Compression.FileSystem=4.6.57|System.Runtime.CompilerServices.Unsafe=4.700.20|System.Runtime=4.0.0|Unity.Burst=0.0.0|Unity.Burst.Unsafe=1.0.0|Unity.Collections=0.0.0|Unity.Jobs=0.0.0|Unity.Mathematics=1.0.0|BlendshapeModelLoader=1.6.4|TexturesUnlimited=1.6.4|USITools=1.0.0|USIToolsUI=1.0.0|ToolbarControl=0.1.9|KSPe.Light.Recall=2.5.2|Attached=0.5.0|AttachedOnEditor=0.5.0|ChillingOut=0.5.0|Driftless=0.5.0|KSP-Recall=0.5.0|Refunding=0.5.0|Resourceful=0.5.0|SolverEngines=3.13.1|AJE=2.20.0|AnalogControl=2.1.3|ASETPropsIdentifier=1.5.0|Astrogator=1.0.2|AtmosphereAutopilot.UI=1.0.0|AtmosphereAutopilot=1.6.1|KSPe.Light.AviationLights=2.4.3|AviationLights=4.2.1|AAPartCategory=1.0.0|AviatorArsenal=1.0.0|B9PartSwitch=2.21.0|B9-PWings-Fork=0.46.1|BDAnimationModules=0.6.7|RNModules=1.2.1|BDArmory=1.12.0|BurstAtomicThrust=0.1.0|CameraTools=1.37.1|Chatterer=0.9.99|CCK=5.1.0|ContractConfigurator=2.12.0|CustomPreLaunchChecks=1.8.1|KerbalKonstructs=1.12.0|KerKonConConExt=2.0.0|CriticalTemperatureGauge=1.12.3|SimpleBoiloff=0.2.1|DeployableEngines=2.2.0|DestructionEffects=1.12.0|DistantObject=0.0.0|KSPe.Light.DOE=2.5.5|ContractParser=1.0.9|DockingFunctions=1.0.4|DynamicBatteryStorage=1.0.0|EasyVesselSwitch=2.3.7852|KSPDev_Utils.2.6-EVS=2.6.0|EngineLightRelit=1.6.3|Atmosphere=1.11.7|CelestialShadows=1.11.7|CityLights=1.11.7|EVEManager=1.11.7|PartFX=1.11.7|PQSManager=1.11.7|ShaderLoader=1.11.7|Terrain=1.11.7|TextureConfig=1.11.7|Utils=1.11.7|_BuildManager=1.11.7|FarFutureTechnologies=1.0.0|FerramAerospaceResearch.Base=0.16.1|ModularFlightIntegrator=1.2.10|FerramAerospaceResearch=0.16.1|ferramGraph=1.3.0|FieldTrainingLab=1.2.1|FireflyAPI=1.0.0|Firefly=1.0.5|FireflyInstallChecker=1.0.0|Firespitter=7.3.7660|FP_DockingSndFX=2.1.12|FreeIva=0.2.20|HangerExtenderExtended=3.6.1|G-Effects=1.0.0|HullcamVDSContinued=0.2.2|IndicatorLights=1.0.0|InterstellarFuelSwitch=3.30.0|IRConnectionSystem=1.0.5|SigmaTweakChutes=1.0.0|Sigma88LoadingScreens=0.5.0|JSIAdvTransparentPods=0.1.24|JSIPartUtilities=0.5.0|RasterPropMonitor=1.0.2|KAS-API-v2=2.0.7239|KAS=1.12.8285|KSPDev_Utils.2.7=2.7.0|KAX=2.8.1|KSPe.Light.KAX=2.4.2|KerbalAnimationSuite=1.3.0|KerbalChangelog=1.4.2|KerbalChecklistDebug=1.0.0|KerbalCurrencyDisplay=1.0.0|KerbalEngineer.Unity=1.0.0|KerbalEngineer=1.1.9|KerbalFlightIndicators=0.20.0|KerbalismBootstrap=3.31.0|KerbalismLabExperimentsExpandedContinued=1.0.0|KerbalJointReinforcement=3.8.6|KerbalKrashSystem=1.0.0|KerbalKrashSystem_Leak=1.0.0|KerbalKrashSystem_Repair=1.0.0|KerbalKrashSystem_Science=1.0.0|VesselModuleSave=1.0.2|KerBalloons=0.6.0|KerbalWeatherProject=1.0.0|KIS=1.29.8039|KSPDev_Utils.2.6=2.6.7847|MiniAVC-V2=2.0.0|Kopernicus.Parser=1.0.0|SharpDX=4.2.0|SharpDX.DXGI=4.2.0|SharpDX.Direct3D11=4.2.0|KSPTextureLoader=0.0.22|Kopernicus=1.12.235|KittopiaTech=1.0.0|KEX-Common=1.0.0|KEX-EmissiveFX=1.0.0|KEX-EVAFootprints=1.0.0|KEX-RegionalPQSMods=1.0.0|KEX-VertexHeightDeformity=1.0.0|KEX-VertexHeightMap16=1.0.0|KEX-Wormholes=1.0.0|RunSharp=1.0.0|ICSharpCode.SharpZipLib=0.86.0|kOS=1.5.1|kOS.Safe=1.5.1|kOS-AddOns-Ferram=0.1.1|kOS-Astrogator=0.2.2|kOS-KerbalEngineer=0.1.1|KOS-Scansat=1.2.0|JsonFx=2.0.1209|kOSPropMonitor=1.7.3|KronalUtils=1.0.0|Kronometer=1.12.0|Google.Protobuf=3.10.1|KRPC.Core=0.5.4|KRPC=0.5.4|KRPC.DockingCamera=0.5.4|KRPC.Drawing=0.5.4|KRPC.InfernalRobotics=0.5.4|KRPC.IO.Ports=0.0.0|KRPC.KerbalAlarmClock=0.5.4|KRPC.LiDAR=0.5.4|KRPC.RemoteTech=0.5.4|KRPC.SpaceCenter=0.5.4|KRPC.UI=0.5.4|KSPCasher=0.3.0|0_MultipleModuleInPartAPI=1.0.0|KSPCommunityFixes=1.39.1|KSPIRC=0.19.0|KSPWheel=0.0.0|GroundProximity=0.3.3|LazyPainter=0.4.1|IRSurfaceSampler=1.0.1|InfernalRobotics_v3=3.1.17|alglib=1.0.0|MechJeb2=2.15.1|MechJebLib=1.0.0|MechJebLibBindings=1.0.0|AvionicsSystems=1.3.7|MoonSharp.Interpreter=2.0.0|MOAR_Units=1.0.0|MouseAimFlight=0.0.0|NavUtilLib=0.7.2|NavUtilRPM=0.7.2|DockingPortAlignmentIndicator=6.12.0|DPAI_RPM=1.0.0|ModuleDockingNodeNamed=1.1.0|NearFutureElectrical=1.0.0|NearFutureExploration=0.4.0|NFPropUtils=1.0.0|NearFuturePropulsion=0.9.0|NearFutureSolar=0.4.0|NearFutureUtils=0.0.0|FinalFrontier=1.0.0|OhScrap=2.2.0|Grass=0.0.0|ParallaxQualityLibrary=1.0.0|ParallaxOptimized=1.0.0|PatchManager=0.0.17|PhotonSail=1.7.4|PhysicsRangeExtender=1.21.0|PilotAssistant=1.0.0|PlanetShine=0.2.6|KSP_Log=1.2.0|PreciseEditor=1.5.0|PreciseNode=1.2.12|ProbeControlRoomRecontrolled=1.4.0|ROUtils=1.1.1|ProceduralParts=2.8.0|RealAntennas=2.9.0|RealChute=1.4.9059|RealFuels=15.12.0|RealFuelsB9PSPatch=1.0.0|RealHeat=5.1.0|BackgroundResources=1.12.0|Restock=1.0.0|Reviva=1.0.2|RocketSoundEnhancement.Unity=1.0.0|RocketSoundEnhancement=0.9.11|RSSTimeFormatter=1.12.0|SCANsat=21.1.0|SCANmechjeb=21.1.0|SCANsat.Unity=21.1.0|scatterer=0.878.0|ScrapYard=2.2.1|ScrapYard_ContractConfigurator=2.2.1|Shabby=0.4.2|SmokeScreen=2.8.14|SpaceDust=0.5.4|ButtonManager=1.0.2|KSP_ColorPicker=1.1.1|KSP_PartHighlighter=1.1.1|SpaceTuxUtility=1.0.2|KSPSteamCtrlr=0.0.1|StagedAnimation=1.0.0|StateFundingContinued=0.6.19|HabUtils=1.0.0|StockAlarmClockDisabler=1.0.0|SystemHeat=0.1.0|TextureReplacer=4.5.3|ThroughTheEyes=2.0.4|KerbalAlarmClock=3.14.0|TrimIndicator=1.12.0|TUFX=1.1.1|KSPe.Light.TweakScale=2.5.4|Scale=2.4.8|TweakScale.WatchDog=2.4.8|TweakScaleCompanion=2025.12.12|TweakScaleCompanion_Frameworks=0.4.0|TweakScalerTestFlightCore=0.4.0|TweakScalerWaterfallFX=0.4.0|TweakScaleCompanion_FS=1.3.0|TweakScalerFSBuoyancy=1.3.0|TweakScaleCompanion_KIAS=1.1.0|TweakScalerKISInventory=1.1.0|TweakScaleCompanion_PKMC=2.2.1|VaporCones=1.0.0|VesselMover=1.12.0|VesselNotes=0.0.2|VesselView=0.8.9|VesselViewRPM=0.8.9|VVDiscoDisplay=0.8.9|VVPartSelector=0.8.9|Interstellar=1.29.6|Waterfall=0.10.2|WaypointManager=2.8.4|WhatDoINeed=0.0.4|WildBlueTools=1.0.0|KerbalActuators=1.0.0|WildBlueCore=1.0.0|Deferred=1.3.3|Kerbalism=3.31.0
 PART
 {
 	part = Mk2Pod_4283307600
 	partName = Part
-	persistentId = 276255730
+	persistentId = 1372278996
 	pos = 0,25.9005318,0
 	attPos = 0,10.9005318,0
 	attPos0 = 0,15,0
@@ -254,8 +254,8 @@ PART
 	{
 		name = FundsKeeper
 		isEnabled = True
-		OriginalCost = 7490.20059956940600
-		OriginalResourcesCost = 350.70009956940600
+		OriginalCost = 7490.21179956940600
+		OriginalResourcesCost = 350.71129956940600
 		OriginalModulesCost = 4288.8335
 		stagingEnabled = True
 		EVENTS
@@ -1751,7 +1751,7 @@ PART
 	MODULE
 	{
 		name = KOSNameTag
-		isEnabled = False
+		isEnabled = True
 		nameTag = 
 		stagingEnabled = True
 		EVENTS
@@ -1774,7 +1774,7 @@ PART
 		hasFailed = False
 		failureType = communication failure
 		expectedLifetime = 6
-		chanceOfFailure = 0.0799999982
+		chanceOfFailure = 0.0700000003
 		baseChanceOfFailure = 0.100000001
 		numberOfRepairs = 0
 		stagingEnabled = True
@@ -1797,7 +1797,7 @@ PART
 		hasFailed = False
 		failureType = Short Circuit
 		expectedLifetime = 6
-		chanceOfFailure = 0.0799999982
+		chanceOfFailure = 0.0700000003
 		baseChanceOfFailure = 0.100000001
 		numberOfRepairs = 0
 		stagingEnabled = True
@@ -1820,7 +1820,7 @@ PART
 		hasFailed = False
 		failureType = Reaction Wheel Failure
 		expectedLifetime = 6
-		chanceOfFailure = 0.0799999982
+		chanceOfFailure = 0.0700000003
 		baseChanceOfFailure = 0.100000001
 		numberOfRepairs = 0
 		stagingEnabled = True
@@ -1844,7 +1844,7 @@ PART
 		hasFailed = False
 		failureType = none
 		expectedLifetime = 6
-		chanceOfFailure = 0.0799999982
+		chanceOfFailure = 0.0700000003
 		baseChanceOfFailure = 0.100000001
 		numberOfRepairs = 0
 		stagingEnabled = True
@@ -1941,7 +1941,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 276255730
+		id = 1372278996
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -2660,6 +2660,22 @@ PART
 	}
 	MODULE
 	{
+		name = ThermalPowerTransport
+		isEnabled = True
+		thermalCost = 0.20000000000000001
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
 		name = DPSoundFX
 		isEnabled = True
 		stagingEnabled = True
@@ -3000,7 +3016,7 @@ PART
 {
 	part = HeatShield1p5_4283244272
 	partName = Part
-	persistentId = 2056376790
+	persistentId = 590318867
 	pos = 0,25.2755318,0
 	attPos = 0,0,0
 	attPos0 = 0,-0.625,0
@@ -3454,7 +3470,7 @@ PART
 		hasFailed = False
 		failureType = none
 		expectedLifetime = 6
-		chanceOfFailure = 0.0799999982
+		chanceOfFailure = 0.0700000003
 		baseChanceOfFailure = 0.100000001
 		numberOfRepairs = 0
 		stagingEnabled = True
@@ -3518,7 +3534,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 2056376790
+		id = 590318867
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -3995,7 +4011,7 @@ PART
 	MODULE
 	{
 		name = KOSNameTag
-		isEnabled = False
+		isEnabled = True
 		nameTag = 
 		stagingEnabled = True
 		EVENTS
@@ -4104,7 +4120,7 @@ PART
 {
 	part = SurfAntenna_4283232924
 	partName = Part
-	persistentId = 98173110
+	persistentId = 3189680736
 	pos = 0,26.1634388,0.571490824
 	attPos = 0,-0.0351829529,-0.0851681828
 	attPos0 = 0,0.298089027,0.656659007
@@ -4505,7 +4521,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 98173110
+		id = 3189680736
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -5311,7 +5327,7 @@ PART
 {
 	part = batteryPack_4288850498
 	partName = Part
-	persistentId = 3846312336
+	persistentId = 4085507227
 	pos = 0.56392616,25.6547241,6.77367069E-08
 	attPos = -0.286253691,0.0558567047,1.70620353E-08
 	attPos0 = 0.850179851,-0.301664352,5.06746716E-08
@@ -5330,7 +5346,7 @@ PART
 	sepI = -1
 	attm = 1
 	sameVesselCollision = False
-	modCost = 0
+	modCost = 1.09849498E-06
 	modMass = 0
 	modSize = 0,0,0
 	sym = batteryPack_4288850214
@@ -5418,9 +5434,9 @@ PART
 	{
 		name = FundsKeeper
 		isEnabled = True
-		OriginalCost = 80
-		OriginalResourcesCost = 0
-		OriginalModulesCost = 0
+		OriginalCost = 80.002001098495
+		OriginalResourcesCost = 0.00200
+		OriginalModulesCost = 0.000001098495
 		stagingEnabled = True
 		EVENTS
 		{
@@ -5757,7 +5773,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 3846312336
+		id = 4085507227
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -5822,7 +5838,7 @@ PART
 {
 	part = batteryPack_4288850214
 	partName = Part
-	persistentId = 391282025
+	persistentId = 3138668175
 	pos = 1.01349336E-07,25.6547241,-0.56392622
 	attPos = 0,0.0558567047,0.286253572
 	attPos0 = 1.01349336E-07,-0.301664352,-0.850179791
@@ -5841,7 +5857,7 @@ PART
 	sepI = -1
 	attm = 1
 	sameVesselCollision = False
-	modCost = 0
+	modCost = 1.09849498E-06
 	modMass = 0
 	modSize = 0,0,0
 	sym = batteryPack_4288850124
@@ -5929,9 +5945,9 @@ PART
 	{
 		name = FundsKeeper
 		isEnabled = True
-		OriginalCost = 80
-		OriginalResourcesCost = 0
-		OriginalModulesCost = 0
+		OriginalCost = 80.002001098495
+		OriginalResourcesCost = 0.00200
+		OriginalModulesCost = 0.000001098495
 		stagingEnabled = True
 		EVENTS
 		{
@@ -6268,7 +6284,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 391282025
+		id = 3138668175
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -6333,7 +6349,7 @@ PART
 {
 	part = batteryPack_4288850124
 	partName = Part
-	persistentId = 2720509096
+	persistentId = 1420411299
 	pos = -0.56392616,25.6547241,-1.34961951E-07
 	attPos = 0.286253691,0.0558567047,-1.58612366E-07
 	attPos0 = -0.850179851,-0.301664352,2.36504114E-08
@@ -6352,7 +6368,7 @@ PART
 	sepI = -1
 	attm = 1
 	sameVesselCollision = False
-	modCost = 0
+	modCost = 1.09849498E-06
 	modMass = 0
 	modSize = 0,0,0
 	sym = batteryPack_4288850034
@@ -6440,9 +6456,9 @@ PART
 	{
 		name = FundsKeeper
 		isEnabled = True
-		OriginalCost = 80
-		OriginalResourcesCost = 0
-		OriginalModulesCost = 0
+		OriginalCost = 80.002001098495
+		OriginalResourcesCost = 0.00200
+		OriginalModulesCost = 0.000001098495
 		stagingEnabled = True
 		EVENTS
 		{
@@ -6779,7 +6795,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 2720509096
+		id = 1420411299
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -6844,7 +6860,7 @@ PART
 {
 	part = batteryPack_4288850034
 	partName = Part
-	persistentId = 3575463051
+	persistentId = 3166258570
 	pos = -5.20493408E-08,25.6547241,0.56392622
 	attPos = -5.20493408E-08,0.0558567047,-0.286253572
 	attPos0 = -5.32267881E-16,-0.301664352,0.850179791
@@ -6863,7 +6879,7 @@ PART
 	sepI = -1
 	attm = 1
 	sameVesselCollision = False
-	modCost = 0
+	modCost = 1.09849498E-06
 	modMass = 0
 	modSize = 0,0,0
 	sym = batteryPack_4288850498
@@ -6951,9 +6967,9 @@ PART
 	{
 		name = FundsKeeper
 		isEnabled = True
-		OriginalCost = 80
-		OriginalResourcesCost = 0
-		OriginalModulesCost = 0
+		OriginalCost = 80.002001098495
+		OriginalResourcesCost = 0.00200
+		OriginalModulesCost = 0.000001098495
 		stagingEnabled = True
 		EVENTS
 		{
@@ -7290,7 +7306,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 3575463051
+		id = 3166258570
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -7865,7 +7881,7 @@ PART
 {
 	part = restock-engine-les-2_4288298380
 	partName = Part
-	persistentId = 2820639448
+	persistentId = 3460593722
 	pos = 0,27.1129417,0
 	attPos = 0,0,0
 	attPos0 = 0,-0.0324993134,0
@@ -8342,7 +8358,7 @@ PART
 		hasFailed = False
 		failureType = ignition failure
 		expectedLifetime = 5
-		chanceOfFailure = 0.166666672
+		chanceOfFailure = 0.125
 		baseChanceOfFailure = 0.5
 		numberOfRepairs = 0
 		stagingEnabled = True
@@ -8366,7 +8382,7 @@ PART
 		hasFailed = False
 		failureType = none
 		expectedLifetime = 6
-		chanceOfFailure = 0.0799999982
+		chanceOfFailure = 0.0700000003
 		baseChanceOfFailure = 0.100000001
 		numberOfRepairs = 0
 		stagingEnabled = True
@@ -8445,7 +8461,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 2820639448
+		id = 3460593722
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -10189,7 +10205,7 @@ PART
 {
 	part = probeCoreOcto.v2_4287079064
 	partName = Part
-	persistentId = 1531700722
+	persistentId = 832522456
 	pos = 0,24.6434479,0
 	attPos = 0,0,0
 	attPos0 = 0,-0.262083054,0
@@ -10413,9 +10429,9 @@ PART
 	{
 		name = FundsKeeper
 		isEnabled = True
-		OriginalCost = 1512
-		OriginalResourcesCost = 0
-		OriginalModulesCost = 1062
+		OriginalCost = 1512.00018637695
+		OriginalResourcesCost = 0.00020
+		OriginalModulesCost = 1061.99998637695
 		stagingEnabled = True
 		EVENTS
 		{
@@ -11357,7 +11373,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 1531700722
+		id = 832522456
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -11551,7 +11567,7 @@ PART
 {
 	part = Size1p5.Tank.02_4283208968
 	partName = Part
-	persistentId = 138533102
+	persistentId = 4198283122
 	pos = 0,24.3490372,0
 	attPos = 0,0.361421585,0
 	attPos0 = 0,-0.655832291,0
@@ -11589,6 +11605,7 @@ PART
 	link = light.aviation_4288082594
 	link = light.aviation_4288082456
 	link = light.aviation_4288082318
+	link = JSIPrimitiveExternalCamera.v2_4288592418
 	attN = top,probeCoreOcto.v2_4287079064_0|0.46875|0_0|1|0_0|0.46875|0_0|1|0
 	attN = bottom,Size1p5.Tank.02_4283198120_0|-0.46875|0_0|-1|0_0|-0.46875|0_0|-1|0
 	EVENTS
@@ -11902,7 +11919,7 @@ PART
 	MODULE
 	{
 		name = KOSNameTag
-		isEnabled = False
+		isEnabled = True
 		nameTag = 
 		stagingEnabled = True
 		EVENTS
@@ -11925,7 +11942,7 @@ PART
 		hasFailed = False
 		failureType = none
 		expectedLifetime = 6
-		chanceOfFailure = 0.0600000024
+		chanceOfFailure = 0.0500000007
 		baseChanceOfFailure = 0.100000001
 		numberOfRepairs = 0
 		stagingEnabled = True
@@ -12035,7 +12052,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 138533102
+		id = 4198283122
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -12134,7 +12151,7 @@ PART
 {
 	part = Size1p5.Tank.02_4283198120
 	partName = Part
-	persistentId = 2557424743
+	persistentId = 601508111
 	pos = 0,23.611536,0
 	attPos = 0,0.199999809,0
 	attPos0 = 0,-0.9375,0
@@ -12495,7 +12512,7 @@ PART
 		hasFailed = False
 		failureType = none
 		expectedLifetime = 6
-		chanceOfFailure = 0.0600000024
+		chanceOfFailure = 0.0500000007
 		baseChanceOfFailure = 0.100000001
 		numberOfRepairs = 0
 		stagingEnabled = True
@@ -12605,7 +12622,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 2557424743
+		id = 601508111
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -12704,7 +12721,7 @@ PART
 {
 	part = Size1p5.Tank.02_4282895804
 	partName = Part
-	persistentId = 1551402515
+	persistentId = 2538318923
 	pos = 0,22.8740368,0
 	attPos = 0,0.199999809,0
 	attPos0 = 0,-0.9375,0
@@ -13072,7 +13089,7 @@ PART
 		hasFailed = False
 		failureType = none
 		expectedLifetime = 6
-		chanceOfFailure = 0.0600000024
+		chanceOfFailure = 0.0500000007
 		baseChanceOfFailure = 0.100000001
 		numberOfRepairs = 0
 		stagingEnabled = True
@@ -13182,7 +13199,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 1551402515
+		id = 2538318923
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -13281,7 +13298,7 @@ PART
 {
 	part = Size1p5.Tank.02_4282890942
 	partName = Part
-	persistentId = 868426728
+	persistentId = 2868552058
 	pos = 0,22.1365376,0
 	attPos = 0,0.199999809,0
 	attPos0 = 0,-0.9375,0
@@ -13630,7 +13647,7 @@ PART
 	MODULE
 	{
 		name = KOSNameTag
-		isEnabled = False
+		isEnabled = True
 		nameTag = 
 		stagingEnabled = True
 		EVENTS
@@ -13653,7 +13670,7 @@ PART
 		hasFailed = False
 		failureType = none
 		expectedLifetime = 6
-		chanceOfFailure = 0.0600000024
+		chanceOfFailure = 0.0500000007
 		baseChanceOfFailure = 0.100000001
 		numberOfRepairs = 0
 		stagingEnabled = True
@@ -13763,7 +13780,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 868426728
+		id = 2868552058
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -13862,7 +13879,7 @@ PART
 {
 	part = RCSBlock.v2_4282800968
 	partName = Part
-	persistentId = 2481466746
+	persistentId = 899438460
 	pos = -0.921219885,21.8091068,5.54305295E-08
 	attPos = 0,0,0
 	attPos0 = -0.921219885,-0.327428818,5.54305295E-08
@@ -14250,7 +14267,7 @@ PART
 		hasFailed = False
 		failureType = RCS Failure
 		expectedLifetime = 6
-		chanceOfFailure = 0.0299999993
+		chanceOfFailure = 0.00999999978
 		baseChanceOfFailure = 0.100000001
 		numberOfRepairs = 0
 		stagingEnabled = True
@@ -14336,7 +14353,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 2481466746
+		id = 899438460
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -14420,7 +14437,7 @@ PART
 {
 	part = RCSBlock.v2_4282797190
 	partName = Part
-	persistentId = 3940264253
+	persistentId = 2672783806
 	pos = 5.21542143E-10,21.8091068,0.921219826
 	attPos = 0,0,0
 	attPos0 = 5.21542143E-10,-0.327428818,0.921219826
@@ -14808,7 +14825,7 @@ PART
 		hasFailed = False
 		failureType = RCS Failure
 		expectedLifetime = 6
-		chanceOfFailure = 0.0299999993
+		chanceOfFailure = 0.00999999978
 		baseChanceOfFailure = 0.100000001
 		numberOfRepairs = 0
 		stagingEnabled = True
@@ -14894,7 +14911,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 3940264253
+		id = 2672783806
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -14978,7 +14995,7 @@ PART
 {
 	part = RCSBlock.v2_4282796654
 	partName = Part
-	persistentId = 3290611613
+	persistentId = 2284866473
 	pos = 0.921219885,21.8091068,-1.35966133E-07
 	attPos = 0,0,0
 	attPos0 = 0.921219885,-0.327428818,-1.35966133E-07
@@ -15366,7 +15383,7 @@ PART
 		hasFailed = False
 		failureType = RCS Failure
 		expectedLifetime = 6
-		chanceOfFailure = 0.0299999993
+		chanceOfFailure = 0.00999999978
 		baseChanceOfFailure = 0.100000001
 		numberOfRepairs = 0
 		stagingEnabled = True
@@ -15452,7 +15469,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 3290611613
+		id = 2284866473
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -15536,7 +15553,7 @@ PART
 {
 	part = RCSBlock.v2_4282796118
 	partName = Part
-	persistentId = 211893333
+	persistentId = 13798653
 	pos = -1.10339514E-07,21.8091068,-0.921219826
 	attPos = 0,0,0
 	attPos0 = -1.10339514E-07,-0.327428818,-0.921219826
@@ -15924,7 +15941,7 @@ PART
 		hasFailed = False
 		failureType = RCS Failure
 		expectedLifetime = 6
-		chanceOfFailure = 0.0299999993
+		chanceOfFailure = 0.00999999978
 		baseChanceOfFailure = 0.100000001
 		numberOfRepairs = 0
 		stagingEnabled = True
@@ -16010,7 +16027,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 211893333
+		id = 13798653
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -16978,7 +16995,7 @@ PART
 {
 	part = ksp.r.largeBatteryPack_4288174282
 	partName = Part
-	persistentId = 4262324318
+	persistentId = 1255107990
 	pos = 5.85043347E-10,22.4170074,0.63276881
 	attPos = 5.85043347E-10,0,-0.303390801
 	attPos0 = 0,0.280469894,0.936159611
@@ -16997,7 +17014,7 @@ PART
 	sepI = 1
 	attm = 1
 	sameVesselCollision = False
-	modCost = 0
+	modCost = 4.39397991E-06
 	modMass = 0
 	modSize = 0,0,0
 	sym = ksp.r.largeBatteryPack_4288172714
@@ -17083,9 +17100,9 @@ PART
 	{
 		name = FundsKeeper
 		isEnabled = True
-		OriginalCost = 550
-		OriginalResourcesCost = 0
-		OriginalModulesCost = 0
+		OriginalCost = 550.00800439398
+		OriginalResourcesCost = 0.00800
+		OriginalModulesCost = 0.00000439398
 		stagingEnabled = True
 		EVENTS
 		{
@@ -17349,7 +17366,7 @@ PART
 		hasFailed = False
 		failureType = Short Circuit
 		expectedLifetime = 6
-		chanceOfFailure = 0.0399999991
+		chanceOfFailure = 0.0199999996
 		baseChanceOfFailure = 0.100000001
 		numberOfRepairs = 0
 		stagingEnabled = True
@@ -17373,7 +17390,7 @@ PART
 		hasFailed = False
 		failureType = none
 		expectedLifetime = 6
-		chanceOfFailure = 0.0399999991
+		chanceOfFailure = 0.0199999996
 		baseChanceOfFailure = 0.100000001
 		numberOfRepairs = 0
 		stagingEnabled = True
@@ -17422,7 +17439,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 4262324318
+		id = 1255107990
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -17487,7 +17504,7 @@ PART
 {
 	part = ksp.r.largeBatteryPack_4288172714
 	partName = Part
-	persistentId = 2527981885
+	persistentId = 494343640
 	pos = -5.5903449E-08,22.4170074,-0.63276881
 	attPos = 2.59382205E-08,0,0.303390801
 	attPos0 = -8.18416694E-08,0.280469894,-0.936159611
@@ -17506,7 +17523,7 @@ PART
 	sepI = 1
 	attm = 1
 	sameVesselCollision = False
-	modCost = 0
+	modCost = 4.39397991E-06
 	modMass = 0
 	modSize = 0,0,0
 	sym = ksp.r.largeBatteryPack_4288174282
@@ -17592,9 +17609,9 @@ PART
 	{
 		name = FundsKeeper
 		isEnabled = True
-		OriginalCost = 550
-		OriginalResourcesCost = 0
-		OriginalModulesCost = 0
+		OriginalCost = 550.00800439398
+		OriginalResourcesCost = 0.00800
+		OriginalModulesCost = 0.00000439398
 		stagingEnabled = True
 		EVENTS
 		{
@@ -17858,7 +17875,7 @@ PART
 		hasFailed = False
 		failureType = Short Circuit
 		expectedLifetime = 6
-		chanceOfFailure = 0.0399999991
+		chanceOfFailure = 0.0199999996
 		baseChanceOfFailure = 0.100000001
 		numberOfRepairs = 0
 		stagingEnabled = True
@@ -17882,7 +17899,7 @@ PART
 		hasFailed = False
 		failureType = none
 		expectedLifetime = 6
-		chanceOfFailure = 0.0399999991
+		chanceOfFailure = 0.0199999996
 		baseChanceOfFailure = 0.100000001
 		numberOfRepairs = 0
 		stagingEnabled = True
@@ -17931,7 +17948,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 2527981885
+		id = 494343640
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -17996,7 +18013,7 @@ PART
 {
 	part = solarPanels1_4288927160
 	partName = Part
-	persistentId = 3036511960
+	persistentId = 3857971416
 	pos = -8.81855655E-09,23.2961979,0.831924558
 	attPos = -8.81855655E-09,0,-0.100791514
 	attPos0 = 0,0.422161102,0.932716072
@@ -18015,7 +18032,7 @@ PART
 	sepI = 1
 	attm = 1
 	sameVesselCollision = False
-	modCost = 0
+	modCost = -1.05175786E-05
 	modMass = 0
 	modSize = 0,0,0
 	sym = solarPanels1_4288925108
@@ -18135,9 +18152,9 @@ PART
 	{
 		name = FundsKeeper
 		isEnabled = True
-		OriginalCost = 440
-		OriginalResourcesCost = 0
-		OriginalModulesCost = 0
+		OriginalCost = 439.99998948242
+		OriginalResourcesCost = 0.00
+		OriginalModulesCost = -0.00001051758
 		stagingEnabled = True
 		EVENTS
 		{
@@ -18243,21 +18260,6 @@ PART
 		defaultTransformScale = (0, 0, 0)
 		DryCost = 440
 		OriginalCrewCapacity = 0
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = TRReflection
-		isEnabled = True
 		stagingEnabled = True
 		EVENTS
 		{
@@ -18408,7 +18410,7 @@ PART
 		hasFailed = False
 		failureType = none
 		expectedLifetime = 6
-		chanceOfFailure = 0.0799999982
+		chanceOfFailure = 0.0700000003
 		baseChanceOfFailure = 0.100000001
 		numberOfRepairs = 0
 		stagingEnabled = True
@@ -18457,9 +18459,32 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 3036511960
+		id = 3857971416
 		TimesRecovered = 0
 		Inventoried = False
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = FNSolarPanelWasteHeatModule
+		isEnabled = True
+		epx = 0
+		epy = 0
+		whx = 0
+		why = 0
+		tpx = 0
+		tpy = 0
+		cpx = 0
+		cpy = 0
 		stagingEnabled = True
 		EVENTS
 		{
@@ -18506,12 +18531,23 @@ PART
 		{
 		}
 	}
+	RESOURCE
+	{
+		name = Megajoules
+		amount = 0
+		maxAmount = 0.001
+		flowState = True
+		isTweakable = False
+		hideFlow = False
+		isVisible = True
+		flowMode = Both
+	}
 }
 PART
 {
 	part = solarPanels1_4288925108
 	partName = Part
-	persistentId = 2555757256
+	persistentId = 1545080021
 	pos = -6.39105977E-08,23.2961979,-0.831924558
 	attPos = 1.7630029E-08,0,0.100791514
 	attPos0 = -8.15406267E-08,0.422161102,-0.932716072
@@ -18530,7 +18566,7 @@ PART
 	sepI = 1
 	attm = 1
 	sameVesselCollision = False
-	modCost = 0
+	modCost = -1.05175786E-05
 	modMass = 0
 	modSize = 0,0,0
 	sym = solarPanels1_4288927160
@@ -18650,9 +18686,9 @@ PART
 	{
 		name = FundsKeeper
 		isEnabled = True
-		OriginalCost = 440
-		OriginalResourcesCost = 0
-		OriginalModulesCost = 0
+		OriginalCost = 439.99998948242
+		OriginalResourcesCost = 0.00
+		OriginalModulesCost = -0.00001051758
 		stagingEnabled = True
 		EVENTS
 		{
@@ -18758,21 +18794,6 @@ PART
 		defaultTransformScale = (0, 0, 0)
 		DryCost = 440
 		OriginalCrewCapacity = 0
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = TRReflection
-		isEnabled = True
 		stagingEnabled = True
 		EVENTS
 		{
@@ -18923,7 +18944,7 @@ PART
 		hasFailed = False
 		failureType = none
 		expectedLifetime = 6
-		chanceOfFailure = 0.0799999982
+		chanceOfFailure = 0.0700000003
 		baseChanceOfFailure = 0.100000001
 		numberOfRepairs = 0
 		stagingEnabled = True
@@ -18972,9 +18993,32 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 2555757256
+		id = 1545080021
 		TimesRecovered = 0
 		Inventoried = False
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = FNSolarPanelWasteHeatModule
+		isEnabled = True
+		epx = 0
+		epy = 0
+		whx = 0
+		why = 0
+		tpx = 0
+		tpy = 0
+		cpx = 0
+		cpy = 0
 		stagingEnabled = True
 		EVENTS
 		{
@@ -19021,12 +19065,23 @@ PART
 		{
 		}
 	}
+	RESOURCE
+	{
+		name = Megajoules
+		amount = 0
+		maxAmount = 0.001
+		flowState = True
+		isTweakable = False
+		hideFlow = False
+		isVisible = True
+		flowMode = Both
+	}
 }
 PART
 {
 	part = miniFuselage_4287037008
 	partName = Part
-	persistentId = 3790769736
+	persistentId = 3964590505
 	pos = -0.811253965,22.7198982,3.64821311E-08
 	attPos = 0.265438139,-0.260732651,-4.47495232E-08
 	attPos0 = -1.0766921,0.106594086,8.12316543E-08
@@ -19491,7 +19546,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 3790769736
+		id = 3964590505
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -19564,7 +19619,7 @@ PART
 {
 	part = miniFuselage_4287028242
 	partName = Part
-	persistentId = 1650880148
+	persistentId = 203292408
 	pos = 0.811253965,22.7198982,-1.07404205E-07
 	attPos = -0.265438139,-0.260732651,6.79548577E-08
 	attPos0 = 1.0766921,0.106594086,-1.75359062E-07
@@ -20029,7 +20084,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 1650880148
+		id = 203292408
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -20463,7 +20518,7 @@ PART
 {
 	part = solarPanels2_4289402002
 	partName = Part
-	persistentId = 3713735611
+	persistentId = 135191641
 	pos = 0.825115621,23.3593445,3.70869166E-08
 	attPos = -0.110969961,0,-1.87081355E-08
 	attPos0 = 0.936085582,-0.252191544,5.57950521E-08
@@ -20482,7 +20537,7 @@ PART
 	sepI = 1
 	attm = 1
 	sameVesselCollision = False
-	modCost = 0
+	modCost = -1.05175786E-05
 	modMass = 0
 	modSize = 0,0,0
 	sym = solarPanels2_4289400910
@@ -20602,9 +20657,9 @@ PART
 	{
 		name = FundsKeeper
 		isEnabled = True
-		OriginalCost = 440
-		OriginalResourcesCost = 0
-		OriginalModulesCost = 0
+		OriginalCost = 439.99998948242
+		OriginalResourcesCost = 0.00
+		OriginalModulesCost = -0.00001051758
 		stagingEnabled = True
 		EVENTS
 		{
@@ -20710,21 +20765,6 @@ PART
 		defaultTransformScale = (0, 0, 0)
 		DryCost = 440
 		OriginalCrewCapacity = 0
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = TRReflection
-		isEnabled = True
 		stagingEnabled = True
 		EVENTS
 		{
@@ -20875,7 +20915,7 @@ PART
 		hasFailed = False
 		failureType = none
 		expectedLifetime = 6
-		chanceOfFailure = 0.0799999982
+		chanceOfFailure = 0.0700000003
 		baseChanceOfFailure = 0.100000001
 		numberOfRepairs = 0
 		stagingEnabled = True
@@ -20924,9 +20964,32 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 3713735611
+		id = 135191641
 		TimesRecovered = 0
 		Inventoried = False
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = FNSolarPanelWasteHeatModule
+		isEnabled = True
+		epx = 0
+		epy = 0
+		whx = 0
+		why = 0
+		tpx = 0
+		tpy = 0
+		cpx = 0
+		cpy = 0
 		stagingEnabled = True
 		EVENTS
 		{
@@ -20973,12 +21036,23 @@ PART
 		{
 		}
 	}
+	RESOURCE
+	{
+		name = Megajoules
+		amount = 0
+		maxAmount = 0.001
+		flowState = True
+		isTweakable = False
+		hideFlow = False
+		isVisible = True
+		flowMode = Both
+	}
 }
 PART
 {
 	part = solarPanels2_4289400910
 	partName = Part
-	persistentId = 2203837958
+	persistentId = 1219931881
 	pos = -0.825115621,23.3593445,3.50469804E-08
 	attPos = 0.110969961,0,9.00683261E-09
 	attPos0 = -0.936085582,-0.252191544,2.60401478E-08
@@ -20997,7 +21071,7 @@ PART
 	sepI = 1
 	attm = 1
 	sameVesselCollision = False
-	modCost = 0
+	modCost = -1.05175786E-05
 	modMass = 0
 	modSize = 0,0,0
 	sym = solarPanels2_4289402002
@@ -21117,9 +21191,9 @@ PART
 	{
 		name = FundsKeeper
 		isEnabled = True
-		OriginalCost = 440
-		OriginalResourcesCost = 0
-		OriginalModulesCost = 0
+		OriginalCost = 439.99998948242
+		OriginalResourcesCost = 0.00
+		OriginalModulesCost = -0.00001051758
 		stagingEnabled = True
 		EVENTS
 		{
@@ -21225,21 +21299,6 @@ PART
 		defaultTransformScale = (0, 0, 0)
 		DryCost = 440
 		OriginalCrewCapacity = 0
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = TRReflection
-		isEnabled = True
 		stagingEnabled = True
 		EVENTS
 		{
@@ -21390,7 +21449,7 @@ PART
 		hasFailed = False
 		failureType = none
 		expectedLifetime = 6
-		chanceOfFailure = 0.0799999982
+		chanceOfFailure = 0.0700000003
 		baseChanceOfFailure = 0.100000001
 		numberOfRepairs = 0
 		stagingEnabled = True
@@ -21439,9 +21498,32 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 2203837958
+		id = 1219931881
 		TimesRecovered = 0
 		Inventoried = False
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = FNSolarPanelWasteHeatModule
+		isEnabled = True
+		epx = 0
+		epy = 0
+		whx = 0
+		why = 0
+		tpx = 0
+		tpy = 0
+		cpx = 0
+		cpy = 0
 		stagingEnabled = True
 		EVENTS
 		{
@@ -21488,12 +21570,23 @@ PART
 		{
 		}
 	}
+	RESOURCE
+	{
+		name = Megajoules
+		amount = 0
+		maxAmount = 0.001
+		flowState = True
+		isTweakable = False
+		hideFlow = False
+		isVisible = True
+		flowMode = Both
+	}
 }
 PART
 {
 	part = RCSBlock.v2_4282806244
 	partName = Part
-	persistentId = 1545872642
+	persistentId = 2108114438
 	pos = -1.04308151E-09,24.5751057,0.921144545
 	attPos = 0,0,0
 	attPos0 = -1.04308151E-09,0.22606945,0.921144545
@@ -21881,7 +21974,7 @@ PART
 		hasFailed = False
 		failureType = RCS Failure
 		expectedLifetime = 6
-		chanceOfFailure = 0.0299999993
+		chanceOfFailure = 0.00999999978
 		baseChanceOfFailure = 0.100000001
 		numberOfRepairs = 0
 		stagingEnabled = True
@@ -21967,7 +22060,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 1545872642
+		id = 2108114438
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -22051,7 +22144,7 @@ PART
 {
 	part = RCSBlock.v2_4282803628
 	partName = Part
-	persistentId = 2486092440
+	persistentId = 2723052185
 	pos = 0.921144485,24.5751057,5.59475737E-08
 	attPos = 0,0,0
 	attPos0 = 0.921144485,0.22606945,5.59475737E-08
@@ -22439,7 +22532,7 @@ PART
 		hasFailed = False
 		failureType = RCS Failure
 		expectedLifetime = 6
-		chanceOfFailure = 0.0299999993
+		chanceOfFailure = 0.00999999978
 		baseChanceOfFailure = 0.100000001
 		numberOfRepairs = 0
 		stagingEnabled = True
@@ -22525,7 +22618,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 2486092440
+		id = 2723052185
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -22609,7 +22702,7 @@ PART
 {
 	part = RCSBlock.v2_4282803092
 	partName = Part
-	persistentId = 968376933
+	persistentId = 1824841984
 	pos = -7.94859289E-08,24.5751057,-0.921144545
 	attPos = 0,0,0
 	attPos0 = -7.94859289E-08,0.22606945,-0.921144545
@@ -22997,7 +23090,7 @@ PART
 		hasFailed = False
 		failureType = RCS Failure
 		expectedLifetime = 6
-		chanceOfFailure = 0.0299999993
+		chanceOfFailure = 0.00999999978
 		baseChanceOfFailure = 0.100000001
 		numberOfRepairs = 0
 		stagingEnabled = True
@@ -23083,7 +23176,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 968376933
+		id = 1824841984
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -23167,7 +23260,7 @@ PART
 {
 	part = RCSBlock.v2_4282802556
 	partName = Part
-	persistentId = 3707265580
+	persistentId = 2358104201
 	pos = -0.921144485,24.5751057,5.38614131E-08
 	attPos = 0,0,0
 	attPos0 = -0.921144485,0.22606945,5.38614131E-08
@@ -23533,7 +23626,7 @@ PART
 	MODULE
 	{
 		name = KOSNameTag
-		isEnabled = False
+		isEnabled = True
 		nameTag = 
 		stagingEnabled = True
 		EVENTS
@@ -23555,7 +23648,7 @@ PART
 		hasFailed = False
 		failureType = RCS Failure
 		expectedLifetime = 6
-		chanceOfFailure = 0.0299999993
+		chanceOfFailure = 0.00999999978
 		baseChanceOfFailure = 0.100000001
 		numberOfRepairs = 0
 		stagingEnabled = True
@@ -23641,7 +23734,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 3707265580
+		id = 2358104201
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -27818,7 +27911,7 @@ PART
 	MODULE
 	{
 		name = KOSNameTag
-		isEnabled = False
+		isEnabled = True
 		nameTag = 
 		stagingEnabled = True
 		EVENTS
@@ -28051,7 +28144,7 @@ PART
 {
 	part = liquidEngine3.v2_4283033316
 	partName = Part
-	persistentId = 2294273359
+	persistentId = 1638141435
 	pos = 0,21.5177879,1.11758718E-08
 	attPos = 0,0,0
 	attPos0 = 0,0,1.11758718E-08
@@ -28756,7 +28849,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 2294273359
+		id = 1638141435
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -28863,7 +28956,7 @@ PART
 {
 	part = Size1p5.Size2.Adapter.01_4288937034
 	partName = Part
-	persistentId = 761512181
+	persistentId = 1688303985
 	pos = 0,19.3302879,0
 	attPos = 0,0.344388008,0
 	attPos0 = 0,-2.1875,0
@@ -29087,6 +29180,38 @@ PART
 	}
 	MODULE
 	{
+		name = ThermalPowerTransport
+		isEnabled = True
+		thermalCost = 0.25
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ThermalPowerTransport
+		isEnabled = True
+		thermalCost = 0.25
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
 		name = ModulePartVariants
 		isEnabled = True
 		useVariantMass = True
@@ -29203,7 +29328,7 @@ PART
 		hasFailed = False
 		failureType = none
 		expectedLifetime = 6
-		chanceOfFailure = 0.0799999982
+		chanceOfFailure = 0.0700000003
 		baseChanceOfFailure = 0.100000001
 		numberOfRepairs = 0
 		stagingEnabled = True
@@ -29313,7 +29438,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 761512181
+		id = 1688303985
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -29412,7 +29537,7 @@ PART
 {
 	part = Rockomax32.BW_4287319372
 	partName = Part
-	persistentId = 296147554
+	persistentId = 1168332519
 	pos = 0,16.5327873,0
 	attPos = 0,0,0
 	attPos0 = 0,-2.79749966,0
@@ -29753,7 +29878,7 @@ PART
 		hasFailed = False
 		failureType = none
 		expectedLifetime = 6
-		chanceOfFailure = 0.0799999982
+		chanceOfFailure = 0.0700000003
 		baseChanceOfFailure = 0.100000001
 		numberOfRepairs = 0
 		stagingEnabled = True
@@ -29863,7 +29988,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 296147554
+		id = 1168332519
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -29962,7 +30087,7 @@ PART
 {
 	part = Rockomax32.BW_4287296288
 	partName = Part
-	persistentId = 2390102892
+	persistentId = 3938337983
 	pos = 0,12.8127861,0
 	attPos = 0,0,0
 	attPos0 = 0,-3.72000122,0
@@ -30306,7 +30431,7 @@ PART
 		hasFailed = False
 		failureType = none
 		expectedLifetime = 6
-		chanceOfFailure = 0.0799999982
+		chanceOfFailure = 0.0700000003
 		baseChanceOfFailure = 0.100000001
 		numberOfRepairs = 0
 		stagingEnabled = True
@@ -30416,7 +30541,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 2390102892
+		id = 3938337983
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -30515,7 +30640,7 @@ PART
 {
 	part = Rockomax32.BW_4288910096
 	partName = Part
-	persistentId = 2102299473
+	persistentId = 3886920223
 	pos = 0,9.09278679,0
 	attPos = 0,0,0
 	attPos0 = 0,-3.71999931,0
@@ -30542,6 +30667,10 @@ PART
 	link = R8winglet_4288263360
 	link = R8winglet_4288263272
 	link = R8winglet_4288263184
+	link = launchClamp1_4284458366
+	link = launchClamp1_4284451428
+	link = launchClamp1_4284451244
+	link = launchClamp1_4284451060
 	attN = top,Rockomax32.BW_4287296288_0|1.86000001|0_0|1|0_0|1.86000001|0_0|1|0
 	attN = bottom,EnginePlate2_4288906192_0|-1.86000001|0_0|-1|0_0|-1.86000001|0_0|-1|0
 	EVENTS
@@ -30859,7 +30988,7 @@ PART
 		hasFailed = False
 		failureType = none
 		expectedLifetime = 6
-		chanceOfFailure = 0.0799999982
+		chanceOfFailure = 0.0700000003
 		baseChanceOfFailure = 0.100000001
 		numberOfRepairs = 0
 		stagingEnabled = True
@@ -30969,7 +31098,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 2102299473
+		id = 3886920223
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -31710,7 +31839,7 @@ PART
 	istg = 7
 	resPri = 0
 	dstg = 8
-	sidx = 2
+	sidx = 3
 	sqor = 7
 	sepI = 7
 	attm = 0
@@ -32096,7 +32225,7 @@ PART
 	MODULE
 	{
 		name = KOSNameTag
-		isEnabled = False
+		isEnabled = True
 		nameTag = 
 		stagingEnabled = True
 		EVENTS
@@ -32627,7 +32756,7 @@ PART
 {
 	part = cryoengine-vesuvius-1_4289524006
 	partName = Part
-	persistentId = 4148448104
+	persistentId = 3680157474
 	pos = -0.503838897,6.41838837,-0.503838897
 	attPos = 0,0,0
 	attPos0 = -0.503838897,-0.614398956,-0.503838897
@@ -32646,7 +32775,7 @@ PART
 	sepI = 4
 	attm = 0
 	sameVesselCollision = False
-	modCost = 0
+	modCost = 1.99999999E-06
 	modMass = 0
 	modSize = 0,0,0
 	sym = cryoengine-vesuvius-1_4289520868
@@ -33020,9 +33149,9 @@ PART
 	{
 		name = FundsKeeper
 		isEnabled = True
-		OriginalCost = 622
-		OriginalResourcesCost = 0
-		OriginalModulesCost = 0
+		OriginalCost = 622.000002
+		OriginalResourcesCost = 0.00000
+		OriginalModulesCost = 0.000002
 		stagingEnabled = True
 		EVENTS
 		{
@@ -33287,7 +33416,7 @@ PART
 		hasFailed = False
 		failureType = Alternator Failure
 		expectedLifetime = 6
-		chanceOfFailure = 0.0649999976
+		chanceOfFailure = 0.0429999977
 		baseChanceOfFailure = 0.109999999
 		numberOfRepairs = 0
 		stagingEnabled = True
@@ -33310,7 +33439,7 @@ PART
 		hasFailed = False
 		failureType = Short Circuit
 		expectedLifetime = 6
-		chanceOfFailure = 0.0600000024
+		chanceOfFailure = 0.0399999991
 		baseChanceOfFailure = 0.100000001
 		numberOfRepairs = 0
 		stagingEnabled = True
@@ -33336,7 +33465,7 @@ PART
 		hasFailed = False
 		failureType = none
 		expectedLifetime = 6
-		chanceOfFailure = 0.0649999976
+		chanceOfFailure = 0.0429999977
 		baseChanceOfFailure = 0.109999999
 		numberOfRepairs = 0
 		stagingEnabled = True
@@ -33360,7 +33489,7 @@ PART
 		hasFailed = False
 		failureType = none
 		expectedLifetime = 6
-		chanceOfFailure = 0.0600000024
+		chanceOfFailure = 0.0399999991
 		baseChanceOfFailure = 0.100000001
 		numberOfRepairs = 0
 		stagingEnabled = True
@@ -33431,7 +33560,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 4148448104
+		id = 3680157474
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -33549,7 +33678,7 @@ PART
 {
 	part = cryoengine-vesuvius-1_4289520868
 	partName = Part
-	persistentId = 638655588
+	persistentId = 2769893800
 	pos = -0.503838897,6.41838837,0.503838897
 	attPos = 0,0,0
 	attPos0 = -0.503838897,-0.614398956,0.503838897
@@ -33568,7 +33697,7 @@ PART
 	sepI = 4
 	attm = 0
 	sameVesselCollision = False
-	modCost = 0
+	modCost = 1.99999999E-06
 	modMass = 0
 	modSize = 0,0,0
 	sym = cryoengine-vesuvius-1_4289520562
@@ -33934,9 +34063,9 @@ PART
 	{
 		name = FundsKeeper
 		isEnabled = True
-		OriginalCost = 622
-		OriginalResourcesCost = 0
-		OriginalModulesCost = 0
+		OriginalCost = 622.000002
+		OriginalResourcesCost = 0.00000
+		OriginalModulesCost = 0.000002
 		stagingEnabled = True
 		EVENTS
 		{
@@ -34201,7 +34330,7 @@ PART
 		hasFailed = False
 		failureType = Alternator Failure
 		expectedLifetime = 6
-		chanceOfFailure = 0.0649999976
+		chanceOfFailure = 0.0429999977
 		baseChanceOfFailure = 0.109999999
 		numberOfRepairs = 0
 		stagingEnabled = True
@@ -34224,7 +34353,7 @@ PART
 		hasFailed = False
 		failureType = Short Circuit
 		expectedLifetime = 6
-		chanceOfFailure = 0.0600000024
+		chanceOfFailure = 0.0399999991
 		baseChanceOfFailure = 0.100000001
 		numberOfRepairs = 0
 		stagingEnabled = True
@@ -34250,7 +34379,7 @@ PART
 		hasFailed = False
 		failureType = none
 		expectedLifetime = 6
-		chanceOfFailure = 0.0649999976
+		chanceOfFailure = 0.0429999977
 		baseChanceOfFailure = 0.109999999
 		numberOfRepairs = 0
 		stagingEnabled = True
@@ -34274,7 +34403,7 @@ PART
 		hasFailed = False
 		failureType = none
 		expectedLifetime = 6
-		chanceOfFailure = 0.0600000024
+		chanceOfFailure = 0.0399999991
 		baseChanceOfFailure = 0.100000001
 		numberOfRepairs = 0
 		stagingEnabled = True
@@ -34345,7 +34474,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 638655588
+		id = 2769893800
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -34463,7 +34592,7 @@ PART
 {
 	part = cryoengine-vesuvius-1_4289520562
 	partName = Part
-	persistentId = 3525213374
+	persistentId = 3390006190
 	pos = 0.503838897,6.41838837,0.503838897
 	attPos = 0,0,0
 	attPos0 = 0.503838897,-0.614398956,0.503838897
@@ -34482,7 +34611,7 @@ PART
 	sepI = 4
 	attm = 0
 	sameVesselCollision = False
-	modCost = 0
+	modCost = 1.99999999E-06
 	modMass = 0
 	modSize = 0,0,0
 	sym = cryoengine-vesuvius-1_4289520256
@@ -34848,9 +34977,9 @@ PART
 	{
 		name = FundsKeeper
 		isEnabled = True
-		OriginalCost = 622
-		OriginalResourcesCost = 0
-		OriginalModulesCost = 0
+		OriginalCost = 622.000002
+		OriginalResourcesCost = 0.00000
+		OriginalModulesCost = 0.000002
 		stagingEnabled = True
 		EVENTS
 		{
@@ -35115,7 +35244,7 @@ PART
 		hasFailed = False
 		failureType = Alternator Failure
 		expectedLifetime = 6
-		chanceOfFailure = 0.0649999976
+		chanceOfFailure = 0.0429999977
 		baseChanceOfFailure = 0.109999999
 		numberOfRepairs = 0
 		stagingEnabled = True
@@ -35138,7 +35267,7 @@ PART
 		hasFailed = False
 		failureType = Short Circuit
 		expectedLifetime = 6
-		chanceOfFailure = 0.0600000024
+		chanceOfFailure = 0.0399999991
 		baseChanceOfFailure = 0.100000001
 		numberOfRepairs = 0
 		stagingEnabled = True
@@ -35164,7 +35293,7 @@ PART
 		hasFailed = False
 		failureType = none
 		expectedLifetime = 6
-		chanceOfFailure = 0.0649999976
+		chanceOfFailure = 0.0429999977
 		baseChanceOfFailure = 0.109999999
 		numberOfRepairs = 0
 		stagingEnabled = True
@@ -35188,7 +35317,7 @@ PART
 		hasFailed = False
 		failureType = none
 		expectedLifetime = 6
-		chanceOfFailure = 0.0600000024
+		chanceOfFailure = 0.0399999991
 		baseChanceOfFailure = 0.100000001
 		numberOfRepairs = 0
 		stagingEnabled = True
@@ -35259,7 +35388,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 3525213374
+		id = 3390006190
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -35377,7 +35506,7 @@ PART
 {
 	part = cryoengine-vesuvius-1_4289520256
 	partName = Part
-	persistentId = 4047267094
+	persistentId = 2909578476
 	pos = 0.503838897,6.41838837,-0.503838897
 	attPos = 0,0,0
 	attPos0 = 0.503838897,-0.614398956,-0.503838897
@@ -35396,7 +35525,7 @@ PART
 	sepI = 4
 	attm = 0
 	sameVesselCollision = False
-	modCost = 0
+	modCost = 1.99999999E-06
 	modMass = 0
 	modSize = 0,0,0
 	sym = cryoengine-vesuvius-1_4289524006
@@ -35762,9 +35891,9 @@ PART
 	{
 		name = FundsKeeper
 		isEnabled = True
-		OriginalCost = 622
-		OriginalResourcesCost = 0
-		OriginalModulesCost = 0
+		OriginalCost = 622.000002
+		OriginalResourcesCost = 0.00000
+		OriginalModulesCost = 0.000002
 		stagingEnabled = True
 		EVENTS
 		{
@@ -36029,7 +36158,7 @@ PART
 		hasFailed = False
 		failureType = Alternator Failure
 		expectedLifetime = 6
-		chanceOfFailure = 0.0649999976
+		chanceOfFailure = 0.0429999977
 		baseChanceOfFailure = 0.109999999
 		numberOfRepairs = 0
 		stagingEnabled = True
@@ -36052,7 +36181,7 @@ PART
 		hasFailed = False
 		failureType = Short Circuit
 		expectedLifetime = 6
-		chanceOfFailure = 0.0600000024
+		chanceOfFailure = 0.0399999991
 		baseChanceOfFailure = 0.100000001
 		numberOfRepairs = 0
 		stagingEnabled = True
@@ -36078,7 +36207,7 @@ PART
 		hasFailed = False
 		failureType = none
 		expectedLifetime = 6
-		chanceOfFailure = 0.0649999976
+		chanceOfFailure = 0.0429999977
 		baseChanceOfFailure = 0.109999999
 		numberOfRepairs = 0
 		stagingEnabled = True
@@ -36102,7 +36231,7 @@ PART
 		hasFailed = False
 		failureType = none
 		expectedLifetime = 6
-		chanceOfFailure = 0.0600000024
+		chanceOfFailure = 0.0399999991
 		baseChanceOfFailure = 0.100000001
 		numberOfRepairs = 0
 		stagingEnabled = True
@@ -36173,7 +36302,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 4047267094
+		id = 2909578476
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -36291,7 +36420,7 @@ PART
 {
 	part = R8winglet_4288263900
 	partName = Part
-	persistentId = 2945246143
+	persistentId = 742121387
 	pos = 1.29742169,7.69906998,-1.29742157
 	attPos = 0,0,0
 	attPos0 = 1.2362709,-1.3657589,-1.23627079
@@ -36608,7 +36737,7 @@ PART
 		hasFailed = False
 		failureType = Control Surface Failure
 		expectedLifetime = 6
-		chanceOfFailure = 0.0319999978
+		chanceOfFailure = 0.0209999997
 		baseChanceOfFailure = 0.109999999
 		numberOfRepairs = 0
 		stagingEnabled = True
@@ -36703,7 +36832,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 2945246143
+		id = 742121387
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -36757,7 +36886,7 @@ PART
 {
 	part = R8winglet_4288263360
 	partName = Part
-	persistentId = 1834749255
+	persistentId = 2803229216
 	pos = -1.29742146,7.69906998,-1.29742169
 	attPos = 0,0,0
 	attPos0 = -1.23627067,-1.3657589,-1.2362709
@@ -37074,7 +37203,7 @@ PART
 		hasFailed = False
 		failureType = Control Surface Failure
 		expectedLifetime = 6
-		chanceOfFailure = 0.0319999978
+		chanceOfFailure = 0.0209999997
 		baseChanceOfFailure = 0.109999999
 		numberOfRepairs = 0
 		stagingEnabled = True
@@ -37169,7 +37298,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 1834749255
+		id = 2803229216
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -37223,7 +37352,7 @@ PART
 {
 	part = R8winglet_4288263272
 	partName = Part
-	persistentId = 3916613452
+	persistentId = 1445214703
 	pos = -1.29742157,7.69906998,1.29742169
 	attPos = 0,0,0
 	attPos0 = -1.23627079,-1.3657589,1.2362709
@@ -37540,7 +37669,7 @@ PART
 		hasFailed = False
 		failureType = Control Surface Failure
 		expectedLifetime = 6
-		chanceOfFailure = 0.0319999978
+		chanceOfFailure = 0.0209999997
 		baseChanceOfFailure = 0.109999999
 		numberOfRepairs = 0
 		stagingEnabled = True
@@ -37635,7 +37764,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 3916613452
+		id = 1445214703
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -37689,7 +37818,7 @@ PART
 {
 	part = R8winglet_4288263184
 	partName = Part
-	persistentId = 1696832435
+	persistentId = 2113852463
 	pos = 1.29742157,7.69906998,1.29742157
 	attPos = 0,0,0
 	attPos0 = 1.23627079,-1.3657589,1.23627079
@@ -38006,7 +38135,7 @@ PART
 		hasFailed = False
 		failureType = Control Surface Failure
 		expectedLifetime = 6
-		chanceOfFailure = 0.0319999978
+		chanceOfFailure = 0.0209999997
 		baseChanceOfFailure = 0.109999999
 		numberOfRepairs = 0
 		stagingEnabled = True
@@ -38101,7 +38230,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 1696832435
+		id = 2113852463
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -38627,7 +38756,7 @@ PART
 {
 	part = solidBooster1-1_4289869120
 	partName = Part
-	persistentId = 4132619366
+	persistentId = 68351112
 	pos = -2.45707488,12.165369,-2.89700893E-07
 	attPos = -0.317499995,-3.17110538,-1.1920929E-07
 	attPos0 = -0.810334682,0.119560279,-2.16642917E-07
@@ -39153,7 +39282,7 @@ PART
 		hasFailed = False
 		failureType = ignition failure
 		expectedLifetime = 5
-		chanceOfFailure = 0.0714285746
+		chanceOfFailure = 0.0625
 		baseChanceOfFailure = 0.5
 		numberOfRepairs = 0
 		stagingEnabled = True
@@ -39177,7 +39306,7 @@ PART
 		hasFailed = False
 		failureType = none
 		expectedLifetime = 6
-		chanceOfFailure = 0.0399999991
+		chanceOfFailure = 0.0299999993
 		baseChanceOfFailure = 0.100000001
 		numberOfRepairs = 0
 		stagingEnabled = True
@@ -39287,7 +39416,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 4132619366
+		id = 68351112
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -39379,7 +39508,7 @@ PART
 	pos = -2.45707512,19.45327,-2.89700921E-07
 	attPos = 0,0,0
 	attPos0 = -2.6647828E-15,4.59499931,1.60221229E-11
-	rot = -5.77315973E-14,-0.707106769,-5.95079541E-14,0.707106769
+	rot = -6.83897383E-14,-0.707106769,-7.01660952E-14,0.707106769
 	attRot = 0,0,0,1
 	attRot0 = -2.31384618E-08,2.08616257E-07,4.96120072E-15,1
 	mir = 1,1,1
@@ -39731,7 +39860,7 @@ PART
 		isEnabled = True
 		active = True
 		originalPos = (-2.45707512, 19.45327, -2.89700921E-07)
-		originalRotation = (-5.77315973E-14, -0.707106769, -5.95079541E-14, 0.707106769)
+		originalRotation = (-6.83897383E-14, -0.707106769, -7.01660952E-14, 0.707106769)
 		moduleVersion = 6
 		stagingEnabled = True
 		userReallyDeactivatedIt = False
@@ -40241,8 +40370,8 @@ PART
 {
 	part = solidBooster1-1_4289854602
 	partName = Part
-	persistentId = 2379698337
-	pos = -2.39014668E-07,12.165369,2.45708227
+	persistentId = 378949334
+	pos = -2.39014668E-07,12.165369,2.45708346
 	attPos = -0.317499995,-3.17110538,-1.1920929E-07
 	attPos0 = -0.810334921,0.119560279,-2.38418579E-07
 	rot = 2.31384565E-08,-2.08616257E-07,-4.4408921E-15,1.00000012
@@ -40759,7 +40888,7 @@ PART
 		hasFailed = False
 		failureType = ignition failure
 		expectedLifetime = 5
-		chanceOfFailure = 0.0714285746
+		chanceOfFailure = 0.0625
 		baseChanceOfFailure = 0.5
 		numberOfRepairs = 0
 		stagingEnabled = True
@@ -40783,7 +40912,7 @@ PART
 		hasFailed = False
 		failureType = none
 		expectedLifetime = 6
-		chanceOfFailure = 0.0399999991
+		chanceOfFailure = 0.0299999993
 		baseChanceOfFailure = 0.100000001
 		numberOfRepairs = 0
 		stagingEnabled = True
@@ -40893,7 +41022,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 2379698337
+		id = 378949334
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -40927,7 +41056,7 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (-2.39014668E-07, 12.165369, 2.45708227)
+		originalPos = (-2.39014668E-07, 12.165369, 2.45708346)
 		originalRotation = (2.31384565E-08, -2.08616257E-07, -4.4408921E-15, 1.00000012)
 		moduleVersion = 6
 		stagingEnabled = True
@@ -40982,7 +41111,7 @@ PART
 	part = pointyNoseConeA_4287294574
 	partName = Part
 	persistentId = 702601025
-	pos = -2.39014668E-07,19.45327,2.45708537
+	pos = -2.39014668E-07,19.45327,2.45708656
 	attPos = 0,0,0
 	attPos0 = 1.20071637E-13,4.59499931,2.38434609E-07
 	rot = -3.55271368E-15,0,1.77635684E-15,1.00000012
@@ -41336,7 +41465,7 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (-2.39014668E-07, 19.45327, 2.45708537)
+		originalPos = (-2.39014668E-07, 19.45327, 2.45708656)
 		originalRotation = (-3.55271368E-15, 0, 1.77635684E-15, 1.00000012)
 		moduleVersion = 6
 		stagingEnabled = True
@@ -41847,11 +41976,11 @@ PART
 {
 	part = solidBooster1-1_4289854400
 	partName = Part
-	persistentId = 629690739
+	persistentId = 508526991
 	pos = 2.45707488,12.165369,7.48964908E-08
 	attPos = -0.317499995,-3.17110538,-1.1920929E-07
 	attPos0 = -0.810334682,0.119560279,-2.16642917E-07
-	rot = 1.63613052E-08,0.707106709,-1.6361362E-08,0.707106829
+	rot = 1.63612963E-08,0.707106709,-1.6361362E-08,0.707106829
 	attRot = 0,0,0,1
 	attRot0 = -1.23279165E-12,-0.707106888,-1.23279165E-12,0.70710665
 	mir = 1,1,1
@@ -42343,7 +42472,7 @@ PART
 	MODULE
 	{
 		name = KOSNameTag
-		isEnabled = False
+		isEnabled = True
 		nameTag = 
 		stagingEnabled = True
 		EVENTS
@@ -42365,7 +42494,7 @@ PART
 		hasFailed = False
 		failureType = ignition failure
 		expectedLifetime = 5
-		chanceOfFailure = 0.0714285746
+		chanceOfFailure = 0.0625
 		baseChanceOfFailure = 0.5
 		numberOfRepairs = 0
 		stagingEnabled = True
@@ -42389,7 +42518,7 @@ PART
 		hasFailed = False
 		failureType = none
 		expectedLifetime = 6
-		chanceOfFailure = 0.0399999991
+		chanceOfFailure = 0.0299999993
 		baseChanceOfFailure = 0.100000001
 		numberOfRepairs = 0
 		stagingEnabled = True
@@ -42499,7 +42628,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 629690739
+		id = 508526991
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -42534,7 +42663,7 @@ PART
 		isEnabled = True
 		active = True
 		originalPos = (2.45707488, 12.165369, 7.48964908E-08)
-		originalRotation = (1.63613052E-08, 0.707106709, -1.6361362E-08, 0.707106829)
+		originalRotation = (1.63612963E-08, 0.707106709, -1.6361362E-08, 0.707106829)
 		moduleVersion = 6
 		stagingEnabled = True
 		userReallyDeactivatedIt = False
@@ -42591,7 +42720,7 @@ PART
 	pos = 2.45707512,19.45327,7.48964055E-08
 	attPos = 0,0,0
 	attPos0 = 2.4909535E-18,4.59499931,1.60221229E-11
-	rot = -5.5067062E-14,0.707106829,-1.95399252E-14,0.707106709
+	rot = -6.39488462E-14,0.707106829,-1.95399252E-14,0.707106709
 	attRot = 0,0,0,1
 	attRot0 = -2.313846E-08,2.08616257E-07,3.5528221E-15,1
 	mir = 1,1,1
@@ -42943,7 +43072,7 @@ PART
 		isEnabled = True
 		active = True
 		originalPos = (2.45707512, 19.45327, 7.48964055E-08)
-		originalRotation = (-5.5067062E-14, 0.707106829, -1.95399252E-14, 0.707106709)
+		originalRotation = (-6.39488462E-14, 0.707106829, -1.95399252E-14, 0.707106709)
 		moduleVersion = 6
 		stagingEnabled = True
 		userReallyDeactivatedIt = False
@@ -43453,8 +43582,8 @@ PART
 {
 	part = solidBooster1-1_4289854198
 	partName = Part
-	persistentId = 1376624073
-	pos = 4.47268519E-07,12.165369,-2.45708227
+	persistentId = 4259291871
+	pos = 4.47268519E-07,12.165369,-2.45708346
 	attPos = -0.317499995,-3.17110538,-1.1920929E-07
 	attPos0 = -0.810334921,0.119560279,-2.38418579E-07
 	rot = 3.55271368E-15,1.00000012,-2.31384547E-08,2.08616257E-07
@@ -43949,7 +44078,7 @@ PART
 	MODULE
 	{
 		name = KOSNameTag
-		isEnabled = False
+		isEnabled = True
 		nameTag = 
 		stagingEnabled = True
 		EVENTS
@@ -43971,7 +44100,7 @@ PART
 		hasFailed = False
 		failureType = ignition failure
 		expectedLifetime = 5
-		chanceOfFailure = 0.0714285746
+		chanceOfFailure = 0.0625
 		baseChanceOfFailure = 0.5
 		numberOfRepairs = 0
 		stagingEnabled = True
@@ -43995,7 +44124,7 @@ PART
 		hasFailed = False
 		failureType = none
 		expectedLifetime = 6
-		chanceOfFailure = 0.0399999991
+		chanceOfFailure = 0.0299999993
 		baseChanceOfFailure = 0.100000001
 		numberOfRepairs = 0
 		stagingEnabled = True
@@ -44105,7 +44234,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 1376624073
+		id = 4259291871
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -44139,7 +44268,7 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (4.47268519E-07, 12.165369, -2.45708227)
+		originalPos = (4.47268519E-07, 12.165369, -2.45708346)
 		originalRotation = (3.55271368E-15, 1.00000012, -2.31384547E-08, 2.08616257E-07)
 		moduleVersion = 6
 		stagingEnabled = True
@@ -44194,7 +44323,7 @@ PART
 	part = pointyNoseConeA_4289852062
 	partName = Part
 	persistentId = 3139260950
-	pos = 4.47268519E-07,19.45327,-2.45708513
+	pos = 4.47268519E-07,19.45327,-2.45708632
 	attPos = 0,0,0
 	attPos0 = 1.20071637E-13,4.59499931,2.38434581E-07
 	rot = 7.10542736E-15,1.00000012,6.21724894E-15,0
@@ -44548,7 +44677,7 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (4.47268519E-07, 19.45327, -2.45708513)
+		originalPos = (4.47268519E-07, 19.45327, -2.45708632)
 		originalRotation = (7.10542736E-15, 1.00000012, 6.21724894E-15, 0)
 		moduleVersion = 6
 		stagingEnabled = True
@@ -57113,6 +57242,2075 @@ PART
 		active = True
 		originalPos = (0.96138382, 23.0019646, -1.42839909E-07)
 		originalRotation = (-1.09084146E-08, 0.707106769, -1.09084128E-08, -0.707106888)
+		moduleVersion = 6
+		stagingEnabled = True
+		userReallyDeactivatedIt = False
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleIREditorHelper
+		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+}
+PART
+{
+	part = launchClamp1_4284458366
+	partName = Part
+	persistentId = 1528075128
+	pos = -1.42454195,7.9414978,1.42454052
+	attPos = 0,0,0
+	attPos0 = -1.42454195,-1.15128899,1.42454052
+	rot = -2.4193362E-08,0.923879325,5.84078563E-08,0.382683933
+	attRot = 0,0,0,1
+	attRot0 = -2.4193362E-08,0.923879325,5.84078563E-08,0.382683933
+	mir = 1,1,1
+	symMethod = Radial
+	autostrutMode = Off
+	rigidAttachment = False
+	istg = 7
+	resPri = 0
+	dstg = 6
+	sidx = 2
+	sqor = 7
+	sepI = 7
+	attm = 1
+	sameVesselCollision = False
+	modCost = 0
+	modMass = 0
+	modSize = 0,0,0
+	sym = launchClamp1_4284451428
+	sym = launchClamp1_4284451244
+	sym = launchClamp1_4284451060
+	srfN = srfAttach,Rockomax32.BW_4288910096,COLLIDER32,0|1.35443699|0.806919396,0|0|-1,0|1.35443699|0.806919396
+	EVENTS
+	{
+	}
+	ACTIONS
+	{
+		ToggleSameVesselInteraction
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		SetSameVesselInteraction
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		RemoveSameVesselInteraction
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		AutostrutOff
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		AutostrutRoot
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		AutostrutHeaviest
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		AutostrutGrandparent
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesEnableFlow
+		{
+			actionGroup = None
+			active = False
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesDisableFlow
+		{
+			actionGroup = None
+			active = False
+			wasActiveBeforePartWasAdjusted = False
+		}
+	}
+	PARTDATA
+	{
+	}
+	MODULE
+	{
+		name = ModuleTestSubject
+		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = FundsKeeper
+		isEnabled = True
+		OriginalCost = 200
+		OriginalResourcesCost = 0
+		OriginalModulesCost = 0
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = StealBackMyFunds
+		isEnabled = True
+		active = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = HitpointTracker
+		isEnabled = True
+		Hitpoints = 250
+		Armor = 10
+		ArmorRemaining = 100
+		ArmorTypeNum = 1
+		HullTypeNum = 2
+		hullType = Aluminium
+		SelectedArmorType = None
+		maxHitPoints = -1
+		ArmorThickness = 10
+		ArmorSet = True
+		ExplodeMode = Never
+		FireFX = True
+		FireFXLifeTimeInSeconds = 5
+		Density = 2700
+		Diffusivity = 237
+		Ductility = 0.600000024
+		Hardness = 300
+		Strength = 200
+		SafeUseTemp = 993
+		radarReflectivity = 1
+		Cost = 0
+		vFactor = 1.82712211E-06
+		muParam1 = 1.37732458
+		muParam2 = 2.04939008
+		muParam3 = 4.5333333
+		muParam1S = 1.92650819
+		muParam2S = 2.65274119
+		muParam3S = 7.37037039
+		HEEquiv = 0.210114747
+		HEATEquiv = 0.55794096
+		maxForce = 150
+		maxTorque = 150
+		maxG = 50
+		maxSupportedArmor = 55
+		armorVolume = 18.1825008
+		ignitionTemp = -1
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = RefuelingPump
+		isEnabled = True
+		enablePump = True
+		pump_rate = 100
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleRestockLaunchClamp
+		isEnabled = True
+		scaleFactor = 4.30082417
+		height = 8.60164833
+		stagingEnabled = True
+		towerRot = 1.58295457E-08,-0.923879385,-3.82158341E-08,0.382683903
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+			ReleaseClamp
+			{
+				actionGroup = None
+				wasActiveBeforePartWasAdjusted = False
+			}
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleAnimateGeneric
+		isEnabled = True
+		aniState = LOCKED
+		animSwitch = False
+		animTime = 1
+		animSpeed = 0.333333343
+		deployPercent = 100
+		animationIsDisabled = False
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+			ToggleAction
+			{
+				actionGroup = None
+				wasActiveBeforePartWasAdjusted = False
+			}
+		}
+		AXISGROUPS
+		{
+			deployPercent
+			{
+				axisGroup = None
+				axisIncremental = Pitch, Yaw, Roll, TranslateX, TranslateY, TranslateZ, WheelSteer, WheelThrottle, Custom01, Custom02, Custom03, Custom04
+				axisSpeedMultiplier = 0
+				axisInverted = None
+			}
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = FARPartModule
+		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ProcessController
+		isEnabled = True
+		running = True
+		broken = False
+		stagingEnabled = True
+		persistentValveIndex = 0
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+			Action
+			{
+				actionGroup = None
+				active = False
+				wasActiveBeforePartWasAdjusted = False
+			}
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleKerbalKrashSystem_Other
+		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleKerbalKrashSystem_Repair
+		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = KOSNameTag
+		isEnabled = True
+		nameTag = 
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ShipEffectsCollisions
+		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleSYPartTracker
+		isEnabled = True
+		id = 1528075128
+		TimesRecovered = 0
+		Inventoried = False
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = AttachedOnEditor
+		isEnabled = True
+		active = True
+		originalPos = (-1.42454195, 7.9414978, 1.42454052)
+		originalRotation = (-2.4193362E-08, 0.923879325, 5.84078563E-08, 0.382683933)
+		moduleVersion = 6
+		stagingEnabled = True
+		userReallyDeactivatedIt = False
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleIREditorHelper
+		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	RESOURCE
+	{
+		name = _ECGen
+		amount = 1
+		maxAmount = 1
+		flowState = True
+		isTweakable = False
+		hideFlow = False
+		isVisible = False
+		flowMode = Both
+	}
+}
+PART
+{
+	part = launchClamp1_4284451428
+	partName = Part
+	persistentId = 2481359673
+	pos = 1.4245404,7.9414978,1.42454195
+	attPos = 0,0,0
+	attPos0 = 1.4245404,-1.15128899,1.42454195
+	rot = 2.41932998E-08,0.923879743,5.84078812E-08,-0.38268292
+	attRot = 0,0,0,1
+	attRot0 = 2.41932998E-08,0.923879743,5.84078812E-08,-0.38268292
+	mir = 1,1,1
+	symMethod = Radial
+	autostrutMode = Off
+	rigidAttachment = False
+	istg = 7
+	resPri = 0
+	dstg = 6
+	sidx = 2
+	sqor = 7
+	sepI = 7
+	attm = 1
+	sameVesselCollision = False
+	modCost = 0
+	modMass = 0
+	modSize = 0,0,0
+	sym = launchClamp1_4284451244
+	sym = launchClamp1_4284451060
+	sym = launchClamp1_4284458366
+	srfN = srfAttach,Rockomax32.BW_4288910096,COLLIDER32,0|1.35443699|0.806919396,0|0|-1,0|1.35443699|0.806919396
+	EVENTS
+	{
+	}
+	ACTIONS
+	{
+		ToggleSameVesselInteraction
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		SetSameVesselInteraction
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		RemoveSameVesselInteraction
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		AutostrutOff
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		AutostrutRoot
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		AutostrutHeaviest
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		AutostrutGrandparent
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesEnableFlow
+		{
+			actionGroup = None
+			active = False
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesDisableFlow
+		{
+			actionGroup = None
+			active = False
+			wasActiveBeforePartWasAdjusted = False
+		}
+	}
+	PARTDATA
+	{
+	}
+	MODULE
+	{
+		name = ModuleTestSubject
+		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = FundsKeeper
+		isEnabled = True
+		OriginalCost = 200
+		OriginalResourcesCost = 0
+		OriginalModulesCost = 0
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = StealBackMyFunds
+		isEnabled = True
+		active = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = HitpointTracker
+		isEnabled = True
+		Hitpoints = 250
+		Armor = 10
+		ArmorRemaining = 100
+		ArmorTypeNum = 1
+		HullTypeNum = 2
+		hullType = Aluminium
+		SelectedArmorType = None
+		maxHitPoints = -1
+		ArmorThickness = 10
+		ArmorSet = True
+		ExplodeMode = Never
+		FireFX = True
+		FireFXLifeTimeInSeconds = 5
+		Density = 2700
+		Diffusivity = 237
+		Ductility = 0.600000024
+		Hardness = 300
+		Strength = 200
+		SafeUseTemp = 993
+		radarReflectivity = 1
+		Cost = 0
+		vFactor = 1.82712211E-06
+		muParam1 = 1.37732458
+		muParam2 = 2.04939008
+		muParam3 = 4.5333333
+		muParam1S = 1.92650819
+		muParam2S = 2.65274119
+		muParam3S = 7.37037039
+		HEEquiv = 0.210114747
+		HEATEquiv = 0.55794096
+		maxForce = 150
+		maxTorque = 150
+		maxG = 50
+		maxSupportedArmor = 55
+		armorVolume = 18.1825008
+		ignitionTemp = -1
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = RefuelingPump
+		isEnabled = True
+		enablePump = True
+		pump_rate = 100
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleRestockLaunchClamp
+		isEnabled = True
+		scaleFactor = 4.30082417
+		height = 8.60164833
+		stagingEnabled = True
+		towerRot = -1.58294924E-08,-0.923879743,-3.82158518E-08,-0.382682979
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+			ReleaseClamp
+			{
+				actionGroup = None
+				wasActiveBeforePartWasAdjusted = False
+			}
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleAnimateGeneric
+		isEnabled = True
+		aniState = LOCKED
+		animSwitch = False
+		animTime = 1
+		animSpeed = 0.333333343
+		deployPercent = 100
+		animationIsDisabled = False
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+			ToggleAction
+			{
+				actionGroup = None
+				wasActiveBeforePartWasAdjusted = False
+			}
+		}
+		AXISGROUPS
+		{
+			deployPercent
+			{
+				axisGroup = None
+				axisIncremental = Pitch, Yaw, Roll, TranslateX, TranslateY, TranslateZ, WheelSteer, WheelThrottle, Custom01, Custom02, Custom03, Custom04
+				axisSpeedMultiplier = 0
+				axisInverted = None
+			}
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = FARPartModule
+		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ProcessController
+		isEnabled = True
+		running = True
+		broken = False
+		stagingEnabled = True
+		persistentValveIndex = 0
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+			Action
+			{
+				actionGroup = None
+				active = False
+				wasActiveBeforePartWasAdjusted = False
+			}
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleKerbalKrashSystem_Other
+		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleKerbalKrashSystem_Repair
+		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = KOSNameTag
+		isEnabled = False
+		nameTag = 
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ShipEffectsCollisions
+		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleSYPartTracker
+		isEnabled = True
+		id = 2481359673
+		TimesRecovered = 0
+		Inventoried = False
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = AttachedOnEditor
+		isEnabled = True
+		active = True
+		originalPos = (1.4245404, 7.9414978, 1.42454195)
+		originalRotation = (2.41932998E-08, 0.923879743, 5.84078812E-08, -0.38268292)
+		moduleVersion = 6
+		stagingEnabled = True
+		userReallyDeactivatedIt = False
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleIREditorHelper
+		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	RESOURCE
+	{
+		name = _ECGen
+		amount = 1
+		maxAmount = 1
+		flowState = True
+		isTweakable = False
+		hideFlow = False
+		isVisible = False
+		flowMode = Both
+	}
+}
+PART
+{
+	part = launchClamp1_4284451244
+	partName = Part
+	persistentId = 1857253830
+	pos = 1.42454183,7.9414978,-1.42454064
+	attPos = 0,0,0
+	attPos0 = 1.42454183,-1.15128899,-1.42454064
+	rot = 5.84078563E-08,0.382683903,2.41933602E-08,-0.923879325
+	attRot = 0,0,0,1
+	attRot0 = 5.84078563E-08,0.382683903,2.41933602E-08,-0.923879325
+	mir = 1,1,1
+	symMethod = Radial
+	autostrutMode = Off
+	rigidAttachment = False
+	istg = 7
+	resPri = 0
+	dstg = 6
+	sidx = 2
+	sqor = 7
+	sepI = 7
+	attm = 1
+	sameVesselCollision = False
+	modCost = 0
+	modMass = 0
+	modSize = 0,0,0
+	sym = launchClamp1_4284451060
+	sym = launchClamp1_4284458366
+	sym = launchClamp1_4284451428
+	srfN = srfAttach,Rockomax32.BW_4288910096,COLLIDER32,0|1.35443699|0.806919396,0|0|-1,0|1.35443699|0.806919396
+	EVENTS
+	{
+	}
+	ACTIONS
+	{
+		ToggleSameVesselInteraction
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		SetSameVesselInteraction
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		RemoveSameVesselInteraction
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		AutostrutOff
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		AutostrutRoot
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		AutostrutHeaviest
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		AutostrutGrandparent
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesEnableFlow
+		{
+			actionGroup = None
+			active = False
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesDisableFlow
+		{
+			actionGroup = None
+			active = False
+			wasActiveBeforePartWasAdjusted = False
+		}
+	}
+	PARTDATA
+	{
+	}
+	MODULE
+	{
+		name = ModuleTestSubject
+		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = FundsKeeper
+		isEnabled = True
+		OriginalCost = 200
+		OriginalResourcesCost = 0
+		OriginalModulesCost = 0
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = StealBackMyFunds
+		isEnabled = True
+		active = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = HitpointTracker
+		isEnabled = True
+		Hitpoints = 250
+		Armor = 10
+		ArmorRemaining = 100
+		ArmorTypeNum = 1
+		HullTypeNum = 2
+		hullType = Aluminium
+		SelectedArmorType = None
+		maxHitPoints = -1
+		ArmorThickness = 10
+		ArmorSet = True
+		ExplodeMode = Never
+		FireFX = True
+		FireFXLifeTimeInSeconds = 5
+		Density = 2700
+		Diffusivity = 237
+		Ductility = 0.600000024
+		Hardness = 300
+		Strength = 200
+		SafeUseTemp = 993
+		radarReflectivity = 1
+		Cost = 0
+		vFactor = 1.82712211E-06
+		muParam1 = 1.37732458
+		muParam2 = 2.04939008
+		muParam3 = 4.5333333
+		muParam1S = 1.92650819
+		muParam2S = 2.65274119
+		muParam3S = 7.37037039
+		HEEquiv = 0.210114747
+		HEATEquiv = 0.55794096
+		maxForce = 150
+		maxTorque = 150
+		maxG = 50
+		maxSupportedArmor = 55
+		armorVolume = 18.1825008
+		ignitionTemp = -1
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = RefuelingPump
+		isEnabled = True
+		enablePump = True
+		pump_rate = 100
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleRestockLaunchClamp
+		isEnabled = True
+		scaleFactor = 4.30082417
+		height = 8.60164833
+		stagingEnabled = True
+		towerRot = -3.82158341E-08,-0.382683873,-1.58295439E-08,-0.923879385
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+			ReleaseClamp
+			{
+				actionGroup = None
+				wasActiveBeforePartWasAdjusted = False
+			}
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleAnimateGeneric
+		isEnabled = True
+		aniState = LOCKED
+		animSwitch = False
+		animTime = 1
+		animSpeed = 0.333333343
+		deployPercent = 100
+		animationIsDisabled = False
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+			ToggleAction
+			{
+				actionGroup = None
+				wasActiveBeforePartWasAdjusted = False
+			}
+		}
+		AXISGROUPS
+		{
+			deployPercent
+			{
+				axisGroup = None
+				axisIncremental = Pitch, Yaw, Roll, TranslateX, TranslateY, TranslateZ, WheelSteer, WheelThrottle, Custom01, Custom02, Custom03, Custom04
+				axisSpeedMultiplier = 0
+				axisInverted = None
+			}
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = FARPartModule
+		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ProcessController
+		isEnabled = True
+		running = True
+		broken = False
+		stagingEnabled = True
+		persistentValveIndex = 0
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+			Action
+			{
+				actionGroup = None
+				active = False
+				wasActiveBeforePartWasAdjusted = False
+			}
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleKerbalKrashSystem_Other
+		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleKerbalKrashSystem_Repair
+		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = KOSNameTag
+		isEnabled = False
+		nameTag = 
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ShipEffectsCollisions
+		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleSYPartTracker
+		isEnabled = True
+		id = 1857253830
+		TimesRecovered = 0
+		Inventoried = False
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = AttachedOnEditor
+		isEnabled = True
+		active = True
+		originalPos = (1.42454183, 7.9414978, -1.42454064)
+		originalRotation = (5.84078563E-08, 0.382683903, 2.41933602E-08, -0.923879325)
+		moduleVersion = 6
+		stagingEnabled = True
+		userReallyDeactivatedIt = False
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleIREditorHelper
+		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	RESOURCE
+	{
+		name = _ECGen
+		amount = 1
+		maxAmount = 1
+		flowState = True
+		isTweakable = False
+		hideFlow = False
+		isVisible = False
+		flowMode = Both
+	}
+}
+PART
+{
+	part = launchClamp1_4284451060
+	partName = Part
+	persistentId = 897498112
+	pos = -1.42454052,7.9414978,-1.42454183
+	attPos = 0,0,0
+	attPos0 = -1.42454052,-1.15128899,-1.42454183
+	rot = 5.84078812E-08,-0.38268292,-2.41932998E-08,-0.923879743
+	attRot = 0,0,0,1
+	attRot0 = 5.84078812E-08,-0.38268292,-2.41932998E-08,-0.923879743
+	mir = 1,1,1
+	symMethod = Radial
+	autostrutMode = Off
+	rigidAttachment = False
+	istg = 7
+	resPri = 0
+	dstg = 6
+	sidx = 2
+	sqor = 7
+	sepI = 7
+	attm = 1
+	sameVesselCollision = False
+	modCost = 0
+	modMass = 0
+	modSize = 0,0,0
+	sym = launchClamp1_4284458366
+	sym = launchClamp1_4284451428
+	sym = launchClamp1_4284451244
+	srfN = srfAttach,Rockomax32.BW_4288910096,COLLIDER32,0|1.35443699|0.806919396,0|0|-1,0|1.35443699|0.806919396
+	EVENTS
+	{
+	}
+	ACTIONS
+	{
+		ToggleSameVesselInteraction
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		SetSameVesselInteraction
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		RemoveSameVesselInteraction
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		AutostrutOff
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		AutostrutRoot
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		AutostrutHeaviest
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		AutostrutGrandparent
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesEnableFlow
+		{
+			actionGroup = None
+			active = False
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesDisableFlow
+		{
+			actionGroup = None
+			active = False
+			wasActiveBeforePartWasAdjusted = False
+		}
+	}
+	PARTDATA
+	{
+	}
+	MODULE
+	{
+		name = ModuleTestSubject
+		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = FundsKeeper
+		isEnabled = True
+		OriginalCost = 200
+		OriginalResourcesCost = 0
+		OriginalModulesCost = 0
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = StealBackMyFunds
+		isEnabled = True
+		active = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = HitpointTracker
+		isEnabled = True
+		Hitpoints = 250
+		Armor = 10
+		ArmorRemaining = 100
+		ArmorTypeNum = 1
+		HullTypeNum = 2
+		hullType = Aluminium
+		SelectedArmorType = None
+		maxHitPoints = -1
+		ArmorThickness = 10
+		ArmorSet = True
+		ExplodeMode = Never
+		FireFX = True
+		FireFXLifeTimeInSeconds = 5
+		Density = 2700
+		Diffusivity = 237
+		Ductility = 0.600000024
+		Hardness = 300
+		Strength = 200
+		SafeUseTemp = 993
+		radarReflectivity = 1
+		Cost = 0
+		vFactor = 1.82712211E-06
+		muParam1 = 1.37732458
+		muParam2 = 2.04939008
+		muParam3 = 4.5333333
+		muParam1S = 1.92650819
+		muParam2S = 2.65274119
+		muParam3S = 7.37037039
+		HEEquiv = 0.210114747
+		HEATEquiv = 0.55794096
+		maxForce = 150
+		maxTorque = 150
+		maxG = 50
+		maxSupportedArmor = 55
+		armorVolume = 18.1825008
+		ignitionTemp = -1
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = RefuelingPump
+		isEnabled = True
+		enablePump = True
+		pump_rate = 100
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleRestockLaunchClamp
+		isEnabled = True
+		scaleFactor = 4.30082417
+		height = 8.60164833
+		stagingEnabled = True
+		towerRot = -3.82158518E-08,0.382682979,1.58294924E-08,-0.923879743
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+			ReleaseClamp
+			{
+				actionGroup = None
+				wasActiveBeforePartWasAdjusted = False
+			}
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleAnimateGeneric
+		isEnabled = True
+		aniState = LOCKED
+		animSwitch = False
+		animTime = 1
+		animSpeed = 0.333333343
+		deployPercent = 100
+		animationIsDisabled = False
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+			ToggleAction
+			{
+				actionGroup = None
+				wasActiveBeforePartWasAdjusted = False
+			}
+		}
+		AXISGROUPS
+		{
+			deployPercent
+			{
+				axisGroup = None
+				axisIncremental = Pitch, Yaw, Roll, TranslateX, TranslateY, TranslateZ, WheelSteer, WheelThrottle, Custom01, Custom02, Custom03, Custom04
+				axisSpeedMultiplier = 0
+				axisInverted = None
+			}
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = FARPartModule
+		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ProcessController
+		isEnabled = True
+		running = True
+		broken = False
+		stagingEnabled = True
+		persistentValveIndex = 0
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+			Action
+			{
+				actionGroup = None
+				active = False
+				wasActiveBeforePartWasAdjusted = False
+			}
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleKerbalKrashSystem_Other
+		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleKerbalKrashSystem_Repair
+		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = KOSNameTag
+		isEnabled = False
+		nameTag = 
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ShipEffectsCollisions
+		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleSYPartTracker
+		isEnabled = True
+		id = 897498112
+		TimesRecovered = 0
+		Inventoried = False
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = AttachedOnEditor
+		isEnabled = True
+		active = True
+		originalPos = (-1.42454052, 7.9414978, -1.42454183)
+		originalRotation = (5.84078812E-08, -0.38268292, -2.41932998E-08, -0.923879743)
+		moduleVersion = 6
+		stagingEnabled = True
+		userReallyDeactivatedIt = False
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleIREditorHelper
+		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	RESOURCE
+	{
+		name = _ECGen
+		amount = 1
+		maxAmount = 1
+		flowState = True
+		isTweakable = False
+		hideFlow = False
+		isVisible = False
+		flowMode = Both
+	}
+}
+PART
+{
+	part = JSIPrimitiveExternalCamera.v2_4288592418
+	partName = Part
+	persistentId = 1091860869
+	pos = 0,24.8490372,-0.900000036
+	attPos = -8.17164647E-08,0.116910934,0.0347273946
+	attPos0 = 8.17164647E-08,0.383089066,-0.93472743
+	rot = -2.30294617E-07,-5.61274049E-08,-1.29258388E-14,1
+	attRot = 0,0,0,-0.999999881
+	attRot0 = -2.30294617E-07,-5.61274049E-08,-1.29258388E-14,1
+	mir = 1,1,1
+	symMethod = Radial
+	autostrutMode = Off
+	rigidAttachment = False
+	istg = 1
+	resPri = 0
+	dstg = 4
+	sidx = -1
+	sqor = -1
+	sepI = 1
+	attm = 1
+	sameVesselCollision = False
+	modCost = 0
+	modMass = 0
+	modSize = 0,0,0
+	srfN = srfAttach,Size1p5.Tank.02_4283208968,COLLIDER,0|0|0,0|0|-1.25,0|0|0
+	EVENTS
+	{
+	}
+	ACTIONS
+	{
+		ToggleSameVesselInteraction
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		SetSameVesselInteraction
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		RemoveSameVesselInteraction
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		AutostrutOff
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		AutostrutRoot
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		AutostrutHeaviest
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		AutostrutGrandparent
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesEnableFlow
+		{
+			actionGroup = None
+			active = False
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesDisableFlow
+		{
+			actionGroup = None
+			active = False
+			wasActiveBeforePartWasAdjusted = False
+		}
+	}
+	PARTDATA
+	{
+	}
+	MODULE
+	{
+		name = JSIExternalCameraSelector
+		isEnabled = True
+		current = 2
+		showCones = False
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModulePartVariants
+		isEnabled = True
+		useVariantMass = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = FundsKeeper
+		isEnabled = True
+		OriginalCost = 400
+		OriginalResourcesCost = 0
+		OriginalModulesCost = 0
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = StealBackMyFunds
+		isEnabled = True
+		active = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = HitpointTracker
+		isEnabled = True
+		Hitpoints = 25
+		Armor = 10
+		ArmorRemaining = 100
+		ArmorTypeNum = 1
+		HullTypeNum = 2
+		hullType = Aluminium
+		SelectedArmorType = None
+		maxHitPoints = -1
+		ArmorThickness = 10
+		ArmorSet = True
+		ExplodeMode = Never
+		FireFX = True
+		FireFXLifeTimeInSeconds = 5
+		Density = 2700
+		Diffusivity = 237
+		Ductility = 0.600000024
+		Hardness = 300
+		Strength = 200
+		SafeUseTemp = 993
+		radarReflectivity = 1
+		Cost = 0
+		vFactor = 1.82712211E-06
+		muParam1 = 1.37732458
+		muParam2 = 2.04939008
+		muParam3 = 4.5333333
+		muParam1S = 1.92650819
+		muParam2S = 2.65274119
+		muParam3S = 7.37037039
+		HEEquiv = 0.210114747
+		HEATEquiv = 0.55794096
+		maxForce = 22
+		maxTorque = 22
+		maxG = 50
+		maxSupportedArmor = 5
+		armorVolume = 0.088115558
+		ignitionTemp = -1
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = GeometryPartModule
+		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = FARAeroPartModule
+		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = FARPartModule
+		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleKerbalKrashSystem_Other
+		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleKerbalKrashSystem_Repair
+		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = KOSNameTag
+		isEnabled = False
+		nameTag = 
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ShipEffectsCollisions
+		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleSYPartTracker
+		isEnabled = True
+		id = 1091860869
+		TimesRecovered = 0
+		Inventoried = False
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = AttachedOnEditor
+		isEnabled = True
+		active = True
+		originalPos = (0, 24.8490372, -0.900000036)
+		originalRotation = (-2.30294617E-07, -5.61274049E-08, -1.29258388E-14, 1)
 		moduleVersion = 6
 		stagingEnabled = True
 		userReallyDeactivatedIt = False
