@@ -17,7 +17,7 @@ PART
 {
 	part = probeCoreOcto.v2_4288168062
 	partName = Part
-	persistentId = 2219264611
+	persistentId = 2549880267
 	pos = 0,7,0
 	attPos = 0,-8,0
 	attPos0 = 0,15,0
@@ -1774,7 +1774,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 2219264611
+		id = 2549880267
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -2384,7 +2384,7 @@ PART
 {
 	part = noseConeAdapter_4288074156
 	partName = Part
-	persistentId = 246276564
+	persistentId = 3129693386
 	pos = 0,5.7215929,0
 	attPos = 0,0,0
 	attPos0 = 0,-1.2784071,0
@@ -2896,7 +2896,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 246276564
+		id = 3129693386
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -2980,7 +2980,7 @@ PART
 {
 	part = fuelTankSmall_4288066228
 	partName = Part
-	persistentId = 1398539397
+	persistentId = 1203314640
 	pos = 0,4.41634274,0
 	attPos = 0,0,0
 	attPos0 = 0,-1.30525017,0
@@ -3455,7 +3455,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 1398539397
+		id = 1203314640
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -3554,7 +3554,7 @@ PART
 {
 	part = fuelTankSmall_4288062660
 	partName = Part
-	persistentId = 1862180610
+	persistentId = 3147499226
 	pos = 0,3.3058424,0
 	attPos = 0,0,0
 	attPos0 = 0,-1.11050034,0
@@ -4023,7 +4023,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 1862180610
+		id = 3147499226
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -4122,7 +4122,7 @@ PART
 {
 	part = fuelTankSmall_4288061856
 	partName = Part
-	persistentId = 4219227282
+	persistentId = 3725136492
 	pos = 0,2.19534206,0
 	attPos = 0,0,0
 	attPos0 = 0,-1.11050034,0
@@ -4598,7 +4598,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 4219227282
+		id = 3725136492
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -5325,7 +5325,7 @@ PART
 {
 	part = liquidEngineMini.v2_4288091252
 	partName = Part
-	persistentId = 3432365846
+	persistentId = 2334206174
 	pos = 0.193114415,1.54009151,0.280111641
 	attPos = 0,0,0
 	attPos0 = 0.193114415,0,0.280111641
@@ -6033,7 +6033,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 3432365846
+		id = 2334206174
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -6155,7 +6155,7 @@ PART
 {
 	part = liquidEngineMini.v2_4287929882
 	partName = Part
-	persistentId = 2377228354
+	persistentId = 419576459
 	pos = 0.280111641,1.54009151,-0.193114385
 	attPos = 0,0,0
 	attPos0 = 0.280111641,0,-0.193114385
@@ -6855,7 +6855,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 2377228354
+		id = 419576459
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -6977,7 +6977,7 @@ PART
 {
 	part = liquidEngineMini.v2_4287929430
 	partName = Part
-	persistentId = 1482136855
+	persistentId = 3311537108
 	pos = -0.193114445,1.54009151,-0.280111611
 	attPos = 0,0,0
 	attPos0 = -0.193114445,0,-0.280111611
@@ -7677,7 +7677,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 1482136855
+		id = 3311537108
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -7799,7 +7799,7 @@ PART
 {
 	part = liquidEngineMini.v2_4287928978
 	partName = Part
-	persistentId = 4161480590
+	persistentId = 2581656044
 	pos = -0.280111611,1.54009151,0.193114415
 	attPos = 0,0,0
 	attPos0 = -0.280111611,0,0.193114415
@@ -8499,7 +8499,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 4161480590
+		id = 2581656044
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -12790,7 +12790,7 @@ PART
 {
 	part = bdammGuidanceModule_4287663288
 	partName = Part
-	persistentId = 2998929760
+	persistentId = 1306609521
 	pos = 0.631268084,4.66246033,3.67508299E-08
 	attPos = 0,0,0
 	attPos0 = 0.631268084,0.246117592,3.67508299E-08
@@ -13290,7 +13290,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 2998929760
+		id = 1306609521
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
@@ -15750,7 +15750,7 @@ PART
 {
 	part = SurfAntenna_4287573014
 	partName = Part
-	persistentId = 191565193
+	persistentId = 4071826212
 	pos = 0,3.81120443,0.614132404
 	attPos = 0,0,-0.0535186529
 	attPos0 = 0,0.505362034,0.667651057
@@ -16151,7 +16151,7 @@ PART
 	{
 		name = ModuleSYPartTracker
 		isEnabled = True
-		id = 191565193
+		id = 4071826212
 		TimesRecovered = 0
 		Inventoried = False
 		stagingEnabled = True
