@@ -4,21 +4,13 @@
     "name": "installed-Kerbal Space Program",
     "abstract": "A list of modules installed on the Kerbal Space Program KSP instance",
     "author": "Firda",
-    "version": "2025.12.22.08.44.31",
+    "version": "2026.01.24.04.52.51",
     "ksp_version_min": "1.8",
     "ksp_version_max": "1.12",
     "license": "unknown",
     "depends": [
         {
-            "name": "ModuleManager",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "B9PartSwitch",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "TexturesUnlimited",
+            "name": "ASETProps",
             "suppress_recommendations": true
         },
         {
@@ -26,55 +18,11 @@
             "suppress_recommendations": true
         },
         {
-            "name": "kOS",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "FinalFrontier",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "KSPBurst",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "ASETAvionics",
-            "suppress_recommendations": true
-        },
-        {
             "name": "BDArmoryForRunwayProject",
             "suppress_recommendations": true
         },
         {
-            "name": "TweakScaleRescaled-Redist",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "RSSTextures4096",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "FerramAerospaceResearchContinued",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "RealSolarSystem",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "Scatterer-config",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "KabramsSunFlaresPack-Orange-Medium",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "Scatterer",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "AdvancedJetEngine",
+            "name": "RP-1",
             "suppress_recommendations": true
         },
         {
@@ -82,7 +30,19 @@
             "suppress_recommendations": true
         },
         {
-            "name": "BDAnimationModules",
+            "name": "Chatterer",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Deferred",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "RP-1-ExpressInstall",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "RP-1-ExpressInstall-Graphics-Medium",
             "suppress_recommendations": true
         },
         {
@@ -90,71 +50,7 @@
             "suppress_recommendations": true
         },
         {
-            "name": "Astrogator",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "CryoEngines",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "IndicatorLights",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "KerbalChangelog",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "KerbalEngineerRedux",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "KerbalJointReinforcementContinued",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "NearFutureAeronautics",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "NearFutureLaunchVehicles",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "NearFuturePropulsion",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "PatchManager",
-            "suppress_recommendations": true
-        },
-        {
             "name": "RasterPropMonitor",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "RealChute",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "RealHeat",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "SCANsat",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "SmokeScreen",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "StationPartsExpansionRedux",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "USITools",
             "suppress_recommendations": true
         },
         {
@@ -166,43 +62,11 @@
             "suppress_recommendations": true
         },
         {
-            "name": "ActualSitesAirports",
-            "suppress_recommendations": true
-        },
-        {
             "name": "C1ustasTUFXProfiles",
             "suppress_recommendations": true
         },
         {
-            "name": "AirbusA330neo",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "AirplanePlus",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "AJEExtendedConfigs",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "ALCOR",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "ModularLaunchPads",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "AnalogControlContinued",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "AtmosphereAutopilot",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "Aurorastation",
+            "name": "Astrogator",
             "suppress_recommendations": true
         },
         {
@@ -210,59 +74,15 @@
             "suppress_recommendations": true
         },
         {
-            "name": "AviatorArsenal",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "B9-PWings-Fork",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "BackgroundResources",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "BakerOperatingSystem",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "BallisticFoxsNeutralTUFXProfile",
-            "suppress_recommendations": true
-        },
-        {
             "name": "BDArmoryExtended",
             "suppress_recommendations": true
         },
         {
-            "name": "BLEAK",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "CameraTools",
+            "name": "CashedowtEarthTUFXProfile",
             "suppress_recommendations": true
         },
         {
             "name": "ChattererExtended",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "CommNetAntennasExtension",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "ConformalDecals",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "ContractConfigurator-GrandTours",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "CriticalTemperatureGauge",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "CryoEngines-NFAero",
             "suppress_recommendations": true
         },
         {
@@ -278,15 +98,7 @@
             "suppress_recommendations": true
         },
         {
-            "name": "DistantObject",
-            "suppress_recommendations": true
-        },
-        {
             "name": "DockingPortAlignmentIndicator",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "DockingPortSoundFX",
             "suppress_recommendations": true
         },
         {
@@ -298,19 +110,7 @@
             "suppress_recommendations": true
         },
         {
-            "name": "FarFutureTechnologies",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "FieldTrainingLaboratory",
-            "suppress_recommendations": true
-        },
-        {
             "name": "Firefly",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "Firespitter",
             "suppress_recommendations": true
         },
         {
@@ -322,43 +122,11 @@
             "suppress_recommendations": true
         },
         {
-            "name": "GroundProximity",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "HangerExtenderExtended",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "HealingSentrysTUFXProfile",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "HeatControl",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "Historian-expanded",
-            "suppress_recommendations": true
-        },
-        {
             "name": "HullcamVDSContinued",
             "suppress_recommendations": true
         },
         {
-            "name": "HyperEdit",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "IndicatorLightsCommunityExtensions",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "InfernalRoboticsRealismOverhaul",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "InternalRCS",
+            "name": "IndicatorLights",
             "suppress_recommendations": true
         },
         {
@@ -366,31 +134,7 @@
             "suppress_recommendations": true
         },
         {
-            "name": "JSIAdvancedTransparentPods",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "JSIPartUtilities",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "JX2Antenna",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "Karbonite",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "KerbalAircraftExpansion",
-            "suppress_recommendations": true
-        },
-        {
             "name": "KerbalAlarmClock",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "KerbalAtomics",
             "suppress_recommendations": true
         },
         {
@@ -398,11 +142,7 @@
             "suppress_recommendations": true
         },
         {
-            "name": "KerbalCurrencyDisplay",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "KerbalFlightIndicators",
+            "name": "KerbalEngineerRedux",
             "suppress_recommendations": true
         },
         {
@@ -410,19 +150,7 @@
             "suppress_recommendations": true
         },
         {
-            "name": "KIS",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "KerbalKrashSystem",
-            "suppress_recommendations": true
-        },
-        {
             "name": "KerbalPowersArmory",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "KerbalRenamer",
             "suppress_recommendations": true
         },
         {
@@ -434,55 +162,7 @@
             "suppress_recommendations": true
         },
         {
-            "name": "Kerbalism-Config-RO",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "KerbalismChecklist",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "KerbalismLabExperimentsExpandedContinued",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "Kerbalism-SystemHeat",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "KerBalloons",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "kOS-Astrogator",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "kOS-AddOns-Ferram",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "kOSforAll",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "kOS-KerbalEngineer",
-            "suppress_recommendations": true
-        },
-        {
             "name": "kOSPropMonitor",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "kOS-SCANSat",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "KVVContinued",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "Kronometer",
             "suppress_recommendations": true
         },
         {
@@ -491,18 +171,6 @@
         },
         {
             "name": "KSAIVAUpgrade",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "KSPIRC",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "KSP-Recall",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "KSPCasherCont",
             "suppress_recommendations": true
         },
         {
@@ -518,15 +186,7 @@
             "suppress_recommendations": true
         },
         {
-            "name": "MangoTechsTUFX",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "MechJeb2",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "MissingRobotics",
+            "name": "mischenTUFX",
             "suppress_recommendations": true
         },
         {
@@ -542,26 +202,6 @@
             "suppress_recommendations": true
         },
         {
-            "name": "Mk2Rebalance",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "Mk2Expansion",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "Mk3Expansion",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "ModularComputerPackageRevived",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "NavUtilitiesContinued",
-            "suppress_recommendations": true
-        },
-        {
             "name": "NearFutureConstruction",
             "suppress_recommendations": true
         },
@@ -570,11 +210,7 @@
             "suppress_recommendations": true
         },
         {
-            "name": "NearFutureExploration",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "RoverPack",
+            "name": "NearFuturePropulsion",
             "suppress_recommendations": true
         },
         {
@@ -582,103 +218,15 @@
             "suppress_recommendations": true
         },
         {
-            "name": "NiceMKseriesBody",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "NorthKerbinDynamicsRenewedExtended",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "OCCULT",
-            "suppress_recommendations": true
-        },
-        {
             "name": "OhScrap",
             "suppress_recommendations": true
         },
         {
-            "name": "OkemsTUFXProfiles",
+            "name": "Parallax",
             "suppress_recommendations": true
         },
         {
-            "name": "STMsFFRibbonPackOperationsRoles",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "OPTSpacePlaneParts",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "OPTSpacePlaneMain",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "OrbitalTug",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "OrdinaryKonstruction",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "PALETTE",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "ParallaxContinued",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "PilotAssistant",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "PlanetShine",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "PreciseEditor",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "PreciseNode",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "ProbeControlRoomRecontrolled",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "ProceduralParts",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "PsiWedge",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "RCSBuildAid",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "RealAntennas",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "RealismEnvironmentalOverhaul",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "RealismOverhaul",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "RecolorCollection-NearFuturePropulsion",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "RecolorCollection-NearFutureSpacecraft",
+            "name": "RealFuelsISRU",
             "suppress_recommendations": true
         },
         {
@@ -690,87 +238,15 @@
             "suppress_recommendations": true
         },
         {
-            "name": "ROSolar",
-            "suppress_recommendations": true
-        },
-        {
             "name": "ROLoadingImages",
             "suppress_recommendations": true
         },
         {
-            "name": "RSS-Airports",
+            "name": "RP-1-Checklists",
             "suppress_recommendations": true
         },
         {
-            "name": "RSSDateTimeFormatter",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "RSSVE-LR",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "RSS-Icons",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "StockalikeAircraftCarrierDecks",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "RN-SalyutStations",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "ScienceRolesFinalFrontierRibbonPack",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "Shaddy",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "ShuttleOrbiterConstructionKit",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "SnoopysTUFXProfile",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "RN-SovietSpacecraft",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "kOS-SpaceCore",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "StateFundingContinued",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "STMsFFRibbonPackEnlistedRanks",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "STMsFFRibbonPackExpeditionRibbons",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "STMsFFRibbonPackNavalOfficerRanks",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "STMsFFRibbonPackOfficerRanks",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "STMsFFRibbonPackWarrantOfficerRanks",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "StockAlarmClockDisabler",
+            "name": "ShineFix",
             "suppress_recommendations": true
         },
         {
@@ -782,10 +258,6 @@
             "suppress_recommendations": true
         },
         {
-            "name": "TooManyOrbits",
-            "suppress_recommendations": true
-        },
-        {
             "name": "TransferWindowPlannerFork",
             "suppress_recommendations": true
         },
@@ -794,43 +266,11 @@
             "suppress_recommendations": true
         },
         {
-            "name": "RecolorCollection-NearFutureAeronautics",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "RecolorCollection-NearFutureLaunchVehicles",
-            "suppress_recommendations": true
-        },
-        {
             "name": "TUFXProfileVision",
             "suppress_recommendations": true
         },
         {
-            "name": "TURD-BDArmory",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "TURD-BDAssociated",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "TURD-BreakingGround",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "TURD-KerbalFoundries",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "TURD-MakingHistory",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "TURD-StockRecolour",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "VaporCones",
+            "name": "TweakScale",
             "suppress_recommendations": true
         },
         {
@@ -844,28 +284,8 @@
         {
             "name": "VexarpIVA",
             "suppress_recommendations": true
-        },
-        {
-            "name": "WaypointManager",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "WhatDoINeed",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "WildBlue-PlayMode-CRP",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "WorkingUnderwaterLite",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "XenonISRU",
-            "suppress_recommendations": true
         }
     ],
-    "release_date": "2025-12-22T20:44:31.8161819Z",
+    "release_date": "2026-01-24T16:52:51.8065798Z",
     "kind": "metapackage"
 }
