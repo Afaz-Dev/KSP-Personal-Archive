@@ -4,7 +4,7 @@
     "name": "installed-Kerbal Space Program",
     "abstract": "A list of modules installed on the Kerbal Space Program KSP instance",
     "author": "Firda",
-    "version": "2026.01.24.04.52.51",
+    "version": "2026.01.26.01.21.51",
     "ksp_version_min": "1.8",
     "ksp_version_max": "1.12",
     "license": "unknown",
@@ -14,11 +14,15 @@
             "suppress_recommendations": true
         },
         {
+            "name": "BDArmoryForRunwayProject",
+            "suppress_recommendations": true
+        },
+        {
             "name": "TUFX",
             "suppress_recommendations": true
         },
         {
-            "name": "BDArmoryForRunwayProject",
+            "name": "RationalResources",
             "suppress_recommendations": true
         },
         {
@@ -27,6 +31,14 @@
         },
         {
             "name": "AvionicsSystems",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "CryoTanks",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "RationalResourcesCompanion",
             "suppress_recommendations": true
         },
         {
@@ -46,11 +58,19 @@
             "suppress_recommendations": true
         },
         {
+            "name": "NearFutureSolar",
+            "suppress_recommendations": true
+        },
+        {
             "name": "NearFutureSpacecraft",
             "suppress_recommendations": true
         },
         {
             "name": "RasterPropMonitor",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "RationalResourcesKerbalism",
             "suppress_recommendations": true
         },
         {
@@ -63,6 +83,10 @@
         },
         {
             "name": "C1ustasTUFXProfiles",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "AJEExtendedConfigs",
             "suppress_recommendations": true
         },
         {
@@ -86,6 +110,14 @@
             "suppress_recommendations": true
         },
         {
+            "name": "CommNetAntennasExtension",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "CryoEngines",
+            "suppress_recommendations": true
+        },
+        {
             "name": "DansTUFXProfile",
             "suppress_recommendations": true
         },
@@ -98,6 +130,10 @@
             "suppress_recommendations": true
         },
         {
+            "name": "DockingCamKURS",
+            "suppress_recommendations": true
+        },
+        {
             "name": "DockingPortAlignmentIndicator",
             "suppress_recommendations": true
         },
@@ -106,7 +142,11 @@
             "suppress_recommendations": true
         },
         {
-            "name": "EditorExtensionsRedux",
+            "name": "EvaFollower",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "FinalFrontier",
             "suppress_recommendations": true
         },
         {
@@ -119,6 +159,10 @@
         },
         {
             "name": "G-Effects",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "HeatControl",
             "suppress_recommendations": true
         },
         {
@@ -138,6 +182,10 @@
             "suppress_recommendations": true
         },
         {
+            "name": "KerbalAtomics",
+            "suppress_recommendations": true
+        },
+        {
             "name": "KAS",
             "suppress_recommendations": true
         },
@@ -150,6 +198,10 @@
             "suppress_recommendations": true
         },
         {
+            "name": "KerbalKonstructs",
+            "suppress_recommendations": true
+        },
+        {
             "name": "KerbalPowersArmory",
             "suppress_recommendations": true
         },
@@ -159,6 +211,18 @@
         },
         {
             "name": "KerbalField",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KerbalismChecklist",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Kerbalized-SpaceX",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KerbalizedSuits",
             "suppress_recommendations": true
         },
         {
@@ -190,6 +254,10 @@
             "suppress_recommendations": true
         },
         {
+            "name": "MissingRobotics",
+            "suppress_recommendations": true
+        },
+        {
             "name": "Mk1CockpitIVAReplbyASET",
             "suppress_recommendations": true
         },
@@ -202,6 +270,10 @@
             "suppress_recommendations": true
         },
         {
+            "name": "NearFutureAeronautics",
+            "suppress_recommendations": true
+        },
+        {
             "name": "NearFutureConstruction",
             "suppress_recommendations": true
         },
@@ -210,11 +282,23 @@
             "suppress_recommendations": true
         },
         {
+            "name": "NearFutureExploration",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "NearFutureLaunchVehicles",
+            "suppress_recommendations": true
+        },
+        {
             "name": "NearFuturePropulsion",
             "suppress_recommendations": true
         },
         {
-            "name": "NearFutureSolar",
+            "name": "NiceMKseriesBody",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "NorthKerbinDynamicsRenewedExtended",
             "suppress_recommendations": true
         },
         {
@@ -222,7 +306,31 @@
             "suppress_recommendations": true
         },
         {
+            "name": "OPTSpacePlaneParts",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "OPTSpacePlaneMain",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "OrbitalTug",
+            "suppress_recommendations": true
+        },
+        {
             "name": "Parallax",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "PhotonSailor",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "RationalResourcesKerbalismRF",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "MaterialExtensionsForRealChute",
             "suppress_recommendations": true
         },
         {
@@ -243,6 +351,14 @@
         },
         {
             "name": "RP-1-Checklists",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "RSS-Airports",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "RSS-FictionalKSC",
             "suppress_recommendations": true
         },
         {
@@ -270,7 +386,35 @@
             "suppress_recommendations": true
         },
         {
+            "name": "TURD-BDArmory",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "TURD-BDAssociated",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "TURD-BreakingGround",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "TURD-KerbalFoundries",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "TURD-MakingHistory",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "TURD-StockRecolour",
+            "suppress_recommendations": true
+        },
+        {
             "name": "TweakScale",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "VaporCones",
             "suppress_recommendations": true
         },
         {
@@ -286,6 +430,6 @@
             "suppress_recommendations": true
         }
     ],
-    "release_date": "2026-01-24T16:52:51.8065798Z",
+    "release_date": "2026-01-26T13:21:51.0162489Z",
     "kind": "metapackage"
 }
