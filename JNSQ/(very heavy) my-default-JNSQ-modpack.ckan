@@ -4,7 +4,7 @@
     "name": "installed-Kerbal Space Program",
     "abstract": "A list of modules installed on the Kerbal Space Program KSP instance",
     "author": "Firda",
-    "version": "2026.01.24.01.51.09",
+    "version": "2026.01.30.06.31.54",
     "ksp_version_min": "1.8",
     "ksp_version_max": "1.12",
     "license": "unknown",
@@ -103,6 +103,10 @@
         },
         {
             "name": "KerbalEngineerRedux",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "MissingHistory",
             "suppress_recommendations": true
         },
         {
@@ -226,6 +230,10 @@
             "suppress_recommendations": true
         },
         {
+            "name": "Benjee10Suits",
+            "suppress_recommendations": true
+        },
+        {
             "name": "BetterEarlyTree",
             "suppress_recommendations": true
         },
@@ -247,6 +255,10 @@
         },
         {
             "name": "ClassicStockResources",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ComfortableLanding",
             "suppress_recommendations": true
         },
         {
@@ -346,6 +358,10 @@
             "suppress_recommendations": true
         },
         {
+            "name": "HyperEdit",
+            "suppress_recommendations": true
+        },
+        {
             "name": "IndicatorLightsCommunityExtensions",
             "suppress_recommendations": true
         },
@@ -378,10 +394,6 @@
             "suppress_recommendations": true
         },
         {
-            "name": "KerbalAnimationSuiteCont",
-            "suppress_recommendations": true
-        },
-        {
             "name": "KerbalAtomics",
             "suppress_recommendations": true
         },
@@ -391,10 +403,6 @@
         },
         {
             "name": "KerbalChangelog",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "KerbalCurrencyDisplay",
             "suppress_recommendations": true
         },
         {
@@ -415,6 +423,10 @@
         },
         {
             "name": "KerbalKrashSystem",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KerbalObjectInspectorCont",
             "suppress_recommendations": true
         },
         {
@@ -439,6 +451,10 @@
         },
         {
             "name": "KerbalismLabExperimentsExpandedContinued",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KerbalizedSuits",
             "suppress_recommendations": true
         },
         {
@@ -678,6 +694,14 @@
             "suppress_recommendations": true
         },
         {
+            "name": "RecolorCollection-ExtraDockingPorts",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "RecolorCollection-MissingHistory",
+            "suppress_recommendations": true
+        },
+        {
             "name": "RecolorCollection-NearFuturePropulsion",
             "suppress_recommendations": true
         },
@@ -834,6 +858,6 @@
             "suppress_recommendations": true
         }
     ],
-    "release_date": "2026-01-24T13:51:09.849316Z",
+    "release_date": "2026-01-30T06:31:54.8385579Z",
     "kind": "metapackage"
 }
