@@ -4,7 +4,7 @@
     "name": "installed-Kerbal Space Program",
     "abstract": "A list of modules installed on the Kerbal Space Program KSP instance",
     "author": "Firda",
-    "version": "2026.01.30.06.31.54",
+    "version": "2026.02.03.03.54.29",
     "ksp_version_min": "1.8",
     "ksp_version_max": "1.12",
     "license": "unknown",
@@ -19,6 +19,10 @@
         },
         {
             "name": "TexturesUnlimited",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KSPBurst",
             "suppress_recommendations": true
         },
         {
@@ -42,10 +46,6 @@
             "suppress_recommendations": true
         },
         {
-            "name": "KSPBurst",
-            "suppress_recommendations": true
-        },
-        {
             "name": "FerramAerospaceResearchContinued",
             "suppress_recommendations": true
         },
@@ -55,6 +55,22 @@
         },
         {
             "name": "KSP-Recall",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ParallaxContinued",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ParallaxContinued-Planet-Textures",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ParallaxContinued-Scatter-Textures",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ParallaxContinued-Terrain-Textures",
             "suppress_recommendations": true
         },
         {
@@ -71,6 +87,10 @@
         },
         {
             "name": "RealChute",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ReStockPlus",
             "suppress_recommendations": true
         },
         {
@@ -139,6 +159,10 @@
         },
         {
             "name": "SCANsat",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "SIMPLEXStationParts",
             "suppress_recommendations": true
         },
         {
@@ -258,11 +282,19 @@
             "suppress_recommendations": true
         },
         {
+            "name": "ColorfulFuelLines",
+            "suppress_recommendations": true
+        },
+        {
             "name": "ComfortableLanding",
             "suppress_recommendations": true
         },
         {
             "name": "CommNetAntennasExtension",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ContractConfigurator-KerbinSpaceStation",
             "suppress_recommendations": true
         },
         {
@@ -331,6 +363,10 @@
         },
         {
             "name": "FreeIva",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "FuelTanksPlus",
             "suppress_recommendations": true
         },
         {
@@ -562,7 +598,15 @@
             "suppress_recommendations": true
         },
         {
+            "name": "MOARStationScience",
+            "suppress_recommendations": true
+        },
+        {
             "name": "ModularComputerPackageRevived",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ModularRocketSystem",
             "suppress_recommendations": true
         },
         {
@@ -626,7 +670,7 @@
             "suppress_recommendations": true
         },
         {
-            "name": "Parallax",
+            "name": "PartlyColoredSuits",
             "suppress_recommendations": true
         },
         {
@@ -718,10 +762,6 @@
             "suppress_recommendations": true
         },
         {
-            "name": "ReStockPlus",
-            "suppress_recommendations": true
-        },
-        {
             "name": "Reviva",
             "suppress_recommendations": true
         },
@@ -747,6 +787,10 @@
         },
         {
             "name": "ShineFix",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "SIMPLEXStationPartsHabs",
             "suppress_recommendations": true
         },
         {
@@ -856,8 +900,12 @@
         {
             "name": "XenonISRU",
             "suppress_recommendations": true
+        },
+        {
+            "name": "ZTheme",
+            "suppress_recommendations": true
         }
     ],
-    "release_date": "2026-01-30T06:31:54.8385579Z",
+    "release_date": "2026-02-03T03:54:29.480999Z",
     "kind": "metapackage"
 }
