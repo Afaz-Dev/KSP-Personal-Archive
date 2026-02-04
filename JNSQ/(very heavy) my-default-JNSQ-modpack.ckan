@@ -4,7 +4,7 @@
     "name": "installed-Kerbal Space Program",
     "abstract": "A list of modules installed on the Kerbal Space Program KSP instance",
     "author": "Firda",
-    "version": "2026.02.03.03.54.29",
+    "version": "2026.02.04.11.08.50",
     "ksp_version_min": "1.8",
     "ksp_version_max": "1.12",
     "license": "unknown",
@@ -270,6 +270,10 @@
             "suppress_recommendations": true
         },
         {
+            "name": "BluedogDB",
+            "suppress_recommendations": true
+        },
+        {
             "name": "CameraTools",
             "suppress_recommendations": true
         },
@@ -362,7 +366,15 @@
             "suppress_recommendations": true
         },
         {
+            "name": "FMRSContinued",
+            "suppress_recommendations": true
+        },
+        {
             "name": "FreeIva",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "MunarIndustriesFTX",
             "suppress_recommendations": true
         },
         {
@@ -467,6 +479,10 @@
         },
         {
             "name": "KerbalPowersArmory",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "SpaceXLegs",
             "suppress_recommendations": true
         },
         {
@@ -762,6 +778,10 @@
             "suppress_recommendations": true
         },
         {
+            "name": "Resurfaced",
+            "suppress_recommendations": true
+        },
+        {
             "name": "Reviva",
             "suppress_recommendations": true
         },
@@ -815,6 +835,10 @@
         },
         {
             "name": "ThroughTheEyesOfaKerbal",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Trajectories",
             "suppress_recommendations": true
         },
         {
@@ -906,6 +930,6 @@
             "suppress_recommendations": true
         }
     ],
-    "release_date": "2026-02-03T03:54:29.480999Z",
+    "release_date": "2026-02-04T11:08:50.750099Z",
     "kind": "metapackage"
 }
