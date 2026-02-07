@@ -4,7 +4,7 @@
     "name": "installed-Kerbal Space Program",
     "abstract": "A list of modules installed on the Kerbal Space Program KSP instance",
     "author": "Firda",
-    "version": "2026.02.04.02.46.48",
+    "version": "2026.02.05.07.51.04",
     "ksp_version_min": "1.8",
     "ksp_version_max": "1.12",
     "license": "unknown",
@@ -578,10 +578,6 @@
             "suppress_recommendations": true
         },
         {
-            "name": "KSPIRC",
-            "suppress_recommendations": true
-        },
-        {
             "name": "KSPCasherCont",
             "suppress_recommendations": true
         },
@@ -938,6 +934,6 @@
             "suppress_recommendations": true
         }
     ],
-    "release_date": "2026-02-04T14:46:48.5989476Z",
+    "release_date": "2026-02-05T07:51:04.5905518Z",
     "kind": "metapackage"
 }
