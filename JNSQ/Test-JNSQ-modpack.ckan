@@ -4,15 +4,11 @@
     "name": "installed-Kerbal Space Program",
     "abstract": "A list of modules installed on the Kerbal Space Program KSP instance",
     "author": "Firda",
-    "version": "2026.02.07.02.49.35",
+    "version": "2026.02.11.09.24.14",
     "ksp_version_min": "1.8",
     "ksp_version_max": "1.12",
     "license": "unknown",
     "depends": [
-        {
-            "name": "ModuleManager",
-            "suppress_recommendations": true
-        },
         {
             "name": "B9PartSwitch",
             "suppress_recommendations": true
@@ -50,10 +46,6 @@
             "suppress_recommendations": true
         },
         {
-            "name": "BluedogDB",
-            "suppress_recommendations": true
-        },
-        {
             "name": "CommunityTechTree",
             "suppress_recommendations": true
         },
@@ -78,15 +70,19 @@
             "suppress_recommendations": true
         },
         {
-            "name": "Scatterer-sunflare",
-            "suppress_recommendations": true
-        },
-        {
             "name": "AvionicsSystems",
             "suppress_recommendations": true
         },
         {
+            "name": "JNSQ",
+            "suppress_recommendations": true
+        },
+        {
             "name": "NearFutureSpacecraft",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "RFStockalike",
             "suppress_recommendations": true
         },
         {
@@ -114,10 +110,6 @@
             "suppress_recommendations": true
         },
         {
-            "name": "B9-props",
-            "suppress_recommendations": true
-        },
-        {
             "name": "CryoEngines",
             "suppress_recommendations": true
         },
@@ -131,10 +123,6 @@
         },
         {
             "name": "IndicatorLights",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "JNSQ",
             "suppress_recommendations": true
         },
         {
@@ -162,7 +150,7 @@
             "suppress_recommendations": true
         },
         {
-            "name": "RFStockalike",
+            "name": "RealPlume",
             "suppress_recommendations": true
         },
         {
@@ -234,10 +222,6 @@
             "suppress_recommendations": true
         },
         {
-            "name": "AtmosphereAutopilot",
-            "suppress_recommendations": true
-        },
-        {
             "name": "AviationLights",
             "suppress_recommendations": true
         },
@@ -246,15 +230,7 @@
             "suppress_recommendations": true
         },
         {
-            "name": "B9",
-            "suppress_recommendations": true
-        },
-        {
             "name": "B9-PWings-Fork",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "B9StockPatches",
             "suppress_recommendations": true
         },
         {
@@ -274,14 +250,6 @@
             "suppress_recommendations": true
         },
         {
-            "name": "TantaresAndBDBNowinColors",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "BDBAntennaPatches",
-            "suppress_recommendations": true
-        },
-        {
             "name": "Benjee10Suits",
             "suppress_recommendations": true
         },
@@ -295,10 +263,6 @@
         },
         {
             "name": "BLEAK",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "BluedogDB-CommunityCategoryKit",
             "suppress_recommendations": true
         },
         {
@@ -327,6 +291,10 @@
         },
         {
             "name": "ContractConfigurator-KerbinSpaceStation",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ContractConfigurator-JNSQ-GAP",
             "suppress_recommendations": true
         },
         {
@@ -395,6 +363,10 @@
         },
         {
             "name": "FMRSContinued",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "FlyByWireSASMode",
             "suppress_recommendations": true
         },
         {
@@ -778,10 +750,6 @@
             "suppress_recommendations": true
         },
         {
-            "name": "RealPlume",
-            "suppress_recommendations": true
-        },
-        {
             "name": "RealChuteForStock",
             "suppress_recommendations": true
         },
@@ -814,6 +782,10 @@
             "suppress_recommendations": true
         },
         {
+            "name": "RecycledPartsBDMk22Lightning",
+            "suppress_recommendations": true
+        },
+        {
             "name": "RestockWaterfallExpansion",
             "suppress_recommendations": true
         },
@@ -823,6 +795,10 @@
         },
         {
             "name": "Reviva",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "SRBWaterfallEffects",
             "suppress_recommendations": true
         },
         {
@@ -850,6 +826,10 @@
             "suppress_recommendations": true
         },
         {
+            "name": "ShipEffectsContinued",
+            "suppress_recommendations": true
+        },
+        {
             "name": "SIMPLEXStationPartsHabs",
             "suppress_recommendations": true
         },
@@ -859,6 +839,18 @@
         },
         {
             "name": "kOS-SpaceCore",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "StageRecovery",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "StarshipExpansionProject",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "StarshipLaunchExpansion",
             "suppress_recommendations": true
         },
         {
@@ -946,10 +938,6 @@
             "suppress_recommendations": true
         },
         {
-            "name": "WaterLaunchSites",
-            "suppress_recommendations": true
-        },
-        {
             "name": "WaypointManager",
             "suppress_recommendations": true
         },
@@ -970,6 +958,6 @@
             "suppress_recommendations": true
         }
     ],
-    "release_date": "2026-02-07T14:49:35.909561Z",
+    "release_date": "2026-02-11T09:24:14.0628579Z",
     "kind": "metapackage"
 }
