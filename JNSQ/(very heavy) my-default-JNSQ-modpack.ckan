@@ -4,7 +4,7 @@
     "name": "installed-Kerbal Space Program",
     "abstract": "A list of modules installed on the Kerbal Space Program KSP instance",
     "author": "Firda",
-    "version": "2026.03.04.05.56.24",
+    "version": "2026.03.04.06.37.40",
     "ksp_version_min": "1.8",
     "ksp_version_max": "1.12",
     "license": "unknown",
@@ -118,6 +118,10 @@
             "suppress_recommendations": true
         },
         {
+            "name": "FarFutureTechnologies",
+            "suppress_recommendations": true
+        },
+        {
             "name": "IndicatorLights",
             "suppress_recommendations": true
         },
@@ -139,6 +143,10 @@
         },
         {
             "name": "NearFuturePropulsion",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "PatchManager",
             "suppress_recommendations": true
         },
         {
@@ -318,10 +326,6 @@
             "suppress_recommendations": true
         },
         {
-            "name": "FarFutureTechnologies",
-            "suppress_recommendations": true
-        },
-        {
             "name": "FieldTrainingLaboratory",
             "suppress_recommendations": true
         },
@@ -455,6 +459,10 @@
         },
         {
             "name": "KerbalismChecklist",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Kerbalism-FarFutureTechnologies",
             "suppress_recommendations": true
         },
         {
@@ -614,6 +622,10 @@
             "suppress_recommendations": true
         },
         {
+            "name": "OCCULT",
+            "suppress_recommendations": true
+        },
+        {
             "name": "OhScrap",
             "suppress_recommendations": true
         },
@@ -639,10 +651,6 @@
         },
         {
             "name": "PALETTE",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "PatchManager",
             "suppress_recommendations": true
         },
         {
@@ -874,6 +882,6 @@
             "suppress_recommendations": true
         }
     ],
-    "release_date": "2026-03-04T05:56:24.1279166Z",
+    "release_date": "2026-03-04T06:37:40.9498643Z",
     "kind": "metapackage"
 }
